@@ -1,0 +1,17 @@
+<similarity_rules>
+    <attr name="co" type="delta">
+        <value>0.0005</value>
+    </attr>
+    <attr name="humidity" type="delta">
+        <value>1.25</value>
+    </attr>
+    <attr name="lpg" type="delta">
+        <value>0.0005</value>
+    </attr>
+    <attr name="smoke" type="delta">
+        <value>0.0015</value>
+    </attr>
+    <attr name="temp" type="delta">
+        <value>1</value>
+    </attr>
+</similarity_rules>

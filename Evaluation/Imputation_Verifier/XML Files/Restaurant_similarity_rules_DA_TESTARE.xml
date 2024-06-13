@@ -1,0 +1,362 @@
+<similarity_rules>
+<attr name="city" type="noexpr">
+		<values>
+			<value>los angeles</value>
+			<value>la</value>
+			<value>santa monica</value>
+			<value>w. hollywood</value>
+			<value>hollywood</value>
+			<value>westwood</value>
+			<value>beverly hills</value>
+			<value>malibu</value>
+			<value>sherman oaks</value>
+			<value>long beach</value>
+			<value>redondo beach</value>
+			<value>venice</value>
+		</values>
+		<values>
+			<value>new york</value>
+			<value>ny</value>
+			<value>new york city</value>
+			<value>queens</value>
+			<value>brooklyn</value>
+		</values>
+	</attr>
+	<attr name="addr" type="noexpr">
+		<values>
+			<value>239 w. broadway  between walker and white sts.</value>
+			<value>239 w. broadway</value>
+		</values>
+		<values>
+			<value>2637 peachtree rd. ne</value>
+			<value>2637 peachtree rd.  peachtree house condominium</value>
+		</values>
+		<values>
+			<value>2355 peachtree rd.  peachtree battle shopping center</value>
+			<value>2355 peachtree rd. ne</value>
+		</values>
+		<values>
+			<value>804 northpoint</value>
+			<value>804 north point st.</value>
+		</values>
+		<values>
+			<value>95 ave. a at 6th st.</value>
+			<value>95 ave. a</value>
+		</values>
+		<values>
+			<value>1110 3rd ave. at 65th st.</value>
+			<value>1110 third ave.</value>
+		</values>
+		<values>
+			<value>854 7th ave.  between 54th and 55th sts.</value>
+			<value>854 seventh ave.</value>
+		</values>
+		<values>
+			<value>255 courtland st.  at harris st.</value>
+			<value>255 courtland st.</value>
+		</values>
+		<values>
+			<value>595 piedmont ave.  rio shopping mall</value>
+			<value>595 piedmont ave.</value>
+		</values>
+		<values>
+			<value>156 second ave.</value>
+			<value>156 2nd ave. at 10th st.</value>
+		</values>
+		<values>
+			<value>293-b peachtree rd.</value>
+			<value>b peachtree rd.</value>
+		</values>
+		<values>
+			<value>129 fremont st.</value>
+			<value>129 e. fremont st.</value>
+		</values>
+		<values>
+			<value>2290 peachtree rd.  peachtree square shopping center</value>
+			<value>2290 peachtree rd.</value>
+		</values>
+		<values>
+			<value>3073 piedmont rd.</value>
+			<value>3073 piedmont road</value>
+		</values>
+		<values>
+			<value>435 s. la cienega blv.</value>
+			<value>435 s. la cienega blvd.</value>
+		</values>
+		<values>
+			<value>60 w. 55th st.  between 5th and 6th ave.</value>
+			<value>60 w. 55th st.</value>
+		</values>
+		<values>
+			<value>8358 sunset blvd. west</value>
+			<value>8358 sunset blvd.</value>
+		</values>
+		<values>
+			<value>1972 n. hillhurst ave.</value>
+			<value>1972 hillhurst ave.</value>
+		</values>
+		<values>
+			<value>3rd st.</value>
+			<value>8638 w. third st.</value>
+		</values>
+		<values>
+			<value>2450 broadway  between 90th and 91st sts.</value>
+			<value>2450 broadway</value>
+		</values>
+		<values>
+			<value>2 harrison st.  near hudson st.</value>
+			<value>2 harrison st.</value>
+		</values>
+		<values>
+			<value>42 e. 20th st.  between park ave. s and broadway</value>
+			<value>42 e. 20th st.</value>
+		</values>
+		<values>
+			<value>42 e. 20th st.  between park ave. s and broadway</value>
+			<value>42 e. 20th st.</value>
+		</values>
+		<values>
+			<value>102 5th ave.  between 15th and 16th sts.</value>
+			<value>102 fifth ave.</value>
+		</values>
+		<values>
+			<value>57 jane st.  off hudson st.</value>
+			<value>57 jane st.</value>
+		</values>
+		<values>
+			<value>1 water st. at the east river</value>
+			<value>1 water st.</value>
+		</values>
+		<values>
+			<value>1110 3rd ave. at 65th st.</value>
+			<value>1110 third ave.</value>
+		</values>
+		<values>
+			<value>747 9th ave.  between 50th and 51st sts.</value>
+			<value>747 ninth ave.</value>
+		</values>
+		<values>
+			<value>3000 w. paradise rd.</value>
+			<value>3000 paradise rd.</value>
+		</values>
+		<values>
+			<value>3125 piedmont rd.  near peachtree rd.</value>
+			<value>3125 piedmont rd.</value>
+		</values>
+		<values>
+			<value>3130 piedmont road</value>
+			<value>3130 piedmont rd. ne</value>
+		</values>
+		<values>
+			<value>3393 peachtree rd.  lenox square mall  near neiman marcus</value>
+			<value>3393 peachtree rd.</value>
+		</values>
+		<values>
+			<value>3434 peachtree rd.</value>
+			<value>3434 peachtree rd. ne</value>
+		</values>
+		<values>
+			<value>570 fourth st.</value>
+			<value>570 4th st.</value>
+		</values>
+	</attr>
+	<attr name="name" type="noexpr">
+		<values>
+			<value>yujean kang's</value>
+			<value>yujean kang's gourmet chinese cuisine</value>
+		</values>
+		<values>
+			<value>spago</value>
+			<value>spago (los angeles)</value>
+		</values>
+		<values>
+			<value>pano's &amp; paul's</value>
+			<value>pano's and paul's</value>
+		</values>
+		<values>
+			<value>philippe the original</value>
+			<value>philippe's the original</value>
+		</values>
+		<values>
+			<value>fenix</value>
+			<value>fenix at the argyle</value>
+		</values>
+		<values>
+			<value>hotel bel-air</value>
+			<value>bel-air hotel</value>
+		</values>
+		<values>
+			<value>grill on the alley</value>
+			<value>grill  the</value>
+		</values>
+		<values>
+			<value>le chardonnay</value>
+			<value>le chardonnay (los angeles)</value>
+		</values>
+		<values>
+			<value>palm  the (los angeles)</value>
+			<value>the palm</value>
+		</values>
+		<values>
+			<value>four seasons grill room</value>
+			<value>four seasons</value>
+		</values>
+		<values>
+			<value>lespinasse (new york city)</value>
+			<value>lespinasse</value>
+		</values>
+		<values>
+			<value>park avenue cafe</value>
+			<value>park avenue cafe (new york city)</value>
+		</values>
+		<values>
+			<value>coyote cafe</value>
+			<value>coyote cafe (las vegas)</value>
+		</values>
+		<values>
+			<value>le montrachet</value>
+			<value>le montrachet bistro</value>
+		</values>
+		<values>
+			<value>second street grille</value>
+			<value>second street grill</value>
+		</values>
+		<values>
+			<value>steak house</value>
+			<value>steak house  the</value>
+		</values>
+		<values>
+			<value>tillerman  the</value>
+			<value>tillerman</value>
+		</values>
+		<values>
+			<value>bone's</value>
+			<value>bone's restaurant</value>
+		</values>
+		<values>
+			<value>ciboulette</value>
+			<value>ciboulette restaurant</value>
+		</values>
+		<values>
+			<value>hedgerose heights inn</value>
+			<value>hedgerose heights inn  the</value>
+		</values>
+		<values>
+			<value>cafe  ritz-carlton  buckhead</value>
+			<value>ritz-carlton cafe (buckhead)</value>
+			<value>ritz-carlton dining room (buckhead)</value>
+		</values>
+		<values>
+			<value>restaurant  ritz-carlton  atlanta</value>
+			<value>ritz-carlton restaurant</value>
+		</values>
+		<values>
+			<value>lulu restaurant-bis-cafe</value>
+			<value>lulu</value>
+		</values>
+		<values>
+			<value>mifune japan center  kintetsu building</value>
+			<value>mifune</value>
+		</values>
+		<values>
+			<value>ritz-carlton restaurant and dining room</value>
+			<value>ritz-carlton dining room (san francisco)</value>
+		</values>
+	</attr>
+	<attr name="phone" type="expr">
+		<regex>
+			<same beginIndex="0" length="3"/>
+			<fix>/</fix>
+			<same beginIndex="4" length="8"/>
+		</regex>
+		<regex>
+			<same beginIndex="0" length="3"/>
+			<fix>-</fix>
+			<any length="8"/>
+		</regex>
+	</attr>
+	<attr name="class" type="delta">
+		<value>0</value>
+	</attr>
+	<attr name="type" type="noexpr">
+		<values>
+			<value>american</value>
+			<value>steakhouses</value>
+			<value>steak houses</value>
+			<value>american (new)</value>
+			<value>bbq</value>
+		</values>
+		<values>
+			<value>french</value>
+			<value>french bistro</value>
+			<value>pacific new wave</value>
+		</values>
+		<values>
+			<value>american</value>
+			<value>californian</value>
+			<value>international</value>
+			<value>american (new)</value>
+			<value>cafeterias</value>
+		</values>
+		<values>
+			<value>international</value>
+			<value>continental</value>
+		</values>
+		<values>
+			<value>continental</value>
+			<value>scandinavian</value>
+			<value>french</value>
+			<value>french (classic)</value>
+		</values>
+		<values>
+			<value>american (traditional)</value>
+			<value>american</value>
+		</values>
+		<values>
+			<value>japanese</value>
+			<value>asian</value>
+			<value>seafood</value>
+		</values>
+		<values>
+			<value>italian</value>
+			<value>nuova cucina italian</value>
+		</values>
+		<values>
+			<value>chinese</value>
+			<value>asian</value>
+		</values>
+		<values>
+			<value>coffee bar</value>
+			<value>coffeehouses</value>
+		</values>
+		<values>
+			<value>delicatessen</value>
+			<value>delis</value>
+		</values>
+		<values>
+			<value>asian</value>
+			<value>indian</value>
+		</values>
+		<values>
+			<value>asian</value>
+			<value>thai</value>
+		</values>
+		<values>
+			<value>tel caribbean</value>
+			<value>caribbean</value>
+			<value>eclectic</value>
+		</values>
+		<values>
+			<value>southern</value>
+			<value>southern/soul</value>
+		</values>
+		<values>
+			<value>mediterranean</value>
+			<value>greek</value>
+		</values>
+		<values>
+			<value>pacific rim</value>
+			<value>seafood</value>
+		</values>
+	</attr>
+</similarity_rules>

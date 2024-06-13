@@ -1,0 +1,801 @@
+riga;nome attributo;valore da imputare;valore imputato
+3577;Make;FORD;?
+655;Legislative_District;37.0;?
+3639;Model;LEAF;?
+3165;County;King;?
+51;Electric_Range;0;?
+3238;Make;HYUNDAI;?
+1029;Model;X5;?
+1787;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+504;Model;PACIFICA;?
+510;Legislative_District;18.0;?
+3622;County;Snohomish;?
+889;Model_Year;2021;?
+3853;City;Cheney;?
+661;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+860;Legislative_District;45.0;?
+1022;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+739;Model;CROSSTREK;?
+3728;Make;TOYOTA;?
+2564;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+1326;State;WA;WA
+2403;State;WA;WA
+3844;State;WA;WA
+1052;Model;C-MAX;?
+2550;Electric_Range;0;?
+1417;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+1478;Model;MODEL Y;?
+2149;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3587;Make;NISSAN;?
+651;County;Benton;?
+2113;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+2784;Make;NISSAN;?
+911;Make;BMW;?
+2201;Legislative_District;1.0;?
+2725;City;Vancouver;?
+1447;Legislative_District;11.0;?
+1591;County;King;?
+1092;State;WA;WA
+2759;Model_Year;2020;?
+1362;Model;WRANGLER;?
+1055;Legislative_District;11.0;?
+2737;State;WA;WA
+110;Electric_Range;238;?
+173;Electric_Range;33;?
+562;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+2410;State;WA;WA
+1260;Electric_Range;0;?
+2969;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+945;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3227;State;WA;WA
+892;State;WA;WA
+1788;Model_Year;2023;?
+1262;City;Bothell;?
+2989;Model;X5;?
+1867;Make;CHEVROLET;?
+2403;Model_Year;2023;?
+3119;Legislative_District;21.0;?
+2988;Legislative_District;48.0;?
+2048;City;Bremerton;?
+2593;Model;MUSTANG MACH-E;?
+11;Make;LINCOLN;?
+575;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+3998;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+191;Model;MODEL 3;?
+3078;State;WA;WA
+3136;Electric_Range;84;?
+3403;Model;SOLTERRA;?
+99;City;Seattle;?
+3724;Make;TESLA;?
+701;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+3877;City;Olympia;?
+1902;State;WA;WA
+2626;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1878;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+1526;State;WA;WA
+3270;Legislative_District;36.0;?
+1796;Legislative_District;35.0;?
+3164;Model;NIRO;?
+1094;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+747;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+2427;County;King;?
+1514;State;WA;WA
+2758;City;Tacoma;?
+3145;Legislative_District;10.0;?
+1387;State;WA;WA
+1668;Model_Year;2023;?
+2477;County;Benton;?
+1120;County;King;?
+712;County;Thurston;?
+1083;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+3188;City;Tukwila;?
+1865;County;Spokane;?
+1633;County;Thurston;?
+1535;Model;MODEL 3;?
+137;Model_Year;2023;?
+3103;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Not eligible due to low battery range;?
+1474;City;Seattle;?
+3966;State;WA;WA
+690;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+731;Model_Year;2018;?
+179;Model_Year;2023;?
+3540;Make;HYUNDAI;?
+163;County;King;?
+3185;Model;MODEL Y;?
+3431;Model_Year;2015;?
+3544;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+620;Make;NISSAN;?
+207;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+3377;Model_Year;2023;?
+2616;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Not eligible due to low battery range;?
+551;Model_Year;2019;?
+2584;Legislative_District;1.0;?
+3600;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+3865;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+1778;Model;E-TRON SPORTBACK;?
+3394;City;Tukwila;?
+3599;Legislative_District;1.0;?
+2211;Model_Year;2016;?
+154;Legislative_District;39.0;?
+961;Model;MODEL Y;?
+2825;State;WA;WA
+2808;Make;MERCEDES-BENZ;?
+575;City;Snohomish;?
+2543;Electric_Range;0;?
+874;Model;LEAF;?
+2916;Electric_Range;0;?
+159;Model_Year;2021;?
+3905;Model_Year;2015;?
+1876;Electric_Range;0;?
+2907;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Not eligible due to low battery range;?
+1217;Model_Year;2020;?
+2240;Make;TESLA;?
+3867;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3070;Model;MODEL S;?
+739;State;WA;WA
+2333;Legislative_District;46.0;?
+2805;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+2126;Make;TESLA;?
+1615;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1686;State;WA;WA
+3753;Legislative_District;49.0;?
+668;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+3249;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Not eligible due to low battery range;?
+3138;Model;MODEL Y;?
+2543;Model_Year;2023;?
+626;Legislative_District;1.0;?
+3230;Legislative_District;36.0;?
+2583;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1535;Make;TESLA;?
+1902;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1157;City;East Wenatchee;?
+1177;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+1975;County;King;?
+1947;County;Clark;?
+1170;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3930;Model;LEAF;?
+160;Model_Year;2020;?
+525;Electric_Range;21;?
+3317;Model;PRIUS PLUG-IN;?
+2173;Model_Year;2016;?
+2325;Model_Year;2023;?
+1345;Electric_Range;0;?
+3935;Model;MODEL 3;?
+3647;City;Spokane;?
+2436;Legislative_District;45.0;?
+2319;State;WA;WA
+3590;City;Tukwila;?
+2416;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+447;Legislative_District;24.0;?
+2108;Model_Year;2020;?
+1746;Model;EQE-CLASS SEDAN;?
+353;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+3892;County;Franklin;?
+842;Model;NIRO;?
+920;Model;NIRO;?
+1102;County;Kitsap;?
+2463;Model;BOLT EV;?
+3979;Make;PORSCHE;?
+3087;State;WA;WA
+1997;Make;CHEVROLET;?
+2161;County;King;?
+563;State;WA;WA
+521;Model;MODEL 3;?
+3698;State;WA;WA
+3303;Make;TESLA;?
+2947;Electric_Range;266;?
+3633;Model_Year;2020;?
+3577;County;Pierce;?
+527;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+1269;Model_Year;2015;?
+3321;County;Jefferson;?
+55;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1498;Make;TESLA;?
+2004;Electric_Range;0;?
+2180;City;Bellevue;?
+730;Model;MODEL Y;?
+1907;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+2784;State;WA;WA
+3691;Make;TESLA;?
+3314;Legislative_District;1.0;?
+3332;Make;TESLA;?
+1819;State;WA;WA
+1867;Electric_Range;238;?
+2640;Legislative_District;41.0;?
+2649;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+743;County;King;?
+3250;State;WA;WA
+2889;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1238;Model_Year;2023;?
+749;City;Vancouver;?
+1047;County;Snohomish;?
+3476;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+1018;State;WA;WA
+3483;Legislative_District;17.0;?
+1474;Model;E-GOLF;?
+2514;State;WA;WA
+2842;Model;BOLT EV;?
+1354;Legislative_District;35.0;?
+615;Model;XC60;?
+2425;County;Pierce;?
+1762;Model_Year;2022;?
+3767;Make;FORD;?
+1067;Electric_Range;0;?
+2813;Model;MODEL X;?
+3601;Electric_Range;239;?
+2108;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3807;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+3761;Electric_Range;0;?
+445;Legislative_District;6.0;?
+524;Model;C-CLASS;?
+728;Make;JEEP;?
+3016;City;Ferndale;?
+2898;State;WA;WA
+67;Model;X5;?
+889;City;Redmond;?
+3000;Electric_Range;0;?
+3869;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1600;Make;TESLA;?
+748;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+2464;City;Seattle;?
+2516;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+2389;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3618;City;Burien;?
+414;Model_Year;2021;?
+1217;State;WA;WA
+1575;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3257;State;WA;WA
+2723;City;Seattle;?
+2292;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+216;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3049;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+770;Model_Year;2022;?
+147;Legislative_District;36.0;?
+3171;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Not eligible due to low battery range;?
+3871;Model_Year;2022;?
+2808;Model;EQE-CLASS SEDAN;?
+1744;Model;MODEL 3;?
+2658;Electric_Range;208;?
+847;City;Kirkland;?
+1709;Legislative_District;34.0;?
+240;County;Jefferson;?
+28;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+2870;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+666;State;WA;WA
+3412;Legislative_District;7.0;?
+2512;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3696;City;Seattle;?
+3918;Model;MODEL Y;?
+2752;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+182;Electric_Range;0;?
+3686;City;Ravensdale;?
+796;City;Spokane;?
+1685;County;Spokane;?
+2249;Make;TESLA;?
+3513;City;Shoreline;?
+484;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+1740;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+672;Make;CHEVROLET;?
+250;Model;BOLT EUV;?
+1502;State;WA;WA
+3280;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3034;Model;MODEL Y;?
+2526;Electric_Range;0;?
+3557;Electric_Range;107;?
+3189;State;WA;WA
+3288;County;King;?
+532;County;Benton;?
+1563;Electric_Range;0;?
+3810;Model;MODEL Y;?
+540;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+244;Model_Year;2013;?
+2797;County;Pierce;?
+2570;Model_Year;2016;?
+1225;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+2440;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+3653;Model;MODEL X;?
+3611;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+999;Legislative_District;5.0;?
+1428;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+3681;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+2643;Legislative_District;31.0;?
+1169;State;WA;WA
+488;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+2355;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+1569;Electric_Range;322;?
+3221;Model;MODEL 3;?
+3983;City;Fall City;?
+2657;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3566;Electric_Range;151;?
+3034;Model_Year;2023;?
+496;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+1994;Model;I3;?
+3432;Legislative_District;1.0;?
+2182;Model;MODEL Y;?
+2611;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+3706;Electric_Range;0;?
+1031;Model_Year;2020;?
+2942;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+2878;Make;VOLKSWAGEN;?
+2596;Make;MERCEDES-BENZ;?
+1548;Electric_Range;238;?
+2188;Electric_Range;0;?
+3989;Model_Year;2022;?
+1574;City;Bainbridge Island;?
+1534;State;WA;WA
+2366;County;Clark;?
+3682;City;Federal Way;?
+408;City;Sequim;?
+2330;State;WA;WA
+2694;City;Port Townsend;?
+3237;County;King;?
+1240;Make;TESLA;?
+1347;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+3530;Model_Year;2023;?
+3796;City;Port Orchard;?
+1659;Legislative_District;34.0;?
+3460;Model;KONA ELECTRIC;?
+2041;Model_Year;2023;?
+3510;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1503;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1657;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1962;County;Clark;?
+1949;City;Vancouver;?
+3387;State;WA;WA
+3516;Model_Year;2011;?
+2617;State;WA;WA
+2700;Model;MODEL X;?
+1859;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3650;Model;EV6;?
+3295;County;King;?
+3038;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+1789;County;King;?
+894;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+3900;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3539;City;Sammamish;?
+2501;County;King;?
+982;Model;MODEL Y;?
+1750;State;WA;WA
+3676;Legislative_District;43.0;?
+3377;Model;C40;?
+864;Model_Year;2022;?
+806;State;WA;WA
+3518;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+470;County;King;?
+2716;Make;BMW;?
+971;Make;TESLA;?
+3158;Model;MODEL Y;?
+3487;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+2694;Legislative_District;24.0;?
+872;Legislative_District;47.0;?
+1138;Legislative_District;26.0;?
+2040;County;King;?
+815;Make;TESLA;?
+836;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+1220;City;Sammamish;?
+2279;Electric_Range;0;?
+391;Make;TESLA;?
+2868;Make;NISSAN;?
+2292;Legislative_District;18.0;?
+297;Legislative_District;41.0;?
+997;Legislative_District;46.0;?
+2554;Model;PRIUS PLUG-IN;?
+2864;City;Seattle;?
+2247;Legislative_District;12.0;?
+2407;Legislative_District;1.0;?
+3564;State;WA;WA
+2978;Legislative_District;11.0;?
+1114;Model;MODEL Y;?
+202;Make;TESLA;?
+1223;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+1052;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Not eligible due to low battery range;?
+1925;Model_Year;2017;?
+2221;City;Bothell;?
+939;Model_Year;2021;?
+1824;Model;MODEL Y;?
+1133;Legislative_District;45.0;?
+2013;Make;FORD;?
+1549;County;Skagit;?
+2273;City;Seattle;?
+1508;Legislative_District;35.0;?
+1790;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1120;Electric_Range;0;?
+857;Make;CHEVROLET;?
+1587;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+489;Make;FORD;?
+2134;Make;CHEVROLET;?
+2297;Model_Year;2023;?
+754;Legislative_District;18.0;?
+1732;Model_Year;2023;?
+3648;Make;JEEP;?
+1834;Make;TESLA;?
+2880;County;Pierce;?
+3611;Model_Year;2023;?
+2235;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+959;County;Pierce;?
+2747;Legislative_District;28.0;?
+3183;Make;TESLA;?
+1504;County;King;?
+2882;County;Pierce;?
+3951;Electric_Range;107;?
+992;Make;VOLKSWAGEN;?
+2239;Model;MODEL 3;?
+649;Electric_Range;19;?
+2005;City;Snohomish;?
+1768;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+1322;Make;TESLA;?
+3548;City;Clinton;?
+149;State;WA;WA
+1544;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+3211;Model;SPORTAGE;?
+1643;Model_Year;2019;?
+2232;County;King;?
+842;City;Kent;?
+3565;Model_Year;2022;?
+2065;County;King;?
+3850;Legislative_District;24.0;?
+278;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+955;Electric_Range;0;?
+2786;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+2005;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+3114;Electric_Range;32;?
+2591;County;King;?
+3269;Model;MODEL Y;?
+2445;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+302;County;Jefferson;?
+2089;Model;MODEL Y;?
+2084;Electric_Range;215;?
+513;Model;MODEL S;?
+2409;Electric_Range;75;?
+2966;State;WA;WA
+3094;Model;NIRO;?
+3345;City;Vancouver;?
+2602;State;WA;WA
+1420;City;Maple Valley;?
+2402;Electric_Range;33;?
+503;Model;MODEL 3;?
+3309;Electric_Range;0;?
+856;State;WA;WA
+1125;Electric_Range;0;?
+2350;Make;TESLA;?
+3649;Make;HYUNDAI;?
+636;Model_Year;2017;?
+1483;Electric_Range;215;?
+1204;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+2537;Electric_Range;0;?
+1092;Legislative_District;32.0;?
+64;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1232;Model;MODEL Y;?
+869;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3539;Model;MODEL 3;?
+3104;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+110;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+2547;Make;TESLA;?
+2027;State;WA;WA
+1891;Model_Year;2021;?
+945;State;WA;WA
+2217;Make;TESLA;?
+616;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+3638;County;Snohomish;?
+3218;Model;RAV4 PRIME;?
+1264;City;Chelan;?
+1364;Legislative_District;21.0;?
+2463;Electric_Range;238;?
+3224;Electric_Range;25;?
+1820;City;Seattle;?
+1983;Make;TESLA;?
+3204;County;King;?
+593;County;Snohomish;?
+552;Model;ARIYA;?
+1255;Make;RIVIAN;?
+2250;State;WA;WA
+1981;Model;MODEL X;?
+1267;City;Bellevue;?
+1017;Legislative_District;31.0;?
+3831;City;Vancouver;?
+181;City;Oak Harbor;?
+180;Model;MODEL Y;?
+781;State;WA;WA
+3814;Model;MODEL S;?
+998;City;Shoreline;?
+1837;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+2274;Make;FORD;?
+21;State;WA;WA
+3477;State;WA;WA
+2854;Make;CHEVROLET;?
+375;City;Bellevue;?
+3577;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+1261;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+411;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+626;Model;WRANGLER;?
+246;Make;CADILLAC;?
+3893;Model_Year;2023;?
+1741;Model_Year;2022;?
+901;State;WA;WA
+2900;Legislative_District;45.0;?
+3893;Legislative_District;26.0;?
+1438;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Not eligible due to low battery range;?
+1893;Legislative_District;46.0;?
+646;County;King;?
+2598;Model;VOLT;?
+587;Legislative_District;1.0;?
+2964;Model_Year;2021;?
+716;Model_Year;2014;?
+3329;Legislative_District;36.0;?
+37;Legislative_District;46.0;?
+3668;Make;TESLA;?
+1512;State;WA;WA
+396;State;WA;WA
+2218;Model_Year;2019;?
+1919;Make;TESLA;?
+831;Model;X5;?
+1743;State;WA;WA
+3187;State;WA;WA
+956;Model;MODEL Y;?
+2860;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3878;Model;CLARITY;?
+1343;Model;MODEL 3;?
+2468;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+59;Electric_Range;215;?
+1603;Model_Year;2021;?
+1829;Model_Year;2017;?
+1124;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3594;Electric_Range;0;?
+1714;State;WA;WA
+94;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+2170;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+1662;County;Kitsap;?
+3712;Make;TESLA;?
+758;Make;TESLA;?
+711;Model;VOLT;?
+454;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3226;Electric_Range;6;?
+839;Make;SUBARU;?
+535;County;King;?
+28;State;WA;WA
+633;City;Bremerton;?
+1264;County;Chelan;?
+3308;City;Kalama;?
+2744;Model_Year;2018;?
+1860;Model_Year;2020;?
+1924;Legislative_District;22.0;?
+898;Legislative_District;25.0;?
+1563;Make;TESLA;?
+3711;Make;TESLA;?
+2266;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+406;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+2587;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+433;Model;MODEL 3;?
+3936;Electric_Range;208;?
+969;Legislative_District;23.0;?
+2166;County;King;?
+1988;County;Clark;?
+992;Model_Year;2023;?
+2027;Model_Year;2021;?
+611;Electric_Range;0;?
+2130;State;WA;WA
+2103;Electric_Range;266;?
+1527;City;Bainbridge Island;?
+1971;Make;TOYOTA;?
+2766;Legislative_District;5.0;?
+1457;Model;E-TRON;?
+2718;Legislative_District;11.0;?
+2615;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+2962;Make;TESLA;?
+2347;County;King;?
+3157;County;Pierce;?
+2804;Model_Year;2022;?
+576;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+2855;Electric_Range;0;?
+886;State;WA;WA
+1322;Electric_Range;0;?
+179;Model;MODEL 3;?
+964;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3376;Model;XC90;?
+1839;State;WA;WA
+1997;Model_Year;2020;?
+316;City;Port Townsend;?
+3300;State;WA;WA
+583;Legislative_District;35.0;?
+2618;Model_Year;2022;?
+2028;Model_Year;2021;?
+3291;Electric_Range;210;?
+3767;City;Spokane;?
+3406;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1143;County;King;?
+367;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+2360;Model_Year;2022;?
+3016;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+995;State;WA;WA
+2512;City;Seattle;?
+2895;State;WA;WA
+2850;Make;TESLA;?
+3758;City;Seattle;?
+2798;Model_Year;2023;?
+3538;City;Tukwila;?
+1222;Model;MODEL 3;?
+1671;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+2309;Electric_Range;0;?
+2869;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+984;City;Seattle;?
+2987;Legislative_District;21.0;?
+1440;Legislative_District;30.0;?
+2248;Model;MODEL 3;?
+2781;Legislative_District;11.0;?
+3564;Model_Year;2022;?
+2098;Electric_Range;291;?
+1255;County;King;?
+248;Model;MODEL S;?
+362;Model_Year;2022;?
+1516;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1935;Model;VOLT;?
+2049;Legislative_District;11.0;?
+2771;Make;TESLA;?
+3181;Make;TOYOTA;?
+733;City;Edmonds;?
+2876;Model_Year;2022;?
+330;Model_Year;2020;?
+2087;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+3432;Make;TESLA;?
+3898;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3998;Electric_Range;0;?
+569;Model_Year;2022;?
+337;County;King;?
+3090;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Not eligible due to low battery range;?
+3348;County;King;?
+3191;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Not eligible due to low battery range;?
+3644;Make;BMW;?
+1016;City;Poulsbo;?
+3109;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+3324;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3467;County;King;?
+1350;Model;XC40;?
+1135;Electric_Range;0;?
+1899;Make;HONDA;?
+1378;State;WA;WA
+1739;State;WA;WA
+603;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+2035;Model;MODEL Y;?
+2403;City;Chimacum;?
+3976;Legislative_District;41.0;?
+2032;Make;CHRYSLER;?
+1232;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+17;City;Seattle;?
+700;County;Pierce;?
+2950;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+2622;County;Pierce;?
+1416;Make;FORD;?
+618;Make;TESLA;?
+820;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+1907;Make;NISSAN;?
+3623;State;WA;WA
+732;County;King;?
+749;Electric_Range;0;?
+546;Make;CHEVROLET;?
+2399;City;Tumwater;?
+825;Model_Year;2023;?
+3130;City;South Hill;?
+3824;Model_Year;2021;?
+1421;Make;TESLA;?
+1445;Legislative_District;33.0;?
+1574;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+6;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+2486;State;WA;WA
+3126;Make;RIVIAN;?
+3619;County;King;?
+1135;State;WA;WA
+181;Electric_Range;238;?
+2653;City;Seattle;?
+1665;Model_Year;2022;?
+3365;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+2333;City;Seattle;?
+1937;Legislative_District;42.0;?
+1476;State;WA;WA
+3570;Make;TESLA;?
+1372;City;Federal Way;?
+1633;Make;NISSAN;?
+1197;State;WA;WA
+1465;Legislative_District;28.0;?
+1511;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1842;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+368;Make;TESLA;?
+2807;City;Ridgefield;?
+1406;City;Seattle;?
+2739;State;WA;WA
+2557;Electric_Range;0;?
+2487;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+116;State;WA;WA
+2510;State;WA;WA
+2308;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+2878;Electric_Range;0;?
+80;Model;MODEL Y;?
+2140;County;Jefferson;?
+964;State;WA;WA
+1176;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+543;Legislative_District;46.0;?
+3309;Legislative_District;33.0;?
+3450;Make;TESLA;?
+3163;City;Bellevue;?
+193;Model_Year;2022;?
+3983;Legislative_District;5.0;?
+3784;County;Pierce;?
+1897;State;WA;WA
+2917;City;Redmond;?
+2341;Electric_Range;38;?
+1604;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+2100;Model;VOLT;?
+2920;Make;NISSAN;?
+1503;County;Snohomish;?
+772;Model_Year;2018;?
+2461;Legislative_District;36.0;?
+2857;Model_Year;2023;?
+1436;Electric_Vehicle_Type;Plug-in Hybrid Electric Vehicle (PHEV);?
+191;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+380;Make;TESLA;?
+2086;County;Pierce;?
+3236;County;Snohomish;?
+1639;Model_Year;2019;?
+3338;Make;AZURE DYNAMICS;?
+2294;County;Snohomish;?
+60;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1695;Model;MUSTANG MACH-E;?
+473;State;WA;WA
+3321;Electric_Range;0;?
+588;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Not eligible due to low battery range;?
+701;Model_Year;2022;?
+2114;Model;MODEL Y;?
+3082;County;King;?
+2183;Model;MODEL Y;?
+3985;State;WA;WA
+2978;City;Renton;?
+2412;Model;330E;?
+319;Make;TESLA;?
+3525;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+507;City;Arlington;?
+2780;City;Auburn;?
+375;Electric_Range;215;?
+1565;County;Pierce;?
+581;Model_Year;2022;?
+343;State;WA;WA
+596;Model;MUSTANG MACH-E;?
+2841;Model_Year;2017;?
+421;Model_Year;2022;?
+3792;Model_Year;2019;?
+2074;Electric_Range;0;?
+3477;Legislative_District;45.0;?
+3754;City;Tukwila;?
+3441;Model;PACIFICA;?
+2532;Legislative_District;21.0;?
+1181;County;King;?
+1930;State;WA;WA
+3786;State;WA;WA
+14;County;Benton;?
+1131;Model_Year;2022;?
+2179;Electric_Range;14;?
+2512;Model_Year;2021;?
+2346;Model_Year;2022;?
+1761;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+2414;Electric_Range;0;?
+1157;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+3812;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Clean Alternative Fuel Vehicle Eligible;?
+698;Electric_Vehicle_Type;Battery Electric Vehicle (BEV);?
+1160;Electric_Range;215;?
+672;Model_Year;2022;?
+900;Make;JAGUAR;?
+3596;Model;MODEL 3;?
+3258;City;Kent;?
+320;Model_Year;2019;?
+870;County;King;?
+2815;Model;MODEL X;?
+1773;Electric_Range;0;?
+583;Model;VOLT;?
+1928;County;Thurston;?
+3309;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Eligibility unknown as battery range has not been researched;?
+2104;Model_Year;2023;?
+3426;Electric_Range;30;?
+1927;Clean_Alternative_Fuel_Vehicle_(CAFV)_Eligibility;Not eligible due to low battery range;?
+3219;State;WA;WA
+1881;Model;EQE-CLASS SUV;?
+332;Legislative_District;45.0;?
+3995;Model_Year;2014;?
+3546;Legislative_District;43.0;?

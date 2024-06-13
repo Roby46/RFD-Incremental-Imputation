@@ -1,0 +1,8 @@
+<similarity_rules>
+    <attr name="Productive_Hours" type="delta">
+        <value>10</value>
+    </attr>
+    <attr name="Productive_Hours_per_Adjusted_Patient_Day" type="delta">
+        <value>2</value>
+    </attr>
+</similarity_rules>

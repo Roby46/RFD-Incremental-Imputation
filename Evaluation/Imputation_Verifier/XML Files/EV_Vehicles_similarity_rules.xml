@@ -1,0 +1,8 @@
+<similarity_rules>
+    <attr name="Model_Year" type="delta">
+        <value>1</value>
+    </attr>
+    <attr name="Electric Range" type="delta">
+        <value>10</value>
+    </attr>
+</similarity_rules>

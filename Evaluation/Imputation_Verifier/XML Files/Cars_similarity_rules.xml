@@ -1,0 +1,20 @@
+<similarity_rules>
+    <attr name="Acceleration" type="delta">
+		<value>2</value>
+	</attr>
+	<attr name="MPG" type="delta">
+		<value>5</value>
+	</attr>
+	<attr name="Horsepower" type="delta">
+		<value>25</value>
+	</attr>
+	<attr name="Model" type="delta">
+		<value>4</value>
+	</attr>
+	<attr name="Displacement" type="delta">
+		<value>35</value>
+	</attr>
+	<attr name="Weight" type="delta">
+		<value>90</value>
+	</attr>
+</similarity_rules>
