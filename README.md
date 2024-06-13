@@ -43,7 +43,7 @@ This folder is divided into 3 subfolders: ‘Original Datasets’ contains the o
 | Telemetry        | 3000  | 8       | 60--600                     | [1.5,0.001,2.5,0.5,0.001,0.5,0.003,2]      | https://www.kaggle.com/datasets/garystafford/environmental-sensor-data-132k | 
 | Callout          | 6000  | 9       | 120-900-1200                | [2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5]      |                                                                             | 
 | Police           | 2204  | 9       | 44--440                     | [3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]        | https://data.world/stevenburnett/police-shootings-2015-2016                 | 
-| Olympics_10000   | 10000 | 12      | 200-1500-2000               | [3,0,5,2,8,2,1,4,1,2,2,2]                  | Bernardo                                                                    | 
+| Olympics_10000   | 10000 | 12      | 200-1500-2000               | [3,0,5,2,8,2,1,4,1,2,2,2]                  | https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results  | 
 
 
 ### 2.2 Preprocessing
