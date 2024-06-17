@@ -60,7 +60,7 @@ delimiter = ';'
 path_file = f'../../Datasets/Preprocessed_Datasets/{dataset}.csv'
 #Iterations number (We tested 5 different version for each configuration)
 #iterations = [1,2,3,4,5]
-iterations = [2,3,4,5]
+iterations = [1,2,3,4,5]
 #MV Symbol
 null_value = '?'
 

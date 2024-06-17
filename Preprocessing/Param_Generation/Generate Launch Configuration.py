@@ -1,7 +1,8 @@
 import os
 
 def generate_command_strings(versions, missing_values, dataset, use_true):
-    fixed_params = [";", "?", 10, 80, 2.5, 2.5, 1, 2, 2, 3, 3, 3, 20, 10]
+    #fixed_params = [";", "?", 10, 80, 2.5, 2.5, 1, 2, 2, 3, 3, 3, 20, 10]
+    fixed_params = [";", "?", 12, 150, 3,0,5,2,8,2,1,4,1,2,2,2]
     command_strings = []
 
     bool_param = use_true  # Usa il parametro di input per determinare True o False
@@ -49,15 +50,15 @@ launch_template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 </launchConfiguration>
 """
 
-dataset = "EV_Vehicles_4000"  # Change dataset name as needed
-
+#dataset = "EV_Vehicles_4000"  # Change dataset name as needed
+dataset = "Olympics_7500"  # Change dataset name as needed
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
 reevaluation=True
 # Number of missing values
 #missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
-missing_values = [400, 800, 1200, 1600, 2000, 4000, 8000, 12000, 16000, 20000] #EV_Vehicles
-
+#missing_values = [400, 800, 1200, 1600, 2000, 4000, 8000, 12000, 16000, 20000] #EV_Vehicles
+missing_values = [900, 1800, 2700, 3600, 4500, 9000, 18000, 27000, 36000, 45000] #Olympics_7500
 # Generate the command strings
 commands = generate_command_strings(versions, missing_values, dataset,reevaluation)
 

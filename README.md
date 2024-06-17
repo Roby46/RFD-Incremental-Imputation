@@ -35,6 +35,7 @@ This folder contains a python project which provides all the necessary tool to p
 This folder is divided into 3 subfolders: ‘Original Datasets’ contains the original datasets, ‘Preprocessed Datasets’ contains the filtered and cleaned datasets, and ‘Missing Datasets’ contains the data with injected missing values. In the following table we report the basic characteristics of the datasets we employed in our experiments. Specifically, the table reports the name and the number of rows and columns of the datasets (in their preprocessed version) along with the link to the original dataset. Finally, for each dataset we also report the parameters used for the experiments: the size of the sliding window (i.e., 2% for the pipeline executions, 15% and 20% for the baseline executions).
 
 
+<<<<<<< Updated upstream
 | Dataset Name     | Rows  | Columns | WindowSize (2% - 15% - 20%) | Thresholds                                 | Source                                                                      |
 |------------------|-------|---------|-----------------------------|--------------------------------------------|-----------------------------------------------------------------------------|
 | EV_Vehicles_4000 | 4000  | 10      | 80-600-800                  | [2.5,2.5,1,2,2,3,3,3,20,10]                ||
@@ -44,6 +45,18 @@ This folder is divided into 3 subfolders: ‘Original Datasets’ contains the o
 | Callout          | 6000  | 9       | 120-900-1200                | [2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5]      |                                                                             | 
 | Police           | 2204  | 9       | 44--440                     | [3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]        | https://data.world/stevenburnett/police-shootings-2015-2016                 | 
 | Olympics_10000   | 10000 | 12      | 200-1500-2000               | [3,0,5,2,8,2,1,4,1,2,2,2]                  | https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results  | 
+=======
+| Dataset Name            | Rows  | Columns | WindowSize (2% - 15% - 20%) | Thresholds                                 | Source                                                                      |
+|-------------------------|-------|---------|-----------------------------|--------------------------------------------|-----------------------------------------------------------------------------|
+| EV_Vehicles_4000        | 4000  | 10      | 80-600-800                  | [2.5,2.5,1,2,2,3,3,3,20,10]                |                                                                             |
+| Restaurant              | 864   | 6       | 18--180                     | [2.0,8.5,8.5,1.0,1.0,3.5]                  |                                                                             | 
+| Cars                    | 406   | 9       | 8--80                       | [5.0,4.18,0.82,16,10.0,11.3,1.37,1.84,1.0] |                                                                             | 
+| Telemetry               | 3000  | 8       | 60--600                     | [1.5,0.001,2.5,0.5,0.001,0.5,0.003,2]      | https://www.kaggle.com/datasets/garystafford/environmental-sensor-data-132k | 
+| Callout                 | 6000  | 9       | 120-900-1200                | [2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5]      |                                                                             | 
+| Police                  | 2204  | 9       | 44--440                     | [3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]        | https://data.world/stevenburnett/police-shootings-2015-2016                 | 
+| Olympics_10000 scartato | 10000 | 12      | 200-1500-2000               | [3,0,5,2,8,2,1,4,1,2,2,2]                  | Bernardo                                                                    | 
+| Olympics_7500           | 7500  | 12      | 150--                       | [3,0,5,2,8,2,1,4,1,2,2,2]                  | Bernardo                                                                    | 
+>>>>>>> Stashed changes
 
 
 ### 2.2 Preprocessing

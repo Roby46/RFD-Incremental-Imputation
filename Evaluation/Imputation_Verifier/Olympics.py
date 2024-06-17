@@ -61,8 +61,8 @@ def are_similar(attribute, value1, value2):
     return False
 
 # Leggi il CSV
-version=1
-MV=6000
+version=5
+MV=4500
 
 approach="Pipeline"
 #approach="Baseline"
@@ -72,15 +72,15 @@ approach="Pipeline"
 
 df=""
 if(approach=="Baseline"):
-    df=pd.read_csv(f"../Imputation_Results/Imputation_Baseline_Results/Olympics_10000/{version}/Baseline_Olympics_10000_{MV}_{version}.csv", sep=';')
+    df=pd.read_csv(f"../Imputation_Results/Imputation_Baseline_Results/Olympics_7500/{version}/Baseline_Olympics_7500_{MV}_{version}.csv", sep=';')
 elif(approach=="Pipeline_noRev"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_noRestoring_Results/Olympics_10000/{version}/Olympics_10000_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_noRestoring_Results/Olympics_7500/{version}/Olympics_7500_{MV}_{version}.csv", sep=';')
 elif(approach=="Baseline20"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Baseline_20_Results/Olympics_10000/{version}/Baseline_Olympics_10000_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Baseline_20_Results/Olympics_7500/{version}/Baseline_Olympics_7500_{MV}_{version}.csv", sep=';')
 elif(approach=="Pipeline"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Pipeline_Results/Olympics_10000/{version}/Olympics_10000_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Pipeline_Results/Olympics_7500/{version}/Olympics_7500_{MV}_{version}.csv", sep=';')
 elif(approach=="Hybrid"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Hybrid_Results/Olympics_10000/{version}/Olympics_10000_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Hybrid_Results/Olympics_7500/{version}/Olympics_7500_{MV}_{version}.csv", sep=';')
 
 df = df.drop(['riga'], axis=1)
 print(df.columns.tolist())

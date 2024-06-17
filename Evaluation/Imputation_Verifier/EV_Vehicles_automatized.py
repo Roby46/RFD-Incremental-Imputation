@@ -121,7 +121,7 @@ def checkResults(version, approach, MV):
     write_unique_row_to_csv(all_results_path, row_data)
 
 
-approaches=["Baseline", "Pipeline","Pipeline_noRev","Hybrid"]
+approaches=["Baseline", "Pipeline","Pipeline_noRev","Hybrid","Baseline20"]
 versions=[1,2,3,4,5]
 MVs=[400, 800, 1200, 1600, 2000, 4000, 8000, 12000, 16000, 20000]
 

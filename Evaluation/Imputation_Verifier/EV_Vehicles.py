@@ -61,8 +61,8 @@ def are_similar(attribute, value1, value2):
     return False
 
 # Leggi il CSV
-version=1
-MV=800
+version=2
+MV=20000
 
 #approach="Pipeline"
 #approach="Baseline"
@@ -112,9 +112,3 @@ recall = (exact + similar) / tot
 print("Recall: ", recall)
 precision = (exact + similar) / (exact + similar + wrong)
 print("Precision: ", precision)
-
-
-all_results_path=f"../ALL_Results.csv"
-row_data=["EV_Vehicles_4000"]+[approach]+[MV]+[str(recall)]+[str(precision)]+[str(version)]+[str(exact)] + [str(similar)] + [str(wrong)]
-print(row_data)
-write_unique_row_to_csv(all_results_path,row_data)
