@@ -1,0 +1,413 @@
+riga;nome attributo;valore da imputare;valore imputato
+401;price;10499;?
+273;os;android;?
+461;rating;85.0;?
+45;processor_speed;2.3;?
+477;internal_memory;64.0;?
+238;processor_brand;snapdragon;?
+485;model;Motorola Edge 40 Pro 5G;?
+736;ram_capacity;6.0;?
+278;processor_speed;2.3;?
+548;model;OPPO Reno 9 Z;?
+795;rating;82.0;?
+323;ram_capacity;8.0;?
+565;processor_brand;snapdragon;?
+528;os;android;?
+575;os;android;?
+691;price;10990;?
+483;processor_speed;2.2;?
+670;os;android;?
+291;os;android;?
+127;os;android;?
+356;rating;87.0;?
+433;os;android;?
+715;num_cores;8.0;?
+133;ram_capacity;6.0;?
+158;os;android;?
+280;processor_brand;snapdragon;?
+18;price;32999;?
+521;ram_capacity;8.0;?
+38;model;Xiaomi Redmi Note 11 Pro Plus 5G;?
+737;rating;77.0;?
+117;os;android;?
+757;processor_brand;dimensity;?
+301;ram_capacity;8.0;?
+243;ram_capacity;8.0;?
+262;brand_name;motorola;?
+119;processor_brand;snapdragon;?
+478;internal_memory;128.0;?
+128;processor_speed;2.3;?
+37;model;OnePlus Nord CE 3 5G;?
+203;model;Vivo Y16 (3GB RAM + 64GB);?
+415;num_cores;8.0;?
+197;ram_capacity;12.0;?
+763;processor_speed;2.0;?
+168;price;34999;?
+776;num_cores;8.0;?
+337;model;Samsung Galaxy A13 5G;?
+506;price;19990;?
+293;internal_memory;64.0;?
+588;model;OPPO X 2021;?
+423;ram_capacity;8.0;?
+483;model;Nokia G60;?
+799;internal_memory;128.0;?
+46;os;android;?
+726;internal_memory;256.0;?
+39;internal_memory;128.0;?
+314;os;android;?
+472;price;39999;?
+332;ram_capacity;6.0;?
+204;os;android;?
+506;brand_name;sony;?
+638;os;android;?
+780;brand_name;nubia;?
+742;rating;73.0;?
+421;num_cores;8.0;?
+250;brand_name;infinix;?
+41;num_cores;8.0;?
+212;model;Apple iPhone 14 (256GB);?
+437;price;24494;?
+187;price;31994;?
+95;os;android;?
+228;rating;78.0;?
+789;ram_capacity;8.0;?
+545;num_cores;6.0;?
+806;processor_brand;snapdragon;?
+684;internal_memory;128.0;?
+120;internal_memory;128.0;?
+762;price;19999;?
+106;rating;89.0;?
+437;brand_name;realme;?
+127;ram_capacity;4.0;?
+143;ram_capacity;8.0;?
+594;price;15990;?
+123;internal_memory;128.0;?
+469;brand_name;oppo;?
+401;brand_name;motorola;?
+357;rating;76.0;?
+609;processor_speed;2.4;?
+178;brand_name;nothing;?
+822;price;28990;?
+243;processor_speed;2.4;?
+287;processor_brand;helio;?
+815;os;android;?
+333;os;android;?
+167;os;android;?
+545;model;Apple iPhone SE 2020;?
+689;internal_memory;128.0;?
+208;internal_memory;128.0;?
+662;num_cores;8.0;?
+415;internal_memory;128.0;?
+158;brand_name;poco;?
+797;model;Xiaomi Redmi 9A (6GB RAM + 128GB);?
+237;ram_capacity;8.0;?
+590;ram_capacity;6.0;?
+591;ram_capacity;6.0;?
+389;ram_capacity;8.0;?
+70;num_cores;6.0;?
+448;ram_capacity;4.0;?
+358;processor_brand;snapdragon;?
+543;model;OPPO A55 5G;?
+19;brand_name;vivo;?
+486;processor_brand;snapdragon;?
+691;num_cores;8.0;?
+175;os;android;?
+457;rating;82.0;?
+372;model;Motorola Moto G13;?
+732;processor_brand;snapdragon;?
+234;internal_memory;128.0;?
+553;brand_name;oppo;?
+125;os;android;?
+193;ram_capacity;6.0;?
+74;num_cores;8.0;?
+604;price;24999;?
+118;model;Poco X4 Pro 5G (6GB RAM + 128GB);?
+700;num_cores;8.0;?
+338;processor_brand;dimensity;?
+170;model;Realme C35;?
+388;brand_name;oppo;?
+376;brand_name;infinix;?
+641;internal_memory;64.0;?
+648;processor_brand;dimensity;?
+511;processor_brand;dimensity;?
+492;ram_capacity;8.0;?
+122;price;13490;?
+476;brand_name;samsung;?
+667;model;Realme GT Neo 3T (8GB RAM + 256GB);?
+536;os;android;?
+320;model;OPPO F21 Pro 4G;?
+701;model;Sony Xperia 10 II;?
+543;os;android;?
+12;rating;79.0;?
+253;internal_memory;128.0;?
+290;model;Xiaomi Redmi Note 11S;?
+638;internal_memory;64.0;?
+224;model;Poco M4 5G (6GB RAM + 128GB);?
+378;brand_name;vivo;?
+604;internal_memory;128.0;?
+672;ram_capacity;4.0;?
+28;processor_speed;2.2;?
+790;rating;61.0;?
+318;brand_name;samsung;?
+504;price;19999;?
+190;rating;78.0;?
+61;ram_capacity;8.0;?
+109;os;android;?
+667;price;28499;?
+780;rating;84.0;?
+762;rating;82.0;?
+421;processor_brand;snapdragon;?
+349;internal_memory;128.0;?
+396;ram_capacity;8.0;?
+369;internal_memory;128.0;?
+196;num_cores;8.0;?
+631;processor_speed;3.0;?
+541;ram_capacity;8.0;?
+522;model;Apple iPhone 12 Pro (512GB);?
+97;model;OnePlus 10R 5G (12GB RAM + 256GB);?
+365;internal_memory;32.0;?
+808;internal_memory;64.0;?
+329;processor_speed;2.0;?
+586;num_cores;8.0;?
+129;rating;83.0;?
+30;price;27990;?
+176;price;12999;?
+731;processor_brand;helio;?
+587;ram_capacity;8.0;?
+38;processor_speed;2.2;?
+235;processor_brand;helio;?
+219;os;android;?
+493;internal_memory;128.0;?
+591;processor_speed;2.0;?
+699;rating;83.0;?
+491;price;9999;?
+628;brand_name;vivo;?
+250;rating;78.0;?
+313;model;Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB);?
+428;processor_speed;2.2;?
+227;processor_speed;2.4;?
+145;internal_memory;128.0;?
+529;rating;62.0;?
+777;processor_speed;2.5;?
+610;os;android;?
+798;os;android;?
+513;rating;82.0;?
+16;internal_memory;32.0;?
+675;num_cores;8.0;?
+91;brand_name;motorola;?
+797;processor_brand;helio;?
+735;model;Tecno Pova 2;?
+413;rating;84.0;?
+207;model;OPPO A57 4G (4GB RAM + 64 GB);?
+761;num_cores;8.0;?
+116;os;android;?
+638;price;12499;?
+179;os;android;?
+307;os;android;?
+653;model;POCO M2 Pro;?
+263;processor_brand;snapdragon;?
+476;ram_capacity;12.0;?
+674;brand_name;realme;?
+159;processor_brand;dimensity;?
+760;processor_speed;2.0;?
+691;rating;76.0;?
+437;rating;82.0;?
+1;num_cores;8.0;?
+105;processor_speed;3.2;?
+359;processor_speed;2.2;?
+519;brand_name;realme;?
+785;brand_name;poco;?
+566;ram_capacity;6.0;?
+544;rating;68.0;?
+612;os;android;?
+414;os;android;?
+467;processor_speed;2.36;?
+141;os;ios;?
+287;num_cores;8.0;?
+263;price;11999;?
+553;os;android;?
+666;price;12999;?
+155;rating;74.0;?
+613;internal_memory;128.0;?
+724;price;11879;?
+558;brand_name;samsung;?
+523;ram_capacity;8.0;?
+57;rating;85.0;?
+420;os;android;?
+765;internal_memory;32.0;?
+290;num_cores;8.0;?
+619;internal_memory;64.0;?
+43;rating;76.0;?
+590;processor_brand;helio;?
+591;model;Poco M2;?
+755;processor_speed;2.3;?
+807;processor_speed;2.2;?
+182;internal_memory;128.0;?
+577;processor_speed;2.2;?
+702;price;21990;?
+768;num_cores;8.0;?
+41;price;18499;?
+454;ram_capacity;12.0;?
+292;ram_capacity;8.0;?
+225;processor_brand;dimensity;?
+241;processor_speed;1.82;?
+132;processor_brand;bionic;?
+581;rating;71.0;?
+12;num_cores;8.0;?
+422;brand_name;xiaomi;?
+178;price;35999;?
+155;price;10999;?
+737;os;android;?
+326;internal_memory;128.0;?
+471;rating;71.0;?
+549;num_cores;8.0;?
+668;processor_speed;3.22;?
+184;num_cores;8.0;?
+55;processor_speed;2.4;?
+427;os;android;?
+526;price;11999;?
+364;ram_capacity;8.0;?
+775;num_cores;8.0;?
+403;brand_name;samsung;?
+373;ram_capacity;16.0;?
+231;price;18999;?
+190;model;Realme 9 Pro Plus 5G;?
+769;processor_speed;2.0;?
+608;model;Xiaomi Redmi 10 Prime (6GB RAM + 128GB);?
+513;processor_brand;snapdragon;?
+618;ram_capacity;8.0;?
+586;os;android;?
+639;model;Xiaomi Redmi 9A Sport;?
+646;processor_speed;2.3;?
+447;internal_memory;128.0;?
+689;processor_speed;3.0;?
+331;price;18499;?
+691;internal_memory;128.0;?
+218;num_cores;8.0;?
+547;os;android;?
+563;os;android;?
+422;processor_speed;2.0;?
+276;os;ios;?
+750;processor_speed;2.84;?
+439;os;android;?
+30;num_cores;8.0;?
+241;rating;65.0;?
+486;processor_speed;2.2;?
+444;price;13999;?
+112;rating;85.0;?
+682;ram_capacity;4.0;?
+26;model;OnePlus Nord CE 2 Lite 5G (8GB RAM + 128GB);?
+490;processor_brand;snapdragon;?
+50;processor_speed;2.2;?
+236;internal_memory;128.0;?
+429;ram_capacity;4.0;?
+530;brand_name;apple;?
+497;os;android;?
+516;processor_brand;helio;?
+373;num_cores;8.0;?
+531;brand_name;iqoo;?
+657;num_cores;8.0;?
+732;model;Realme GT Neo2 5G;?
+33;processor_speed;2.9;?
+534;brand_name;poco;?
+334;brand_name;oukitel;?
+777;price;26999;?
+543;price;17990;?
+602;ram_capacity;8.0;?
+96;model;Vivo T1 44W (6GB RAM + 128GB);?
+821;brand_name;honor;?
+73;ram_capacity;6.0;?
+10;num_cores;8.0;?
+279;internal_memory;128.0;?
+693;rating;89.0;?
+84;model;Motorola Moto G62 (8GB RAM + 128GB);?
+478;rating;83.0;?
+268;internal_memory;128.0;?
+523;processor_brand;snapdragon;?
+148;rating;75.0;?
+462;rating;78.0;?
+136;model;Infinix Zero 5G 2023;?
+814;num_cores;8.0;?
+224;brand_name;poco;?
+218;processor_speed;2.2;?
+735;internal_memory;64.0;?
+729;internal_memory;128.0;?
+119;model;Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB);?
+402;internal_memory;512.0;?
+302;price;14990;?
+605;os;android;?
+256;internal_memory;128.0;?
+178;ram_capacity;12.0;?
+354;model;Motorola Moto G72;?
+171;ram_capacity;12.0;?
+479;ram_capacity;3.0;?
+427;processor_speed;2.2;?
+346;processor_brand;snapdragon;?
+644;model;Micromax IN 2C;?
+477;brand_name;xiaomi;?
+182;processor_speed;2.4;?
+242;internal_memory;512.0;?
+596;num_cores;8.0;?
+347;processor_brand;unisoc;?
+416;ram_capacity;8.0;?
+169;price;39999;?
+679;rating;79.0;?
+729;brand_name;tecno;?
+78;ram_capacity;6.0;?
+116;ram_capacity;4.0;?
+320;processor_speed;2.4;?
+103;rating;87.0;?
+292;os;android;?
+598;processor_brand;snapdragon;?
+132;os;ios;?
+120;processor_speed;2.65;?
+814;model;Oukitel WP9;?
+254;ram_capacity;4.0;?
+158;rating;77.0;?
+108;os;android;?
+51;price;14965;?
+748;processor_speed;2.3;?
+772;ram_capacity;8.0;?
+380;processor_speed;2.3;?
+34;processor_speed;2.2;?
+514;model;Xiaomi Redmi Note 11S (6GB RAM + 128GB);?
+276;brand_name;apple;?
+293;rating;71.0;?
+430;internal_memory;128.0;?
+621;os;android;?
+299;processor_speed;2.0;?
+243;brand_name;vivo;?
+52;os;ios;?
+63;brand_name;xiaomi;?
+486;internal_memory;128.0;?
+146;os;android;?
+713;processor_speed;2.6;?
+269;rating;89.0;?
+655;ram_capacity;6.0;?
+52;brand_name;apple;?
+296;processor_speed;3.22;?
+332;price;14990;?
+202;price;14499;?
+272;processor_speed;2.2;?
+204;price;26990;?
+270;processor_speed;2.2;?
+543;internal_memory;128.0;?
+545;internal_memory;64.0;?
+218;ram_capacity;6.0;?
+651;processor_speed;2.0;?
+568;os;android;?
+750;num_cores;8.0;?
+108;processor_brand;dimensity;?
+438;model;Vivo Y01;?
+66;internal_memory;256.0;?
+199;rating;74.0;?
+170;internal_memory;64.0;?
+400;processor_speed;1.5;?
+349;num_cores;8.0;?
+817;price;32990;?
+241;price;8999;?
+197;rating;86.0;?
+290;processor_brand;helio;?
+696;ram_capacity;6.0;?
+524;num_cores;8.0;?
+315;processor_brand;snapdragon;?

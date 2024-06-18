@@ -55,7 +55,7 @@ column_types=[""]
 #dataset="restaurant"
 
 #Dataset details
-dataset="MotoGP_8870"
+dataset="actorfilms_12000"
 delimiter = ';'
 path_file = f'../../Datasets/Preprocessed_Datasets/{dataset}.csv'
 #Iterations number (We tested 5 different version for each configuration)

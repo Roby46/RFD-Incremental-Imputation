@@ -1,0 +1,11 @@
+<similarity_rules>
+    <attr name="Year" type="delta">
+        <value>1</value>
+    </attr>
+    <attr name="Votes" type="delta">
+        <value>20</value>
+    </attr>
+    <attr name="Rating" type="delta">
+        <value>0.5</value>
+    </attr>
+</similarity_rules>
