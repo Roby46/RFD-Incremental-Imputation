@@ -47,6 +47,7 @@ launch_template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
     <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="{command_string}"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="RFD-Incremental-Imputation"/>
     <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Xmx30G"/>
 </launchConfiguration>
 """
 
@@ -54,11 +55,11 @@ launch_template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 dataset = "Olympics_7500"  # Change dataset name as needed
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
-reevaluation=True
+reevaluation=False
 # Number of missing values
 #missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
 #missing_values = [400, 800, 1200, 1600, 2000, 4000, 8000, 12000, 16000, 20000] #EV_Vehicles
-missing_values = [900, 1800, 2700, 3600, 4500, 9000, 18000, 27000, 36000, 45000] #Olympics_7500
+missing_values = [900, 1800, 2700, 3600, 4500, 9000] #, 18000, 27000, 36000, 45000] #Olympics_7500
 # Generate the command strings
 commands = generate_command_strings(versions, missing_values, dataset,reevaluation)
 

@@ -16,4 +16,5 @@
     <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="&quot;Olympics_7500_45000_5.csv&quot; &quot;;&quot; &quot;?&quot; 12 150 &quot;True&quot; 3 0 5 2 8 2 1 4 1 2 2 2"/>
     <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="RFD-Incremental-Imputation"/>
     <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Xmx30G"/>
 </launchConfiguration>
