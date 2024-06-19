@@ -44,12 +44,15 @@ This folder is divided into 3 subfolders: ‘Original Datasets’ contains the o
 | Callout (ok)                                      | 6000  | 9       | 120-900-1200                | [2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5]      |                                                                             | 
 | Police   (ok)                                     | 2204  | 9       | 44--440                     | [3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]        | https://data.world/stevenburnett/police-shootings-2015-2016                 | 
 | Olympics_10000 (scartato - troppo grande!)        | 10000 | 12      | 200-1500-2000               | [3,0,5,2,8,2,1,4,1,2,2,2]                  | Bernardo                                                                    | 
-| Olympics_7500  (in prova-forse non va bene)       | 7500  | 12      | 150--                       | [3,0,5,2,8,2,1,4,1,2,2,2]                  | Bernardo                                                                    |
+| Olympics_7500  (in prova-forse non va bene)       | 7500  | 12      | 150-1125-1500               | [3,0,5,2,8,2,1,4,1,2,2,2]                  | Bernardo                                                                    |
 | MotoGP  (promettente ma con problemi di codifica) | 8870  |         |                             | []                                         | Kaggle                                                                      |
 | Books  (promettente ma con problemi di codifica)  |       |         |                             | []                                         | Kaggle                                                                      |
 | Laptops                                           |       |         |                             | []                                         | Kaggle                                                                      |
-| ActorFilms                                        | 12000 | 7       | 240-1800-2400               | [7, 240, 5, 0, 5, 2,60, 1.5, 0]            | Kaggle                                                                      |
+| ActorFilms  (prossimo da provare)                 | 12000 | 7       | 240-1800-2400               | [7, 240, 5, 0, 5, 2,60, 1.5, 0]            | Kaggle                                                                      |
 | Smartphones                                       | 823   | 10      | 16--160                     | [1, 5, 10000, 10,2, 2, 0.5, 4, 32, 3]      | Kaggle                                                                      |
+| NBA                                               |       |         |                             |                                            | Kaggle                                                                      |
+| Formula 1                                         |       |         |                             |                                            | Kaggle                                                                      |
+| Chicago                                           | 5000  | 10      | 100-750-1000                |                                            | Kaggle                                                                      |
 
 ### 2.2 Preprocessing
 
@@ -77,7 +80,6 @@ In what follows, we provide an example on how to use the tools in this repositor
 ### Step 1: Preprocessing
 
 To start 
-
 
 #### 1.1 Dataset preparation
 #### 1.2 Missing value injection
