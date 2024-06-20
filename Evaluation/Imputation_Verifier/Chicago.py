@@ -3,9 +3,8 @@ import xml.etree.ElementTree as ET
 import os
 import csv
 
-
 # Carica il file XML
-tree = ET.parse(f'XML Files/Olympics_similarity_rules.xml')
+tree = ET.parse(f'XML Files/Chicago_similarity_rules.xml')
 root = tree.getroot()
 
 def is_row_in_file(file_path, row_data, delimiter=';'):
@@ -61,26 +60,26 @@ def are_similar(attribute, value1, value2):
     return False
 
 # Leggi il CSV
-version=4
-MV=9000
+version=2
+MV=500
 
-#approach="Pipeline"
+approach="Pipeline"
 #approach="Baseline"
 #approach="Baseline20"
-approach="Pipeline_noRev"
+#approach="Pipeline_noRev"
 #approach="Hybrid"
 
 df=""
 if(approach=="Baseline"):
-    df=pd.read_csv(f"../Imputation_Results/Imputation_Baseline_Results/Olympics_7500/{version}/Baseline_Olympics_7500_{MV}_{version}.csv", sep=';')
+    df=pd.read_csv(f"../Imputation_Results/Imputation_Baseline_Results/Chicago_5000/{version}/Baseline_Chicago_5000_{MV}_{version}.csv", sep=';')
 elif(approach=="Pipeline_noRev"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_noRestoring_Results/Olympics_7500/{version}/Olympics_7500_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_noRestoring_Results/Chicago_5000/{version}/Chicago_5000_{MV}_{version}.csv", sep=';')
 elif(approach=="Baseline20"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Baseline_20_Results/Olympics_7500/{version}/Baseline_Olympics_7500_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Baseline_20_Results/Chicago_5000/{version}/Baseline_Chicago_5000_{MV}_{version}.csv", sep=';')
 elif(approach=="Pipeline"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Pipeline_Results/Olympics_7500/{version}/Olympics_7500_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Pipeline_Results/Chicago_5000/{version}/Chicago_5000_{MV}_{version}.csv", sep=';')
 elif(approach=="Hybrid"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Hybrid_Results/Olympics_7500/{version}/Olympics_7500_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Hybrid_Results/Chicago_5000/{version}/Chicago_5000_{MV}_{version}.csv", sep=';')
 
 df = df.drop(['riga'], axis=1)
 print(df.columns.tolist())

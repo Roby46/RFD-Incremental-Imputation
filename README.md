@@ -52,7 +52,7 @@ This folder is divided into 3 subfolders: ‘Original Datasets’ contains the o
 | Smartphones                                       | 823   | 10      | 16--160                     | [1, 5, 10000, 10,2, 2, 0.5, 4, 32, 3]      | Kaggle                                                                      |
 | NBA                                               |       |         |                             |                                            | Kaggle                                                                      |
 | Formula 1                                         |       |         |                             |                                            | Kaggle                                                                      |
-| Chicago                                           | 5000  | 10      | 100-750-1000                |                                            | Kaggle                                                                      |
+| Chicago crimes                                    | 5000  | 10      | 100-750-1000                |                                            | Kaggle                                                                      |
 
 ### 2.2 Preprocessing
 
