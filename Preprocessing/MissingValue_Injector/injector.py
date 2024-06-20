@@ -48,7 +48,7 @@ def write_row_to_csv(file_path, row_data):
         writer.writerow(row_data)
 
 #Percentages of MVs to inject
-percentages=[1,2,3,4,5,10,20,30,40,50]
+percentages=[2,3,4,5,10,20,30,40,50]
 
 column_types=[""]
 #percentages=[1]

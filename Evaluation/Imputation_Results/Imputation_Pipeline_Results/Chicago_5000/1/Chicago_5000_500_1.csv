@@ -1,0 +1,501 @@
+riga;nome attributo;valore da imputare;valore imputato
+777;Ward;34.0;?
+129;IUCR;2820;?
+2960;IUCR;1330;?
+61;PrimaryType;OTHER OFFENSE;OTHER OFFENSE
+398;Description;SIMPLE;SIMPLE
+2751;Ward;16.0;?
+834;District;22.0;?
+2067;Description;CHILD ABUSE;CHILD ABUSE
+4782;Arrest;0;?
+2393;CommunityArea;12.0;?
+4354;IUCR;0545;?
+3740;CommunityArea;8.0;?
+3122;Arrest;0;?
+2171;IUCR;2820;?
+4024;Ward;47.0;?
+2441;PrimaryType;BATTERY;BATTERY
+1431;LocationDescription;STREET;?
+262;Description;THEFT OF LABOR/SERVICES;THEFT OF LABOR/SERVICES
+4889;PrimaryType;MOTOR VEHICLE THEFT;MOTOR VEHICLE THEFT
+4226;PrimaryType;CRIMINAL DAMAGE;CRIMINAL DAMAGE
+998;Description;OVER $500;OVER $500
+2865;IUCR;0484;?
+2340;Ward;44.0;?
+2997;Description;OTHER CRIME AGAINST PERSON;OTHER CRIME AGAINST PERSON
+1189;District;6.0;?
+1579;Ward;42.0;?
+2543;IUCR;1320;?
+2890;Description;TO VEHICLE;TO VEHICLE
+2157;District;7.0;?
+4670;PrimaryType;BATTERY;BATTERY
+1615;Arrest;0;?
+4641;Domestic;0;?
+2500;LocationDescription;CURRENCY EXCHANGE;?
+2896;CommunityArea;67.0;?
+2352;CommunityArea;49.0;?
+4857;Ward;34.0;?
+3767;PrimaryType;OTHER OFFENSE;OTHER OFFENSE
+2982;District;12.0;?
+602;CommunityArea;24.0;?
+1523;CommunityArea;65.0;?
+2962;LocationDescription;RESIDENTIAL YARD (FRONT/BACK);?
+1410;PrimaryType;THEFT;THEFT
+3014;Arrest;0;?
+2751;PrimaryType;BATTERY;BATTERY
+4738;Block;016XX N DAMEN AVE;?
+4116;IUCR;0486;?
+2920;CommunityArea;30.0;?
+1717;District;11.0;?
+4424;Block;023XX W ARTHUR AVE;?
+691;Ward;32.0;?
+712;Ward;34.0;?
+1902;Block;020XX N ORCHARD ST;?
+3368;Arrest;1;?
+2394;LocationDescription;RESIDENCE-GARAGE;?
+4897;IUCR;0486;?
+2699;Arrest;0;?
+4913;Block;023XX W LOGAN BLVD;?
+4478;CommunityArea;27.0;?
+2534;Ward;34.0;?
+3631;PrimaryType;THEFT;THEFT
+1753;LocationDescription;GAS STATION;?
+3598;CommunityArea;53.0;?
+1104;Block;054XX S SHORE DR;?
+949;Ward;34.0;?
+3730;LocationDescription;RESIDENCE-GARAGE;?
+472;Description;OVER $500;OVER $500
+2248;Arrest;0;?
+1220;IUCR;1310;?
+4577;Arrest;0;?
+3828;IUCR;1310;?
+3455;Domestic;0;?
+3481;CommunityArea;21.0;?
+29;Description;TO PROPERTY;TO PROPERTY
+3269;Arrest;0;?
+3367;PrimaryType;ASSAULT;ASSAULT
+266;LocationDescription;GAS STATION;?
+2072;District;2.0;?
+575;LocationDescription;APARTMENT;?
+3827;Description;TO LAND;TO LAND
+4760;LocationDescription;CONVENIENCE STORE;?
+231;PrimaryType;MOTOR VEHICLE THEFT;MOTOR VEHICLE THEFT
+1883;Block;044XX W 16TH ST;?
+2403;IUCR;2090;?
+421;Domestic;0;?
+4264;IUCR;0820;?
+663;LocationDescription;RESIDENCE;?
+2320;Block;104XX S CALUMET AVE;?
+1420;Arrest;0;?
+1223;LocationDescription;STREET;?
+1384;LocationDescription;STREET;?
+3132;IUCR;0560;?
+2150;Description;$500 AND UNDER;$500 AND UNDER
+113;PrimaryType;ASSAULT;ASSAULT
+4707;Domestic;0;?
+3930;District;14.0;?
+2147;District;9.0;?
+2251;Arrest;0;?
+723;Description;UNLAWFUL ENTRY;UNLAWFUL ENTRY
+2339;Arrest;0;?
+1403;Ward;31.0;?
+3207;Domestic;1;?
+4055;Ward;9.0;?
+2647;District;12.0;?
+3523;Description;POSS: HEROIN(WHITE);POSS: HEROIN(WHITE)
+4208;IUCR;0810;?
+3891;Arrest;0;?
+688;District;9.0;?
+3904;Block;087XX W SUMMERDALE AVE;?
+656;Arrest;0;?
+982;IUCR;1310;?
+3923;Block;110XX S HOMEWOOD AVE;?
+678;LocationDescription;STREET;?
+2475;LocationDescription;STREET;?
+1286;PrimaryType;MOTOR VEHICLE THEFT;MOTOR VEHICLE THEFT
+4749;LocationDescription;RESIDENCE;?
+210;Description;SIMPLE;SIMPLE
+1396;Block;080XX S CRANDON AVE;?
+4031;LocationDescription;RESIDENCE;?
+660;IUCR;0486;?
+1318;Arrest;1;?
+1666;Arrest;0;?
+4573;Block;031XX W WILSON AVE;?
+2521;CommunityArea;10.0;?
+762;PrimaryType;CRIMINAL TRESPASS;CRIMINAL TRESPASS
+2192;District;3.0;?
+4890;LocationDescription;GROCERY FOOD STORE;?
+1732;Ward;4.0;?
+1875;PrimaryType;THEFT;THEFT
+970;Description;FORCIBLE ENTRY;FORCIBLE ENTRY
+486;Description;AUTOMOBILE;AUTOMOBILE
+2486;PrimaryType;BURGLARY;BURGLARY
+3128;Domestic;0;?
+1459;Domestic;0;?
+1760;IUCR;0486;?
+774;CommunityArea;62.0;?
+2765;Domestic;0;?
+3118;District;16.0;?
+4811;Domestic;0;?
+1546;CommunityArea;44.0;?
+4014;CommunityArea;70.0;?
+4377;Ward;4.0;?
+3123;Domestic;0;?
+1407;Block;091XX S ASHLAND AVE;?
+1757;Block;014XX W WEBSTER AVE;?
+1355;Description;OVER $500;OVER $500
+4351;Domestic;0;?
+3026;Domestic;0;?
+3509;PrimaryType;ROBBERY;ROBBERY
+4147;Ward;17.0;?
+1400;CommunityArea;2.0;?
+1624;LocationDescription;RESIDENCE;?
+2306;PrimaryType;OTHER OFFENSE;OTHER OFFENSE
+5;District;24.0;?
+580;CommunityArea;21.0;?
+4358;Domestic;1;?
+3274;Description;TO VEHICLE;TO VEHICLE
+2337;LocationDescription;RESIDENCE;?
+1758;Description;RETAIL THEFT;RETAIL THEFT
+4612;Arrest;0;?
+364;IUCR;1330;?
+4132;Domestic;0;?
+1711;Arrest;1;?
+4295;Arrest;0;?
+2011;PrimaryType;MOTOR VEHICLE THEFT;MOTOR VEHICLE THEFT
+2497;Description;TO LAND;TO LAND
+3756;Ward;34.0;?
+1718;CommunityArea;23.0;?
+3943;District;24.0;?
+476;CommunityArea;23.0;?
+3042;Domestic;0;?
+1343;Arrest;0;?
+3485;Arrest;0;?
+1582;Block;006XX E 91ST ST;?
+1483;District;8.0;?
+1873;Block;074XX S PAXTON AVE;?
+3076;Description;TO VEHICLE;TO VEHICLE
+2293;Domestic;0;?
+1352;District;10.0;?
+4307;Arrest;0;?
+2574;LocationDescription;RESIDENCE;?
+1955;Arrest;0;?
+656;Description;UNLAWFUL ENTRY;UNLAWFUL ENTRY
+2171;Block;095XX S MERRION AVE;?
+3718;IUCR;0460;?
+4214;LocationDescription;SMALL RETAIL STORE;?
+2028;Domestic;0;?
+1834;Description;RECKLESS CONDUCT;RECKLESS CONDUCT
+656;CommunityArea;29.0;?
+2168;PrimaryType;OTHER OFFENSE;OTHER OFFENSE
+4436;District;12.0;?
+2782;PrimaryType;CRIMINAL DAMAGE;CRIMINAL DAMAGE
+2227;IUCR;0820;?
+4552;Block;020XX E 67TH ST;?
+2930;CommunityArea;69.0;?
+436;Ward;6.0;?
+3521;Block;017XX W ALTGELD ST;?
+3535;Block;041XX W WILCOX ST;?
+276;Ward;24.0;?
+879;Arrest;0;?
+1722;District;25.0;?
+3370;CommunityArea;23.0;?
+3516;LocationDescription;CONVENIENCE STORE;?
+4761;District;2.0;?
+4981;CommunityArea;7.0;?
+2726;PrimaryType;CRIMINAL TRESPASS;CRIMINAL TRESPASS
+1141;Arrest;0;?
+1302;Description;SIMPLE;SIMPLE
+4966;Arrest;0;?
+2769;IUCR;0810;?
+1381;Ward;18.0;?
+1128;LocationDescription;APARTMENT;?
+1650;Arrest;0;?
+1381;PrimaryType;BURGLARY;BURGLARY
+1111;District;14.0;?
+237;Block;071XX N KEDZIE AVE;?
+177;District;11.0;?
+1471;Ward;32.0;?
+3938;Ward;27.0;?
+2169;CommunityArea;15.0;?
+2474;District;12.0;?
+186;Block;026XX E 79TH ST;?
+270;PrimaryType;ROBBERY;ROBBERY
+285;Block;070XX S JUSTINE ST;?
+3681;Description;FORCIBLE ENTRY;FORCIBLE ENTRY
+2537;Arrest;1;?
+2280;Domestic;0;?
+3654;Domestic;0;?
+281;Arrest;0;?
+1966;CommunityArea;24.0;?
+850;PrimaryType;CRIMINAL DAMAGE;CRIMINAL DAMAGE
+752;CommunityArea;61.0;?
+2659;IUCR;0486;?
+1285;Ward;20.0;?
+2061;Arrest;0;?
+2527;LocationDescription;APARTMENT;?
+4710;District;7.0;?
+4678;CommunityArea;75.0;?
+3711;IUCR;5001;?
+2924;IUCR;0820;?
+3086;Arrest;0;?
+2381;PrimaryType;BATTERY;BATTERY
+918;Description;$500 AND UNDER;$500 AND UNDER
+4025;CommunityArea;25.0;?
+882;Arrest;0;?
+42;IUCR;3731;?
+4272;CommunityArea;56.0;?
+1249;Block;082XX S MARQUETTE AVE;?
+2465;IUCR;0910;?
+602;Arrest;0;?
+1323;Domestic;0;?
+342;CommunityArea;67.0;?
+2508;Description;AGGRAVATED: OTHER DANG WEAPON;AGGRAVATED: OTHER DANG WEAPON
+3275;Ward;28.0;?
+2187;Ward;7.0;?
+922;Domestic;1;?
+1437;Description;TO VEHICLE;TO VEHICLE
+2893;LocationDescription;STREET;?
+1422;Domestic;0;?
+3882;Block;001XX N LA SALLE ST;?
+4455;IUCR;0560;?
+3806;District;4.0;?
+4160;Block;006XX N SAWYER AVE;?
+1814;District;16.0;?
+1026;Arrest;0;?
+2795;IUCR;0910;?
+558;IUCR;0820;?
+676;IUCR;1811;?
+38;District;8.0;?
+2258;PrimaryType;NARCOTICS;NARCOTICS
+3935;Domestic;0;?
+1403;District;25.0;?
+980;Domestic;0;?
+3912;Ward;14.0;?
+2532;District;11.0;?
+1090;Arrest;0;?
+3061;Ward;28.0;?
+133;Description;SIMPLE;SIMPLE
+1819;Ward;28.0;?
+2825;IUCR;0810;?
+2317;Description;MANU/DELIVER:COCAINE;?
+1894;IUCR;0486;?
+4893;LocationDescription;OTHER;?
+1501;Domestic;0;?
+1082;District;11.0;?
+1387;Domestic;1;?
+611;District;5.0;?
+979;CommunityArea;39.0;?
+2780;IUCR;1150;?
+877;Ward;20.0;?
+4415;District;9.0;?
+2430;Arrest;1;?
+592;Domestic;0;?
+3207;Block;032XX W DOUGLAS BLVD;?
+3586;CommunityArea;42.0;?
+50;PrimaryType;THEFT;THEFT
+1424;District;14.0;?
+4675;Domestic;0;?
+3331;LocationDescription;ATHLETIC CLUB;?
+4881;IUCR;0460;?
+2444;Ward;7.0;?
+903;CommunityArea;73.0;?
+3430;LocationDescription;STREET;?
+3418;Arrest;0;?
+4842;Domestic;0;?
+1646;Ward;6.0;?
+3674;CommunityArea;76.0;?
+872;Arrest;0;?
+331;IUCR;2825;?
+4775;Ward;48.0;?
+3054;PrimaryType;MOTOR VEHICLE THEFT;MOTOR VEHICLE THEFT
+1398;Ward;31.0;?
+1037;IUCR;1121;?
+1793;Block;012XX W LAKE ST;?
+3691;Ward;42.0;?
+4452;Domestic;0;?
+1996;Domestic;0;?
+1431;CommunityArea;25.0;?
+2909;IUCR;1310;?
+4016;District;6.0;?
+2411;LocationDescription;STREET;?
+3287;CommunityArea;6.0;?
+3455;District;8.0;?
+2289;PrimaryType;MOTOR VEHICLE THEFT;MOTOR VEHICLE THEFT
+295;LocationDescription;STREET;?
+2198;Block;008XX N MICHIGAN AVE;?
+1399;Domestic;0;?
+62;CommunityArea;28.0;?
+4252;Description;SIMPLE;SIMPLE
+3697;Arrest;1;?
+4015;CommunityArea;25.0;?
+2437;Block;053XX S MORGAN ST;?
+3795;PrimaryType;BURGLARY;BURGLARY
+2106;LocationDescription;APARTMENT;?
+909;District;5.0;?
+4049;Arrest;0;?
+1710;Block;008XX W IRVING PARK RD;?
+4202;CommunityArea;32.0;?
+1466;IUCR;0810;?
+2342;Ward;9.0;?
+2082;Block;055XX N CLARK ST;?
+864;District;15.0;?
+2969;Arrest;0;?
+4486;District;12.0;?
+3426;LocationDescription;RESIDENCE;?
+3357;CommunityArea;54.0;?
+3337;Description;POSS: HEROIN(WHITE);POSS: HEROIN(WHITE)
+1948;Ward;14.0;?
+761;Block;072XX S WOOD ST;?
+1362;IUCR;1310;?
+3894;Ward;45.0;?
+3578;IUCR;0486;?
+167;Arrest;0;0
+3670;Domestic;0;?
+393;District;6.0;?
+2580;CommunityArea;28.0;?
+4517;IUCR;0810;?
+2435;PrimaryType;ROBBERY;ROBBERY
+2975;Block;002XX E CHICAGO AVE;?
+2076;District;5.0;?
+4054;Arrest;0;?
+185;CommunityArea;25.0;?
+2647;PrimaryType;THEFT;THEFT
+4368;Ward;11.0;?
+4178;PrimaryType;BURGLARY;BURGLARY
+950;Ward;41.0;?
+1488;LocationDescription;VEHICLE NON-COMMERCIAL;?
+1909;Domestic;1;?
+4871;Ward;17.0;?
+2446;IUCR;4210;?
+3627;CommunityArea;29.0;?
+817;CommunityArea;28.0;?
+4183;Ward;36.0;?
+2343;LocationDescription;STREET;?
+1768;IUCR;051A;?
+4615;CommunityArea;22.0;?
+773;Arrest;0;?
+2005;Arrest;0;?
+972;PrimaryType;OTHER OFFENSE;OTHER OFFENSE
+4287;Arrest;0;?
+1522;Ward;29.0;?
+4367;Arrest;1;?
+419;Domestic;0;?
+353;LocationDescription;SIDEWALK;?
+4587;Domestic;0;?
+2173;Domestic;0;?
+666;Arrest;0;?
+808;Block;125XX S EMERALD AVE;?
+3451;Domestic;0;?
+610;CommunityArea;66.0;?
+4220;Arrest;0;?
+2892;IUCR;0820;?
+4706;District;4.0;?
+148;Domestic;0;?
+3350;CommunityArea;46.0;?
+2862;District;1.0;?
+1006;Domestic;0;?
+3804;Block;017XX W LUNT AVE;?
+2105;PrimaryType;THEFT;THEFT
+4510;Ward;27.0;?
+698;IUCR;0820;?
+1263;CommunityArea;28.0;?
+4187;Arrest;1;?
+2423;Arrest;0;?
+4321;Arrest;0;?
+2253;PrimaryType;BATTERY;BATTERY
+2198;LocationDescription;DEPARTMENT STORE;?
+715;PrimaryType;ASSAULT;ASSAULT
+970;PrimaryType;BURGLARY;BURGLARY
+2814;Block;003XX S CALIFORNIA AVE;?
+1126;LocationDescription;RESIDENCE PORCH/HALLWAY;?
+1519;Domestic;0;?
+59;Domestic;0;0
+91;District;5.0;?
+4838;Arrest;0;?
+536;Arrest;0;?
+1414;Arrest;0;?
+2501;Ward;2.0;?
+1735;Ward;37.0;?
+2604;PrimaryType;DECEPTIVE PRACTICE;DECEPTIVE PRACTICE
+2764;Domestic;0;?
+3778;LocationDescription;HOSPITAL BUILDING/GROUNDS;?
+3496;Description;DOMESTIC BATTERY SIMPLE;DOMESTIC BATTERY SIMPLE
+4110;Block;081XX S RACINE AVE;?
+2454;LocationDescription;HOSPITAL BUILDING/GROUNDS;?
+4159;District;22.0;?
+1605;Arrest;0;?
+4716;Ward;28.0;?
+3908;PrimaryType;THEFT;THEFT
+4155;Arrest;0;?
+577;CommunityArea;2.0;?
+4236;LocationDescription;GAS STATION;?
+4495;Block;0000X E 71ST ST;?
+1554;Arrest;0;?
+68;LocationDescription;LIBRARY;?
+1687;District;20.0;?
+3499;Domestic;0;?
+3019;IUCR;141A;?
+3326;Arrest;0;?
+1849;Description;AGGRAVATED: HANDGUN;AGGRAVATED: HANDGUN
+3772;Ward;43.0;?
+2130;Domestic;0;?
+4939;Description;AUTOMOBILE;AUTOMOBILE
+3313;IUCR;0810;?
+3625;Block;081XX S WESTERN AVE;?
+1481;CommunityArea;43.0;?
+2823;Domestic;0;?
+587;Arrest;1;?
+2723;IUCR;0820;?
+1584;Description;TO VEHICLE;TO VEHICLE
+681;PrimaryType;ASSAULT;ASSAULT
+3797;Ward;20.0;?
+1617;Domestic;0;?
+108;Description;UNLAWFUL POSS OF HANDGUN;UNLAWFUL POSS OF HANDGUN
+303;Block;001XX W MONROE ST;?
+1958;IUCR;0610;?
+1563;District;7.0;?
+3447;Description;SIMPLE;SIMPLE
+45;District;3.0;?
+2599;District;9.0;?
+1968;CommunityArea;61.0;?
+1436;PrimaryType;THEFT;THEFT
+1884;CommunityArea;19.0;?
+1907;PrimaryType;CRIMINAL TRESPASS;CRIMINAL TRESPASS
+2317;Ward;13.0;?
+2981;Domestic;0;?
+3995;Block;007XX N WELLS ST;?
+2863;District;25.0;?
+1630;LocationDescription;SIDEWALK;?
+1533;Ward;28.0;?
+1275;District;18.0;?
+3317;CommunityArea;69.0;?
+821;Ward;2.0;?
+1961;Arrest;0;?
+4828;IUCR;1150;?
+4647;Ward;20.0;?
+1574;CommunityArea;26.0;?
+3248;LocationDescription;APARTMENT;?
+4114;IUCR;4650;?
+979;District;2.0;?
+209;Domestic;0;0
+4821;CommunityArea;44.0;?
+1284;Block;035XX W MONTROSE AVE;?
+2617;District;25.0;?
+2719;Arrest;0;?
+181;Domestic;0;?
+1466;District;7.0;?
+1393;Description;AUTOMOBILE;AUTOMOBILE
+3425;Arrest;0;?
+4109;CommunityArea;25.0;?
+2009;Description;ILLEGAL USE CASH CARD;ILLEGAL USE CASH CARD
+3520;PrimaryType;BATTERY;BATTERY
+1334;District;6.0;?
+4674;District;6.0;?
+700;Description;POSS: HEROIN(WHITE);POSS: HEROIN(WHITE)
+559;Block;019XX W HARRISON ST;?
+1401;Ward;46.0;?
+2068;LocationDescription;APARTMENT;?
+333;Ward;6.0;?
+1178;LocationDescription;OTHER;?
+2198;Arrest;0;?
