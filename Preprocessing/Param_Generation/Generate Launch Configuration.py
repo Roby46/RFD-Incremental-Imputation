@@ -5,7 +5,8 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?", 12, 150, 3,0,5,2,8,2,1,4,1,2,2,2] #Olympics
     #fixed_params = [";", "?", 10, 16, 1, 5, 10000, 10,2, 2, 0.5, 4, 32, 3] #Smartphones
     #fixed_params = [";", "?", 7, 240, 5, 0, 5, 2,60, 1.5, 0] #Actors
-    fixed_params = [";", "?", 10, 100, 6, 0, 5, 10, 3, 0, 0, 1, 2, 3] #Chicago
+    #fixed_params = [";", "?", 10, 100, 6, 0, 5, 10, 3, 0, 0, 1, 2, 3] #Chicago
+    fixed_params = [";", "?", 12,157,2,2,2,2,2,5,2,3,10,2,2,2 ]  # NBA
 
     command_strings = []
 
@@ -23,12 +24,12 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
 
     return command_strings
 
-def generate_launch_file(dataset_name, command_string, template, output_dir):
+def generate_launch_file(dataset_name, command_string, template, output_dir, reevaluation):
     launch_content = template.format(
         dataset_name=dataset_name,
         command_string=command_string
     )
-    filename = os.path.join(output_dir, f"{dataset_name}.launch")
+    filename = os.path.join(output_dir, f"{dataset_name}_{reevaluation}.launch")
     with open(filename, "w") as f:
         f.write(launch_content)
 
@@ -56,7 +57,7 @@ launch_template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 """
 
 #dataset = "EV_Vehicles_4000"  # Change dataset name as needed
-dataset = "Chicago_5000"  # Change dataset name as needed
+dataset = "NBA_7836"  # Change dataset name as needed
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
 reevaluation=True
@@ -66,7 +67,8 @@ reevaluation=True
 #missing_values = [900, 1800, 2700, 3600, 4500, 9000, 18000, 27000, 36000, 45000] #Olympics_7500
 #missing_values = [82, 165, 247, 329, 412, 823, 1646, 2469, 3292, 4115] #Smartphones
 #missing_values = [840, 1680, 2520, 3360, 4200, 8400, 16800, 25200, 33600, 42000] #Actors
-missing_values = [500, 1000, 1500, 2000, 2500, 5000, 10000, 15000, 20000, 25000] #Chicago
+#missing_values = [500, 1000, 1500, 2000, 2500, 5000, 10000, 15000, 20000, 25000] #Chicago
+missing_values = [940, 1881, 2821, 3761, 4702, 9403, 18806, 28210, 37613, 47016] #NBA
 
 # Generate the command strings
 commands = generate_command_strings(versions, missing_values, dataset,reevaluation)
@@ -77,7 +79,7 @@ os.makedirs(output_dir, exist_ok=True)
 
 # Generate the .launch files
 for dataset_name, command_string in commands:
-    generate_launch_file(dataset_name, command_string, launch_template, output_dir)
+    generate_launch_file(dataset_name, command_string, launch_template, output_dir, reevaluation)
 
 print(f"Generated {len(commands)} launch files in '{output_dir}'")
 

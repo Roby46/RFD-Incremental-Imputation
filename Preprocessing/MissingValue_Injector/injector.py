@@ -48,14 +48,14 @@ def write_row_to_csv(file_path, row_data):
         writer.writerow(row_data)
 
 #Percentages of MVs to inject
-percentages=[2,3,4,5,10,20,30,40,50]
+percentages=[1,2,3,4,5,10,20,30,40,50]
 
 column_types=[""]
 #percentages=[1]
 #dataset="restaurant"
 
 #Dataset details
-dataset="Chicago_5000"
+dataset="NBA_7836"
 delimiter = ';'
 path_file = f'../../Datasets/Preprocessed_Datasets/{dataset}.csv'
 #Iterations number (We tested 5 different version for each configuration)
