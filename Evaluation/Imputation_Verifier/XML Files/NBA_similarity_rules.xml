@@ -1,0 +1,11 @@
+<similarity_rules>
+    <attr name="birth_year" type="delta">
+        <value>1</value>
+    </attr>
+    <attr name="height_cm" type="delta">
+        <value>2</value>
+    </attr>
+    <attr name="weight_kg" type="delta">
+        <value>3</value>
+    </attr>
+</similarity_rules>

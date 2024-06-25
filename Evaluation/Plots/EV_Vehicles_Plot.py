@@ -200,7 +200,6 @@ for ax in axs.flat:
     ax.xaxis.set_minor_locator(MultipleLocator(1))  # Customize the spacing between minor gridlines on the x-axis
     ax.yaxis.set_minor_locator(MultipleLocator(0.05))  # Customize the spacing between minor gridlines on the y-axis
 
-
 # Create legend artists for each line
 legend_artist1 = plt.Line2D([0], [0], color='#F0002B', linestyle='-', label='Pipeline')
 legend_artist2 = plt.Line2D([0], [0], color='#0072B2', linestyle='-', label='Baseline')

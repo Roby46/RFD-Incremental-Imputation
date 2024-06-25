@@ -4,13 +4,12 @@
 This repository contains all useful tools for replicating the empirical study concering metadata-driven incremental imputation. Our study focuses on the evaluation of the benefits derived from the cooperation between incremental discovery algorithms and metadata-driven imputation algorithms. To this aim, we devised two different pipelines: the Imputation Pipeline poses an incremental discovery algorithm to support imputation, while the Discovery pipeline poses imputation processes to support metadata discovery.
 This repository contains a python project that provides all the necessary tools to prepare data and to perform an evaluation of the results. The scripts for plotting the latters is also here provided. 
 
-## Project overiview
+## Project overview
 
 The repository is divided into two main folders (i.e. RFD-Incremental Imputation and RFD-Incremental Imputation Utils).
 
 ### 1 - RFD-Incremental Imputation
-
-This folder contain the java executables necessay for running the experiments. This section describes the main files stored in this folder, for instructions about how to run the experiments refer to the section "How to Use". 
+This folder contain the java executables necessary for running the experiments. This section describes the main files stored in this folder, for instructions about how to run the experiments refer to the section "How to Use". 
 
 ### 1.1 - Project Files
 
@@ -23,7 +22,6 @@ To run the experiments, the following files are required:
 ### 1.2 - Project Executables
 
 The folder contains the following Java Executables:
-
 
 
 ### 2 - RFD-Incremental Imputation Utils
@@ -49,10 +47,11 @@ This folder is divided into 3 subfolders: ‘Original Datasets’ contains the o
 | Books  (promettente ma con problemi di codifica)           |       |         |                             | []                                         | Kaggle                                                                                     |
 | Laptops                                                    |       |         |                             | []                                         | Kaggle                                                                                     |
 | ActorFilms  (prossimo da provare)                          | 12000 | 7       | 240-1800-2400               | [7, 240, 5, 0, 5, 2,60, 1.5, 0]            | https://www.kaggle.com/datasets/darinhawley/imdb-films-by-actor-for-10k-actors             |
-| Smartphones                                                | 823   | 10      | 16--160                     | [1, 5, 10000, 10,2, 2, 0.5, 4, 32, 3]      | Kaggle                                                                                     |
-| NBA       (promettente)                                    | 7836  | 12      | 157-1175-1567               | [2,2,2,2,2,5,2,3,10,2,2,2]                 | https://www.kaggle.com/datasets/jacobbaruch/basketball-players-stats-per-season-49-leagues |
+| Smartphones  (non buono)                                   | 823   | 10      | 16--160                     | [1, 5, 10000, 10,2, 2, 0.5, 4, 32, 3]      | Kaggle                                                                                     |
+| NBA       (in corso sul mio pc)                            | 7836  | 12      | 157-1175-1567               | [2,2,2,2,2,5,2,3,10,2,2,2]                 | https://www.kaggle.com/datasets/jacobbaruch/basketball-players-stats-per-season-49-leagues |
 | Formula 1 (promettente ma con problemi di codifica)        |       |         |                             |                                            | https://www.kaggle.com/datasets/lakshayjain611/f1-races-results-dataset-1950-to-2024       |
 | Chicago crimes  (Solo 2 RFD - provare con altre threshold) | 5000  | 10      | 100-750-1000                | [6,0,5,10,3,0,0,1,2,3]                     | https://www.kaggle.com/datasets/currie32/crimes-in-chicago                                 |
+| Bikes  (promettente)                                       | 4100  | 9       |                             | [2,500,0,0,10,4,20000,1,5]                 | https://www.kaggle.com/datasets/ropali/used-bike-price-in-india                                                                                     |
 
 -dati = più variabilità delle RFD. Per questo aumentando gli MV la differenza è più netta. Questo spiega anche perché va meglio con dataset piccoli
 
@@ -80,13 +79,12 @@ This folder contains the files needed to assess the quality of the imputations m
 In what follows, we provide an example on how to use the tools in this repository. Specifically, we consider an example regarding the dataset EV_Vehicles. 
 
 ### Step 1: Preprocessing
-
-To start 
-
 #### 1.1 Dataset preparation
+First, the original dataset (in the Original Datasets folder) is preprocessed to remove null values already present, to clean up any imperfections and to remove attributes not of interest in the imputation process (such as IDs). To do this, you can run the Preprocessing EV Vehicles file in the Preprocessing > Dataset_Preprocessing folder.
 #### 1.2 Missing value injection
+At this point, the dataset is ready to be used to generate data for the experiment. In Preprocessing > MissingValue_Injector there is a file that allows you to automatically generate datasets with various percentages of missing values (which can be specified in the percentages list). it is also possible to specify the number of datasets generated by the script: in our study we generate 5 datasets for each percentage of missing values, then set the iteration list with the version numbers (1,2,3,4,5)
 #### 1.3 Parameters generation
-
+After the previous steps have been completed, the imputation can be started. To simplify the start of the script, there is a script in the Preprocessing > Param_Generation folder that automatically generates the argument string to be passed to the java executable. 
 ### Step 2: Run algorithms
 
 #### 2.1 Configuration
@@ -101,10 +99,11 @@ All the Java executables require the following arguments:
 - Re-evaluation: a boolean parameter that, if set to True, enables the re-evaluation of older imputations made with invalidated RFDs. When set to false, the algorithms will not re-evaluate previously made imputations 
 - Thresholds: a list of float numbers indicating the similarity thresholds defined on each attribute of the dataset
 
-For example, here is the arguments for the execution of a test on the EV_Vehicles_4000 dataset:
+For example, these are the arguments for the execution of a test on the EV_Vehicles_4000 dataset, with 480 missing values and the first configuration:
 ```
 "EV_Vehicles_4000_480_1.csv" ";" "?" 10 80 "True" 2.5 2.5 1 2 2 3 3 3 20 10
 ```
+where 10 is the number of attributes, 80 the size of the sliding window and the remaining values are the threshold for each attribute. 
 #### 2.2 Run imputation Pipeline & Baseline approach
 #### 2.3 Run discovery Pipeline & Baseline approach
 
