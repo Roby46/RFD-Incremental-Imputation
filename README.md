@@ -51,10 +51,10 @@ This folder is divided into 3 subfolders: ‘Original Datasets’ contains the o
 | NBA       (in corso sul mio pc)                            | 7836  | 12      | 157-1175-1567               | [2,2,2,2,2,5,2,3,10,2,2,2]                 | https://www.kaggle.com/datasets/jacobbaruch/basketball-players-stats-per-season-49-leagues |
 | Formula 1 (promettente ma con problemi di codifica)        |       |         |                             |                                            | https://www.kaggle.com/datasets/lakshayjain611/f1-races-results-dataset-1950-to-2024       |
 | Chicago crimes  (Solo 2 RFD - provare con altre threshold) | 5000  | 10      | 100-750-1000                | [6,0,5,10,3,0,0,1,2,3]                     | https://www.kaggle.com/datasets/currie32/crimes-in-chicago                                 |
-| Bikes  (promettente)                                       | 4100  | 9       |                             | [2,500,0,0,10,4,20000,1,5]                 | https://www.kaggle.com/datasets/ropali/used-bike-price-in-india                                                                                     |
+| Bikes  (promettente)                                       | 4100  | 9       |                             | [2,500,0,0,10,4,20000,1,5]                 | https://www.kaggle.com/datasets/ropali/used-bike-price-in-india                            |
 
 -dati = più variabilità delle RFD. Per questo aumentando gli MV la differenza è più netta. Questo spiega anche perché va meglio con dataset piccoli
-
+In scenari reali con più variabilità (anche perché ci sono aggiornamenti e cancellazioni) la differenza è ancora più grande
 ### 2.2 Preprocessing
 
 The Preprocessing folder contains all the scripts needed to prepare the data and generate the files required for the imputation algorithm. 
