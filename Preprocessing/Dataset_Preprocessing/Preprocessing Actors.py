@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 df=pd.read_csv("../../Datasets/Original_Datasets/actorfilms.csv")
-rows=12000
+rows=4000
 
 print(df)
 # Sostituire '?' con np.nan

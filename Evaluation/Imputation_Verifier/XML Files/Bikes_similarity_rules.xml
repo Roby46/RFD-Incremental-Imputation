@@ -1,0 +1,14 @@
+<similarity_rules>
+    <attr name="kms_driven" type="delta">
+        <value>200</value>
+    </attr>
+    <attr name="mileage" type="delta">
+        <value>1000</value>
+    </attr>
+    <attr name="price" type="delta">
+        <value>2000</value>
+    </attr>
+    <attr name="power" type="delta">
+        <value>2</value>
+    </attr>
+</similarity_rules>
