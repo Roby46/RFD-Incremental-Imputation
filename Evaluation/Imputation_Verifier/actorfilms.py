@@ -62,7 +62,7 @@ def are_similar(attribute, value1, value2):
 
 # Leggi il CSV
 version=1
-MV=840
+MV=2800
 
 approach="Pipeline"
 #approach="Baseline"
@@ -72,15 +72,15 @@ approach="Pipeline"
 
 df=""
 if(approach=="Baseline"):
-    df=pd.read_csv(f"../Imputation_Results/Imputation_Baseline_Results/actorfilms_12000/{version}/Baseline_actorfilms_12000_{MV}_{version}.csv", sep=';')
+    df=pd.read_csv(f"../Imputation_Results/Imputation_Baseline_Results/actorfilms_4000/{version}/Baseline_actorfilms_4000_{MV}_{version}.csv", sep=';')
 elif(approach=="Pipeline_noRev"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_noRestoring_Results/actorfilms_12000/{version}/actorfilms_12000_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_noRestoring_Results/actorfilms_4000/{version}/actorfilms_4000_{MV}_{version}.csv", sep=';')
 elif(approach=="Baseline20"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Baseline_20_Results/actorfilms_12000/{version}/Baseline_actorfilms_12000_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Baseline_20_Results/actorfilms_4000/{version}/Baseline_actorfilms_4000_{MV}_{version}.csv", sep=';')
 elif(approach=="Pipeline"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Pipeline_Results/actorfilms_12000/{version}/actorfilms_12000_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Pipeline_Results/actorfilms_4000/{version}/actorfilms_4000_{MV}_{version}.csv", sep=';')
 elif(approach=="Hybrid"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Hybrid_Results/actorfilms_12000/{version}/actorfilms_12000_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Hybrid_Results/actorfilms_4000/{version}/actorfilms_4000_{MV}_{version}.csv", sep=';')
 
 df = df.drop(['riga'], axis=1)
 print(df.columns.tolist())
