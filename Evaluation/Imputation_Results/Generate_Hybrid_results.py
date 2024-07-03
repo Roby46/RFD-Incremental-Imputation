@@ -26,9 +26,9 @@ def process_files(dataset, versions, MVs):
 #dataset = "EV_Vehicles_4000"
 #versions = [1,2,3,4,5]  # Lista delle versioni
 #MVs = [400, 800, 1200, 1600, 2000, 4000, 8000, 12000, 16000, 20000]  # Lista dei MVs
-dataset="Olympics_10000"
-versions = [1]
-MVs = [2400]
+dataset="actorfilms_4000"
+versions = [1,2,3,4,5]
+MVs = [280,560,840,1120,1400,2800,5600,8400,11200,14000]
 
 # Esegui il processo per tutte le combinazioni
 process_files(dataset, versions, MVs)
