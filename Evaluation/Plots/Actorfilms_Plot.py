@@ -178,7 +178,7 @@ axs[2].plot(r1, EV_VehiclesF1Hybrid, marker="v", markersize=5, color='#02AEC6', 
 
 axs[0].set_xticks(np.arange(10),["1","2","3","4","5","10","20","30","40","50"])
 axs[0].set_ylabel('Precision', rotation='vertical')
-axs[0].set_title('EV_Vehicles', fontsize=12)
+axs[0].set_title('ActorFilms', fontsize=12)
 
 axs[1].set_xticks(np.arange(10),["1","2","3","4","5","10","20","30","40","50"])
 axs[1].set_ylabel('Recall', rotation='vertical')

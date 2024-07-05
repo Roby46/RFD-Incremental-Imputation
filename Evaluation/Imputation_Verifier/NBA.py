@@ -62,7 +62,7 @@ def are_similar(attribute, value1, value2):
 
 # Leggi il CSV
 version=3
-MV=2821
+MV=1881
 
 approach="Pipeline"
 #approach="Baseline"
