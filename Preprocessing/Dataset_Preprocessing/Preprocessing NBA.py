@@ -28,7 +28,8 @@ print(df.columns.tolist())
 
 print(df)
 #
-# df=df.sample(rows)
+rows=3200
+df=df.sample(rows)
 # df.columns = df.columns.str.replace(' ', '_')
 #
 filename=f"../../Datasets/Preprocessed_Datasets/NBA_{len(df)}.csv"

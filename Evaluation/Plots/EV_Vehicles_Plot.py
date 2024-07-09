@@ -145,28 +145,28 @@ r1 = np.arange(10)
 fig, axs = plt.subplots(3, 1, figsize=(6,9), sharey=True)
 fig.subplots_adjust(hspace=0.1, wspace=0.05)
 
-axs[0].plot(r1, EV_VehiclesPrePipeline, marker="v", markersize=5, color="#F0002B",zorder=3)
-axs[0].plot(r1, EV_VehiclesPreBaseline, marker="v", markersize=5, color="#0072B2", zorder=2)
-axs[0].plot(r1, EV_VehiclesPreBaseline20, marker="v", markersize=5, color="#FF6700", zorder=2)
-axs[0].plot(r1, EV_VehiclesPrePipelineNoRev, marker="v", markersize=5, color="#00D942", zorder=2)
-axs[0].plot(r1, EV_VehiclesPreHybrid, marker="v", markersize=5, color="#02AEC6",zorder=3)
+axs[0].plot(r1, EV_VehiclesPrePipeline, marker="x", markersize=8, color="#ff0000",zorder=3)
+axs[0].plot(r1, EV_VehiclesPreBaseline, marker="+", markersize=10, color="#00C3CC", zorder=2)
+axs[0].plot(r1, EV_VehiclesPreBaseline20, marker="2", markersize=10, color="#00748f", zorder=2)
+axs[0].plot(r1, EV_VehiclesPrePipelineNoRev, marker="o", markersize=5, color="#FFA600", zorder=2)
+axs[0].plot(r1, EV_VehiclesPreHybrid, marker="2", markersize=10, color="#61a44f",zorder=3,linestyle="dashdot")
 
 
-axs[1].plot(r1, EV_VehiclesRecPipeline, marker="v", markersize=5, color="#F0002B", zorder=3)
-axs[1].plot(r1, EV_VehiclesRecBaseline, marker="v", markersize=5, color="#0072B2", zorder=2)   #0072b2
-axs[1].plot(r1, EV_VehiclesRecBaseline20, marker="v", markersize=5, color="#FF6700", zorder=2)   #0072b2
-axs[1].plot(r1, EV_VehiclesRecPipelineNoRev, marker="v", markersize=5, color="#00D942", zorder=2)   #0072b2
-axs[1].plot(r1, EV_VehiclesRecHybrid, marker="v", markersize=5, color="#02AEC6", zorder=3)
+axs[1].plot(r1, EV_VehiclesRecPipeline,  marker="x", markersize=8, color="#ff0000", zorder=3)
+axs[1].plot(r1, EV_VehiclesRecBaseline, marker="+", markersize=10, color="#00C3CC", zorder=2)   #0072b2
+axs[1].plot(r1, EV_VehiclesRecBaseline20,marker="2", markersize=10, color="#00748f", zorder=2)   #0072b2
+axs[1].plot(r1, EV_VehiclesRecPipelineNoRev,  marker="o", markersize=5, color="#FFA600", zorder=2)   #0072b2
+axs[1].plot(r1, EV_VehiclesRecHybrid, marker="2", markersize=10, color="#61a44f", zorder=3)
 
 
 
 
 
-axs[2].plot(r1, EV_VehiclesF1Pipeline, marker="v", markersize=5, color='#F0002B', zorder=3)
-axs[2].plot(r1, EV_VehiclesF1Baseline, marker="v", markersize=5, color="#0072B2", zorder=2)
-axs[2].plot(r1, EV_VehiclesF1Baseline20, marker="v", markersize=5, color="#FF6700", zorder=2)
-axs[2].plot(r1, EV_VehiclesF1PipelineNoRev, marker="v", markersize=5, color="#00D942", zorder=2)
-axs[2].plot(r1, EV_VehiclesF1Hybrid, marker="v", markersize=5, color='#02AEC6', zorder=3)
+axs[2].plot(r1, EV_VehiclesF1Pipeline,  marker="x", markersize=8, color='#ff0000', zorder=3)
+axs[2].plot(r1, EV_VehiclesF1Baseline, marker="+", markersize=10, color="#00C3CC", zorder=2)
+axs[2].plot(r1, EV_VehiclesF1Baseline20, marker="2", markersize=10, color="#00748f", zorder=2)
+axs[2].plot(r1, EV_VehiclesF1PipelineNoRev,  marker="o", markersize=5, color="#FFA600", zorder=2)
+axs[2].plot(r1, EV_VehiclesF1Hybrid, marker="2", markersize=10, color='#61a44f', zorder=3)
 
 
 
@@ -201,11 +201,11 @@ for ax in axs.flat:
     ax.yaxis.set_minor_locator(MultipleLocator(0.05))  # Customize the spacing between minor gridlines on the y-axis
 
 # Create legend artists for each line
-legend_artist1 = plt.Line2D([0], [0], color='#F0002B', linestyle='-', label='Pipeline')
-legend_artist2 = plt.Line2D([0], [0], color='#0072B2', linestyle='-', label='Baseline')
-legend_artist3 = plt.Line2D([0], [0], color='#00D942', linestyle='-', label='Pipeline NoRev')
-legend_artist4 = plt.Line2D([0], [0], color='#02AEC6', linestyle='-', label='Hybrid')
-legend_artist5 = plt.Line2D([0], [0], color='#FF6700', linestyle='-', label='Baseline20')
+legend_artist1 = plt.Line2D([0], [0], color='#ff0000', linestyle='-', label='Pipeline', marker="x", markersize=10)
+legend_artist2 = plt.Line2D([0], [0], color='#00C3CC', linestyle='-', label='Baseline', marker="+", markersize=10)
+legend_artist3 = plt.Line2D([0], [0], color='#FFA600', linestyle='-', label='Pipeline NoRev', marker="o")
+legend_artist4 = plt.Line2D([0], [0], color='#61a44f', linestyle='dashdot', label='Hybrid', marker="2", markersize=10)
+legend_artist5 = plt.Line2D([0], [0], color='#00748f', linestyle='-', label='Baseline20', marker="2", markersize=12)
 
 # Add the legend artists to the figure
 legend = fig.legend(handles=[legend_artist1, legend_artist2, legend_artist3, legend_artist4, legend_artist5], loc='upper center', ncol=5, bbox_to_anchor=(0.5, 0.95), shadow=True)
