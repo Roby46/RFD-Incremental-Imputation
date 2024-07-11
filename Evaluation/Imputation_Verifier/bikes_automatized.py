@@ -122,7 +122,7 @@ def checkResults(version, approach, MV):
 
 
 #approaches=["Baseline", "Pipeline","Pipeline_noRev","Hybrid","Baseline20"]
-approaches=["Pipeline","Baseline20"]
+approaches=["Pipeline","Baseline20","Pipeline_noRev","Hybrid"]
 versions=[1,2,3,4,5]
 MVs = [369, 738, 1107, 1476, 1845, 3690, 7380, 11070, 14760, 18450]
 

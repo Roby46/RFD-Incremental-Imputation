@@ -52,7 +52,7 @@ delimiter = ';'
 path_file = f'../../Datasets/Preprocessed_Datasets/{dataset}.csv'
 iterations = [1, 2, 3, 4, 5]
 null_value = '?'
-n_inviolable_rows = 4  # Number of rows to remain complete in each half
+n_inviolable_rows = 3  # Number of rows to remain complete in each half
 
 df = pd.read_csv(path_file, sep=delimiter)
 totalValues = len(df.columns.tolist()) * len(df)

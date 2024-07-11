@@ -7,7 +7,7 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?", 7, 240, 5, 0, 5, 2,60, 1.5, 0] #Actors
     #fixed_params = [";", "?", 10, 100, 6, 0, 5, 10, 3, 0, 0, 1, 2, 3] #Chicago
     #fixed_params = [";", "?", 12,157,2,2,2,2,2,5,2,3,10,2,2,2 ]  # NBA
-    fixed_params = [";", "?", 12,64,2,2,2,2,2,5,2,3,10,2,2,2 ]  # NBA 3200
+    fixed_params = [";", "?", 12,64,2,2,2,2,2,5,2,3,10,2,2,2 ]  # NBA 3200 64-640
     #fixed_params = [";", "?", 9, 82,2,500,0,0,10,4,20000,1,5]  # Bikes
     #fixed_params = [";", "?", 9, 82, 6, 5000, 6, 6, 5, 8, 10000, 12, 6] # Bikes Updated  82-820
     #fixed_params = [";", "?", 7, 80,1, 0, 3, 2, 100, 1.5,0]  # ActorFilms
@@ -47,8 +47,8 @@ versions = [1, 2, 3, 4, 5]
 heap_size_gb=60
 
 #Scelta delle pipeline
-algoritmo="Pipeline"
-#algoritmo="Baseline"
+#algoritmo="Pipeline"
+algoritmo="Baseline"
 #algoritmo="RFD_Generator"
 reevaluation=True #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
