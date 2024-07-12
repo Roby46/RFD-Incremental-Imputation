@@ -139,57 +139,85 @@ EV_VehiclesF1Hybrid = 2 * (EV_VehiclesPreHybrid * EV_VehiclesRecHybrid) / (EV_Ve
 EV_VehiclesF1PipelineNoRev = 2 * (EV_VehiclesPrePipelineNoRev * EV_VehiclesRecPipelineNoRev) / (EV_VehiclesPrePipelineNoRev + EV_VehiclesRecPipelineNoRev)
 
 
+EV_VehiclesGMeanPipeline = np.sqrt(EV_VehiclesPrePipeline * EV_VehiclesRecPipeline)
+#EV_VehiclesGMeanBaseline = np.sqrt(EV_VehiclesPreBaseline * EV_VehiclesRecBaseline)
+EV_VehiclesGMeanBaseline20 = np.sqrt(EV_VehiclesPreBaseline20 * EV_VehiclesRecBaseline20)
+EV_VehiclesGMeanHybrid = np.sqrt(EV_VehiclesPreHybrid * EV_VehiclesRecHybrid)
+EV_VehiclesGMeanPipelineNoRev = np.sqrt(EV_VehiclesPrePipelineNoRev * EV_VehiclesRecPipelineNoRev)
+
+# beta=0.4
+# EV_VehiclesF0_5Pipeline = (1 + beta**2) * (EV_VehiclesPrePipeline * EV_VehiclesRecPipeline) / ((beta**2 * EV_VehiclesPrePipeline) + EV_VehiclesRecPipeline)
+# #EV_VehiclesF0_5Baseline = (1 + beta**2) * (EV_VehiclesPreBaseline * EV_VehiclesRecBaseline) / ((beta**2 * EV_VehiclesPreBaseline) + EV_VehiclesRecBaseline)
+# EV_VehiclesF0_5Baseline20 = (1 + beta**2) * (EV_VehiclesPreBaseline20 * EV_VehiclesRecBaseline20) / ((beta**2 * EV_VehiclesPreBaseline20) + EV_VehiclesRecBaseline20)
+# EV_VehiclesF0_5Hybrid = (1 + beta**2) * (EV_VehiclesPreHybrid * EV_VehiclesRecHybrid) / ((beta**2 * EV_VehiclesPreHybrid) + EV_VehiclesRecHybrid)
+# EV_VehiclesF0_5PipelineNoRev = (1 + beta**2) * (EV_VehiclesPrePipelineNoRev * EV_VehiclesRecPipelineNoRev) / ((beta**2 * EV_VehiclesPrePipelineNoRev) + EV_VehiclesRecPipelineNoRev)
+
 
 r1 = np.arange(10)
 
-fig, axs = plt.subplots(3, 1, figsize=(6,9), sharey=True)
+fig, axs = plt.subplots(4, 1, figsize=(5,9), sharey=True)
 fig.subplots_adjust(hspace=0.1, wspace=0.05)
 
 axs[0].plot(r1, EV_VehiclesPrePipeline, marker="x", markersize=8, color="#ff0000",zorder=3)
-axs[0].plot(r1, EV_VehiclesPreBaseline, marker="+", markersize=10, color="#00C3CC", zorder=2)
+# axs[0].plot(r1, EV_VehiclesPreBaseline,marker="+", markersize=10, color="#00C3CC", zorder=2)
 axs[0].plot(r1, EV_VehiclesPreBaseline20, marker="2", markersize=10, color="#00748f", zorder=2)
 axs[0].plot(r1, EV_VehiclesPrePipelineNoRev, marker="o", markersize=5, color="#FFA600", zorder=2)
 axs[0].plot(r1, EV_VehiclesPreHybrid, marker="2", markersize=10, color="#61a44f",zorder=3,linestyle="dashdot")
 
 
-axs[1].plot(r1, EV_VehiclesRecPipeline,  marker="x", markersize=8, color="#ff0000", zorder=3)
-axs[1].plot(r1, EV_VehiclesRecBaseline, marker="+", markersize=10, color="#00C3CC", zorder=2)   #0072b2
-axs[1].plot(r1, EV_VehiclesRecBaseline20,marker="2", markersize=10, color="#00748f", zorder=2)   #0072b2
-axs[1].plot(r1, EV_VehiclesRecPipelineNoRev,  marker="o", markersize=5, color="#FFA600", zorder=2)   #0072b2
-axs[1].plot(r1, EV_VehiclesRecHybrid, marker="2", markersize=10, color="#61a44f", zorder=3)
+axs[1].plot(r1, EV_VehiclesRecPipeline, marker="x", markersize=8, color="#ff0000",zorder=3)
+# axs[1].plot(r1, EV_VehiclesRecBaseline, marker="+", markersize=10, color="#00C3CC", zorder=2)
+axs[1].plot(r1, EV_VehiclesRecBaseline20, marker="2", markersize=10, color="#00748f", zorder=2)
+axs[1].plot(r1, EV_VehiclesRecPipelineNoRev, marker="o", markersize=5, color="#FFA600", zorder=2)
+axs[1].plot(r1, EV_VehiclesRecHybrid, marker="2", markersize=10, color="#61a44f",zorder=3,linestyle="dashdot")
 
 
 
 
 
-axs[2].plot(r1, EV_VehiclesF1Pipeline,  marker="x", markersize=8, color='#ff0000', zorder=3)
-axs[2].plot(r1, EV_VehiclesF1Baseline, marker="+", markersize=10, color="#00C3CC", zorder=2)
+axs[2].plot(r1, EV_VehiclesF1Pipeline, marker="x", markersize=8, color="#ff0000",zorder=3)
+# axs[2].plot(r1, EV_VehiclesF1Baseline, marker="+", markersize=10, color="#00C3CC", zorder=2)
 axs[2].plot(r1, EV_VehiclesF1Baseline20, marker="2", markersize=10, color="#00748f", zorder=2)
-axs[2].plot(r1, EV_VehiclesF1PipelineNoRev,  marker="o", markersize=5, color="#FFA600", zorder=2)
-axs[2].plot(r1, EV_VehiclesF1Hybrid, marker="2", markersize=10, color='#61a44f', zorder=3)
+axs[2].plot(r1, EV_VehiclesF1PipelineNoRev, marker="o", markersize=5, color="#FFA600", zorder=2)
+axs[2].plot(r1, EV_VehiclesF1Hybrid, marker="2", markersize=10, color="#61a44f",zorder=3,linestyle="dashdot")
 
+axs[3].plot(r1, EV_VehiclesGMeanPipeline, marker="x", markersize=8, color="#ff0000",zorder=3)
+# axs[3].plot(r1, EV_VehiclesGMeanBaseline, marker="+", markersize=10, color="#00C3CC", zorder=2)
+axs[3].plot(r1, EV_VehiclesGMeanBaseline20, marker="2", markersize=10, color="#00748f", zorder=2)
+axs[3].plot(r1, EV_VehiclesGMeanPipelineNoRev, marker="o", markersize=5, color="#FFA600", zorder=2)
+axs[3].plot(r1, EV_VehiclesGMeanHybrid, marker="2", markersize=10, color="#61a44f",zorder=3,linestyle="dashdot")
 
+# axs[4].plot(r1, EV_VehiclesF0_5Pipeline, marker="x", markersize=8, color="#ff0000",zorder=3)
+# # axs[4].plot(r1, EV_VehiclesF0_5Baseline, marker="+", markersize=10, color="#00C3CC", zorder=2)
+# axs[4].plot(r1, EV_VehiclesF0_5Baseline20, marker="2", markersize=10, color="#00748f", zorder=2)
+# axs[4].plot(r1, EV_VehiclesF0_5PipelineNoRev, marker="o", markersize=5, color="#FFA600", zorder=2)
+# axs[4].plot(r1, EV_VehiclesF0_5Hybrid, marker="2", markersize=10, color="#61a44f",zorder=3,linestyle="dashdot")
 
 axs[0].set_xticks(np.arange(10),["1","2","3","4","5","10","20","30","40","50"])
 axs[0].set_ylabel('Precision', rotation='vertical')
-axs[0].set_title('EV_Vehicles', fontsize=12)
+axs[0].set_title('ActorFilms', fontsize=12)
 
 axs[1].set_xticks(np.arange(10),["1","2","3","4","5","10","20","30","40","50"])
 axs[1].set_ylabel('Recall', rotation='vertical')
 
 axs[2].set_xticks(np.arange(10),["1","2","3","4","5","10","20","30","40","50"])
-axs[2].set_ylabel('F1-Measure', rotation='vertical')
+axs[2].set_ylabel('F1-Score', rotation='vertical')
+
+axs[3].set_xticks(np.arange(10),["1","2","3","4","5","10","20","30","40","50"])
+axs[3].set_ylabel('G-Mean', rotation='vertical')
 #axs[0].set_title('Missing rate', fontsize=10, y=-0.59)
-axs[2].set_xlabel('Missing rate')
+axs[3].set_xlabel('Missing rate')
 
 
 axs[0].tick_params(axis='x', which='major', labelsize=10)
 axs[1].tick_params(axis='x', which='major', labelsize=10)
 axs[2].tick_params(axis='x', which='major', labelsize=10)
+axs[3].tick_params(axis='x', which='major', labelsize=10)
 
 axs[0].tick_params(axis='y', which='major', labelsize=11)
 axs[1].tick_params(axis='y', which='major', labelsize=11)
 axs[2].tick_params(axis='y', which='major', labelsize=11)
+axs[3].tick_params(axis='y', which='major', labelsize=11)
 
 for ax in axs.flat:
     ax.label_outer()
