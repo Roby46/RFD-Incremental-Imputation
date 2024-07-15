@@ -62,7 +62,7 @@ def are_similar(attribute, value1, value2):
 
 # Leggi il CSV
 version=1
-MV=1536
+MV=495
 
 approach="Pipeline"
 #approach="Baseline"
@@ -72,15 +72,15 @@ approach="Pipeline"
 
 df=""
 if(approach=="Baseline"):
-    df=pd.read_csv(f"../Imputation_Results/Imputation_Baseline_Results/NBA_3200/{version}/Baseline_NBA_3200_{MV}_{version}.csv", sep=';')
+    df=pd.read_csv(f"../Imputation_Results/Imputation_Baseline_Results/superstore_4500/{version}/Baseline_superstore_4500_{MV}_{version}.csv", sep=';')
 elif(approach=="Pipeline_noRev"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_noRestoring_Results/NBA_3200/{version}/NBA_3200_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_noRestoring_Results/superstore_4500/{version}/superstore_4500_{MV}_{version}.csv", sep=';')
 elif(approach=="Baseline20"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Baseline_20_Results/NBA_3200/{version}/Baseline_NBA_3200_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Baseline_20_Results/superstore_4500/{version}/Baseline_superstore_4500_{MV}_{version}.csv", sep=';')
 elif(approach=="Pipeline"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Pipeline_Results/NBA_3200/{version}/NBA_3200_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Pipeline_Results/superstore_4500/{version}/superstore_4500_{MV}_{version}.csv", sep=';')
 elif(approach=="Hybrid"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Hybrid_Results/NBA_3200/{version}/NBA_3200_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Hybrid_Results/superstore_4500/{version}/superstore_4500_{MV}_{version}.csv", sep=';')
 
 df = df.drop(['riga'], axis=1)
 print(df.columns.tolist())
