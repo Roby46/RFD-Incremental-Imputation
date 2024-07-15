@@ -28,10 +28,19 @@ def clean_data(text):
 for col in df.select_dtypes(include='object').columns:
     df[col] = df[col].apply(clean_data)
 
+print(df)
+
+# Funzione per rimuovere i caratteri non ASCII
+def remove_non_ascii(text):
+    return ''.join(c for c in text if ord(c) < 128)
+
+# Applica la funzione a tutte le stringhe nel DataFrame
+df = df.applymap(lambda x: remove_non_ascii(x) if isinstance(x, str) else x)
+
 #Solo piloti in top10
 df = df[df['position'].between(1, 10)]
 
 filename=f"../../Datasets/Preprocessed_Datasets/MotoGP_{len(df)}.csv"
-df.to_csv(filename, sep=';', index=None)
+df.to_csv(filename, sep=';', index=None, encoding="ascii")
 
 print(df)

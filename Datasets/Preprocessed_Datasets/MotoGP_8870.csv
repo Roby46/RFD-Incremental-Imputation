@@ -218,7 +218,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2005;MotoGP;GBR;Donington Park;1876;Tamada Makoto;Konica Minolta Honda;Honda;7;9;6.0;JP
 2005;MotoGP;GBR;Donington Park;1899;Hofmann Alex;Kawasaki Racing Team;Kawasaki;8;8;66.0;DE
 2005;MotoGP;GBR;Donington Park;1944;Elias Toni;Fortuna Yamaha Team;Yamaha;9;7;24.0;ES
-2005;MotoGP;GBR;Donington Park;1779;Rolfo Roberto;Team D’Antin Pramac;Ducati;10;6;44.0;IT
+2005;MotoGP;GBR;Donington Park;1779;Rolfo Roberto;Team DAntin Pramac;Ducati;10;6;44.0;IT
 2005;250cc;GBR;Donington Park;1888;De Puniet Randy;Aprilia Aspar 250cc;Aprilia;1;25;7.0;FR
 2005;250cc;GBR;Donington Park;1931;West Anthony;Red Bull KTM GP250;KTM;2;20;14.0;AU
 2005;250cc;GBR;Donington Park;2032;Stoner Casey;Carrera Sunglasses - LCR;Aprilia;3;16;27.0;AU
@@ -6202,7 +6202,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2017;Moto3;ARG;Rio Hondo;2585;Mir Joan;Leopard Racing;Honda;1;25;36.0;ES
 2017;Moto3;ARG;Rio Hondo;2423;Mcphee John;British Talent Team;Honda;2;20;17.0;GB
 2017;Moto3;ARG;Rio Hondo;2564;Martin Jorge;Del Conca Gresini Moto3;Honda;3;16;88.0;ES
-2017;Moto3;ARG;Rio Hondo;2494;Oettl Philipp;Südmetall Schedl GP Racing;KTM;4;13;65.0;DE
+2017;Moto3;ARG;Rio Hondo;2494;Oettl Philipp;Sdmetall Schedl GP Racing;KTM;4;13;65.0;DE
 2017;Moto3;ARG;Rio Hondo;2509;Migno Andrea;SKY Racing Team VR46;KTM;5;11;16.0;IT
 2017;Moto3;ARG;Rio Hondo;2504;Loi Livio;Leopard Racing;Honda;6;10;11.0;BE
 2017;Moto3;ARG;Rio Hondo;2470;Fenati Romano;Marinelli Rivacold Snipers;Honda;7;9;5.0;IT
@@ -6237,7 +6237,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2017;Moto3;AME;Texas;2487;Guevara Juan Francisco;RBA BOE Racing Team;KTM;6;10;58.0;ES
 2017;Moto3;AME;Texas;2423;Mcphee John;British Talent Team;Honda;7;9;17.0;GB
 2017;Moto3;AME;Texas;2585;Mir Joan;Leopard Racing;Honda;8;8;36.0;ES
-2017;Moto3;AME;Texas;2494;Oettl Philipp;Südmetall Schedl GP Racing;KTM;9;7;65.0;DE
+2017;Moto3;AME;Texas;2494;Oettl Philipp;Sdmetall Schedl GP Racing;KTM;9;7;65.0;DE
 2017;Moto3;AME;Texas;2565;Binder Darryn;Platinum Bay Real Estate;KTM;10;6;40.0;ZA
 2017;MotoGP;SPA;Jerez;2015;Pedrosa Dani;Repsol Honda Team;Honda;1;25;26.0;ES
 2017;MotoGP;SPA;Jerez;2293;Marquez Marc;Repsol Honda Team;Honda;2;20;93.0;ES
@@ -6413,7 +6413,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2017;Moto3;GER;Sachsenring;2470;Fenati Romano;Marinelli Rivacold Snipers;Honda;2;20;5.0;IT
 2017;Moto3;GER;Sachsenring;2540;Ramirez Marcos;Platinum Bay Real Estate;KTM;3;16;42.0;ES
 2017;Moto3;GER;Sachsenring;2586;Bulega Nicolo;SKY Racing Team VR46;KTM;4;13;8.0;IT
-2017;Moto3;GER;Sachsenring;2494;Oettl Philipp;Südmetall Schedl GP Racing;KTM;5;11;65.0;DE
+2017;Moto3;GER;Sachsenring;2494;Oettl Philipp;Sdmetall Schedl GP Racing;KTM;5;11;65.0;DE
 2017;Moto3;GER;Sachsenring;2535;Bastianini Enea;Estrella Galicia 00;Honda;6;10;33.0;IT
 2017;Moto3;GER;Sachsenring;2504;Loi Livio;Leopard Racing;Honda;7;9;11.0;BE
 2017;Moto3;GER;Sachsenring;2590;Bendsneyder Bo;Red Bull KTM Ajo;KTM;8;8;64.0;NL
@@ -6470,7 +6470,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2017;Moto2;AUT;Spielberg;2245;Aegerter Dominique;Kiefer Racing;Suter;9;7;77.0;CH
 2017;Moto2;AUT;Spielberg;2459;Syahrin Hafizh;Petronas Raceline Malaysia;Kalex;10;6;55.0;MY
 2017;Moto3;AUT;Spielberg;2585;Mir Joan;Leopard Racing;Honda;1;25;36.0;ES
-2017;Moto3;AUT;Spielberg;2494;Oettl Philipp;Südmetall Schedl GP Racing;KTM;2;20;65.0;DE
+2017;Moto3;AUT;Spielberg;2494;Oettl Philipp;Sdmetall Schedl GP Racing;KTM;2;20;65.0;DE
 2017;Moto3;AUT;Spielberg;2564;Martin Jorge;Del Conca Gresini Moto3;Honda;3;16;88.0;ES
 2017;Moto3;AUT;Spielberg;2504;Loi Livio;Leopard Racing;Honda;4;13;11.0;BE
 2017;Moto3;AUT;Spielberg;2591;Canet Aron;Estrella Galicia 00;Honda;5;11;44.0;ES
@@ -6507,7 +6507,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2017;Moto3;GBR;Silverstone;2504;Loi Livio;Leopard Racing;Honda;6;10;11.0;BE
 2017;Moto3;GBR;Silverstone;2470;Fenati Romano;Marinelli Rivacold Snipers;Honda;7;9;5.0;IT
 2017;Moto3;GBR;Silverstone;2509;Migno Andrea;SKY Racing Team VR46;KTM;8;8;16.0;IT
-2017;Moto3;GBR;Silverstone;2494;Oettl Philipp;Südmetall Schedl GP Racing;KTM;9;7;65.0;DE
+2017;Moto3;GBR;Silverstone;2494;Oettl Philipp;Sdmetall Schedl GP Racing;KTM;9;7;65.0;DE
 2017;Moto3;GBR;Silverstone;2587;Di Giannantonio Fabio;Del Conca Gresini Moto3;Honda;10;6;21.0;IT
 2017;MotoGP;RSM;Misano;2293;Marquez Marc;Repsol Honda Team;Honda;1;25;93.0;ES
 2017;MotoGP;RSM;Misano;2464;Petrucci Danilo;OCTO Pramac Racing;Ducati;2;20;9.0;IT
@@ -6532,7 +6532,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2017;Moto3;RSM;Misano;2470;Fenati Romano;Marinelli Rivacold Snipers;Honda;1;25;5.0;IT
 2017;Moto3;RSM;Misano;2585;Mir Joan;Leopard Racing;Honda;2;20;36.0;ES
 2017;Moto3;RSM;Misano;2587;Di Giannantonio Fabio;Del Conca Gresini Moto3;Honda;3;16;21.0;IT
-2017;Moto3;RSM;Misano;2494;Oettl Philipp;Südmetall Schedl GP Racing;KTM;4;13;65.0;DE
+2017;Moto3;RSM;Misano;2494;Oettl Philipp;Sdmetall Schedl GP Racing;KTM;4;13;65.0;DE
 2017;Moto3;RSM;Misano;2586;Bulega Nicolo;SKY Racing Team VR46;KTM;5;11;8.0;IT
 2017;Moto3;RSM;Misano;2590;Bendsneyder Bo;Red Bull KTM Ajo;KTM;6;10;64.0;NL
 2017;Moto3;RSM;Misano;2364;Kornfeil Jakub;Peugeot MC Saxoprint;Peugeot;7;9;84.0;CZ
@@ -6567,7 +6567,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2017;Moto3;ARA;Aragon;2423;Mcphee John;British Talent Team;Honda;6;10;17.0;GB
 2017;Moto3;ARA;Aragon;2540;Ramirez Marcos;Platinum Bay Real Estate;KTM;7;9;42.0;ES
 2017;Moto3;ARA;Aragon;2621;Foggia Dennis;Sky Junior Team VR46 Academy;KTM;8;8;10.0;IT
-2017;Moto3;ARA;Aragon;2494;Oettl Philipp;Südmetall Schedl GP Racing;KTM;9;7;65.0;DE
+2017;Moto3;ARA;Aragon;2494;Oettl Philipp;Sdmetall Schedl GP Racing;KTM;9;7;65.0;DE
 2017;Moto3;ARA;Aragon;2470;Fenati Romano;Marinelli Rivacold Snipers;Honda;10;6;5.0;IT
 2017;MotoGP;JPN;Motegi;2055;Dovizioso Andrea;Ducati Team;Ducati;1;25;4.0;IT
 2017;MotoGP;JPN;Motegi;2293;Marquez Marc;Repsol Honda Team;Honda;2;20;93.0;ES
@@ -6594,7 +6594,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2017;Moto3;JPN;Motegi;2567;Bezzecchi Marco;CIP;Mahindra;3;16;12.0;IT
 2017;Moto3;JPN;Motegi;2566;Suzuki Tatsuki;SIC58 Squadra Corse;Honda;4;13;24.0;JP
 2017;Moto3;JPN;Motegi;2591;Canet Aron;Estrella Galicia 00;Honda;5;11;44.0;ES
-2017;Moto3;JPN;Motegi;2494;Oettl Philipp;Südmetall Schedl GP Racing;KTM;6;10;65.0;DE
+2017;Moto3;JPN;Motegi;2494;Oettl Philipp;Sdmetall Schedl GP Racing;KTM;6;10;65.0;DE
 2017;Moto3;JPN;Motegi;2587;Di Giannantonio Fabio;Del Conca Gresini Moto3;Honda;7;9;21.0;IT
 2017;Moto3;JPN;Motegi;2364;Kornfeil Jakub;Peugeot MC Saxoprint;Peugeot;8;8;84.0;CZ
 2017;Moto3;JPN;Motegi;2590;Bendsneyder Bo;Red Bull KTM Ajo;KTM;9;7;64.0;NL
@@ -7284,7 +7284,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2019;Moto3;ARG;Rio Hondo;2611;Arbolino Tony;VNE Snipers;Honda;3;16;14.0;IT
 2019;Moto3;ARG;Rio Hondo;2473;Antonelli Niccolo;SIC58 Squadra Corse;Honda;4;13;23.0;IT
 2019;Moto3;ARG;Rio Hondo;2603;Sasaki Ayumu;Petronas Sprinta Racing;Honda;5;11;71.0;JP
-2019;Moto3;ARG;Rio Hondo;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;6;10;19.0;AR
+2019;Moto3;ARG;Rio Hondo;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;6;10;19.0;AR
 2019;Moto3;ARG;Rio Hondo;2574;Dalla Porta Lorenzo;Leopard Racing;Honda;7;9;48.0;IT
 2019;Moto3;ARG;Rio Hondo;2621;Foggia Dennis;SKY Racing Team VR46;KTM;8;8;7.0;IT
 2019;Moto3;ARG;Rio Hondo;2540;Ramirez Marcos;Leopard Racing;Honda;9;7;42.0;ES
@@ -7312,7 +7312,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2019;Moto3;AME;Texas;2591;Canet Aron;Sterilgarda Max Racing Team;KTM;1;25;44.0;ES
 2019;Moto3;AME;Texas;2622;Masia Jaume;Bester Capital Dubai;KTM;2;20;5.0;ES
 2019;Moto3;AME;Texas;2509;Migno Andrea;Bester Capital Dubai;KTM;3;16;16.0;IT
-2019;Moto3;AME;Texas;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;4;13;19.0;AR
+2019;Moto3;AME;Texas;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;4;13;19.0;AR
 2019;Moto3;AME;Texas;2473;Antonelli Niccolo;SIC58 Squadra Corse;Honda;5;11;23.0;IT
 2019;Moto3;AME;Texas;2611;Arbolino Tony;VNE Snipers;Honda;6;10;14.0;IT
 2019;Moto3;AME;Texas;2605;Fernandez Raul;Sama Qatar Angel Nieto Team;KTM;7;9;25.0;ES
@@ -7372,7 +7372,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2019;Moto3;FRA;Le Mans;2423;Mcphee John;Petronas Sprinta Racing;Honda;1;25;17.0;GB
 2019;Moto3;FRA;Le Mans;2574;Dalla Porta Lorenzo;Leopard Racing;Honda;2;20;48.0;IT
 2019;Moto3;FRA;Le Mans;2591;Canet Aron;Sterilgarda Max Racing Team;KTM;3;16;44.0;ES
-2019;Moto3;FRA;Le Mans;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;4;13;19.0;AR
+2019;Moto3;FRA;Le Mans;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;4;13;19.0;AR
 2019;Moto3;FRA;Le Mans;2509;Migno Andrea;Bester Capital Dubai;KTM;5;11;16.0;IT
 2019;Moto3;FRA;Le Mans;2610;Toba Kaito;Honda Team Asia;Honda;6;10;27.0;JP
 2019;Moto3;FRA;Le Mans;2650;Vietti Celestino;SKY Racing Team VR46;KTM;7;9;13.0;IT
@@ -7462,7 +7462,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2019;Moto3;NED;Assen;2611;Arbolino Tony;VNE Snipers;Honda;1;25;14.0;IT
 2019;Moto3;NED;Assen;2574;Dalla Porta Lorenzo;Leopard Racing;Honda;2;20;48.0;IT
 2019;Moto3;NED;Assen;2364;Kornfeil Jakub;Redox PruestelGP;KTM;3;16;84.0;CZ
-2019;Moto3;NED;Assen;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;4;13;19.0;AR
+2019;Moto3;NED;Assen;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;4;13;19.0;AR
 2019;Moto3;NED;Assen;2423;Mcphee John;Petronas Sprinta Racing;Honda;5;11;17.0;GB
 2019;Moto3;NED;Assen;2639;Ogura Ai;Honda Team Asia;Honda;6;10;79.0;JP
 2019;Moto3;NED;Assen;2540;Ramirez Marcos;Leopard Racing;Honda;7;9;42.0;ES
@@ -7508,7 +7508,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2019;MotoE;GER;Sachsenring;2388;Simeon Xavier;Avintia Esponsorama Racing;Energica;7;9;10.0;BE
 2019;MotoE;GER;Sachsenring;2476;Granado Eric;Avintia Esponsorama Racing;Energica;8;8;51.0;BR
 2019;MotoE;GER;Sachsenring;1588;Gibernau Sete;Join Contract Pons 40;Energica;9;7;15.0;ES
-2019;MotoE;GER;Sachsenring;2151;Terol Nicolas;OpenBank Angel Nieto Team;Energica;10;6;18.0;ES
+2019;MotoE;GER;Sachsenring;2151;Terol Nicolas;OpenBank ngel Nieto Team;Energica;10;6;18.0;ES
 2019;MotoGP;CZE;Brno;2293;Marquez Marc;Repsol Honda Team;Honda;1;25;93.0;ES
 2019;MotoGP;CZE;Brno;2055;Dovizioso Andrea;Ducati Team;Ducati;2;20;4.0;IT
 2019;MotoGP;CZE;Brno;2445;Miller Jack;Pramac Racing;Ducati;3;16;43.0;AU
@@ -7634,7 +7634,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2019;Moto3;RSM;Misano;2611;Arbolino Tony;VNE Snipers;Honda;3;16;14.0;IT
 2019;Moto3;RSM;Misano;2622;Masia Jaume;WWR;KTM;4;13;5.0;ES
 2019;Moto3;RSM;Misano;2621;Foggia Dennis;SKY Racing Team VR46;KTM;5;11;7.0;IT
-2019;Moto3;RSM;Misano;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;6;10;19.0;AR
+2019;Moto3;RSM;Misano;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;6;10;19.0;AR
 2019;Moto3;RSM;Misano;2540;Ramirez Marcos;Leopard Racing;Honda;7;9;42.0;ES
 2019;Moto3;RSM;Misano;2574;Dalla Porta Lorenzo;Leopard Racing;Honda;8;8;48.0;IT
 2019;Moto3;RSM;Misano;2647;Salac Filip;Redox PruestelGP;KTM;9;7;12.0;CZ
@@ -7643,11 +7643,11 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2019;MotoE;RSM;Misano;2619;Garzo Hector;Tech 3 E-Racing;Energica;2;20;4.0;ES
 2019;MotoE;RSM;Misano;2664;Casadei Mattia;Ongetta SIC58 Squadracorse;Energica;3;16;27.0;IT
 2019;MotoE;RSM;Misano;2327;Canepa Niccolo;LCR E-Team;Energica;4;13;7.0;IT
-2019;MotoE;RSM;Misano;2523;Herrera Maria;OpenBank Angel Nieto Team;Energica;5;11;6.0;ES
+2019;MotoE;RSM;Misano;2523;Herrera Maria;OpenBank ngel Nieto Team;Energica;5;11;6.0;ES
 2019;MotoE;RSM;Misano;2476;Granado Eric;Avintia Esponsorama Racing;Energica;6;10;51.0;BR
 2019;MotoE;RSM;Misano;2485;Raffin Jesko;Dynavolt Intact GP;Energica;7;9;2.0;CH
 2019;MotoE;RSM;Misano;2206;Smith Bradley;One Energy Racing;Energica;8;8;38.0;GB
-2019;MotoE;RSM;Misano;2151;Terol Nicolas;OpenBank Angel Nieto Team;Energica;9;7;18.0;ES
+2019;MotoE;RSM;Misano;2151;Terol Nicolas;OpenBank ngel Nieto Team;Energica;9;7;18.0;ES
 2019;MotoE;RSM;Misano;2098;Di Meglio Mike;EG 00 Marc VDS;Energica;10;6;63.0;FR
 2019;MotoGP;ARA;Aragon;2293;Marquez Marc;Repsol Honda Team;Honda;1;25;93.0;ES
 2019;MotoGP;ARA;Aragon;2055;Dovizioso Andrea;Ducati Team;Ducati;2;20;4.0;IT
@@ -7677,7 +7677,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2019;Moto3;ARA;Aragon;2566;Suzuki Tatsuki;SIC58 Squadra Corse;Honda;6;10;24.0;JP
 2019;Moto3;ARA;Aragon;2658;Garcia Sergio;Estrella Galicia 00;Honda;7;9;11.0;ES
 2019;Moto3;ARA;Aragon;2561;Arenas Albert;Gaviota Angel Nieto Team;KTM;8;8;75.0;ES
-2019;Moto3;ARA;Aragon;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;9;7;19.0;AR
+2019;Moto3;ARA;Aragon;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;9;7;19.0;AR
 2019;Moto3;ARA;Aragon;2611;Arbolino Tony;VNE Snipers;Honda;10;6;14.0;IT
 2019;MotoGP;THA;Buriram;2293;Marquez Marc;Repsol Honda Team;Honda;1;25;93.0;ES
 2019;MotoGP;THA;Buriram;2563;Quartararo Fabio;Petronas Yamaha SRT;Yamaha;2;20;20.0;FR
@@ -7837,7 +7837,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2019;MotoE;VAL;Ricardo Tormo;2098;Di Meglio Mike;EG 00 Marc VDS;Energica;6;10;63.0;FR
 2019;MotoE;VAL;Ricardo Tormo;1588;Gibernau Sete;Join Contract Pons 40;Energica;7;9;15.0;ES
 2019;MotoE;VAL;Ricardo Tormo;2664;Casadei Mattia;Ongetta SIC58 Squadracorse;Energica;8;8;27.0;IT
-2019;MotoE;VAL;Ricardo Tormo;2151;Terol Nicolas;OpenBank Angel Nieto Team;Energica;9;7;18.0;ES
+2019;MotoE;VAL;Ricardo Tormo;2151;Terol Nicolas;OpenBank ngel Nieto Team;Energica;9;7;18.0;ES
 2019;MotoE;VAL;Ricardo Tormo;2485;Raffin Jesko;Dynavolt Intact GP;Energica;10;6;2.0;CH
 2020;Moto2;QAT;Losail;2530;Nagashima Tetsuta;Red Bull KTM Ajo;Kalex;1;25;45.0;JP
 2020;Moto2;QAT;Losail;2502;Baldassarri Lorenzo;Flexbox HP 40;Kalex;2;20;7.0;IT
@@ -7854,8 +7854,8 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;QAT;Losail;2639;Ogura Ai;Honda Team Asia;Honda;3;16;79.0;JP
 2020;Moto3;QAT;Losail;2622;Masia Jaume;Leopard Racing;Honda;4;13;5.0;ES
 2020;Moto3;QAT;Losail;2566;Suzuki Tatsuki;SIC58 Squadra Corse;Honda;5;11;24.0;JP
-2020;Moto3;QAT;Losail;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;6;10;2.0;AR
-2020;Moto3;QAT;Losail;2640;Alcoba Jeremy;Kömmerling Gresini Moto3;Honda;7;9;52.0;ES
+2020;Moto3;QAT;Losail;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;6;10;2.0;AR
+2020;Moto3;QAT;Losail;2640;Alcoba Jeremy;Kmmerling Gresini Moto3;Honda;7;9;52.0;ES
 2020;Moto3;QAT;Losail;2647;Salac Filip;Rivacold Snipers Team;Honda;8;8;12.0;CZ
 2020;Moto3;QAT;Losail;2621;Foggia Dennis;Leopard Racing;Honda;9;7;7.0;IT
 2020;Moto3;QAT;Losail;2605;Fernandez Raul;Red Bull KTM Ajo;KTM;10;6;25.0;ES
@@ -7885,7 +7885,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;SPA;Jerez;2509;Migno Andrea;SKY Racing Team VR46;KTM;4;13;16.0;IT
 2020;Moto3;SPA;Jerez;2650;Vietti Celestino;SKY Racing Team VR46;KTM;5;11;13.0;IT
 2020;Moto3;SPA;Jerez;2605;Fernandez Raul;Red Bull KTM Ajo;KTM;6;10;25.0;ES
-2020;Moto3;SPA;Jerez;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;7;9;2.0;AR
+2020;Moto3;SPA;Jerez;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;7;9;2.0;AR
 2020;Moto3;SPA;Jerez;2566;Suzuki Tatsuki;SIC58 Squadra Corse;Honda;8;8;24.0;JP
 2020;Moto3;SPA;Jerez;2473;Antonelli Niccolo;SIC58 Squadra Corse;Honda;9;7;23.0;IT
 2020;Moto3;SPA;Jerez;2622;Masia Jaume;Leopard Racing;Honda;10;6;5.0;ES
@@ -7923,9 +7923,9 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;ANC;Jerez;2423;Mcphee John;Petronas Sprinta Racing;Honda;2;20;17.0;GB
 2020;Moto3;ANC;Jerez;2650;Vietti Celestino;SKY Racing Team VR46;KTM;3;16;13.0;IT
 2020;Moto3;ANC;Jerez;2565;Binder Darryn;CIP Green Power;KTM;4;13;40.0;ZA
-2020;Moto3;ANC;Jerez;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;5;11;2.0;AR
+2020;Moto3;ANC;Jerez;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;5;11;2.0;AR
 2020;Moto3;ANC;Jerez;2605;Fernandez Raul;Red Bull KTM Ajo;KTM;6;10;25.0;ES
-2020;Moto3;ANC;Jerez;2640;Alcoba Jeremy;Kömmerling Gresini Moto3;Honda;7;9;52.0;ES
+2020;Moto3;ANC;Jerez;2640;Alcoba Jeremy;Kmmerling Gresini Moto3;Honda;7;9;52.0;ES
 2020;Moto3;ANC;Jerez;2658;Garcia Sergio;Estrella Galicia 00;Honda;8;8;11.0;ES
 2020;Moto3;ANC;Jerez;2655;Yamanaka Ryusei;Estrella Galicia 00;Honda;9;7;6.0;JP
 2020;Moto3;ANC;Jerez;2611;Arbolino Tony;Rivacold Snipers Team;Honda;10;6;14.0;IT
@@ -7965,7 +7965,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;CZE;Brno;2473;Antonelli Niccolo;SIC58 Squadra Corse;Honda;4;13;23.0;IT
 2020;Moto3;CZE;Brno;2423;Mcphee John;Petronas Sprinta Racing;Honda;5;11;17.0;GB
 2020;Moto3;CZE;Brno;2605;Fernandez Raul;Red Bull KTM Ajo;KTM;6;10;25.0;ES
-2020;Moto3;CZE;Brno;2640;Alcoba Jeremy;Kömmerling Gresini Moto3;Honda;7;9;52.0;ES
+2020;Moto3;CZE;Brno;2640;Alcoba Jeremy;Kmmerling Gresini Moto3;Honda;7;9;52.0;ES
 2020;Moto3;CZE;Brno;2611;Arbolino Tony;Rivacold Snipers Team;Honda;8;8;14.0;IT
 2020;Moto3;CZE;Brno;2470;Fenati Romano;Sterilgarda Max Racing Team;Husqvarna;9;7;55.0;IT
 2020;Moto3;CZE;Brno;2644;Nepa Stefano;Gaviota Aspar Team;KTM;10;6;82.0;IT
@@ -7996,7 +7996,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;AUT;Spielberg;2650;Vietti Celestino;SKY Racing Team VR46;KTM;5;11;13.0;IT
 2020;Moto3;AUT;Spielberg;2565;Binder Darryn;CIP Green Power;KTM;6;10;40.0;ZA
 2020;Moto3;AUT;Spielberg;2611;Arbolino Tony;Rivacold Snipers Team;Honda;7;9;14.0;IT
-2020;Moto3;AUT;Spielberg;2666;Öncü Deniz;Red Bull KTM Tech 3;KTM;8;8;53.0;TR
+2020;Moto3;AUT;Spielberg;2666;nc Deniz;Red Bull KTM Tech 3;KTM;8;8;53.0;TR
 2020;Moto3;AUT;Spielberg;2605;Fernandez Raul;Red Bull KTM Ajo;KTM;9;7;25.0;ES
 2020;Moto3;AUT;Spielberg;2566;Suzuki Tatsuki;SIC58 Squadra Corse;Honda;10;6;24.0;JP
 2020;MotoGP;STY;Spielberg;2429;Oliveira Miguel;Red Bull KTM Tech 3;KTM;1;25;88.0;PT
@@ -8022,7 +8022,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;STY;Spielberg;2650;Vietti Celestino;SKY Racing Team VR46;KTM;1;25;13.0;IT
 2020;Moto3;STY;Spielberg;2611;Arbolino Tony;Rivacold Snipers Team;Honda;2;20;14.0;IT
 2020;Moto3;STY;Spielberg;2639;Ogura Ai;Honda Team Asia;Honda;3;16;79.0;JP
-2020;Moto3;STY;Spielberg;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;4;13;2.0;AR
+2020;Moto3;STY;Spielberg;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;4;13;2.0;AR
 2020;Moto3;STY;Spielberg;2561;Arenas Albert;Valresa Aspar Team;KTM;5;11;75.0;ES
 2020;Moto3;STY;Spielberg;2565;Binder Darryn;CIP Green Power;KTM;6;10;40.0;ZA
 2020;Moto3;STY;Spielberg;2566;Suzuki Tatsuki;SIC58 Squadra Corse;Honda;7;9;24.0;JP
@@ -8052,8 +8052,8 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;RSM;Misano;2423;Mcphee John;Petronas Sprinta Racing;Honda;1;25;17.0;GB
 2020;Moto3;RSM;Misano;2639;Ogura Ai;Honda Team Asia;Honda;2;20;79.0;JP
 2020;Moto3;RSM;Misano;2566;Suzuki Tatsuki;SIC58 Squadra Corse;Honda;3;16;24.0;JP
-2020;Moto3;RSM;Misano;2640;Alcoba Jeremy;Kömmerling Gresini Moto3;Honda;4;13;52.0;ES
-2020;Moto3;RSM;Misano;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;5;11;2.0;AR
+2020;Moto3;RSM;Misano;2640;Alcoba Jeremy;Kmmerling Gresini Moto3;Honda;4;13;52.0;ES
+2020;Moto3;RSM;Misano;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;5;11;2.0;AR
 2020;Moto3;RSM;Misano;2611;Arbolino Tony;Rivacold Snipers Team;Honda;6;10;14.0;IT
 2020;Moto3;RSM;Misano;2622;Masia Jaume;Leopard Racing;Honda;7;9;5.0;ES
 2020;Moto3;RSM;Misano;2470;Fenati Romano;Sterilgarda Max Racing Team;Husqvarna;8;8;55.0;IT
@@ -8095,7 +8095,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;EMI;Misano;2561;Arenas Albert;Gaviota Aspar Team Moto3;KTM;4;13;75.0;ES
 2020;Moto3;EMI;Misano;2622;Masia Jaume;Leopard Racing;Honda;5;11;5.0;ES
 2020;Moto3;EMI;Misano;2605;Fernandez Raul;Red Bull KTM Ajo;KTM;6;10;25.0;ES
-2020;Moto3;EMI;Misano;2666;Öncü Deniz;Red Bull KTM Tech 3;KTM;7;9;53.0;TR
+2020;Moto3;EMI;Misano;2666;nc Deniz;Red Bull KTM Tech 3;KTM;7;9;53.0;TR
 2020;Moto3;EMI;Misano;2509;Migno Andrea;SKY Racing Team VR46;KTM;8;8;16.0;IT
 2020;Moto3;EMI;Misano;2610;Toba Kaito;Red Bull KTM Ajo;KTM;9;7;27.0;JP
 2020;Moto3;EMI;Misano;2423;Mcphee John;Petronas Sprinta Racing;Honda;10;6;17.0;GB
@@ -8138,7 +8138,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;CAT;Catalunya;2622;Masia Jaume;Leopard Racing;Honda;7;9;5.0;ES
 2020;Moto3;CAT;Catalunya;2650;Vietti Celestino;SKY Racing Team VR46;KTM;8;8;13.0;IT
 2020;Moto3;CAT;Catalunya;2473;Antonelli Niccolo;SIC58 Squadra Corse;Honda;9;7;23.0;IT
-2020;Moto3;CAT;Catalunya;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;10;6;2.0;AR
+2020;Moto3;CAT;Catalunya;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;10;6;2.0;AR
 2020;MotoGP;FRA;Le Mans;2464;Petrucci Danilo;Ducati Team;Ducati;1;25;9.0;IT
 2020;MotoGP;FRA;Le Mans;2475;Marquez Alex;Repsol Honda Team;Honda;2;20;73.0;ES
 2020;MotoGP;FRA;Le Mans;2218;Espargaro Pol;Red Bull KTM Factory Racing;KTM;3;16;44.0;ES
@@ -8166,7 +8166,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;FRA;Le Mans;2509;Migno Andrea;SKY Racing Team VR46;KTM;5;11;16.0;IT
 2020;Moto3;FRA;Le Mans;2603;Sasaki Ayumu;Red Bull KTM Tech 3;KTM;6;10;71.0;JP
 2020;Moto3;FRA;Le Mans;2605;Fernandez Raul;Red Bull KTM Ajo;KTM;7;9;25.0;ES
-2020;Moto3;FRA;Le Mans;2541;Rodrigo Gabriel;Kömmerling Gresini Moto3;Honda;8;8;2.0;AR
+2020;Moto3;FRA;Le Mans;2541;Rodrigo Gabriel;Kmmerling Gresini Moto3;Honda;8;8;2.0;AR
 2020;Moto3;FRA;Le Mans;2639;Ogura Ai;Honda Team Asia;Honda;9;7;79.0;JP
 2020;Moto3;FRA;Le Mans;2662;Tatay Carlos;Reale Avintia Moto3;KTM;10;6;99.0;ES
 2020;MotoE;FRA;Le Mans;2641;Tuuli Niki;Avant Ajo MotoE;Energica;1;25;66.0;FI
@@ -8204,7 +8204,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;ARA;Aragon;2605;Fernandez Raul;Red Bull KTM Ajo;KTM;3;16;25.0;ES
 2020;Moto3;ARA;Aragon;2470;Fenati Romano;Sterilgarda Max Racing Team;Husqvarna;4;13;55.0;IT
 2020;Moto3;ARA;Aragon;2423;Mcphee John;Petronas Sprinta Racing;Honda;5;11;17.0;GB
-2020;Moto3;ARA;Aragon;2640;Alcoba Jeremy;Kömmerling Gresini Moto3;Honda;6;10;52.0;ES
+2020;Moto3;ARA;Aragon;2640;Alcoba Jeremy;Kmmerling Gresini Moto3;Honda;6;10;52.0;ES
 2020;Moto3;ARA;Aragon;2561;Arenas Albert;Solunion Aspar Team Moto3;KTM;7;9;75.0;ES
 2020;Moto3;ARA;Aragon;2566;Suzuki Tatsuki;SIC58 Squadra Corse;Honda;8;8;24.0;JP
 2020;Moto3;ARA;Aragon;2650;Vietti Celestino;SKY Racing Team VR46;KTM;9;7;13.0;IT
@@ -8235,7 +8235,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;TER;Aragon;2561;Arenas Albert;Solunion Aspar Team Moto3;KTM;4;13;75.0;ES
 2020;Moto3;TER;Aragon;2650;Vietti Celestino;SKY Racing Team VR46;KTM;5;11;13.0;IT
 2020;Moto3;TER;Aragon;2423;Mcphee John;Petronas Sprinta Racing;Honda;6;10;17.0;GB
-2020;Moto3;TER;Aragon;2666;Öncü Deniz;Red Bull KTM Tech 3;KTM;7;9;53.0;TR
+2020;Moto3;TER;Aragon;2666;nc Deniz;Red Bull KTM Tech 3;KTM;7;9;53.0;TR
 2020;Moto3;TER;Aragon;2565;Binder Darryn;CIP Green Power;KTM;8;8;40.0;ZA
 2020;Moto3;TER;Aragon;2639;Ogura Ai;Honda Team Asia;Honda;9;7;79.0;JP
 2020;Moto3;TER;Aragon;2611;Arbolino Tony;Rivacold Snipers Team;Honda;10;6;14.0;IT
@@ -8266,7 +8266,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;EUR;Ricardo Tormo;2565;Binder Darryn;CIP Green Power;KTM;5;11;40.0;ZA
 2020;Moto3;EUR;Ricardo Tormo;2662;Tatay Carlos;Reale Avintia Moto3;KTM;6;10;99.0;ES
 2020;Moto3;EUR;Ricardo Tormo;2644;Nepa Stefano;Valresa Aspar Team Moto3;KTM;7;9;82.0;IT
-2020;Moto3;EUR;Ricardo Tormo;2640;Alcoba Jeremy;Kömmerling Gresini Moto3;Honda;8;8;52.0;ES
+2020;Moto3;EUR;Ricardo Tormo;2640;Alcoba Jeremy;Kmmerling Gresini Moto3;Honda;8;8;52.0;ES
 2020;Moto3;EUR;Ricardo Tormo;2647;Salac Filip;Rivacold Snipers Team;Honda;9;7;12.0;CZ
 2020;Moto3;EUR;Ricardo Tormo;2603;Sasaki Ayumu;Red Bull KTM Tech 3;KTM;10;6;71.0;JP
 2020;MotoGP;VAL;Ricardo Tormo;2517;Morbidelli Franco;Petronas Yamaha SRT;Yamaha;1;25;21.0;IT
@@ -8294,11 +8294,11 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto3;VAL;Ricardo Tormo;2605;Fernandez Raul;Red Bull KTM Ajo;KTM;3;16;25.0;ES
 2020;Moto3;VAL;Ricardo Tormo;2561;Arenas Albert;Gaviota Aspar Team Moto3;KTM;4;13;75.0;ES
 2020;Moto3;VAL;Ricardo Tormo;2565;Binder Darryn;CIP Green Power;KTM;5;11;40.0;ZA
-2020;Moto3;VAL;Ricardo Tormo;2666;Öncü Deniz;Red Bull KTM Tech 3;KTM;6;10;53.0;TR
+2020;Moto3;VAL;Ricardo Tormo;2666;nc Deniz;Red Bull KTM Tech 3;KTM;6;10;53.0;TR
 2020;Moto3;VAL;Ricardo Tormo;2509;Migno Andrea;SKY Racing Team VR46;KTM;7;9;16.0;IT
 2020;Moto3;VAL;Ricardo Tormo;2639;Ogura Ai;Honda Team Asia;Honda;8;8;79.0;JP
 2020;Moto3;VAL;Ricardo Tormo;2622;Masia Jaume;Leopard Racing;Honda;9;7;5.0;ES
-2020;Moto3;VAL;Ricardo Tormo;2640;Alcoba Jeremy;Kömmerling Gresini Moto3;Honda;10;6;52.0;ES
+2020;Moto3;VAL;Ricardo Tormo;2640;Alcoba Jeremy;Kmmerling Gresini Moto3;Honda;10;6;52.0;ES
 2020;MotoGP;POR;Algarve;2429;Oliveira Miguel;Red Bull KTM Tech 3;KTM;1;25;88.0;PT
 2020;MotoGP;POR;Algarve;2445;Miller Jack;Pramac Racing;Ducati;2;20;43.0;AU
 2020;MotoGP;POR;Algarve;2517;Morbidelli Franco;Petronas Yamaha SRT;Yamaha;3;16;21.0;IT
@@ -8321,14 +8321,14 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2020;Moto2;POR;Algarve;2573;Vierge Xavi;Petronas Sprinta Racing;Kalex;10;6;97.0;ES
 2020;Moto3;POR;Algarve;2605;Fernandez Raul;Red Bull KTM Ajo;KTM;1;25;25.0;ES
 2020;Moto3;POR;Algarve;2621;Foggia Dennis;Leopard Racing;Honda;2;20;7.0;IT
-2020;Moto3;POR;Algarve;2640;Alcoba Jeremy;Kömmerling Gresini Moto3;Honda;3;16;52.0;ES
+2020;Moto3;POR;Algarve;2640;Alcoba Jeremy;Kmmerling Gresini Moto3;Honda;3;16;52.0;ES
 2020;Moto3;POR;Algarve;2658;Garcia Sergio;Estrella Galicia 00;Honda;4;13;11.0;ES
 2020;Moto3;POR;Algarve;2611;Arbolino Tony;Rivacold Snipers Team;Honda;5;11;14.0;IT
 2020;Moto3;POR;Algarve;2565;Binder Darryn;CIP Green Power;KTM;6;10;40.0;ZA
 2020;Moto3;POR;Algarve;2650;Vietti Celestino;SKY Racing Team VR46;KTM;7;9;13.0;IT
 2020;Moto3;POR;Algarve;2639;Ogura Ai;Honda Team Asia;Honda;8;8;79.0;JP
 2020;Moto3;POR;Algarve;2423;Mcphee John;Petronas Sprinta Racing;Honda;9;7;17.0;GB
-2020;Moto3;POR;Algarve;2666;Öncü Deniz;Red Bull KTM Tech 3;KTM;10;6;53.0;TR
+2020;Moto3;POR;Algarve;2666;nc Deniz;Red Bull KTM Tech 3;KTM;10;6;53.0;TR
 2021;MotoGP;QAT;Losail;2428;Vinales Maverick;Monster Energy Yamaha MotoGP;Yamaha;1;25;12.0;ES
 2021;MotoGP;QAT;Losail;2330;Zarco Johann;Pramac Racing;Ducati;2;20;5.0;FR
 2021;MotoGP;QAT;Losail;2499;Bagnaia Francesco;Ducati Lenovo Team;Ducati;3;16;63.0;IT
@@ -8487,7 +8487,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2021;Moto3;FRA;Le Mans;2684;Fernandez Adrian;Sterilgarda Max Racing Team;Husqvarna;6;10;31.0;ES
 2021;Moto3;FRA;Le Mans;2676;Artigas Xavier;Leopard Racing;Honda;7;9;43.0;ES
 2021;Moto3;FRA;Le Mans;2686;Acosta Pedro;Red Bull KTM Ajo;KTM;8;8;37.0;ES
-2021;Moto3;FRA;Le Mans;2666;Öncü Deniz;Red Bull KTM Tech 3;KTM;9;7;53.0;TR
+2021;Moto3;FRA;Le Mans;2666;nc Deniz;Red Bull KTM Tech 3;KTM;9;7;53.0;TR
 2021;Moto3;FRA;Le Mans;2470;Fenati Romano;Sterilgarda Max Racing Team;Husqvarna;10;6;55.0;IT
 2021;MotoE;FRA;Le Mans;2476;Granado Eric;One Energy Racing;Energica;1;25;51.0;BR
 2021;MotoE;FRA;Le Mans;2664;Casadei Mattia;Ongetta SIC58 Squadracorse;Energica;2;20;27.0;IT
@@ -8551,7 +8551,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2021;Moto2;CAT;Catalunya;2620;Roberts Joe;Italtrans Racing Team;Kalex;10;6;16.0;US
 2021;Moto3;CAT;Catalunya;2658;Garcia Sergio;Solunion GASGAS Aspar Team;GASGAS;1;25;11.0;ES
 2021;Moto3;CAT;Catalunya;2640;Alcoba Jeremy;Indonesian Racing Gresini Moto3;Honda;2;20;52.0;ES
-2021;Moto3;CAT;Catalunya;2666;Öncü Deniz;Red Bull KTM Tech 3;KTM;3;16;53.0;TR
+2021;Moto3;CAT;Catalunya;2666;nc Deniz;Red Bull KTM Tech 3;KTM;3;16;53.0;TR
 2021;Moto3;CAT;Catalunya;2622;Masia Jaume;Red Bull KTM Ajo;KTM;4;13;5.0;ES
 2021;Moto3;CAT;Catalunya;2565;Binder Darryn;Petronas Sprinta Racing;Honda;5;11;40.0;ZA
 2021;Moto3;CAT;Catalunya;2541;Rodrigo Gabriel;Indonesian Racing Gresini Moto3;Honda;6;10;2.0;AR
@@ -8690,7 +8690,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2021;Moto2;AUT;Spielberg;2075;Luthi Thomas;Pertamina Mandalika SAG Team;Kalex;9;7;12.0;CH
 2021;Moto2;AUT;Spielberg;2567;Bezzecchi Marco;SKY Racing Team VR46;Kalex;10;6;72.0;IT
 2021;Moto3;AUT;Spielberg;2658;Garcia Sergio;SANTANDER Consumer GASGAS;GASGAS;1;25;11.0;ES
-2021;Moto3;AUT;Spielberg;2666;Öncü Deniz;Red Bull KTM Tech 3;KTM;2;20;53.0;TR
+2021;Moto3;AUT;Spielberg;2666;nc Deniz;Red Bull KTM Tech 3;KTM;2;20;53.0;TR
 2021;Moto3;AUT;Spielberg;2621;Foggia Dennis;Leopard Racing;Honda;3;16;7.0;IT
 2021;Moto3;AUT;Spielberg;2686;Acosta Pedro;Red Bull KTM Ajo;KTM;4;13;37.0;ES
 2021;Moto3;AUT;Spielberg;2470;Fenati Romano;Sterilgarda Max Racing Team;Husqvarna;5;11;55.0;IT
@@ -8736,7 +8736,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2021;Moto3;GBR;Silverstone;2566;Suzuki Tatsuki;SIC58 Squadra Corse;Honda;5;11;24.0;JP
 2021;Moto3;GBR;Silverstone;2622;Masia Jaume;Red Bull KTM Ajo;KTM;6;10;5.0;ES
 2021;Moto3;GBR;Silverstone;2565;Binder Darryn;Petronas Sprinta Racing;Honda;7;9;40.0;ZA
-2021;Moto3;GBR;Silverstone;2666;Öncü Deniz;Red Bull KTM Tech 3;KTM;8;8;53.0;TR
+2021;Moto3;GBR;Silverstone;2666;nc Deniz;Red Bull KTM Tech 3;KTM;8;8;53.0;TR
 2021;Moto3;GBR;Silverstone;2656;Rossi Riccardo;BOE Owlride;KTM;9;7;54.0;IT
 2021;Moto3;GBR;Silverstone;2662;Tatay Carlos;Avintia Esponsorama Moto3;KTM;10;6;99.0;ES
 2021;MotoGP;ARA;Aragon;2499;Bagnaia Francesco;Ducati Lenovo Team;Ducati;1;25;63.0;IT
@@ -8760,7 +8760,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2021;Moto2;ARA;Aragon;2611;Arbolino Tony;Liqui Moly Intact GP;Kalex;9;7;14.0;IT
 2021;Moto2;ARA;Aragon;2064;Corsi Simone;MV Agusta Forward Racing;MV Agusta;10;6;24.0;IT
 2021;Moto3;ARA;Aragon;2621;Foggia Dennis;Leopard Racing;Honda;1;25;7.0;IT
-2021;Moto3;ARA;Aragon;2666;Öncü Deniz;Red Bull KTM Tech 3;KTM;2;20;53.0;TR
+2021;Moto3;ARA;Aragon;2666;nc Deniz;Red Bull KTM Tech 3;KTM;2;20;53.0;TR
 2021;Moto3;ARA;Aragon;2603;Sasaki Ayumu;Red Bull KTM Tech 3;KTM;3;16;71.0;JP
 2021;Moto3;ARA;Aragon;2687;Guevara Izan;GAVIOTA GASGAS Aspar Team;GASGAS;4;13;28.0;ES
 2021;Moto3;ARA;Aragon;2473;Antonelli Niccolo;Avintia VR46;KTM;5;11;23.0;IT
@@ -8833,7 +8833,7 @@ year;category;shortname;circuit_name;rider;rider_name;team_name;bike_name;positi
 2021;Moto3;AME;Texas;2621;Foggia Dennis;Leopard Racing;Honda;2;20;7.0;IT
 2021;Moto3;AME;Texas;2423;Mcphee John;Petronas Sprinta Racing;Honda;3;16;17.0;GB
 2021;Moto3;AME;Texas;2622;Masia Jaume;Red Bull KTM Ajo;KTM;4;13;5.0;ES
-2021;Moto3;AME;Texas;2666;Öncü Deniz;Red Bull KTM Tech 3;KTM;5;11;53.0;TR
+2021;Moto3;AME;Texas;2666;nc Deniz;Red Bull KTM Tech 3;KTM;5;11;53.0;TR
 2021;Moto3;AME;Texas;2640;Alcoba Jeremy;Indonesian Racing Gresini Moto3;Honda;6;10;52.0;ES
 2021;Moto3;AME;Texas;2565;Binder Darryn;Petronas Sprinta Racing;Honda;7;9;40.0;ZA
 2021;Moto3;AME;Texas;2686;Acosta Pedro;Red Bull KTM Ajo;KTM;8;8;37.0;ES
