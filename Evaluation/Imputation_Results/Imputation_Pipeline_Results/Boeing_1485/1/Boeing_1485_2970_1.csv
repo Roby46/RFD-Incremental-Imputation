@@ -1,0 +1,2971 @@
+riga;nome attributo;valore da imputare;valore imputato
+505;Order_Month;Mar;?
+1255;Delivery_Total;8;?
+339;Customer_Name;Aerolineas Argentinas;?
+492;Country;USA;?
+1131;Order_Total;1;?
+1014;Delivery_Total;2;2
+58;Order_Year;1988;?
+1238;Region;North America;North America
+1222;Customer_Name;Air Nippon;?
+1117;Engine;CF;?
+1149;Order_Month;Mar;?
+1027;Delivery_Year_;2007;?
+1071;Country;USA;?
+1183;Order_Month;Dec;?
+480;Region;Africa;Africa
+1083;Engine;PW;?
+639;Region;Europe;Europe
+1463;Model_Series;757-200;?
+853;Country;China;?
+1319;Order_Year;2007;?
+1453;Country;USA;?
+347;Engine;CF;CF
+826;Order_Total;1;?
+1140;Model_Series;727;?
+216;Order_Year;2001;?
+960;Engine;RR;?
+900;Country;USA;?
+933;Region;North America;?
+1336;Delivery_Total;3;?
+130;Delivery_Year_;1998;1993
+217;Order_Year;1965;?
+312;Customer_Name;Kuwait Airways;?
+623;Model_Series;747-8;?
+35;Customer_Name;Kingdom of Saudi Arabia;?
+144;Country;USA;?
+26;Model_Series;747-200;?
+727;Order_Month;Jun;?
+161;Delivery_Year_;1996;?
+29;Order_Month;Jul;?
+294;Customer_Name;Donghai Airlines;?
+1064;Delivery_Total;2;2
+624;Order_Year;1977;?
+548;Country;Panama;?
+1381;Customer_Name;Scandinavian Airlines;?
+601;Country;China;China
+210;Engine;GE;GE
+1141;Delivery_Total;2;2
+1189;Region;North America;North America
+592;Delivery_Year_;1978;?
+843;Region;Europe;Europe
+574;Delivery_Total;1;1
+33;Customer_Name;Starflite Corporation;?
+338;Delivery_Total;1;1
+933;Order_Total;1;?
+1484;Engine;CF;CF
+653;Order_Month;Jun;?
+303;Model_Series;MD-80;?
+1227;Country;USA;?
+1355;Model_Series;737-500;?
+1206;Order_Month;Feb;?
+1485;Customer_Name;Ethiopian Airlines Group;?
+573;Region;Africa;Africa
+950;Customer_Name;Germania;?
+866;Delivery_Year_;2003;2002
+141;Order_Month;Jan;?
+219;Model_Series;737-200;?
+440;Order_Year;1960;?
+779;Customer_Name;Orion Airways;?
+1436;Engine;GE;?
+275;Model_Series;MD-80;?
+1336;Order_Total;3;?
+1457;Model_Series;MD-90;?
+695;Model_Series;747-400F;?
+864;Region;South Asia;South Asia
+1145;Order_Total;4;?
+1239;Order_Year;1981;?
+419;Order_Month;Mar;?
+933;Delivery_Total;1;?
+1332;Model_Series;737-800;?
+911;Order_Month;Mar;?
+110;Order_Total;1;?
+1388;Order_Year;1985;?
+594;Order_Year;1978;?
+477;Engine;PW;?
+765;Region;South America;South America
+725;Engine;RR;RR
+708;Order_Total;2;?
+611;Order_Month;Oct;?
+785;Order_Total;5;?
+980;Delivery_Total;4;?
+93;Engine;GE;GE
+654;Engine;PW;?
+737;Engine;PW;?
+215;Region;Africa;Africa
+388;Order_Year;1988;?
+681;Order_Year;1976;?
+264;Country;Switzerland;Switzerland
+98;Customer_Name;SAS Norway;?
+1051;Country;United Arab Emirates;?
+278;Region;East Asia;East Asia
+124;Delivery_Year_;2013;?
+1347;Order_Total;2;2
+432;Model_Series;707/720;?
+1022;Country;Nigeria;Nigeria
+606;Delivery_Year_;2016;2018
+835;Order_Month;Nov;?
+1226;Delivery_Year_;2000;2002
+102;Engine;RR;?
+977;Region;Europe;Europe
+1310;Delivery_Total;3;?
+98;Order_Month;Feb;?
+256;Order_Year;2007;?
+911;Customer_Name;Air Zimbabwe;?
+1339;Order_Month;Feb;?
+1367;Delivery_Year_;1975;?
+1337;Order_Month;Jan;?
+1089;Engine;PW;?
+1430;Delivery_Total;1;1
+452;Delivery_Total;1;?
+85;Delivery_Year_;2016;2017
+83;Order_Month;Apr;?
+910;Model_Series;737 MAX;?
+808;Delivery_Year_;1974;1973
+1052;Order_Total;5;?
+833;Customer_Name;Western Pacific Airlines;?
+1013;Delivery_Year_;1990;1990
+178;Order_Month;Jan;?
+1189;Order_Year;1964;?
+1237;Customer_Name;Goiania;?
+1390;Region;North America;North America
+1226;Customer_Name;Copa Airlines;?
+1399;Order_Total;2;2
+559;Model_Series;747-200;?
+798;Customer_Name;Northwest-Merged w Delta;?
+1287;Region;Oceania;Oceania
+440;Country;Japan;Japan
+117;Model_Series;707/720;?
+46;Model_Series;737-800;?
+163;Engine;CF;?
+1472;Model_Series;737-300;?
+743;Model_Series;737-800;?
+919;Order_Month;May;?
+217;Model_Series;DC-8;?
+1028;Region;North America;North America
+231;Order_Year;1992;?
+385;Order_Total;2;2
+875;Delivery_Total;2;2
+989;Delivery_Year_;2013;?
+628;Order_Year;1966;?
+706;Engine;PW;?
+421;Delivery_Total;1;1
+1062;Delivery_Total;2;2
+1440;Delivery_Total;1;?
+520;Engine;GE;?
+891;Order_Total;3;2
+13;Model_Series;717-200;?
+1296;Order_Year;2005;?
+53;Country;Australia;Australia
+722;Engine;CF;CF
+1157;Customer_Name;ITOCHU Corporation;?
+1062;Order_Month;May;?
+566;Delivery_Year_;1989;?
+762;Engine;GE;GE
+150;Region;Europe;Europe
+553;Customer_Name;Asiana Airlines;?
+783;Customer_Name;All Nippon Airways Co. Ltd.;?
+1419;Order_Total;2;?
+1268;Delivery_Total;1;1
+1419;Delivery_Year_;2001;?
+909;Order_Total;1;?
+1150;Order_Total;3;2
+722;Country;Morocco;Morocco
+480;Delivery_Total;1;1
+1007;Order_Month;Oct;?
+704;Delivery_Total;2;2
+979;Region;Southeast Asia;Southeast Asia
+162;Delivery_Year_;1983;?
+808;Engine;PW;?
+837;Order_Month;Oct;?
+331;Order_Total;2;?
+636;Order_Total;1;?
+104;Region;North America;Africa
+580;Engine;GE;?
+683;Customer_Name;Avolon - Ireland;?
+1070;Delivery_Year_;2006;2010
+389;Region;Europe;South America
+160;Order_Month;May;?
+548;Engine;CF;?
+1068;Delivery_Year_;1988;?
+602;Order_Month;Feb;?
+491;Order_Month;Jul;?
+1306;Order_Year;1992;?
+597;Order_Month;Dec;?
+562;Engine;GE;GE
+791;Region;South America;South America
+334;Delivery_Total;1;1
+1255;Customer_Name;ICBC Leasing;?
+952;Order_Total;1;?
+973;Model_Series;737-800;?
+975;Order_Total;1;?
+137;Country;Sudan;?
+1402;Order_Month;Aug;?
+1205;Country;Luxembourg;?
+356;Engine;PW;?
+1042;Order_Year;2011;?
+972;Order_Month;Nov;?
+1391;Country;Nigeria;Nigeria
+1280;Country;French Polynesia;?
+112;Country;Ireland;?
+854;Customer_Name;Great China Airlines;?
+509;Country;Russian Federation;Russian Federation
+1119;Order_Year;1997;?
+1468;Country;Syrian Arab Republic;Syrian Arab Republic
+1378;Order_Total;1;?
+807;Region;North America;North America
+1201;Engine;PW;?
+176;Engine;CF;?
+920;Delivery_Year_;2012;?
+701;Customer_Name;U.S. Air Force;?
+132;Order_Total;1;?
+1286;Order_Year;1965;1968
+1069;Engine;CF;CF
+311;Delivery_Year_;1988;1988
+820;Delivery_Total;2;?
+103;Order_Total;1;?
+1477;Delivery_Total;2;2
+643;Model_Series;737-800;?
+929;Region;Europe;Europe
+622;Engine;CF;?
+1087;Delivery_Year_;2008;2013
+356;Country;Argentina;?
+587;Model_Series;737-800;?
+1346;Country;Qatar;?
+87;Delivery_Total;2;2
+630;Engine;PW;PW
+189;Region;Africa;Africa
+496;Model_Series;DC-8;?
+1111;Delivery_Total;1;1
+1075;Customer_Name;KLM Royal Dutch Airlines;?
+254;Delivery_Year_;1986;?
+809;Customer_Name;Cargolux Airlines Internationa;?
+326;Model_Series;DC-10;?
+1423;Region;Europe;Africa
+948;Country;USA;?
+776;Model_Series;727;?
+683;Delivery_Total;2;?
+1276;Country;Norway;?
+1088;Order_Total;1;?
+770;Order_Total;4;?
+33;Region;North America;North America
+353;Country;China;?
+544;Order_Total;3;2
+991;Order_Month;Apr;?
+394;Customer_Name;Qantas Airways;?
+626;Model_Series;737-800A;?
+488;Country;Netherlands;Netherlands
+467;Engine;CF;?
+811;Model_Series;777-200;?
+509;Delivery_Total;2;2
+29;Order_Total;2;2
+1310;Order_Month;Jan;?
+1444;Engine;CF;CF
+514;Delivery_Total;2;2
+502;Customer_Name;Zambia Airways;?
+1190;Order_Year;1991;1987
+560;Order_Month;Jan;?
+1010;Engine;CF;CF
+219;Region;North America;North America
+848;Delivery_Total;6;?
+705;Order_Month;Sep;?
+76;Delivery_Total;2;2
+821;Customer_Name;Dominicana Airlines;?
+1217;Delivery_Total;6;?
+42;Engine;PW;?
+1369;Order_Year;1966;?
+581;Order_Total;3;?
+737;Country;USA;?
+413;Order_Total;3;2
+967;Model_Series;777-300ER;?
+42;Delivery_Year_;1971;?
+953;Region;Europe;Europe
+1015;Delivery_Year_;1979;?
+671;Delivery_Year_;1972;?
+28;Country;Mauritania;Mauritania
+81;Country;China;?
+970;Customer_Name;Wien Air Alaska;?
+1461;Order_Year;1998;?
+505;Model_Series;737-700;?
+948;Delivery_Total;1;1
+352;Order_Total;4;?
+1086;Order_Year;2018;2020
+515;Delivery_Year_;2021;?
+205;Delivery_Total;4;?
+201;Order_Month;Mar;?
+998;Order_Total;2;2
+356;Delivery_Total;1;1
+1248;Order_Month;Jan;?
+228;Customer_Name;Balair/CTA;?
+549;Order_Month;Jun;?
+919;Order_Year;1961;?
+946;Model_Series;MD-80;?
+1320;Region;North America;North America
+256;Region;Oceania;Oceania
+1285;Delivery_Year_;1978;?
+782;Model_Series;MD-80;?
+612;Country;China;?
+81;Engine;CF;?
+146;Order_Year;2000;?
+292;Order_Total;1;?
+915;Delivery_Total;1;1
+1429;Customer_Name;BDS Australia P-8;?
+424;Engine;CF;CF
+1213;Order_Month;Jan;?
+71;Order_Month;Jan;?
+720;Country;Finland;?
+356;Region;South America;?
+424;Delivery_Total;1;1
+1229;Delivery_Year_;1990;1991
+367;Order_Year;2007;?
+1377;Engine;PW;PW
+486;Region;North America;North America
+101;Country;China;?
+509;Order_Total;2;2
+215;Delivery_Year_;2005;?
+196;Engine;PW;?
+453;Country;Japan;?
+629;Model_Series;DC-8;?
+890;Region;Europe;Europe
+305;Order_Total;3;?
+462;Customer_Name;Everbright Financial Leasing;?
+558;Model_Series;737-800;?
+1033;Delivery_Year_;1978;?
+1483;Customer_Name;Hainan Airlines Holding;?
+127;Order_Year;1992;?
+122;Order_Total;10;12
+992;Engine;CF;CF
+33;Order_Year;1999;?
+750;Country;China;China
+372;Customer_Name;Timaero Ireland Limited;?
+1347;Customer_Name;Trans-Australia Airlines;?
+930;Delivery_Total;4;?
+1288;Engine;PW;?
+135;Region;North America;North America
+1046;Delivery_Total;1;1
+703;Order_Month;Apr;?
+473;Model_Series;MD-80;?
+1448;Order_Year;1995;?
+671;Customer_Name;Nepal Airlines Corporation;?
+1115;Customer_Name;Lauda Air;?
+1244;Order_Month;Feb;?
+336;Customer_Name;Middle East Airlines;?
+113;Order_Total;6;6
+644;Region;Africa;?
+1399;Region;North America;North America
+401;Order_Year;2014;2014
+815;Region;Africa;Africa
+326;Delivery_Year_;1978;?
+1198;Delivery_Year_;2018;?
+434;Delivery_Year_;1973;?
+1247;Region;Europe;Europe
+41;Region;Europe;?
+417;Order_Total;1;?
+821;Delivery_Year_;1969;?
+445;Model_Series;737-700;?
+1206;Order_Total;4;?
+79;Customer_Name;TUI Group;?
+1087;Order_Month;Feb;?
+1423;Order_Total;2;?
+1071;Model_Series;737-800;?
+749;Customer_Name;ICBC Leasing;?
+932;Customer_Name;Libyan Airlines;?
+1435;Order_Month;Jan;?
+342;Delivery_Year_;1987;?
+357;Delivery_Year_;2018;?
+1197;Order_Year;1980;?
+799;Delivery_Total;1;1
+547;Region;East Asia;East Asia
+1444;Delivery_Year_;2016;2017
+445;Order_Year;2000;?
+743;Region;South America;South America
+553;Order_Total;1;?
+1190;Order_Total;1;?
+628;Customer_Name;ATAircraft One;?
+732;Order_Year;1980;1979
+610;Country;USA;?
+1101;Model_Series;737-700;?
+993;Order_Month;Aug;?
+1152;Order_Year;2007;?
+1202;Delivery_Year_;2003;?
+63;Model_Series;707/720;?
+598;Engine;CF;?
+391;Country;Greece;Greece
+6;Model_Series;727;?
+1370;Region;East Asia;East Asia
+1373;Delivery_Year_;1967;?
+1019;Order_Total;5;?
+1173;Country;USA;?
+176;Order_Total;2;2
+753;Order_Year;1978;?
+802;Region;Central America and Mexico;Central America and Mexico
+565;Delivery_Year_;1967;?
+1063;Order_Total;4;?
+984;Model_Series;737-700;?
+1049;Order_Year;1989;?
+1187;Country;USA;Qatar
+114;Model_Series;MD-80;?
+607;Country;Chile;Chile
+415;Customer_Name;Avianca El Salvador;?
+80;Engine;PW;CF
+721;Model_Series;767-300ER;?
+944;Delivery_Year_;1985;1983
+1205;Customer_Name;Cargolux Airlines Internationa;?
+2;Engine;PW;?
+850;Order_Total;2;2
+756;Country;Portugal;Portugal
+371;Customer_Name;Royal Thai Air Force;?
+88;Delivery_Total;2;2
+68;Order_Total;2;2
+1417;Model_Series;DC-9;?
+117;Order_Year;1975;?
+764;Region;North America;North America
+309;Delivery_Year_;1999;?
+774;Order_Year;1991;1989
+932;Engine;PW;?
+1390;Order_Month;Nov;?
+364;Order_Month;Jan;?
+831;Region;East Asia;East Asia
+337;Order_Month;Apr;?
+765;Delivery_Year_;1969;1966
+1123;Delivery_Year_;1980;1981
+1035;Order_Month;Mar;?
+302;Order_Month;May;?
+895;Country;Czech Republic;Czech Republic
+1325;Delivery_Year_;1995;?
+906;Order_Total;1;?
+1278;Order_Month;Apr;?
+968;Order_Year;2007;?
+1075;Region;Europe;Europe
+1289;Model_Series;BBJ2;?
+1237;Delivery_Year_;2012;?
+39;Model_Series;707/720;?
+747;Country;Congo the Democratic Republic;Congo the Democratic Republic
+495;Order_Total;1;?
+212;Delivery_Year_;2017;2014
+45;Region;North America;North America
+909;Customer_Name;TunisAir;?
+815;Order_Month;Dec;?
+965;Delivery_Year_;2000;?
+1006;Order_Year;1987;1987
+1;Delivery_Year_;1988;?
+697;Customer_Name;EL AL Israel Airlines;?
+415;Model_Series;737-200;?
+1270;Delivery_Year_;1967;?
+347;Country;China;China
+542;Customer_Name;Euralair;?
+568;Model_Series;727;?
+864;Customer_Name;Pakistan International Airline;?
+1405;Order_Total;4;?
+1312;Delivery_Year_;2021;?
+434;Order_Year;1973;?
+1270;Customer_Name;Saudi Arabian Airlines;?
+922;Order_Month;Nov;?
+1449;Delivery_Total;1;1
+892;Region;Europe;Europe
+705;Engine;CF;?
+710;Order_Month;Jan;?
+581;Customer_Name;Mexicana;?
+428;Country;Japan;Japan
+881;Order_Year;1965;1966
+448;Order_Year;1964;1965
+434;Customer_Name;Air Canada;?
+1464;Engine;PW;PW
+372;Order_Year;2014;?
+287;Delivery_Year_;1992;1991
+723;Delivery_Year_;1968;?
+78;Customer_Name;Avianca Costa Rica;?
+482;Engine;CF;CF
+500;Region;Europe;Europe
+694;Engine;CF;CF
+1255;Country;China;?
+456;Region;Central America and Mexico;?
+124;Country;Ireland;?
+1071;Delivery_Total;8;?
+737;Delivery_Year_;1974;?
+249;Engine;CF;?
+906;Order_Month;Feb;?
+719;Country;Singapore;Singapore
+1214;Delivery_Total;1;1
+1377;Order_Month;Jan;?
+134;Delivery_Year_;1997;1995
+186;Country;Serbia;Serbia
+959;Country;USA;?
+920;Engine;GE;?
+104;Delivery_Year_;1997;?
+1227;Order_Month;Jun;?
+1016;Customer_Name;Everbright Financial Leasing;?
+1071;Customer_Name;ATA Airlines Inc.;?
+1299;Order_Year;1968;?
+503;Engine;CF;CF
+176;Country;Belgium;?
+487;Region;Southeast Asia;Southeast Asia
+1158;Delivery_Total;4;?
+883;Region;Europe;Europe
+681;Delivery_Total;2;?
+684;Delivery_Year_;2009;2004
+344;Model_Series;737-200;?
+862;Order_Year;2006;?
+1433;Region;North America;North America
+128;Order_Total;2;2
+1110;Customer_Name;China Eastern Airlines;?
+712;Delivery_Total;1;?
+960;Order_Total;3;2
+52;Order_Year;1998;1996
+927;Engine;GE;?
+1072;Country;Ireland;Ireland
+53;Delivery_Total;4;4
+602;Region;East Asia;East Asia
+802;Delivery_Year_;2001;?
+504;Order_Month;Jan;?
+323;Delivery_Year_;1980;1982
+753;Region;North America;North America
+1042;Delivery_Year_;2011;?
+899;Delivery_Total;1;1
+396;Order_Total;4;?
+476;Country;Spain;Spain
+815;Engine;RR;?
+41;Delivery_Total;5;2
+292;Customer_Name;DAE Aerospace Enterprise;?
+589;Order_Month;Jun;?
+666;Order_Total;1;?
+1010;Region;Europe;Europe
+268;Delivery_Total;1;1
+315;Order_Total;8;8
+926;Country;Turkey;?
+226;Order_Total;4;?
+1193;Order_Year;1973;?
+363;Order_Year;1996;?
+629;Order_Year;1965;?
+281;Order_Month;Jan;?
+838;Order_Year;1963;?
+1053;Region;Europe;?
+760;Delivery_Total;1;1
+117;Customer_Name;Estado Nacional Argentino ENA;?
+1056;Country;Kazakhstan;?
+1080;Delivery_Total;1;1
+863;Order_Month;Jun;?
+1275;Country;Brazil;USA
+185;Delivery_Year_;1972;?
+397;Order_Year;2018;2019
+342;Delivery_Total;5;?
+267;Order_Month;Sep;?
+295;Order_Month;Feb;?
+1056;Order_Month;Feb;?
+137;Delivery_Total;2;1
+1246;Country;Belgium;Belgium
+836;Delivery_Total;1;1
+1485;Engine;PW;?
+290;Order_Year;2014;2014
+43;Customer_Name;Far Eastern Air Transport;?
+836;Region;Europe;Europe
+756;Order_Month;Dec;?
+577;Order_Month;Feb;?
+193;Engine;CF;CF
+690;Model_Series;747-8F;?
+1006;Delivery_Total;1;?
+1275;Order_Month;Jan;?
+1120;Customer_Name;Shandong Airlines;?
+364;Region;North America;North America
+221;Engine;CF;CF
+174;Order_Year;1986;1986
+1348;Order_Month;Feb;?
+729;Model_Series;737-500;?
+391;Order_Total;1;?
+325;Order_Year;1988;?
+687;Customer_Name;China Xinhua Airlines;?
+378;Region;Oceania;Oceania
+1294;Model_Series;737-400;?
+927;Customer_Name;Novus Aviation Capital;?
+1394;Region;Europe;Europe
+1265;Delivery_Year_;1992;?
+1006;Order_Total;1;?
+1349;Customer_Name;Midwest Airlines Inc.;?
+1063;Country;Germany;Czech Republic
+173;Order_Total;1;?
+885;Region;Oceania;Oceania
+674;Model_Series;737-800;?
+456;Country;Mexico;?
+28;Model_Series;737-800;?
+902;Customer_Name;British Caledonian Airways;?
+1287;Model_Series;747-100;?
+1111;Region;South America;South America
+14;Order_Total;2;2
+114;Order_Total;1;?
+716;Order_Year;1966;?
+866;Engine;CF;CF
+704;Order_Month;Jan;?
+1128;Engine;CF;CF
+1384;Delivery_Year_;1987;?
+344;Order_Year;1985;?
+741;Engine;RR;?
+1050;Delivery_Year_;2021;2019
+1391;Model_Series;DC-10;?
+667;Region;Europe;Europe
+651;Customer_Name;MyTravel Airways;?
+1399;Model_Series;DC-8;?
+410;Order_Month;Jun;?
+902;Region;Europe;Europe
+402;Customer_Name;Azerbaijan Airlines;?
+1410;Engine;CF;?
+950;Engine;CF;?
+490;Engine;PW;PW
+913;Customer_Name;Laker Airways (Bahamas);?
+1370;Order_Total;2;2
+75;Order_Year;2006;2010
+574;Engine;PW;?
+650;Country;El Salvador;?
+438;Order_Month;May;?
+627;Delivery_Total;2;2
+720;Customer_Name;Finnair;?
+1324;Order_Month;May;?
+330;Order_Month;Feb;?
+333;Model_Series;MD-80;?
+541;Delivery_Total;1;1
+185;Delivery_Total;1;1
+135;Order_Year;1981;?
+340;Delivery_Year_;1999;?
+538;Engine;GE;GE
+810;Customer_Name;Malmo Aviation;?
+1473;Order_Total;2;2
+1175;Model_Series;737-300;?
+334;Order_Year;1982;?
+767;Order_Month;Jan;?
+1053;Delivery_Total;2;2
+798;Order_Month;Jan;?
+1433;Delivery_Year_;1969;?
+1300;Engine;CF;CF
+908;Order_Month;Nov;?
+887;Model_Series;737-300;?
+880;Order_Total;1;?
+535;Order_Month;Dec;?
+84;Customer_Name;Biman Bangladesh Airlines;?
+74;Order_Month;May;?
+795;Order_Total;2;2
+637;Order_Total;1;?
+1412;Order_Month;Apr;?
+1040;Order_Year;2016;2016
+1060;Model_Series;737-200;?
+1309;Region;Africa;?
+113;Country;USA;?
+12;Delivery_Year_;1984;?
+1471;Order_Total;2;?
+268;Order_Year;2006;2006
+1474;Country;China;China
+142;Delivery_Year_;1992;1992
+862;Order_Total;2;2
+350;Order_Year;1971;?
+223;Order_Total;8;8
+1463;Region;Europe;Europe
+340;Order_Total;1;?
+451;Model_Series;DC-9;?
+677;Customer_Name;Aeroflot - Russian Airlines;?
+548;Order_Total;3;2
+709;Order_Month;May;?
+99;Order_Year;1979;?
+1422;Country;USA;?
+1316;Order_Month;Jun;?
+35;Engine;CF;?
+1388;Delivery_Year_;1985;?
+1417;Region;Africa;Africa
+300;Country;Jordan;?
+672;Order_Month;Dec;?
+1026;Region;Europe;Europe
+220;Engine;PW;PW
+509;Order_Month;Mar;?
+1136;Order_Total;2;2
+728;Model_Series;737-800;?
+281;Order_Total;1;?
+741;Order_Total;2;2
+1275;Delivery_Total;4;?
+1166;Customer_Name;Iberia Airlines;?
+444;Country;Belgium;?
+1078;Delivery_Year_;1974;?
+118;Order_Total;1;8
+117;Order_Total;1;?
+1097;Order_Total;1;?
+1107;Model_Series;DC-9;?
+275;Engine;PW;?
+963;Customer_Name;Hebei Airlines Company LTD;?
+442;Order_Year;1987;?
+1403;Delivery_Total;1;?
+1317;Order_Month;Sep;?
+996;Order_Year;1979;?
+1334;Order_Month;Feb;?
+1035;Customer_Name;Pembroke Capital Limited;?
+436;Country;Jordan;?
+959;Order_Total;1;?
+1256;Delivery_Year_;2018;2017
+180;Region;North America;North America
+653;Delivery_Year_;2019;?
+578;Customer_Name;Ceiba Intercontinental;?
+885;Engine;CF;CF
+155;Region;South America;South America
+83;Delivery_Total;2;2
+428;Model_Series;MD-11;?
+116;Order_Month;Oct;?
+630;Delivery_Year_;1969;1968
+645;Model_Series;737-200;?
+710;Customer_Name;Iberia Airlines;?
+399;Engine;PW;?
+4;Model_Series;737-800;?
+991;Region;Europe;Europe
+673;Order_Total;4;?
+668;Engine;PW;?
+868;Region;North America;North America
+57;Delivery_Year_;1994;?
+649;Delivery_Year_;1982;1981
+228;Region;Europe;?
+1312;Country;Fiji;?
+535;Region;Africa;?
+586;Order_Total;16;16
+1123;Country;USA;?
+187;Order_Total;6;6
+26;Order_Year;1980;?
+820;Order_Total;2;?
+1180;Delivery_Total;3;?
+830;Engine;PW;?
+651;Delivery_Total;1;?
+1451;Order_Month;Jan;?
+599;Region;Europe;Europe
+293;Region;Europe;Europe
+518;Order_Month;Jan;?
+989;Model_Series;737-800;?
+630;Order_Total;1;12
+751;Country;USA;?
+1131;Country;USA;?
+126;Order_Total;1;?
+1177;Order_Month;Jan;?
+697;Engine;RR;?
+285;Order_Month;Feb;?
+375;Delivery_Total;1;2
+221;Country;Romania;Romania
+1356;Country;USA;?
+735;Engine;RR;?
+1453;Engine;PW;PW
+297;Order_Month;Jan;?
+599;Delivery_Total;1;1
+605;Order_Total;1;?
+220;Delivery_Year_;1966;1966
+688;Region;Europe;Europe
+1396;Delivery_Year_;1999;1993
+6;Engine;PW;PW
+1260;Model_Series;MD-11;?
+848;Model_Series;777-300ER;?
+910;Order_Year;2013;?
+20;Model_Series;737-800;?
+158;Country;Germany;?
+849;Engine;GE;GE
+822;Customer_Name;Capitol Air;?
+930;Engine;PW;PW
+43;Country;Taiwan;?
+592;Order_Total;1;?
+282;Order_Year;2014;?
+752;Order_Month;Jan;?
+481;Engine;CF;CF
+113;Order_Month;Jan;?
+765;Customer_Name;VIASA;?
+1095;Customer_Name;Ozark Air Lines;?
+125;Country;USA;Venezuela
+7;Customer_Name;Lion Air;?
+946;Customer_Name;Delta Air Lines;?
+1193;Delivery_Year_;1974;?
+582;Customer_Name;Turkish Air Force Peace Eagle;?
+830;Delivery_Year_;1967;?
+204;Engine;CF;CF
+196;Order_Year;1975;?
+1196;Customer_Name;Air Trading 92;?
+300;Order_Month;Apr;?
+192;Model_Series;737-400;?
+565;Order_Total;1;?
+1450;Delivery_Total;1;?
+673;Customer_Name;Japan Airlines Co. Ltd.;?
+332;Delivery_Year_;2013;2009
+273;Model_Series;767-2C;?
+108;Order_Year;1987;?
+794;Order_Total;1;?
+1274;Region;Europe;Europe
+744;Country;China;?
+1415;Delivery_Year_;1980;1977
+514;Order_Month;Jan;?
+1369;Delivery_Year_;1966;?
+303;Country;Turkey;?
+363;Order_Total;1;?
+222;Customer_Name;Air New Zealand;?
+1304;Delivery_Year_;2004;?
+296;Order_Year;1977;1977
+1298;Engine;RR;RR
+384;Delivery_Year_;1986;1983
+632;Order_Total;1;?
+1202;Country;Romania;?
+1270;Engine;PW;?
+284;Country;USA;?
+528;Model_Series;777-300ER;?
+18;Order_Total;1;?
+466;Delivery_Total;1;1
+1278;Order_Total;1;?
+998;Model_Series;DC-8;?
+519;Delivery_Total;1;1
+1268;Model_Series;747-400F;?
+960;Delivery_Year_;1988;1987
+1202;Customer_Name;TAROM Romanian Air Transport;?
+873;Order_Total;1;?
+1431;Customer_Name;UTair Aviation;?
+1157;Country;Japan;?
+488;Delivery_Year_;2016;?
+824;Order_Year;1992;?
+426;Order_Year;1966;?
+856;Country;United Kingdom;United Kingdom
+1060;Delivery_Total;1;?
+1483;Model_Series;737-800;?
+115;Order_Month;Mar;?
+855;Engine;CF;?
+1404;Delivery_Year_;1975;?
+200;Engine;GE;GE
+479;Country;China;?
+1241;Region;North America;North America
+34;Model_Series;737-300;?
+906;Delivery_Total;1;?
+362;Order_Total;1;?
+38;Order_Month;Jun;?
+1138;Order_Year;1966;?
+345;Order_Year;1982;?
+159;Region;South America;South America
+1349;Region;North America;?
+573;Order_Year;1976;?
+739;Delivery_Total;1;1
+707;Model_Series;DC-9;?
+438;Region;East Asia;East Asia
+1407;Delivery_Year_;2012;2014
+763;Delivery_Total;1;1
+535;Customer_Name;Sudan Airways;?
+1092;Engine;PW;PW
+1049;Order_Total;3;?
+1287;Delivery_Year_;1981;?
+1281;Order_Month;Jan;?
+276;Order_Year;1992;1992
+94;Model_Series;DC-8;?
+597;Model_Series;737-500;?
+62;Delivery_Total;5;?
+1308;Delivery_Year_;1980;?
+207;Order_Year;1969;1969
+341;Delivery_Year_;2016;?
+499;Model_Series;747-100;?
+414;Country;United Kingdom;?
+1199;Customer_Name;Garuda Indonesia;?
+1098;Customer_Name;easyJet;?
+1428;Order_Month;Nov;?
+1147;Order_Month;Mar;?
+1473;Model_Series;737-200;?
+593;Customer_Name;Transair (Inactive);?
+1236;Country;India;India
+285;Order_Total;1;?
+94;Region;South America;South America
+900;Order_Month;Feb;?
+690;Engine;GE;?
+1037;Country;China;China
+699;Region;Europe;Europe
+374;Order_Year;1980;?
+166;Order_Year;1987;?
+769;Delivery_Year_;1971;1973
+553;Delivery_Year_;2010;?
+817;Delivery_Year_;2022;?
+305;Region;North America;North America
+140;Customer_Name;Air China;?
+1337;Order_Year;1967;1967
+1234;Order_Year;1978;?
+413;Region;East Asia;East Asia
+1248;Order_Year;1967;?
+234;Order_Year;1976;?
+1456;Delivery_Total;4;?
+1297;Delivery_Year_;1989;1990
+221;Order_Year;1992;1999
+1329;Delivery_Year_;1980;1982
+41;Delivery_Year_;1992;?
+61;Order_Month;Dec;?
+944;Engine;PW;?
+377;Model_Series;777-300ER;?
+651;Delivery_Year_;1997;?
+1385;Delivery_Year_;1974;1975
+901;Order_Year;2016;?
+64;Model_Series;737-300;?
+1145;Order_Month;Jan;?
+1295;Order_Total;2;?
+1354;Country;USA;?
+618;Order_Month;Sep;?
+1469;Engine;RR;RR
+425;Order_Total;1;?
+722;Order_Total;1;2
+1222;Delivery_Year_;1999;1999
+62;Country;Indonesia;Thailand
+411;Delivery_Year_;2004;2003
+1131;Engine;PW;PW
+1;Engine;GE;?
+757;Region;North America;North America
+22;Order_Total;1;?
+1114;Model_Series;727;?
+1322;Order_Total;1;?
+1151;Model_Series;DC-8;?
+601;Model_Series;737-300;?
+995;Order_Year;1966;1967
+23;Delivery_Year_;1991;?
+1143;Order_Month;Dec;?
+1418;Country;USA;?
+194;Order_Total;1;?
+300;Region;Middle East;?
+443;Country;Ireland;Ireland
+1065;Order_Year;1977;?
+1022;Engine;PW;PW
+890;Engine;RR;RR
+594;Order_Month;Dec;?
+444;Order_Year;1997;?
+99;Order_Month;Jan;?
+261;Order_Total;3;2
+678;Customer_Name;Kingdom of Saudi Arabia;?
+1326;Engine;CF;?
+609;Order_Month;Mar;?
+618;Delivery_Total;1;1
+1056;Model_Series;767-300ER;?
+155;Country;Brazil;Brazil
+642;Order_Total;5;?
+1178;Order_Year;1996;1996
+339;Order_Month;Feb;?
+54;Region;East Asia;East Asia
+341;Country;Singapore;Singapore
+1482;Delivery_Total;4;?
+1464;Order_Month;Aug;?
+385;Region;South America;North America
+349;Customer_Name;Far Eastern Air Transport;?
+103;Engine;CF;CF
+988;Customer_Name;Atlantis Aviation Corporation;?
+723;Order_Total;1;?
+625;Order_Year;1961;1956
+536;Engine;PW;PW
+831;Order_Month;Jun;?
+93;Model_Series;777F;?
+451;Customer_Name;Adria Airways d.d.;?
+899;Order_Month;Sep;?
+656;Order_Total;2;2
+1118;Order_Total;2;?
+175;Customer_Name;Juneyao Air Co. LTD.;?
+397;Customer_Name;BDS U.S. Navy (P-8A Poseidon);?
+1058;Customer_Name;US Airways Inc.;?
+1011;Engine;CF;?
+329;Country;China;China
+771;Order_Total;2;2
+37;Order_Total;1;?
+1140;Delivery_Year_;1978;?
+1327;Delivery_Year_;2015;2017
+433;Country;Germany;?
+999;Order_Month;Sep;?
+221;Order_Month;Sep;?
+636;Model_Series;737-200;?
+586;Delivery_Year_;1974;?
+459;Model_Series;MD-80;?
+883;Delivery_Total;2;2
+494;Delivery_Year_;1981;1982
+1344;Customer_Name;AIR ITALY S.p.A.;?
+278;Engine;CF;CF
+356;Customer_Name;Aerolineas Argentinas;?
+744;Model_Series;737-800;?
+1386;Country;Ireland;Ireland
+809;Order_Month;Feb;?
+41;Model_Series;737-500;?
+1424;Order_Year;1993;?
+282;Country;Turkey;Turkey
+115;Order_Year;2013;?
+1241;Delivery_Year_;1996;?
+81;Order_Year;2013;?
+1251;Delivery_Year_;2001;?
+1448;Customer_Name;Bavaria;?
+1052;Order_Year;1968;?
+776;Order_Year;1981;?
+876;Model_Series;727;?
+1472;Delivery_Total;2;2
+1192;Order_Year;1966;?
+86;Region;Europe;Europe
+647;Engine;CF;PW
+168;Engine;GE;GE
+106;Model_Series;737-800;?
+1144;Engine;GE;GE
+540;Delivery_Year_;2015;?
+767;Order_Total;1;?
+810;Order_Year;1989;?
+1097;Engine;PW;PW
+730;Engine;CF;?
+739;Engine;PW;?
+110;Engine;PW;?
+870;Order_Total;1;?
+893;Country;USA;?
+633;Order_Year;2015;?
+283;Order_Year;2009;?
+224;Region;Europe;Europe
+1239;Model_Series;727;?
+1476;Delivery_Total;2;?
+349;Country;Taiwan;?
+222;Region;Oceania;?
+638;Order_Month;Feb;?
+449;Order_Year;1986;?
+749;Country;China;?
+467;Customer_Name;RwandAir;?
+22;Order_Month;Feb;?
+1048;Engine;PW;PW
+534;Order_Month;Dec;?
+1311;Delivery_Total;4;?
+1375;Delivery_Total;3;?
+1174;Order_Month;Feb;?
+350;Delivery_Year_;1971;?
+88;Order_Month;Feb;?
+1238;Delivery_Year_;1991;?
+914;Delivery_Total;1;1
+267;Order_Year;1978;?
+569;Delivery_Year_;2005;2003
+1297;Engine;PW;PW
+327;Region;South America;South America
+1465;Delivery_Year_;2014;2015
+781;Order_Year;1981;?
+73;Delivery_Total;1;1
+172;Order_Total;3;2
+61;Order_Year;1999;?
+1;Delivery_Total;2;2
+1197;Delivery_Total;1;1
+603;Region;Europe;Europe
+1085;Order_Year;1974;?
+335;Region;Europe;Europe
+1210;Engine;CF;?
+725;Order_Total;6;6
+790;Order_Month;Jan;?
+950;Country;Germany;?
+711;Engine;RR;RR
+421;Engine;GE;GE
+1343;Model_Series;767-300ER;?
+230;Order_Total;2;2
+1161;Region;Europe;Europe
+1124;Order_Total;1;?
+149;Engine;GE;?
+1199;Country;Indonesia;?
+1416;Engine;PW;PW
+119;Customer_Name;Ozark Air Lines;?
+1015;Country;USA;?
+722;Delivery_Total;1;2
+136;Order_Total;1;?
+171;Order_Total;2;2
+97;Model_Series;DC-9;?
+1468;Order_Year;1974;?
+219;Delivery_Total;1;1
+682;Country;France;France
+349;Order_Total;2;2
+928;Region;Europe;Europe
+1353;Region;Europe;Europe
+595;Model_Series;787-9;?
+911;Model_Series;767-200ER;?
+1017;Order_Year;1966;?
+1149;Customer_Name;Frontier Airlines;?
+552;Order_Year;1956;1964
+1411;Delivery_Total;4;?
+370;Model_Series;MD-11;?
+846;Country;China;?
+1352;Model_Series;717-200;?
+799;Customer_Name;Malaysia Airlines;?
+1195;Delivery_Year_;1978;1978
+1457;Country;USA;?
+989;Engine;CF;?
+100;Order_Month;Jan;?
+350;Model_Series;707/720;?
+386;Country;USA;?
+360;Order_Month;May;?
+583;Delivery_Year_;1979;?
+388;Customer_Name;KE Aircraft Leasing;?
+1430;Order_Month;Jan;?
+1049;Delivery_Total;3;?
+42;Order_Month;Jun;?
+311;Model_Series;MD-80;?
+1157;Order_Total;1;?
+1369;Model_Series;DC-9;?
+664;Delivery_Year_;1979;?
+430;Region;Europe;?
+1027;Delivery_Total;1;1
+361;Delivery_Total;3;?
+77;Country;Indonesia;?
+637;Country;United Kingdom;?
+153;Customer_Name;Singapore Airlines;?
+1060;Order_Total;1;?
+1047;Delivery_Year_;2016;2017
+1466;Order_Month;Jan;?
+1032;Model_Series;707/720;?
+726;Delivery_Year_;1959;?
+154;Region;North America;North America
+1135;Customer_Name;Dragon Aviation Leasing;?
+607;Region;South America;South America
+1267;Order_Year;1972;?
+843;Customer_Name;Air Europe;?
+211;Customer_Name;Texas Air Corporation;?
+1391;Engine;GE;?
+985;Order_Month;Jan;?
+744;Order_Month;Jul;?
+774;Delivery_Total;1;1
+466;Country;France;France
+1253;Engine;PW;?
+145;Delivery_Year_;2009;?
+515;Customer_Name;Jackson Square Aviation;?
+545;Region;Europe;Europe
+215;Customer_Name;Air Senegal International;?
+614;Delivery_Total;1;1
+460;Order_Year;1967;?
+923;Model_Series;737-500;?
+618;Country;USA;?
+740;Order_Total;6;6
+1049;Model_Series;747-400M;?
+178;Customer_Name;BDS USAF Tanker Program;?
+256;Delivery_Total;1;1
+317;Region;Europe;Europe
+965;Model_Series;717-200;?
+886;Country;USA;Bolivia
+241;Engine;PW;PW
+694;Region;South Asia;South Asia
+1392;Order_Month;Feb;?
+319;Country;Fiji;?
+1008;Customer_Name;Virgin Atlantic Airways;?
+1432;Delivery_Year_;2018;2018
+1221;Delivery_Year_;2007;?
+1133;Customer_Name;Ruili Airlines;?
+742;Engine;GE;GE
+1246;Delivery_Total;3;?
+983;Engine;PW;?
+27;Delivery_Year_;1979;1978
+474;Order_Year;2018;?
+1105;Model_Series;787-9;?
+1112;Delivery_Total;2;?
+324;Model_Series;727;?
+606;Customer_Name;Jet2.com Ltd;?
+89;Order_Month;Apr;?
+925;Engine;PW;?
+1140;Order_Total;2;2
+464;Delivery_Year_;2002;?
+377;Order_Year;2010;?
+1299;Customer_Name;FAUCETT;?
+355;Order_Year;2019;2019
+176;Delivery_Year_;1997;?
+123;Order_Month;May;?
+135;Model_Series;737-200;?
+1279;Order_Year;1969;1970
+687;Country;China;?
+1422;Engine;PW;?
+704;Engine;PW;?
+845;Delivery_Total;2;2
+259;Model_Series;747-8;?
+493;Customer_Name;UPS;?
+690;Order_Month;Feb;?
+1104;Order_Total;1;?
+1063;Engine;CF;CF
+263;Order_Year;1966;?
+660;Country;United Arab Emirates;United Arab Emirates
+456;Customer_Name;Mexicana;?
+1285;Country;Nauru;?
+933;Country;USA;?
+587;Customer_Name;GATX Jet Partners Ltd.;?
+107;Engine;CF;CF
+1254;Order_Total;5;?
+585;Delivery_Total;1;1
+13;Engine;RR;RR
+882;Region;Caribbean;?
+510;Customer_Name;All Nippon Airways Co. Ltd.;?
+1131;Region;North America;North America
+213;Model_Series;747-200;?
+738;Order_Year;1989;1989
+1155;Engine;GE;RR
+1345;Order_Month;Sep;?
+655;Order_Month;Jul;?
+890;Order_Year;1991;1991
+485;Model_Series;737-300;?
+545;Order_Total;2;2
+556;Order_Year;2007;?
+619;Delivery_Year_;2022;?
+524;Order_Month;Jul;?
+479;Order_Year;2017;?
+473;Country;USA;?
+818;Customer_Name;Frontier Airlines;?
+804;Order_Month;Sep;?
+331;Model_Series;737-200;?
+613;Order_Year;1977;?
+40;Order_Year;2011;?
+542;Country;France;?
+611;Order_Total;1;?
+1098;Engine;CF;?
+393;Order_Total;1;?
+1304;Customer_Name;Vietnam Airlines;?
+214;Customer_Name;Tracinda Corp.;?
+1176;Model_Series;737-800;?
+1291;Order_Year;2013;2016
+29;Engine;GE;?
+883;Delivery_Year_;2011;2011
+1372;Delivery_Year_;1972;?
+250;Order_Total;4;?
+789;Region;North America;North America
+779;Engine;CF;?
+153;Country;Singapore;?
+527;Delivery_Total;1;1
+590;Order_Year;2017;?
+1027;Region;Southeast Asia;Southeast Asia
+899;Order_Year;1987;?
+404;Order_Total;3;2
+1296;Region;Europe;Europe
+573;Model_Series;DC-10;?
+473;Order_Year;1989;?
+1421;Delivery_Total;1;?
+623;Engine;GE;?
+1291;Model_Series;737-700;?
+764;Model_Series;767-300ER;?
+885;Delivery_Total;8;?
+571;Order_Total;2;2
+1315;Order_Year;2007;?
+1012;Order_Month;Feb;?
+1131;Order_Month;Jan;?
+857;Customer_Name;Japan ASDF Tanker;?
+284;Region;North America;North America
+577;Order_Total;1;?
+948;Order_Month;Jul;?
+1045;Order_Year;1998;?
+718;Order_Month;Feb;?
+237;Delivery_Total;2;1
+720;Order_Month;Jan;?
+1336;Customer_Name;Aloha Airlines;?
+478;Order_Month;Mar;?
+1264;Delivery_Total;2;?
+619;Order_Total;2;2
+909;Country;Tunisia;?
+17;Engine;PW;?
+788;Order_Month;Sep;?
+45;Customer_Name;NEA Holdings Inc.;?
+111;Order_Month;Sep;?
+520;Order_Year;2013;2013
+481;Region;East Asia;East Asia
+387;Order_Year;2000;?
+1195;Order_Total;1;?
+1121;Delivery_Total;2;2
+1348;Engine;CF;CF
+831;Delivery_Year_;2017;2017
+519;Order_Month;Feb;?
+1106;Order_Month;Feb;?
+13;Delivery_Total;2;4
+884;Delivery_Total;2;2
+977;Order_Total;2;2
+113;Order_Year;2016;?
+770;Order_Month;Sep;?
+5;Order_Total;1;?
+628;Order_Month;Jan;?
+655;Delivery_Year_;1976;?
+606;Order_Month;Dec;?
+1346;Customer_Name;Qatar Airways;?
+914;Country;Qatar;?
+918;Engine;CF;RR
+784;Order_Month;Feb;?
+862;Country;Russian Federation;Russian Federation
+854;Delivery_Year_;1997;?
+505;Region;Europe;Europe
+1241;Model_Series;737-300;?
+1097;Delivery_Year_;1994;?
+282;Engine;CF;?
+523;Order_Month;Dec;?
+469;Country;Poland;?
+1483;Country;China;?
+852;Delivery_Year_;1993;1991
+1218;Delivery_Year_;1995;1995
+1308;Engine;PW;?
+1212;Engine;CF;?
+1434;Customer_Name;Alitalia;?
+586;Order_Year;1973;?
+458;Region;Middle East;Middle East
+1321;Delivery_Total;1;1
+482;Order_Total;6;7
+217;Delivery_Year_;1966;?
+48;Order_Month;Mar;?
+1098;Delivery_Total;7;7
+1336;Model_Series;737-200;?
+1248;Customer_Name;Nordair;?
+570;Delivery_Total;1;1
+549;Delivery_Year_;1998;?
+1341;Delivery_Year_;1968;?
+1265;Customer_Name;ITOCHU AirLease B.V.;?
+1165;Country;Ghana;Ghana
+945;Engine;PW;PW
+1315;Region;Oceania;Oceania
+1477;Order_Year;2010;?
+296;Engine;GE;PW
+1334;Delivery_Year_;1968;1967
+317;Order_Total;3;?
+1387;Order_Month;Jun;?
+1007;Order_Year;2014;?
+1237;Engine;CF;?
+141;Country;Ireland;Ireland
+1060;Country;Cameroon;?
+1158;Customer_Name;9 Air;?
+563;Order_Month;Apr;?
+1198;Model_Series;777F;?
+240;Order_Total;1;?
+375;Order_Total;0;2
+412;Country;USA;?
+1075;Engine;PW;?
+1354;Delivery_Total;6;?
+718;Customer_Name;Saudi Arabian Airlines;?
+486;Customer_Name;AirTran Airways (Merged with S;?
+1343;Customer_Name;Gulf Air;?
+1153;Delivery_Year_;1973;1974
+526;Order_Year;1988;1988
+941;Region;Europe;Europe
+536;Country;Canada;Canada
+260;Customer_Name;Pacific Southwest Airlines;?
+563;Order_Total;3;1
+371;Engine;CF;?
+241;Order_Total;1;?
+666;Delivery_Year_;1982;?
+433;Order_Year;1990;?
+1146;Model_Series;MD-11;?
+61;Engine;PW;?
+15;Model_Series;737-800;?
+1259;Order_Month;Apr;?
+353;Order_Month;May;?
+536;Order_Month;Feb;?
+1005;Delivery_Total;2;?
+1205;Engine;RR;?
+439;Country;Bahrain;?
+1107;Order_Year;1973;?
+686;Region;Europe;Europe
+1192;Delivery_Total;1;1
+652;Engine;GE;?
+810;Model_Series;MD-80;?
+708;Model_Series;737-800;?
+871;Region;Africa;Africa
+1267;Country;Madagascar;Madagascar
+1215;Country;Slovenia;Slovenia
+1222;Order_Total;1;?
+1389;Order_Total;3;2
+1335;Model_Series;737-500;?
+864;Delivery_Year_;1986;?
+1135;Country;China;?
+152;Order_Month;Apr;?
+401;Order_Total;8;?
+740;Engine;CF;CF
+750;Delivery_Total;1;1
+1441;Order_Month;Mar;?
+595;Delivery_Total;2;2
+624;Region;North America;North America
+784;Region;East Asia;East Asia
+1111;Order_Year;1978;?
+1454;Order_Total;1;?
+685;Delivery_Year_;2000;2002
+390;Delivery_Total;2;2
+723;Engine;PW;PW
+777;Order_Total;3;2
+1299;Engine;PW;?
+304;Delivery_Total;3;1
+414;Region;Europe;?
+253;Customer_Name;Asiana Airlines;?
+1395;Delivery_Total;2;2
+1183;Delivery_Total;2;2
+381;Engine;GE;CF
+3;Delivery_Year_;1969;1971
+110;Country;Nigeria;Nigeria
+175;Engine;GE;?
+683;Delivery_Year_;2014;?
+870;Customer_Name;Malaysia Airlines;?
+1235;Engine;CF;?
+1344;Engine;PW;?
+1422;Region;North America;North America
+887;Order_Year;1987;?
+1005;Order_Total;2;?
+1147;Order_Total;1;?
+681;Order_Total;2;?
+975;Delivery_Total;1;?
+1362;Delivery_Total;3;?
+1244;Order_Total;1;?
+1091;Order_Year;1968;1965
+1174;Engine;PW;RR
+248;Customer_Name;British Caledonian Airways;?
+1475;Customer_Name;International Lease Finance Co;?
+1320;Engine;GE;?
+534;Engine;PW;?
+1249;Order_Month;Feb;?
+1021;Region;East Asia;East Asia
+527;Region;Middle East;Middle East
+1401;Delivery_Year_;1980;?
+1109;Delivery_Total;1;?
+1426;Customer_Name;Avia Capital Leasing;?
+507;Model_Series;737-500;?
+1214;Country;Sweden;Sweden
+1046;Order_Year;1974;1974
+752;Delivery_Total;2;2
+1082;Customer_Name;Royal Jordanian;?
+451;Order_Total;1;?
+911;Order_Year;1989;?
+283;Order_Total;4;?
+725;Order_Month;Oct;?
+581;Delivery_Year_;1974;?
+989;Customer_Name;BBAM Aircraft Management LP;?
+1379;Order_Month;May;?
+346;Order_Total;1;?
+519;Country;Taiwan;Taiwan
+790;Model_Series;DC-9;?
+914;Order_Year;1979;?
+1362;Order_Month;Jan;?
+468;Delivery_Year_;1992;1987
+755;Customer_Name;Royal Air Maroc;?
+1021;Order_Month;Nov;?
+1026;Customer_Name;dba;?
+697;Region;Middle East;Middle East
+967;Region;Europe;Europe
+1271;Order_Year;2007;?
+129;Engine;PW;?
+166;Engine;RR;RR
+667;Order_Year;1991;?
+820;Country;Vietnam;?
+1027;Country;Thailand;Thailand
+1125;Delivery_Year_;1967;?
+482;Country;United Arab Emirates;United Arab Emirates
+762;Order_Year;2008;2008
+724;Customer_Name;Hainan Airlines Holding;?
+974;Order_Year;2013;2013
+1085;Delivery_Total;1;1
+1023;Order_Month;Mar;?
+1228;Country;Ireland;?
+100;Region;Europe;Europe
+482;Delivery_Total;6;7
+164;Model_Series;757-300;?
+243;Delivery_Total;3;2
+367;Delivery_Total;2;2
+1248;Order_Total;1;?
+1160;Country;Singapore;Singapore
+292;Country;Ireland;?
+29;Customer_Name;Silk Way Airlines;?
+600;Order_Total;4;?
+375;Engine;CF;?
+114;Customer_Name;Jet America Airlines;?
+863;Country;Japan;?
+1077;Engine;CF;?
+1250;Region;North America;North America
+1479;Model_Series;727;?
+515;Model_Series;737 MAX;?
+787;Model_Series;737-800;?
+1142;Delivery_Total;1;1
+382;Region;East Asia;East Asia
+1149;Model_Series;737-200;?
+1210;Delivery_Year_;2015;?
+594;Model_Series;MD-80;?
+632;Delivery_Total;1;?
+20;Delivery_Total;4;4
+801;Delivery_Total;1;1
+1244;Delivery_Year_;2016;2014
+245;Delivery_Year_;1979;?
+813;Delivery_Year_;1996;1995
+1419;Model_Series;717-200;?
+996;Delivery_Year_;1979;?
+1102;Customer_Name;Air France-KLM Group;?
+520;Customer_Name;Air Lease Corporation;?
+1433;Order_Year;1968;?
+1039;Order_Year;1997;1996
+1194;Delivery_Year_;1993;?
+1101;Order_Total;1;?
+945;Order_Month;Jun;?
+402;Delivery_Year_;2012;2010
+426;Customer_Name;Pacific Air Lines;?
+1165;Order_Year;1977;?
+1032;Engine;PW;?
+914;Engine;PW;?
+382;Order_Year;1986;?
+937;Country;Ireland;Ireland
+59;Delivery_Total;2;2
+1168;Country;China;China
+719;Order_Total;2;2
+387;Delivery_Total;2;2
+851;Country;USA;?
+102;Delivery_Year_;1990;?
+1127;Customer_Name;United Airlines;?
+180;Order_Total;1;5
+462;Order_Month;Jul;?
+578;Delivery_Year_;2011;?
+1036;Country;USA;?
+1002;Delivery_Year_;1993;?
+1228;Delivery_Year_;1995;?
+999;Region;Africa;Africa
+51;Delivery_Total;1;1
+486;Order_Month;Jan;?
+260;Engine;PW;?
+273;Customer_Name;BDS Japan International Tanker;?
+1341;Country;USA;?
+64;Country;Pakistan;Pakistan
+745;Engine;PW;?
+337;Country;Taiwan;Taiwan
+87;Order_Total;2;2
+882;Country;Jamaica;Jamaica
+305;Engine;PW;PW
+1366;Order_Total;4;?
+1287;Order_Year;1980;?
+1241;Delivery_Total;1;1
+523;Country;USA;?
+257;Country;USA;?
+1081;Delivery_Year_;1971;?
+1046;Region;South America;South America
+887;Delivery_Year_;1991;?
+238;Country;China;China
+57;Country;Taiwan;Taiwan
+195;Order_Total;1;?
+28;Engine;CF;?
+98;Model_Series;737-700;?
+376;Delivery_Year_;1975;?
+408;Order_Total;2;?
+692;Delivery_Total;1;1
+869;Customer_Name;Etihad Airways;?
+1251;Country;China;China
+934;Order_Year;1981;?
+1403;Order_Month;Mar;?
+1317;Engine;CF;?
+1153;Engine;PW;?
+1268;Region;East Asia;East Asia
+239;Country;Chile;Chile
+215;Delivery_Total;1;1
+786;Order_Month;Dec;?
+300;Delivery_Total;2;?
+1082;Delivery_Year_;2014;?
+288;Region;Africa;Africa
+841;Region;Europe;Europe
+58;Model_Series;767-300ER;?
+712;Region;Europe;Europe
+123;Delivery_Year_;2016;2017
+63;Order_Month;Jan;?
+551;Country;Mexico;Mexico
+971;Order_Total;1;?
+359;Engine;GE;?
+230;Engine;PW;PW
+470;Order_Month;Jan;?
+969;Region;Europe;Europe
+948;Engine;RR;?
+1296;Model_Series;787-8;?
+1423;Country;Czech Republic;Germany
+368;Engine;GE;?
+950;Order_Year;1986;?
+524;Delivery_Year_;1997;1997
+335;Engine;CF;?
+1437;Customer_Name;Eastwind Airlines;?
+971;Delivery_Year_;1996;?
+408;Country;State of Libya;State of Libya
+875;Country;USA;?
+534;Country;Uruguay;?
+957;Region;North America;Africa
+41;Order_Year;1992;?
+706;Customer_Name;UTA;?
+1463;Delivery_Year_;1991;?
+1358;Order_Month;Feb;?
+368;Delivery_Total;3;?
+83;Customer_Name;Novair International Airways;?
+579;Delivery_Year_;2003;2006
+540;Order_Total;1;?
+353;Region;East Asia;East Asia
+1329;Order_Month;Oct;?
+857;Model_Series;767-200ER;?
+20;Delivery_Year_;2005;?
+772;Model_Series;MD-80;?
+747;Delivery_Total;1;1
+634;Customer_Name;Iraqi Airways;?
+1039;Order_Total;2;?
+430;Order_Total;4;?
+1458;Order_Month;Jul;?
+211;Order_Total;7;7
+146;Engine;CF;PW
+269;Order_Total;1;?
+274;Order_Year;1965;?
+159;Customer_Name;VIASA;?
+52;Region;Europe;Europe
+953;Order_Total;1;?
+349;Delivery_Year_;1998;?
+288;Engine;PW;?
+1111;Customer_Name;Aerolineas Argentinas;?
+1357;Region;North America;?
+300;Order_Total;2;?
+633;Order_Total;1;?
+1060;Customer_Name;Cameroon Airlines;?
+185;Order_Month;May;?
+856;Region;Europe;Europe
+36;Engine;PW;PW
+1117;Customer_Name;Ceiba Intercontinental;?
+9;Region;East Asia;East Asia
+1065;Country;Indonesia;?
+360;Delivery_Total;1;1
+6;Region;Europe;Europe
+1414;Region;Oceania;Oceania
+1370;Customer_Name;Jade Cargo International;?
+409;Customer_Name;Itel Air;?
+823;Region;Europe;Europe
+75;Engine;CF;CF
+1264;Order_Total;2;?
+672;Customer_Name;Presidential Flight;?
+171;Model_Series;787-9;?
+877;Order_Month;Mar;?
+44;Order_Month;May;?
+875;Region;North America;North America
+1030;Order_Month;Apr;?
+46;Delivery_Total;4;4
+413;Engine;GE;?
+488;Order_Month;May;?
+295;Order_Total;5;?
+1414;Delivery_Year_;1987;?
+452;Order_Total;1;?
+282;Delivery_Year_;2021;?
+1320;Delivery_Total;1;1
+351;Country;Ireland;Ireland
+1351;Order_Total;1;?
+301;Engine;PW;GE
+958;Order_Total;4;?
+270;Region;Europe;Europe
+1097;Order_Month;Mar;?
+355;Delivery_Total;1;2
+1087;Engine;GE;GE
+602;Delivery_Total;2;2
+676;Order_Total;1;?
+390;Customer_Name;VivaAerobus;?
+8;Order_Total;2;2
+1416;Delivery_Year_;1979;1979
+161;Region;North America;North America
+462;Region;East Asia;East Asia
+982;Order_Month;Jan;?
+331;Engine;PW;?
+1117;Order_Total;3;2
+934;Customer_Name;Midland Montagu Leasing;?
+875;Order_Month;Aug;?
+101;Model_Series;737-800;?
+1386;Model_Series;MD-80;?
+121;Region;North America;Africa
+766;Order_Total;1;?
+1251;Order_Year;2001;?
+227;Engine;GE;CF
+1423;Order_Month;Jan;?
+43;Region;Southeast Asia;?
+614;Order_Month;Apr;?
+372;Order_Month;Jan;?
+1172;Region;Middle East;Middle East
+227;Delivery_Year_;2021;?
+368;Model_Series;DC-10;?
+72;Delivery_Year_;2022;?
+752;Customer_Name;Republic of Portugal;?
+790;Order_Total;2;2
+1097;Region;East Asia;East Asia
+115;Delivery_Year_;2014;?
+192;Customer_Name;Albaraka;?
+611;Customer_Name;TAME;?
+667;Engine;CF;?
+422;Order_Month;Nov;?
+1194;Model_Series;737-300;?
+858;Order_Total;2;2
+580;Order_Month;Jul;?
+651;Model_Series;757-200;?
+581;Delivery_Total;3;?
+1147;Delivery_Total;1;?
+1350;Order_Year;2017;2017
+504;Country;Greece;Greece
+1353;Delivery_Total;4;?
+68;Order_Year;1998;?
+1260;Order_Year;1986;?
+1200;Order_Year;2002;?
+636;Region;Europe;Europe
+1142;Country;Bermuda;Bermuda
+2;Order_Year;1970;?
+357;Order_Total;1;?
+358;Engine;PW;PW
+964;Model_Series;737-800;?
+581;Country;Mexico;?
+1391;Region;Africa;Africa
+147;Delivery_Year_;1976;?
+776;Region;Europe;Europe
+1350;Region;South Asia;South Asia
+888;Delivery_Year_;2016;2017
+168;Order_Total;2;2
+947;Engine;CF;CF
+1063;Delivery_Total;4;?
+1209;Customer_Name;Asiana Airlines;?
+507;Order_Year;1988;?
+349;Order_Year;1997;?
+786;Delivery_Year_;1986;?
+15;Delivery_Total;1;1
+690;Region;Europe;Europe
+464;Order_Total;2;2
+982;Order_Total;1;?
+1252;Order_Year;1998;?
+618;Delivery_Year_;1981;?
+522;Order_Year;1965;?
+385;Engine;PW;?
+318;Model_Series;737-300;?
+1341;Engine;PW;?
+243;Order_Year;1974;?
+131;Country;Angola;?
+423;Model_Series;777F;?
+1147;Region;Europe;?
+801;Order_Month;Apr;?
+491;Model_Series;737-700;?
+660;Order_Year;2008;2008
+1075;Delivery_Year_;1962;?
+441;Model_Series;737-800;?
+1117;Order_Month;Aug;?
+187;Engine;CF;?
+298;Delivery_Total;5;?
+1112;Order_Total;2;?
+98;Order_Year;1997;?
+166;Delivery_Total;3;?
+1148;Customer_Name;easyJet;?
+969;Model_Series;737-200;?
+1384;Order_Total;1;?
+989;Order_Month;Nov;?
+1217;Order_Year;1986;?
+319;Customer_Name;Fiji Airways;?
+1356;Model_Series;787-9;?
+897;Order_Total;1;?
+416;Model_Series;737-200;?
+521;Region;Africa;Africa
+834;Country;Bangladesh;Bangladesh
+1160;Delivery_Year_;2018;?
+670;Region;Europe;Europe
+670;Country;United Kingdom;?
+672;Engine;RR;?
+604;Delivery_Total;1;1
+101;Customer_Name;Hebei Airlines Company LTD;?
+1359;Customer_Name;PLUNA;?
+711;Region;Southeast Asia;Southeast Asia
+658;Order_Month;Mar;?
+206;Customer_Name;Federative Republic of Brazil;?
+1236;Order_Year;1999;?
+1232;Region;South America;South America
+1357;Engine;GE;?
+535;Country;Sudan;?
+1220;Model_Series;MD-80;?
+851;Order_Year;1966;1968
+1071;Order_Year;2000;?
+319;Order_Total;1;?
+1406;Delivery_Total;1;1
+513;Delivery_Year_;1986;1987
+900;Delivery_Year_;1969;?
+321;Customer_Name;Universal Airlines;?
+1425;Order_Month;Mar;?
+1039;Delivery_Total;2;?
+350;Order_Total;1;?
+572;Model_Series;737-200;?
+1308;Order_Year;1980;?
+427;Delivery_Year_;1988;1992
+603;Engine;PW;PW
+871;Country;Nigeria;Nigeria
+769;Order_Month;Feb;?
+1018;Order_Month;Feb;?
+539;Delivery_Total;1;1
+816;Order_Total;2;2
+1190;Region;Europe;Europe
+1256;Customer_Name;Donghai Airlines;?
+614;Model_Series;737-200;?
+1081;Model_Series;737-200;?
+1479;Engine;PW;PW
+958;Delivery_Total;4;?
+478;Region;Europe;Europe
+664;Order_Month;Sep;?
+391;Order_Month;Jan;?
+222;Engine;GE;?
+598;Delivery_Year_;2010;?
+1170;Delivery_Total;1;1
+1465;Engine;CF;CF
+706;Model_Series;DC-8;?
+684;Order_Month;Feb;?
+1453;Order_Month;Jan;?
+41;Order_Total;5;2
+852;Order_Total;1;?
+1262;Engine;CF;CF
+27;Delivery_Total;1;1
+700;Country;Canada;Canada
+35;Model_Series;707/720;?
+1107;Region;Caribbean;?
+685;Order_Month;Dec;?
+231;Region;East Asia;East Asia
+959;Model_Series;737-400;?
+879;Order_Month;Jan;?
+12;Order_Month;May;?
+277;Delivery_Year_;2012;2013
+918;Delivery_Total;5;?
+1385;Order_Total;1;?
+138;Order_Month;Jul;?
+1000;Delivery_Year_;1967;1968
+616;Country;Germany;?
+999;Delivery_Year_;1974;?
+1136;Region;Europe;Europe
+1325;Order_Total;1;?
+1002;Customer_Name;LAM;?
+514;Delivery_Year_;1968;?
+1353;Customer_Name;AOM French Airlines;?
+1442;Delivery_Total;1;1
+297;Delivery_Total;1;1
+405;Order_Total;2;?
+857;Order_Year;2005;?
+181;Region;Oceania;Oceania
+1321;Region;East Asia;East Asia
+313;Region;Europe;Europe
+1243;Engine;GE;GE
+1313;Country;India;India
+184;Customer_Name;LOT Polish Airlines;?
+805;Customer_Name;Noga Export Import;?
+1468;Delivery_Total;2;2
+561;Engine;PW;?
+354;Delivery_Year_;2010;?
+1020;Region;North America;North America
+576;Engine;CF;?
+657;Region;Europe;Europe
+1051;Delivery_Year_;1978;?
+1214;Order_Month;Aug;?
+419;Country;Netherlands;?
+862;Region;Europe;Europe
+529;Engine;PW;PW
+548;Customer_Name;Copa Airlines;?
+202;Order_Total;1;?
+1159;Region;Europe;Europe
+793;Region;Africa;Africa
+675;Country;China;China
+675;Model_Series;737-800;?
+1277;Region;Europe;?
+568;Region;Middle East;Middle East
+865;Region;North America;Africa
+947;Order_Total;3;0
+573;Order_Month;Jul;?
+158;Order_Month;Jan;?
+167;Model_Series;787-9;?
+1374;Order_Month;Jan;?
+1179;Order_Year;1975;1975
+479;Delivery_Year_;2018;?
+40;Delivery_Year_;2011;?
+906;Delivery_Year_;2006;?
+188;Delivery_Year_;2017;?
+1039;Engine;CF;CF
+1197;Order_Month;Feb;?
+1345;Region;Southeast Asia;Southeast Asia
+755;Delivery_Total;1;1
+1147;Order_Year;1988;?
+359;Model_Series;777F;?
+625;Customer_Name;Pan Am World Airways;?
+470;Engine;GE;?
+1136;Order_Year;1980;?
+74;Country;Belgium;Belgium
+1162;Country;Turkey;Turkey
+5;Engine;PW;?
+307;Order_Total;2;2
+1289;Order_Total;1;?
+1175;Engine;CF;?
+1462;Delivery_Year_;1996;?
+508;Customer_Name;Kunming Airlines;?
+511;Order_Month;Nov;?
+284;Model_Series;757-300;?
+499;Delivery_Total;2;2
+1358;Delivery_Year_;1978;?
+755;Country;Morocco;?
+333;Delivery_Total;1;1
+680;Delivery_Year_;2018;?
+426;Engine;PW;?
+1038;Order_Total;2;2
+1108;Order_Total;2;2
+135;Order_Month;Mar;?
+1073;Order_Total;2;2
+931;Customer_Name;Norwegian Air Shuttle;?
+199;Order_Total;1;?
+1416;Country;Yemen;Yemen
+949;Delivery_Year_;2016;2015
+261;Engine;GE;?
+428;Order_Total;1;?
+12;Model_Series;737-200;?
+961;Customer_Name;China Southern Airlines;?
+732;Engine;PW;PW
+491;Region;Europe;Europe
+271;Country;South Korea;South Korea
+1190;Model_Series;737-400;?
+672;Delivery_Total;1;1
+1193;Order_Month;Feb;?
+464;Customer_Name;Northwest-Merged w Delta;?
+705;Country;Nigeria;Nigeria
+1318;Order_Year;2016;2014
+1187;Region;North America;Middle East
+1311;Order_Month;May;?
+485;Order_Year;1995;?
+1200;Region;North America;North America
+148;Delivery_Total;9;9
+582;Order_Month;Aug;?
+126;Order_Month;Oct;?
+1338;Region;Middle East;Middle East
+503;Region;Europe;Europe
+784;Delivery_Total;3;?
+582;Model_Series;737-700W;?
+300;Delivery_Year_;1977;?
+250;Delivery_Year_;1999;2001
+564;Country;USA;?
+1301;Engine;RR;RR
+865;Engine;PW;?
+1093;Model_Series;737-800;?
+213;Order_Total;3;2
+648;Delivery_Year_;2005;2008
+1025;Order_Month;Nov;?
+460;Customer_Name;Air India;?
+699;Customer_Name;PrivatAir;?
+578;Region;Africa;Africa
+310;Customer_Name;TAROM Romanian Air Transport;?
+981;Order_Year;1985;?
+549;Engine;CF;?
+536;Order_Year;1969;?
+225;Order_Month;Apr;?
+38;Order_Year;1967;?
+318;Engine;CF;CF
+980;Delivery_Year_;2014;2011
+937;Order_Total;2;2
+1209;Delivery_Total;2;2
+95;Country;Taiwan;Taiwan
+481;Delivery_Total;3;?
+86;Model_Series;747-8F;?
+902;Engine;GE;?
+1167;Order_Month;Mar;?
+448;Engine;PW;PW
+1048;Order_Total;2;2
+942;Delivery_Total;3;?
+1193;Country;Congo the Democratic Republic;Congo the Democratic Republic
+271;Delivery_Year_;2016;2017
+847;Region;South America;?
+612;Order_Year;2016;?
+1343;Country;Bahrain;?
+516;Delivery_Total;2;2
+67;Order_Total;1;?
+928;Order_Year;1982;?
+334;Country;South Africa;South Africa
+1171;Region;North America;North America
+259;Order_Month;Aug;?
+228;Order_Total;1;?
+829;Engine;RR;RR
+86;Delivery_Total;2;2
+1278;Engine;PW;PW
+223;Order_Month;Jan;?
+862;Delivery_Year_;2013;?
+1125;Engine;PW;?
+610;Delivery_Total;2;2
+677;Order_Year;2011;2011
+999;Model_Series;707/720;?
+1149;Delivery_Year_;1978;?
+1129;Region;Europe;Europe
+1267;Engine;PW;PW
+1430;Model_Series;737-200;?
+56;Order_Month;Jun;?
+873;Region;Europe;Europe
+729;Region;Europe;Europe
+348;Model_Series;767-200ER;?
+733;Order_Year;2018;2018
+376;Order_Year;1974;?
+792;Order_Total;3;2
+1056;Customer_Name;Air Astana;?
+1157;Region;East Asia;?
+590;Delivery_Year_;2020;?
+214;Delivery_Total;1;1
+1203;Order_Month;Mar;?
+369;Order_Total;2;2
+1281;Customer_Name;Air France;?
+1097;Model_Series;MD-80;?
+1271;Delivery_Total;4;?
+731;Region;North America;North America
+460;Region;South Asia;South Asia
+32;Country;South Korea;?
+1183;Region;Europe;?
+669;Country;USA;?
+693;Region;Europe;Europe
+118;Delivery_Total;1;8
+845;Region;Europe;Europe
+269;Country;United Kingdom;United Kingdom
+892;Order_Total;1;?
+630;Country;USA;?
+176;Customer_Name;Brussels Airlines SA/NV;?
+559;Order_Total;1;?
+781;Customer_Name;Monarch Airlines;?
+90;Delivery_Year_;1990;1989
+197;Order_Year;1991;?
+385;Model_Series;727;?
+1424;Customer_Name;DAE Aerospace Enterprise;?
+974;Country;China;China
+1104;Country;USA;?
+520;Order_Total;3;2
+496;Customer_Name;Japan Airlines;?
+21;Order_Month;Jan;?
+1227;Order_Total;2;0
+1287;Country;Australia;Australia
+507;Order_Month;Jan;?
+1354;Order_Total;6;?
+178;Order_Total;7;7
+819;Order_Total;2;2
+492;Order_Total;3;2
+317;Delivery_Total;3;?
+269;Region;Europe;Europe
+163;Delivery_Total;2;2
+274;Model_Series;DC-9;?
+1395;Engine;CF;?
+283;Customer_Name;Tassili Airlines;?
+464;Order_Year;2001;?
+426;Model_Series;727;?
+346;Delivery_Year_;1999;1998
+1182;Customer_Name;China Xinjiang Airlines;?
+664;Delivery_Total;1;1
+1221;Delivery_Total;1;1
+52;Model_Series;737-500;?
+1012;Delivery_Total;2;2
+1180;Region;Europe;Europe
+790;Customer_Name;Alitalia;?
+1010;Order_Year;2014;2012
+865;Delivery_Total;2;2
+925;Delivery_Year_;1971;?
+1061;Region;Africa;Africa
+1211;Country;Taiwan;Taiwan
+973;Country;Cyprus;?
+832;Order_Year;1981;?
+695;Engine;PW;?
+730;Delivery_Year_;1990;?
+1216;Delivery_Year_;1960;?
+760;Customer_Name;Republic of France;?
+469;Order_Year;1996;?
+224;Engine;CF;CF
+1147;Country;Netherlands;?
+642;Delivery_Year_;1971;1972
+1089;Country;China;?
+1123;Region;North America;North America
+658;Customer_Name;Philippine Airlines;?
+863;Customer_Name;Japan ASDF Tanker;?
+1435;Engine;PW;PW
+981;Engine;PW;RR
+1126;Customer_Name;Turkish Airlines;?
+749;Delivery_Year_;2018;?
+257;Customer_Name;Executive Jet Aviation;?
+661;Region;Caribbean;Caribbean
+889;Region;North America;Africa
+915;Order_Month;Feb;?
+1206;Engine;CF;CF
+966;Customer_Name;British Airways;?
+1235;Delivery_Total;3;?
+213;Engine;GE;?
+482;Region;Middle East;Middle East
+503;Order_Month;Mar;?
+221;Delivery_Year_;1993;2001
+1419;Region;North America;North America
+1251;Order_Month;Jan;?
+807;Delivery_Year_;1968;?
+1420;Order_Month;Apr;?
+853;Customer_Name;CAAC-Civil Aviation of China;?
+1065;Customer_Name;Garuda Indonesia;?
+360;Delivery_Year_;1973;1973
+1332;Engine;CF;CF
+78;Region;Central America and Mexico;Central America and Mexico
+1275;Region;South America;Africa
+1408;Engine;CF;CF
+837;Order_Year;2010;?
+1149;Region;North America;?
+148;Customer_Name;Hughes Airwest Inc.;?
+1481;Delivery_Total;1;1
+1102;Region;Europe;Europe
+386;Delivery_Total;1;1
+792;Customer_Name;NAS Aviation Services LLC;?
+370;Delivery_Total;5;?
+1338;Model_Series;727;?
+1461;Engine;GE;?
+534;Order_Year;1969;?
+212;Engine;GE;GE
+121;Delivery_Total;5;?
+96;Country;Germany;?
+1318;Model_Series;737-800;?
+1452;Order_Year;1997;?
+555;Engine;CF;RR
+966;Delivery_Total;2;2
+1453;Order_Year;1979;1980
+469;Delivery_Total;2;2
+1130;Country;USA;?
+476;Order_Month;Jan;?
+1106;Delivery_Total;2;2
+332;Order_Month;Feb;?
+416;Delivery_Year_;1982;?
+318;Delivery_Year_;1994;?
+175;Delivery_Year_;2019;?
+1004;Delivery_Total;1;1
+370;Customer_Name;Lufthansa Cargo;?
+112;Region;Europe;?
+1019;Region;Europe;Europe
+1230;Customer_Name;GATX Financial Corporation;?
+1153;Customer_Name;Lignes Aeriennes de Congolaise;?
+812;Delivery_Year_;2006;2007
+721;Delivery_Total;1;1
+1392;Order_Total;2;2
+543;Engine;CF;?
+778;Engine;PW;?
+703;Model_Series;737-200;?
+605;Customer_Name;Royal Brunei Airlines;?
+1357;Country;USA;?
+205;Delivery_Year_;2002;?
+1125;Model_Series;707/720;?
+920;Order_Month;Nov;?
+810;Delivery_Year_;1992;?
+1396;Order_Total;1;?
+265;Country;South Korea;South Korea
+1292;Order_Month;Aug;?
+525;Delivery_Total;1;1
+405;Country;USA;?
+7;Order_Total;4;4
+1295;Delivery_Total;2;?
+1328;Delivery_Year_;1969;1968
+125;Delivery_Total;1;?
+941;Country;Ireland;?
+73;Order_Month;Jan;?
+288;Order_Month;Mar;?
+864;Order_Total;1;?
+1376;Country;Nigeria;Nigeria
+129;Order_Year;1956;?
+469;Customer_Name;LOT Polish Airlines;?
+128;Order_Month;Feb;?
+1315;Order_Month;Mar;?
+832;Model_Series;MD-80;?
+137;Customer_Name;Sudan Airways;?
+1019;Order_Year;1987;1987
+263;Engine;PW;PW
+877;Delivery_Year_;2016;2014
+902;Order_Total;1;?
+2;Order_Month;Jun;?
+1024;Delivery_Total;1;1
+688;Engine;PW;?
+807;Order_Month;Feb;?
+818;Country;USA;?
+189;Customer_Name;TunisAir;?
+1296;Country;United Kingdom;United Kingdom
+639;Delivery_Year_;1975;?
+1141;Customer_Name;Turkish Airlines;?
+76;Order_Year;2005;?
+250;Delivery_Total;4;?
+283;Delivery_Year_;2011;?
+1382;Model_Series;767-200ER;?
+188;Engine;CF;?
+253;Delivery_Total;1;1
+382;Order_Month;Dec;?
+1403;Order_Total;1;?
+605;Model_Series;767-300ER;?
+369;Order_Year;1999;?
+505;Delivery_Total;12;12
+1100;Engine;GE;?
+944;Customer_Name;NATO;?
+377;Delivery_Year_;2013;?
+501;Country;Singapore;Singapore
+1032;Customer_Name;Western Airlines;?
+442;Delivery_Year_;1987;?
+664;Model_Series;737-200;?
+683;Country;Ireland;?
+1045;Model_Series;737-800;?
+148;Region;North America;Africa
+29;Region;Central Asia;Central Asia
+79;Delivery_Total;4;4
+212;Order_Total;1;?
+361;Order_Year;2013;2013
+105;Order_Month;Apr;?
+528;Order_Year;2010;?
+832;Order_Month;Dec;?
+703;Order_Year;1969;?
+1477;Delivery_Year_;2016;?
+712;Order_Total;1;?
+1110;Engine;CF;?
+291;Model_Series;737-500;?
+852;Order_Month;Aug;?
+1155;Order_Year;2009;?
+1148;Engine;CF;?
+698;Delivery_Total;2;?
+665;Customer_Name;KB Flygplanet;?
+1167;Region;Middle East;Middle East
+569;Engine;GE;GE
+1458;Order_Total;1;?
+502;Order_Month;Jun;?
+1357;Customer_Name;Atlas Air Inc.;?
+573;Customer_Name;Air Afrique;?
+285;Customer_Name;Royal Thai Air Force;?
+1104;Order_Month;Jul;?
+15;Country;Iceland;Iceland
+919;Customer_Name;British Eagle International;?
+458;Delivery_Year_;2002;2005
+291;Delivery_Total;3;?
+751;Engine;PW;PW
+1230;Engine;CF;?
+792;Country;USA;?
+1413;Country;United Kingdom;United Kingdom
+910;Order_Total;1;?
+1059;Region;South America;South America
+346;Customer_Name;Air China;?
+24;Delivery_Total;1;1
+1178;Engine;RR;RR
+376;Engine;PW;?
+146;Delivery_Total;1;1
+808;Customer_Name;AVIACO;?
+1341;Order_Total;1;?
+826;Customer_Name;LAB;?
+1105;Delivery_Year_;2015;?
+187;Customer_Name;Xiamen Airlines;?
+336;Country;Lebanon;?
+98;Delivery_Total;2;2
+1271;Delivery_Year_;2012;?
+1374;Model_Series;747-300;?
+869;Region;Middle East;Middle East
+878;Delivery_Year_;1960;?
+823;Order_Year;1978;1977
+1236;Order_Total;1;?
+1074;Model_Series;747-400;?
+378;Order_Month;Mar;?
+423;Customer_Name;Lufthansa Cargo;?
+1048;Country;USA;?
+1317;Order_Year;1989;?
+250;Region;Europe;Europe
+204;Model_Series;BBJ;?
+556;Country;Vietnam;Vietnam
+1414;Model_Series;737-300;?
+728;Customer_Name;SunExpress Airlines;?
+340;Customer_Name;CSA;?
+707;Order_Month;Jan;?
+96;Model_Series;MD-80;?
+633;Delivery_Year_;2018;?
+577;Delivery_Year_;2012;2007
+325;Order_Total;1;?
+224;Order_Total;2;2
+105;Model_Series;DC-9;?
+514;Engine;PW;?
+383;Order_Year;2017;?
+606;Order_Total;3;?
+730;Order_Total;1;?
+305;Order_Year;1966;1966
+1386;Order_Year;1989;?
+301;Country;USA;?
+576;Model_Series;737-800;?
+741;Delivery_Year_;2016;?
+1310;Order_Year;2016;2016
+368;Country;United Kingdom;?
+169;Delivery_Total;6;?
+80;Delivery_Year_;1991;?
+1447;Region;Southeast Asia;Southeast Asia
+187;Country;China;?
+977;Model_Series;737-800;?
+273;Order_Total;1;3
+724;Model_Series;787-8;?
+493;Delivery_Year_;1998;?
+1067;Order_Year;2010;?
+1181;Customer_Name;Air-Lib;?
+449;Country;Nepal;Nepal
+905;Order_Year;2003;?
+957;Delivery_Total;1;?
+121;Model_Series;727;?
+835;Engine;GE;GE
+1435;Model_Series;737-200;?
+920;Region;Europe;Europe
+1078;Customer_Name;Royal Jordanian;?
+420;Country;Austria;Austria
+1149;Country;USA;?
+553;Model_Series;777-200ER;?
+382;Model_Series;MD-11;?
+861;Delivery_Total;1;1
+91;Model_Series;767-200ER;?
+805;Order_Month;Apr;?
+1085;Customer_Name;Trans-Australia Airlines;?
+204;Country;USA;?
+968;Customer_Name;Oak Hill;?
+340;Order_Year;1998;?
+1241;Engine;CF;CF
+291;Delivery_Year_;1995;?
+798;Delivery_Total;7;7
+256;Delivery_Year_;2010;?
+357;Order_Year;2013;?
+464;Order_Month;Jan;?
+572;Order_Total;1;?
+1096;Delivery_Total;2;2
+1342;Order_Total;1;?
+619;Engine;CF;?
+1247;Delivery_Year_;1994;?
+1211;Delivery_Year_;1995;1996
+1084;Region;Southeast Asia;Southeast Asia
+864;Model_Series;737-300;?
+489;Customer_Name;Kingdom of Saudi Arabia;?
+592;Order_Month;Jul;?
+1375;Order_Year;1968;1966
+1052;Engine;PW;?
+1153;Order_Month;Feb;?
+1194;Delivery_Total;3;?
+567;Order_Total;1;?
+466;Engine;CF;CF
+991;Engine;CF;?
+1180;Customer_Name;Icelandair;?
+248;Delivery_Year_;1977;?
+470;Delivery_Total;4;4
+395;Customer_Name;SonAir;?
+689;Delivery_Total;2;2
+128;Delivery_Total;2;2
+428;Delivery_Year_;1994;?
+1458;Customer_Name;BWIA;?
+1378;Region;Europe;Europe
+355;Order_Total;1;2
+336;Order_Month;Jun;?
+922;Delivery_Year_;1984;?
+229;Region;Southeast Asia;Southeast Asia
+1419;Engine;BR;CF
+1304;Order_Month;Jan;?
+881;Delivery_Total;3;?
+284;Delivery_Total;5;?
+374;Engine;PW;?
+956;Order_Total;2;2
+1028;Country;USA;?
+956;Country;Turkey;?
+436;Engine;PW;?
+272;Region;Europe;Europe
+706;Order_Month;Jan;?
+832;Engine;PW;?
+1425;Model_Series;787-9;?
+329;Order_Year;1991;?
+1016;Order_Total;7;7
+1032;Order_Year;1963;?
+234;Customer_Name;BWIA;?
+1164;Delivery_Total;1;1
+1425;Order_Year;2007;?
+273;Delivery_Total;1;?
+87;Model_Series;787-9;?
+1170;Order_Month;Oct;?
+1181;Engine;PW;?
+311;Country;Ireland;Ireland
+580;Delivery_Total;2;2
+1372;Order_Month;Jan;?
+576;Order_Year;2006;?
+1446;Delivery_Total;2;2
+1403;Delivery_Year_;1997;?
+999;Order_Year;1973;?
+1393;Order_Year;1986;?
+592;Delivery_Total;1;?
+511;Country;Jamaica;?
+682;Order_Total;2;2
+157;Order_Month;Jan;?
+914;Delivery_Year_;1979;?
+1353;Order_Month;Sep;?
+785;Order_Month;Apr;?
+330;Order_Year;1974;1974
+1481;Model_Series;737-200;?
+827;Order_Year;1967;1967
+470;Delivery_Year_;1975;?
+1120;Country;China;?
+1115;Order_Year;1999;1999
+936;Region;North America;Africa
+24;Order_Year;1994;1993
+1113;Model_Series;727;?
+933;Model_Series;727;?
+609;Engine;GE;?
+1202;Engine;CF;?
+1411;Model_Series;737 MAX;?
+773;Delivery_Year_;1967;?
+1051;Order_Month;Oct;?
+1261;Delivery_Year_;2007;?
+1086;Engine;GE;GE
+84;Order_Month;Apr;?
+244;Engine;PW;CF
+843;Model_Series;757-200;?
+502;Order_Year;1975;?
+521;Engine;PW;?
+1356;Customer_Name;Air Lease Corporation;?
+1217;Country;USA;?
+1272;Customer_Name;Korean Air Force Peace Eye;?
+202;Delivery_Year_;1979;?
+1440;Order_Total;1;?
+709;Delivery_Total;4;?
+1461;Model_Series;777-200ER;?
+525;Order_Month;Jul;?
+180;Delivery_Total;1;?
+102;Country;China;?
+1030;Model_Series;737 MAX;?
+831;Delivery_Total;5;?
+744;Engine;CF;?
+988;Engine;GE;?
+715;Model_Series;787-8;?
+180;Order_Month;Feb;?
+561;Customer_Name;Uzbekistan Airways;?
+310;Order_Total;2;2
+1345;Order_Year;1994;?
+1236;Order_Month;Jun;?
+1259;Order_Total;5;?
+1459;Country;Canada;Canada
+761;Model_Series;737-800;?
+1312;Customer_Name;Fiji Airways;?
+775;Engine;PW;PW
+143;Region;North America;North America
+860;Region;North America;North America
+1324;Region;East Asia;East Asia
+347;Order_Month;Jun;?
+1443;Customer_Name;Ariana Afghan Airlines;?
+387;Engine;RR;?
+504;Order_Year;1968;1968
+121;Delivery_Year_;1970;?
+607;Model_Series;737-200;?
+232;Order_Total;2;?
+199;Model_Series;777-200ER;?
+1111;Engine;PW;?
+615;Delivery_Year_;2007;?
+40;Customer_Name;Business Jet / VIP Customer(s);?
+1040;Order_Month;Apr;?
+544;Customer_Name;Libyan Airlines;?
+438;Model_Series;747-200;?
+505;Engine;CF;?
+1394;Order_Year;2019;?
+199;Order_Month;Oct;?
+261;Delivery_Year_;1983;?
+1450;Country;Angola;?
+227;Order_Month;Feb;?
+213;Customer_Name;Varig Airlines;?
+1163;Order_Total;1;?
+79;Country;Germany;?
+1096;Order_Year;1975;1975
+576;Delivery_Year_;2013;?
+1211;Region;Southeast Asia;Southeast Asia
+289;Engine;PW;PW
+67;Region;North America;North America
+1138;Region;North America;Africa
+484;Delivery_Total;4;?
+1204;Region;North America;Africa
+855;Customer_Name;Jet Airways;?
+1376;Delivery_Total;1;1
+440;Region;East Asia;East Asia
+685;Order_Total;3;2
+1040;Engine;CF;?
+631;Order_Total;1;?
+693;Delivery_Total;4;?
+401;Engine;CF;CF
+1076;Country;USA;?
+847;Engine;PW;?
+162;Customer_Name;U.S. Air Force;?
+732;Region;North America;North America
+212;Model_Series;747-8F;?
+735;Order_Month;Jan;?
+327;Customer_Name;LADECO;?
+387;Region;East Asia;East Asia
+1228;Customer_Name;DAE Aerospace Enterprise;?
+921;Model_Series;737 MAX;?
+59;Order_Month;Aug;?
+1473;Region;Europe;Europe
+640;Order_Month;Apr;?
+533;Engine;PW;?
+1259;Delivery_Total;5;?
+1454;Country;USA;?
+679;Delivery_Year_;2016;2017
+840;Country;Cameroon;Cameroon
+369;Engine;CF;CF
+1107;Delivery_Year_;1974;?
+729;Customer_Name;GPA Group;?
+570;Order_Year;2018;2020
+461;Order_Total;1;?
+1275;Order_Total;4;?
+1217;Model_Series;737-300;?
+711;Model_Series;787-8;?
+551;Order_Year;2006;?
+1411;Order_Year;2021;?
+224;Delivery_Year_;2011;2011
+714;Customer_Name;Air Florida;?
+824;Engine;CF;CF
+432;Country;USA;?
+1163;Delivery_Year_;1993;?
+55;Customer_Name;Presidential Flight;?
+144;Engine;PW;?
+228;Country;Switzerland;?
+189;Order_Year;1971;?
+86;Customer_Name;AirBridgeCargo Airlines;?
+342;Model_Series;737-300;?
+887;Order_Total;1;?
+848;Order_Year;2014;?
+623;Order_Month;Mar;?
+763;Model_Series;DC-8;?
+1484;Model_Series;737-800;?
+549;Region;North America;North America
+1363;Customer_Name;Aeromexico;?
+1209;Country;South Korea;?
+1303;Order_Month;Nov;?
+969;Order_Total;2;2
+1302;Model_Series;737-800;?
+1449;Country;Oman;Oman
+551;Order_Total;3;2
+626;Order_Month;Jan;?
+748;Delivery_Total;2;2
+1464;Region;North America;North America
+1407;Engine;GE;GE
+1147;Customer_Name;Martinair Cargo;?
+813;Order_Month;Sep;?
+200;Country;Russian Federation;Russian Federation
+494;Customer_Name;Alaska Airlines;?
+444;Order_Total;1;?
+472;Engine;PW;?
+794;Delivery_Total;1;?
+1345;Engine;PW;?
+1434;Order_Year;1966;?
+1212;Customer_Name;Skyways Leasing;?
+118;Customer_Name;Eastern Provincial Airways;?
+700;Order_Year;1979;?
+1450;Order_Total;1;?
+721;Order_Year;2010;2008
+680;Order_Total;1;?
+1472;Region;Europe;Europe
+835;Delivery_Total;1;1
+311;Order_Year;1986;?
+1187;Delivery_Total;1;?
+1334;Customer_Name;Transamerica Airlines;?
+511;Customer_Name;Air Jamaica-See CBL;?
+303;Engine;PW;?
+1393;Region;East Asia;East Asia
+775;Region;North America;North America
+374;Model_Series;737-200;?
+359;Order_Month;Jan;?
+679;Order_Month;May;?
+1452;Order_Total;2;?
+1223;Engine;CF;CF
+953;Customer_Name;buzz;?
+97;Region;Caribbean;?
+30;Region;Africa;Africa
+997;Order_Month;Feb;?
+624;Order_Month;Mar;?
+862;Order_Month;Nov;?
+1023;Engine;PW;?
+155;Model_Series;737-800;?
+966;Model_Series;707/720;?
+959;Delivery_Total;1;?
+946;Region;North America;North America
+1384;Delivery_Total;1;?
+419;Engine;PW;?
+1406;Country;India;India
+906;Order_Year;1998;?
+77;Order_Month;Feb;?
+1089;Customer_Name;Shanghai Airlines;?
+1432;Customer_Name;AerCap;?
+795;Region;Central Asia;Central Asia
+262;Order_Month;Mar;?
+436;Model_Series;727;?
+157;Region;Europe;Europe
+753;Model_Series;737-200;?
+1105;Delivery_Total;7;7
+1245;Engine;RR;?
+631;Delivery_Year_;2017;2017
+1033;Model_Series;737-200;?
+779;Order_Total;3;2
+615;Order_Year;2006;?
+87;Order_Month;Oct;?
+1068;Delivery_Total;4;?
+35;Order_Total;7;8
+272;Model_Series;737-200;?
+689;Engine;PW;PW
+301;Delivery_Total;1;1
+170;Customer_Name;Air Europe;?
+993;Delivery_Total;1;1
+1194;Order_Year;1989;?
+1407;Order_Month;Apr;?
+898;Model_Series;707/720;?
+807;Order_Total;3;2
+272;Order_Month;Feb;?
+32;Delivery_Year_;2018;?
+1183;Country;United Kingdom;?
+356;Model_Series;747-200;?
+615;Region;Europe;Europe
+103;Order_Month;Jan;?
+17;Region;Middle East;Middle East
+891;Country;India;India
+1074;Delivery_Year_;1991;?
+999;Delivery_Total;1;1
+717;Order_Total;1;?
+1066;Order_Month;Mar;?
+114;Delivery_Year_;1981;?
+1258;Order_Month;Sep;?
+22;Region;North America;North America
+1337;Country;USA;?
+968;Delivery_Total;2;?
+632;Order_Year;1989;1988
+1238;Engine;GE;?
+493;Model_Series;767-300F;?
+1157;Engine;GE;?
+543;Region;Europe;South America
+886;Delivery_Total;1;?
+429;Delivery_Year_;2003;2002
+458;Order_Month;Apr;?
+516;Delivery_Year_;2017;2015
+1195;Region;Africa;Africa
+209;Order_Month;May;?
+968;Order_Total;2;?
+1401;Engine;PW;?
+256;Order_Month;Mar;?
+190;Region;North America;North America
+1485;Model_Series;707/720;?
+169;Engine;CF;?
+854;Delivery_Total;1;1
+102;Customer_Name;Cathay Pacific Airways;?
+227;Delivery_Total;1;1
+506;Engine;RR;?
+411;Country;USA;?
+1065;Delivery_Year_;1977;?
+526;Region;North America;North America
+2;Order_Total;3;2
+606;Delivery_Total;3;?
+177;Order_Month;Jun;?
+180;Country;USA;USA
+467;Delivery_Year_;2011;?
+1273;Engine;RR;?
+436;Customer_Name;Royal Jordanian;?
+14;Delivery_Year_;1991;1992
+390;Country;Mexico;?
+342;Customer_Name;America West Airlines;?
+1046;Country;Brazil;Brazil
+843;Order_Total;2;2
+492;Delivery_Year_;1979;1977
+651;Order_Total;1;?
+382;Country;Japan;Japan
+768;Engine;PW;?
+1408;Model_Series;737-800;?
+857;Region;East Asia;East Asia
+795;Order_Month;Jun;?
+1143;Country;China;?
+1077;Model_Series;737-300;?
+408;Delivery_Total;2;?
+487;Delivery_Total;1;1
+149;Country;United Arab Emirates;?
+683;Order_Month;Sep;?
+1228;Order_Year;1995;?
+951;Order_Month;Aug;?
+1230;Country;USA;?
+425;Delivery_Total;1;?
+615;Country;Turkey;Turkey
+1435;Region;Europe;Europe
+678;Delivery_Year_;1975;1977
+1369;Customer_Name;Bonanza Airlines;?
+217;Delivery_Total;1;1
+499;Order_Year;1969;?
+214;Delivery_Year_;1968;1969
+22;Delivery_Total;1;?
+387;Model_Series;757-200;?
+700;Delivery_Year_;1979;?
+1021;Model_Series;767-200ER;?
+767;Order_Year;1979;?
+216;Customer_Name;China Southern Airlines;?
+838;Engine;PW;?
+108;Customer_Name;Ethiopian Airlines Group;?
+1071;Engine;CF;?
+1319;Model_Series;777F;?
+595;Engine;GE;GE
+94;Engine;PW;?
+708;Delivery_Total;2;?
+489;Order_Month;Jun;?
+891;Order_Month;Jun;?
+435;Customer_Name;Air Austral;?
+1217;Order_Month;Feb;?
+731;Model_Series;MD-80;?
+1411;Order_Month;Apr;?
+1255;Order_Total;8;?
+1359;Delivery_Total;3;?
+1175;Delivery_Total;3;?
+42;Model_Series;DC-9;?
+407;Delivery_Year_;1963;?
+980;Engine;CF;?
+365;Order_Month;Jan;?
+1158;Region;East Asia;East Asia
+1447;Order_Year;2005;?
+767;Delivery_Year_;1979;?
+452;Region;Europe;Europe
+1029;Order_Year;2002;2002
+475;Customer_Name;Smartwings a.s.;?
+1305;Country;USA;?
+716;Customer_Name;Standard Airways;?
+864;Order_Year;1984;?
+555;Delivery_Year_;1997;1997
+1249;Country;Kazakhstan;?
+1254;Order_Month;Jun;?
+549;Order_Year;1996;?
+972;Delivery_Total;1;1
+893;Engine;PW;PW
+616;Delivery_Total;1;1
+1358;Customer_Name;Braniff Airlines;?
+1316;Country;USA;?
+923;Delivery_Year_;1994;?
+228;Engine;PW;?
+293;Delivery_Total;1;?
+147;Region;Middle East;Middle East
+10;Order_Month;Mar;?
+715;Delivery_Total;2;2
+342;Engine;CF;?
+943;Region;South Asia;South Asia
+447;Model_Series;737 MAX;?
+1333;Order_Month;Sep;?
+1224;Delivery_Year_;2009;2009
+557;Delivery_Year_;1960;?
+681;Order_Month;Apr;?
+462;Model_Series;737-800;?
+1431;Model_Series;737-800;?
+188;Order_Month;Nov;?
+9;Order_Total;2;0
+320;Engine;PW;?
+1127;Delivery_Total;2;2
+713;Model_Series;737-800;?
+882;Delivery_Total;2;2
+571;Customer_Name;Turkish Airlines;?
+179;Delivery_Year_;1979;?
+1224;Order_Month;Jan;?
+746;Order_Month;Sep;?
+1032;Delivery_Total;3;?
+1286;Model_Series;DC-8;?
+1402;Customer_Name;MyTravel Airways;?
+743;Order_Total;1;?
+1330;Region;Europe;Europe
+193;Region;South America;South America
+107;Order_Month;Jan;?
+1020;Customer_Name;Voyager Aviation Aircraft Leas;?
+896;Country;USA;?
+810;Delivery_Total;1;?
+571;Order_Month;Feb;?
+176;Region;Europe;?
+11;Customer_Name;Tanzania;?
+386;Region;North America;North America
+1221;Order_Year;2002;?
+291;Country;Japan;Japan
+1233;Model_Series;747-200;?
+886;Order_Year;1973;?
+760;Engine;CF;?
+262;Order_Total;2;2
+799;Region;Southeast Asia;Southeast Asia
+1115;Delivery_Total;1;1
+28;Region;Africa;Africa
+1285;Customer_Name;Nauru Airlines;?
+1371;Order_Year;1990;1990
+1447;Delivery_Year_;2015;?
+217;Region;North America;North America
+1282;Engine;CF;CF
+1061;Country;Kenya;Kenya
+325;Delivery_Total;1;?
+197;Order_Month;Jul;?
+767;Model_Series;737-200;?
+676;Customer_Name;PACE Airlines;?
+598;Order_Total;2;2
+1276;Order_Month;Dec;?
+315;Region;East Asia;East Asia
+1069;Model_Series;707/720;?
+803;Model_Series;727;?
+81;Delivery_Year_;2015;?
+457;Delivery_Year_;1988;1988
+544;Order_Month;Apr;?
+263;Country;Belgium;Belgium
+870;Delivery_Total;1;?
+1279;Order_Total;1;?
+1034;Delivery_Total;2;2
+211;Order_Month;Mar;?
+1451;Delivery_Year_;2018;2019
+958;Country;Germany;?
+431;Delivery_Year_;1979;?
+726;Order_Month;Jan;?
+163;Model_Series;737-400;?
+1085;Model_Series;727;?
+130;Engine;RR;RR
+134;Country;Thailand;Thailand
+591;Model_Series;707/720;?
+1302;Region;Europe;Europe
+630;Delivery_Total;1;12
+128;Region;Europe;Europe
+46;Order_Year;2013;2013
+25;Delivery_Total;1;1
+1360;Region;Middle East;Middle East
+516;Country;Iraq;Iraq
+1228;Order_Total;2;2
+778;Delivery_Total;2;2
+194;Country;Azerbaijan;Azerbaijan
+616;Customer_Name;Lufthansa;?
+872;Order_Total;4;?
+23;Delivery_Total;4;4
+1108;Engine;RR;RR
+62;Order_Month;Feb;?
+173;Delivery_Year_;1985;1985
+26;Country;Pakistan;?
+1381;Region;Europe;Europe
+547;Customer_Name;Hebei Airlines Company LTD;?
+730;Model_Series;737-300;?
+1349;Order_Year;2002;?
+683;Order_Total;2;?
+810;Order_Total;1;?
+574;Customer_Name;Condor Flugdienst;?
+738;Order_Total;2;0
+202;Country;South Korea;South Korea
+588;Delivery_Total;1;1
+1230;Region;North America;?
+1105;Engine;RR;RR
+1170;Engine;CF;CF
+444;Customer_Name;City Bird;?
+47;Customer_Name;Northwest-Merged w Delta;?
+1000;Region;Middle East;Middle East
+704;Model_Series;MD-11;?
+166;Order_Month;Feb;?
+780;Customer_Name;Braniff Airlines;?
+1155;Country;New Zealand;New Zealand
+705;Delivery_Total;1;1
+1309;Model_Series;737-200;?
+1179;Country;USA;?
+964;Order_Total;12;12
+1263;Country;Belgium;Belgium
+257;Engine;PW;?
+1025;Order_Year;2007;?
+252;Country;Germany;Ireland
+854;Region;Southeast Asia;Southeast Asia
+889;Delivery_Total;1;1
+184;Order_Month;Jul;?
+38;Delivery_Total;1;1
+774;Engine;PW;?
+401;Delivery_Total;8;?
+1327;Delivery_Total;4;?
+442;Order_Month;Jan;?
+792;Model_Series;737-400;?
+663;Order_Year;1970;1970
+980;Order_Month;Jan;?
+7;Order_Year;2008;?
+742;Model_Series;DC-10;?
+390;Engine;CF;?
+1126;Country;Turkey;?
+50;Order_Total;1;?
+504;Delivery_Total;1;1
+788;Country;Ireland;?
+863;Engine;GE;?
+444;Order_Month;May;?
+1144;Delivery_Year_;2020;2019
+1348;Region;Europe;Europe
+183;Model_Series;737-200;?
+54;Country;China;China
+112;Customer_Name;Avolon - Ireland;?
+1366;Order_Year;1985;1985
+977;Order_Month;Feb;?
+216;Order_Month;Feb;?
+409;Order_Total;2;2
+447;Delivery_Year_;2018;?
+36;Country;USA;?
+715;Delivery_Year_;2014;?
+258;Customer_Name;AVIOGENEX;?
+789;Delivery_Year_;1969;1967
+1401;Order_Month;Sep;?
+172;Model_Series;MD-90;?
+859;Delivery_Year_;1969;1967
+797;Order_Month;Feb;?
+543;Country;Ukraine;Germany
+136;Order_Year;1997;2001
+43;Order_Year;1991;?
+462;Delivery_Year_;2016;?
+915;Country;USA;?
+1267;Model_Series;737-200;?
+1195;Country;Gabon;?
+643;Country;USA;?
+157;Model_Series;737-300;?
+216;Country;China;?
+650;Customer_Name;Avianca El Salvador;?
+207;Model_Series;DC-9;?
+1167;Order_Year;1992;?
+1154;Order_Month;Jul;?
+640;Model_Series;737-400;?
+851;Model_Series;DC-9;?
+997;Order_Total;1;?
+1004;Model_Series;737-300;?
+327;Model_Series;737-200;?
+190;Engine;PW;?
+378;Delivery_Year_;1992;?
+1118;Delivery_Total;2;?
+1273;Order_Year;1990;?
+573;Delivery_Year_;1979;?
+715;Engine;GE;GE
+705;Model_Series;737-800;?
+1133;Engine;CF;?
+260;Delivery_Year_;1969;1970
+830;Delivery_Total;3;?
+548;Delivery_Year_;2021;?
+582;Delivery_Year_;2005;?
+837;Customer_Name;Avia Capital Leasing;?
+784;Order_Year;2017;?
+612;Region;East Asia;East Asia
+328;Country;USA;?
+1349;Country;USA;?
+454;Delivery_Year_;1984;?
+209;Order_Total;1;?
+472;Order_Year;1975;?
+184;Model_Series;737-400;?
+72;Country;USA;?
+1160;Order_Year;2017;?
+604;Order_Year;1989;?
+678;Delivery_Total;1;1
+222;Country;New Zealand;?
+595;Country;Netherlands;Netherlands
+199;Region;Middle East;Middle East
+1334;Region;North America;North America
+826;Model_Series;727;?
+296;Country;Gabon;?
+738;Engine;CF;CF
+724;Order_Year;2007;?
+1421;Delivery_Year_;1970;1973
+406;Delivery_Total;6;?
+1128;Delivery_Year_;2010;2009
+503;Order_Total;2;2
+275;Delivery_Year_;1982;?
+941;Order_Year;2010;?
+984;Delivery_Total;1;1
+1239;Delivery_Total;1;1
+364;Model_Series;737-800;?
+412;Region;North America;?
+683;Model_Series;737-800;?
+1446;Country;China;China
+964;Engine;CF;CF
+10;Engine;PW;PW
+851;Engine;PW;PW
+425;Delivery_Year_;1996;1998
+1029;Country;USA;?
+1143;Customer_Name;Ruili Airlines;?
+1460;Region;Europe;Europe
+71;Delivery_Year_;1997;1999
+733;Order_Month;Mar;?
+331;Delivery_Total;2;?
+676;Order_Month;Apr;?
+280;Order_Month;Feb;?
+1182;Order_Month;Mar;?
+967;Delivery_Total;2;2
+86;Order_Month;Nov;?
+612;Engine;CF;?
+1344;Order_Month;Jan;?
+528;Delivery_Total;3;?
+772;Order_Year;1990;?
+177;Customer_Name;Kingdom of Saudi Arabia;?
+1330;Customer_Name;Aero Lloyd;?
+637;Customer_Name;buzz;?
+865;Customer_Name;North Central Airlines;?
+1080;Model_Series;737-200;?
+129;Model_Series;DC-8;?
+124;Delivery_Total;3;3
+1231;Engine;BR;CF
+297;Engine;CF;CF
+325;Customer_Name;Nigeria Airways;?
+189;Order_Month;Mar;?
+985;Customer_Name;Scandinavian Airlines;?
+869;Order_Total;3;2
+414;Order_Year;1967;?
+214;Engine;PW;?
+294;Delivery_Year_;2017;2017
+991;Customer_Name;Air Berlin;?
+1266;Order_Year;1999;?
+1399;Country;Canada;Canada
+99;Model_Series;DC-9;?
+643;Delivery_Year_;2003;?
+161;Order_Year;1993;?
+1459;Order_Total;1;?
+978;Delivery_Total;1;1
+190;Delivery_Year_;1980;1980
+1296;Order_Month;Feb;?
+1309;Order_Year;1973;?
+1358;Model_Series;727;?
+1043;Customer_Name;Midland Montagu Leasing;?
+1068;Model_Series;767-300ER;?
+270;Order_Total;1;?
+872;Engine;GE;GE
+1481;Order_Month;Apr;?
+324;Order_Total;1;?
+759;Region;Unidentified;Unidentified
+1391;Delivery_Year_;1977;?
+1102;Delivery_Year_;2016;2018
+30;Order_Year;1974;1974
+453;Customer_Name;Japan Asia Airways;?
+286;Engine;RR;RR
+712;Order_Year;1965;?
+691;Delivery_Year_;2017;?
+1481;Country;Canada;Canada
+949;Engine;CF;?
+359;Delivery_Year_;2015;?
+480;Delivery_Year_;1998;?
+1427;Order_Total;2;2
+1224;Country;China;China
+364;Order_Total;3;2

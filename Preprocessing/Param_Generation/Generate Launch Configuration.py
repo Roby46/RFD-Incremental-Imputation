@@ -7,12 +7,12 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?", 7, 240, 5, 0, 5, 2,60, 1.5, 0] #Actors
     #fixed_params = [";", "?", 10, 100, 6, 0, 5, 10, 3, 0, 0, 1, 2, 3] #Chicago
     #fixed_params = [";", "?", 12,157,2,2,2,2,2,5,2,3,10,2,2,2 ]  # NBA
-    fixed_params = [";", "?", 12,64,2,2,2,2,2,5,2,3,10,2,2,2 ]  # NBA 3200 64-640
-    #fixed_params = [";", "?", 9, 82,2,500,0,0,10,4,20000,1,5]  # Bikes
+    #fixed_params = [";", "?", 12,64,2,2,2,2,2,5,2,3,10,2,2,2 ]  # NBA 3200 64-640
     #fixed_params = [";", "?", 9, 82, 6, 5000, 6, 6, 5, 8, 10000, 12, 6] # Bikes Updated  82-820
     #fixed_params = [";", "?", 7, 80,1, 0, 3, 2, 100, 1.5,0]  # ActorFilms
     #fixed_params = [";", "?", 11, 90, 1, 0, 2, 1,1, 1, 3, 0, 3, 10,50] #Superstore
     #fixed_params = [";", "?", 12, 177, 2,0,1,3,2,5,6,4,2,5,0,0]  # MotoGP
+    fixed_params = [";", "?", 10, 29, 1, 3, 3, 1, 2, 1, 3, 2, 2, 2]  # Boeing
 
 
     command_strings = []
@@ -43,16 +43,16 @@ def generate_launch_file(dataset_name, command_string, template, output_dir, ree
 
 
 #dataset = "EV_Vehicles_4000"  # Change dataset name as needed
-dataset = "NBA_3200"  # Change dataset name as needed
+dataset = "Boeing_1485"  # Change dataset name as needed
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
-heap_size_gb=60
+heap_size_gb=28
 
 #Scelta delle pipeline
 algoritmo="Pipeline"
 #algoritmo="Baseline"
 #algoritmo="RFD_Generator"
-reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
+reevaluation=True #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
 # Number of missing values
 #missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
@@ -62,12 +62,12 @@ reevaluation=False #solo per la pipeline. Per i baseline ed il generator non imp
 #missing_values = [840, 1680, 2520, 3360, 4200, 8400, 16800, 25200, 33600, 42000] #Actors
 #missing_values = [500, 1000, 1500, 2000, 2500, 5000, 10000, 15000, 20000, 25000] #Chicago
 #missing_values = [940, 1881, 2821, 3761, 4702, 9403, 18806, 28210, 37613, 47016] #NBA
-missing_values = [384, 768, 1152, 1536, 1920, 3840, 7680, 11520, 15360, 19200] #NBA 3200
+#missing_values = [384, 768, 1152, 1536, 1920, 3840, 7680, 11520, 15360, 19200] #NBA 3200
 #missing_values = [369, 738, 1107, 1476, 1845, 3690, 7380, 11070, 14760, 18450] #Bikes
 #missing_values = [280,560,840,1120,1400,2800,5600,8400,11200,14000] #Actors
 #missing_values=[495,990,1485,1980,2475,4950,9900,14850,19800,24750] #Superstore
 #missing_values=[1064,2129,3193,4258,5322,10644,21288,31932,42576,53220] #MotoGP
-
+missing_values = [148, 297, 446, 594, 742, 1485, 2970, 4455, 5940, 7425] #Boeing
 print(algoritmo)
 
 launch_template=""

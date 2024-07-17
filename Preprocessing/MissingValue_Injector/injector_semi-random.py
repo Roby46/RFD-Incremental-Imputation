@@ -45,14 +45,14 @@ def generate_inviolable_indices(df_length, n):
     second_half = random.sample(range(df_length // 2, df_length), n)
     return set(first_half + second_half)
 
-percentages = [50]
+percentages = [1,2,3,4,5,10,20,30,40,50]
 column_types = [""]
-dataset = "NBA_3200"
+dataset = "Boeing_1485"
 delimiter = ';'
 path_file = f'../../Datasets/Preprocessed_Datasets/{dataset}.csv'
 iterations = [1, 2, 3, 4, 5]
 null_value = '?'
-n_inviolable_rows = 3  # Number of rows to remain complete in each half
+n_inviolable_rows = 2  # Number of rows to remain complete in each half
 
 df = pd.read_csv(path_file, sep=delimiter)
 totalValues = len(df.columns.tolist()) * len(df)

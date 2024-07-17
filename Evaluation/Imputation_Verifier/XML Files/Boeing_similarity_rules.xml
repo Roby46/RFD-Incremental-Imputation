@@ -1,0 +1,15 @@
+<similarity_rules>
+    <attr name="Delivery_Year_" type="delta">
+        <value>1</value>
+    </attr>
+    <attr name="Order_Year" type="delta">
+        <value>1</value>
+    </attr>
+    <attr name="Delivery_Total" type="delta">
+        <value>1</value>
+    </attr>
+    <attr name="Order_Total" type="delta">
+        <value>1</value>
+    </attr>
+</similarity_rules>
+
