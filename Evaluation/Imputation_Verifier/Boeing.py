@@ -61,7 +61,7 @@ def are_similar(attribute, value1, value2):
     return False
 
 # Leggi il CSV
-version=2
+version=1
 MV=2970
 
 approach="Pipeline"

@@ -15,7 +15,7 @@ print(df["Customer Name"].nunique())
 print(df)
 
 # Campioniamo il DataFrame in modo da avere al massimo 4 righe per ogni tipo di cliente
-max_rows_per_customer = 4
+max_rows_per_customer = 2
 sampled_df = df.groupby('Customer Name').head(max_rows_per_customer)
 
 # Visualizziamo il DataFrame campionato

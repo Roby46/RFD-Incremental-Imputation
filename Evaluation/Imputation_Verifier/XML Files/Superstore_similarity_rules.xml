@@ -1,0 +1,5 @@
+<similarity_rules>
+    <attr name="Sales" type="delta">
+        <value>5</value>
+    </attr>
+</similarity_rules>

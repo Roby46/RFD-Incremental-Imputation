@@ -5,7 +5,7 @@ import csv
 
 
 # Carica il file XML
-tree = ET.parse(f'XML Files/NBA_similarity_rules.xml')
+tree = ET.parse(f'XML Files/Superstore_similarity_rules.xml')
 root = tree.getroot()
 
 def is_row_in_file(file_path, row_data, delimiter=';'):
@@ -62,7 +62,7 @@ def are_similar(attribute, value1, value2):
 
 # Leggi il CSV
 version=1
-MV=14850
+MV=1980
 
 approach="Pipeline"
 #approach="Baseline"
