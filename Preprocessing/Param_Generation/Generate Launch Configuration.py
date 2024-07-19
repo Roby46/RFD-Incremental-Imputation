@@ -43,14 +43,14 @@ def generate_launch_file(dataset_name, command_string, template, output_dir, ree
 
 
 #dataset = "EV_Vehicles_4000"  # Change dataset name as needed
-dataset = "Boeing_1485"
+dataset = "Boeing_898"
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
 heap_size_gb=28
 
 #Scelta delle pipeline
-#algoritmo="Pipeline"
-algoritmo="Baseline"
+algoritmo="Pipeline"
+#algoritmo="Baseline"
 #algoritmo="RFD_Generator"
 reevaluation=True #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
