@@ -12,7 +12,8 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?", 7, 80,1, 0, 3, 2, 100, 1.5,0]  # ActorFilms
     #fixed_params = [";", "?", 11, 90, 1, 0, 2, 1,1, 1, 3, 0, 3, 10,50] #Superstore
     #fixed_params = [";", "?", 12, 177, 2,0,1,3,2,5,6,4,2,5,0,0]  # MotoGP
-    fixed_params = [";", "?", 10, 29, 1, 3, 3, 1, 2, 1, 3, 2, 2, 2]  # Boeing 29-290
+    #fixed_params = [";", "?", 10, 29, 1, 3, 3, 1, 2, 1, 3, 2, 2, 2]  # Boeing
+    fixed_params = [";", "?", 10, 17, 1, 3, 3, 1, 2, 1, 3, 2, 2, 2]  # Boeing_898
 
 
     command_strings = []
@@ -46,7 +47,7 @@ def generate_launch_file(dataset_name, command_string, template, output_dir, ree
 dataset = "Boeing_898"
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
-heap_size_gb=28
+heap_size_gb=60
 
 #Scelta delle pipeline
 algoritmo="Pipeline"
@@ -67,7 +68,10 @@ reevaluation=True #solo per la pipeline. Per i baseline ed il generator non impo
 #missing_values = [280,560,840,1120,1400,2800,5600,8400,11200,14000] #Actors
 #missing_values=[495,990,1485,1980,2475,4950,9900,14850,19800,24750] #Superstore
 #missing_values=[1064,2129,3193,4258,5322,10644,21288,31932,42576,53220] #MotoGP
-missing_values = [148, 297, 446, 594, 742, 1485, 2970, 4455, 5940, 7425] #Boeing
+#missing_values = [148, 297, 446, 594, 742, 1485, 2970, 4455, 5940, 7425] #Boeing
+missing_values = [90, 180, 269, 359, 449, 898, 1796, 2694, 3592, 4490] #Boeing 898
+
+
 print(algoritmo)
 
 launch_template=""

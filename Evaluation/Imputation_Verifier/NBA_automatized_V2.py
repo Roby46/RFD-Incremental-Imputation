@@ -366,7 +366,7 @@ def checkResults(version, approach, MV,xml_file):
 
 
 
-approaches=["Pipeline","Baseline20"]#,"Pipeline_noRev","Hybrid"]
+approaches=["Pipeline","Baseline20","Pipeline_noRev","Hybrid"]
 versions=[1,2,3,4,5]
 MVs =[384, 768, 1152, 1536, 1920, 3840, 7680, 11520, 15360, 19200]
 

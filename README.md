@@ -51,12 +51,13 @@ This folder is divided into 3 subfolders: ‘Original Datasets’ contains the o
 | Laptops                                                    |       |         |                             | []                                         | Kaggle                                                                                     |
 | ActorFilms  (da fare se il 4000 sotto non va)              | 12000 | 7       | 240-1800-2400               | [7, 240, 5, 0, 5, 2,60, 1.5, 0]            | https://www.kaggle.com/datasets/darinhawley/imdb-films-by-actor-for-10k-actors             |
 | Smartphones  (no)                                          | 823   | 10      | 16--160                     | [1, 5, 10000, 10,2, 2, 0.5, 4, 32, 3]      | Kaggle                                                                                     |
-| NBA       (buono ma troppo pesante)                        | 7836  | 12      | 157-1175-1567               | [2,2,2,2,2,5,2,3,10,2,2,2]                 | https://www.kaggle.com/datasets/jacobbaruch/basketball-players-stats-per-season-49-leagues |
+| NBA (buono ma troppo pesante)                              | 7836  | 12      | 157-1175-1567               | [2,2,2,2,2,5,2,3,10,2,2,2]                 | https://www.kaggle.com/datasets/jacobbaruch/basketball-players-stats-per-season-49-leagues |
 | Formula 1 (da problemi di codifica in java)                |       |         |                             |                                            | https://www.kaggle.com/datasets/lakshayjain611/f1-races-results-dataset-1950-to-2024       |
 | Chicago crimes  (Solo 2 RFD - provare con altre threshold) | 5000  | 10      | 100-750-1000                | [6,0,5,10,3,0,0,1,2,3]                     | https://www.kaggle.com/datasets/currie32/crimes-in-chicago                                 |
 | Superstore (in corso)                                      | 4500  | 11      | 90--900                     | [1, 0, 2, 1,1, 1, 3, 0, 3, 10]             | https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting                               |
 | Boeing (in corso)                                          | 1485  | 10      | 29--29                      | [1, 3, 3, 1, 2, 1, 3, 2, 2, 2]             | https://www.kaggle.com/datasets/nurielreuven/boeing-historical-airplane-orders-deliveries  |
-| Weather                                                    | 2500  | 11      | 50--500                     | []             | https://www.kaggle.com/datasets/nikhil7280/weather-type-classification                     |
+| Weather                                                    | 2500  | 11      | 50--500                     | []                                         | https://www.kaggle.com/datasets/nikhil7280/weather-type-classification                     |
+| US_Presidents                                              | 3754  | 10      | 75--750                     | []                                         | https://www.kaggle.com/datasets/tunguz/us-elections-dataset                                |
 
 
 
