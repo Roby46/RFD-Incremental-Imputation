@@ -5,7 +5,7 @@ import csv
 import numpy as np
 import math
 
-xml_file = 'XML Files/Bikes_similarity_rules.xml'
+xml_file = 'XML Files/Boeing_similarity_rules.xml'
 # Carica il file XML
 tree = ET.parse(xml_file)
 root = tree.getroot()
@@ -279,23 +279,23 @@ def are_similar(attribute, value1, value2):
 
 
 def analyze_imputation_quality(version, approach, MV, xml_file):
-    dataset_name = f"Boeing_1485_{MV}_{version}"
+    dataset_name = f"Boeing_898_{MV}_{version}"
 
     # Esempio di utilizzo
-    missing_dataset_path = f'../../Datasets/Missing_Datasets/Boeing_1485/{dataset_name}.csv'
-    full_dataset_path = f'../../Datasets/Preprocessed_Datasets/Boeing_1485.csv'
+    missing_dataset_path = f'../../Datasets/Missing_Datasets/Boeing_898/{dataset_name}.csv'
+    full_dataset_path = f'../../Datasets/Preprocessed_Datasets/Boeing_898.csv'
 
     results_path = ""
     if (approach == "Baseline"):
-        results_path = f'../Imputation_Results/Imputation_Baseline_Results/Boeing_1485/{version}/Baseline_{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Baseline_Results/Boeing_898/{version}/Baseline_{dataset_name}.csv'
     elif (approach == "Pipeline_noRev"):
-        results_path = f'../Imputation_Results/Imputation_noRestoring_Results/Boeing_1485/{version}/{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_noRestoring_Results/Boeing_898/{version}/{dataset_name}.csv'
     elif (approach == "Baseline20"):
-        results_path = f'../Imputation_Results/Imputation_Baseline_20_Results/Boeing_1485/{version}/Baseline_{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Baseline_20_Results/Boeing_898/{version}/Baseline_{dataset_name}.csv'
     elif (approach == "Pipeline"):
-        results_path = f'../Imputation_Results/Imputation_Pipeline_Results/Boeing_1485/{version}/{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Pipeline_Results/Boeing_898/{version}/{dataset_name}.csv'
     elif (approach == "Hybrid"):
-        results_path = f'../Imputation_Results/Imputation_Hybrid_Results/Boeing_1485/{version}/{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Hybrid_Results/Boeing_898/{version}/{dataset_name}.csv'
 
     header_file = f'../../Preprocessing/Headers/Headers.csv'
     rmse=process_dataset(missing_dataset_path, results_path, header_file, dataset_name, full_dataset_path, xml_file)
@@ -305,23 +305,23 @@ def checkResults(version, approach, MV,xml_file):
     df = ""
     if (approach == "Baseline"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_Baseline_Results/Boeing_1485/{version}/Baseline_Boeing_1485_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_Baseline_Results/Boeing_898/{version}/Baseline_Boeing_898_{MV}_{version}.csv",
             sep=';')
     elif (approach == "Pipeline_noRev"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_noRestoring_Results/Boeing_1485/{version}/Boeing_1485_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_noRestoring_Results/Boeing_898/{version}/Boeing_898_{MV}_{version}.csv",
             sep=';')
     elif (approach == "Baseline20"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_Baseline_20_Results/Boeing_1485/{version}/Baseline_Boeing_1485_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_Baseline_20_Results/Boeing_898/{version}/Baseline_Boeing_898_{MV}_{version}.csv",
             sep=';')
     elif (approach == "Pipeline"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_Pipeline_Results/Boeing_1485/{version}/Boeing_1485_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_Pipeline_Results/Boeing_898/{version}/Boeing_898_{MV}_{version}.csv",
             sep=';')
     elif (approach == "Hybrid"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_Hybrid_Results/Boeing_1485/{version}/Boeing_1485_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_Hybrid_Results/Boeing_898/{version}/Boeing_898_{MV}_{version}.csv",
             sep=';')
 
     df = df.drop(['riga'], axis=1)
@@ -359,7 +359,7 @@ def checkResults(version, approach, MV,xml_file):
 
     rmse=analyze_imputation_quality(version,approach,mv,xml_file)
     all_results_path = f"../ALL_Results_v2.csv"
-    row_data = ["Boeing_1485"] + [approach] + [MV] + [str(recall)] + [str(precision)] + [str(version)] + [
+    row_data = ["Boeing_898"] + [approach] + [MV] + [str(recall)] + [str(precision)] + [str(version)] + [
         str(exact)] + [str(similar)] + [str(wrong)] + [rmse]
     print(row_data)
     write_unique_row_to_csv(all_results_path, row_data)
@@ -369,7 +369,7 @@ def checkResults(version, approach, MV,xml_file):
 #approaches=["Pipeline","Baseline20","Pipeline_noRev","Hybrid"]
 approaches=["Pipeline","Baseline20"]
 versions=[1,2,3,4,5]
-MVs = [148, 297, 446, 594, 742, 1485, 2970, 4455, 5940, 7425]
+MVs = [90, 180, 269, 359, 449, 898, 1796, 2694, 3592, 4490]
 
 for version in versions:
     for approach in approaches:
