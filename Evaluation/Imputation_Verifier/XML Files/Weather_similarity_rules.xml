@@ -1,0 +1,23 @@
+<similarity_rules>
+    <attr name="Temperature" type="delta">
+        <value>0.5</value>
+    </attr>
+    <attr name="Humidity" type="delta">
+        <value>0.5</value>
+    </attr>
+    <attr name="Wind_Speed" type="delta">
+        <value>0.5</value>
+    </attr>
+    <attr name="Precipitation_(%)" type="delta">
+        <value>0.5</value>
+    </attr>
+    <attr name="Atmospheric_Pressure" type="delta">
+        <value>0.5</value>
+    </attr>
+    <attr name="UV_Index" type="delta">
+        <value>1</value>
+    </attr>
+    <attr name="Visibility_(km)" type="delta">
+        <value>1</value>
+    </attr>
+</similarity_rules>

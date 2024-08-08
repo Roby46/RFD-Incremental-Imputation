@@ -1,0 +1,991 @@
+riga;nome attributo;valore da imputare;valore imputato
+296;State;Florida;?
+2909;Sales;0.84;?
+3961;Customer_Name;Doug Jacobs;Doug Jacobs
+2613;State;Minnesota;?
+1715;Sales;24.05;?
+947;Ship_Mode;Standard Class;?
+2791;Sub-Category;Appliances;Appliances
+2447;Segment;Consumer;Consumer
+127;Customer_ID;DB-12910;DB-12910
+1640;Segment;Consumer;Consumer
+2802;Customer_Name;Claudia Bergmann;Claudia Bergmann
+1678;State;California;California
+1146;Sales;470.38;?
+2201;Region;West;West
+2142;Product_Name;Staple-based wall hangings;?
+2790;City;San Diego;?
+3891;Customer_Name;Michael Granlund;Michael Granlund
+1919;Customer_ID;JR-15700;?
+2707;Customer_Name;Paul Prost;Paul Prost
+1882;Sub-Category;Accessories;Accessories
+209;Sales;23.2;?
+1175;Product_Name;Xerox 1883;?
+1145;Product_ID;OFF-AP-10003266;?
+4385;Customer_ID;MF-18250;MF-18250
+3497;Sub-Category;Art;Art
+223;State;North Carolina;?
+1934;Product_ID;TEC-AC-10002001;?
+3908;State;Pennsylvania;Pennsylvania
+1630;Customer_ID;KW-16435;KW-16435
+1665;Sales;631.96;?
+3688;Sub-Category;Binders;?
+414;Customer_Name;Sung Shariari;Sung Shariari
+2229;Product_ID;FUR-CH-10001190;?
+514;City;Smyrna;?
+207;Customer_Name;Scott Cohen;Scott Cohen
+3392;Product_ID;TEC-CO-10004722;?
+88;Segment;Consumer;Consumer
+1871;Sales;196.21;?
+2949;City;Santa Barbara;?
+906;Customer_ID;DW-13540;DW-13540
+2902;Sub-Category;Art;Art
+3691;State;Texas;Texas
+3943;Ship_Mode;First Class;?
+1884;Sales;5199.96;?
+4363;Sub-Category;Tables;Tables
+2764;Customer_Name;Max Ludwig;?
+419;Customer_ID;AA-10315;AA-10315
+4091;Region;East;East
+1307;Customer_Name;Mark Cousins;Mark Cousins
+4182;Ship_Mode;Standard Class;?
+3899;Product_ID;OFF-PA-10002713;?
+2147;Customer_Name;Muhammed Yedwab;Muhammed Yedwab
+4292;Product_Name;Pyle PMP37LED;?
+2768;Segment;Consumer;Consumer
+2330;Region;South;South
+433;State;Texas;?
+2542;Sub-Category;Labels;Labels
+1583;Sales;19.98;?
+4152;Customer_ID;OT-18730;?
+3213;City;Omaha;?
+3224;Customer_ID;EH-14005;EH-14005
+856;Product_Name;Ibico Plastic and Wire Spiral Binding Combs;?
+2696;Customer_ID;HF-14995;HF-14995
+471;Customer_Name;Gary Zandusky;Gary Zandusky
+569;Product_Name;Iris Project Case;?
+2852;Ship_Mode;Standard Class;?
+4455;Sub-Category;Art;Art
+2243;Product_Name;Ibico Laser Imprintable Binding System Covers;?
+3492;Ship_Mode;First Class;?
+1296;Customer_Name;Tom Ashbrook;Tom Ashbrook
+107;Sub-Category;Furnishings;Furnishings
+4472;Segment;Consumer;Consumer
+4159;Sales;8.61;?
+3411;Segment;Consumer;Consumer
+3868;Customer_Name;Andy Yotov;Andy Yotov
+3361;Product_ID;OFF-PA-10001870;?
+4316;City;Louisville;?
+2306;Sub-Category;Binders;Binders
+3144;Sub-Category;Labels;Labels
+3631;City;Cary;?
+390;Product_ID;OFF-BI-10002735;?
+2991;Sub-Category;Binders;Binders
+3417;Product_ID;TEC-MA-10003493;?
+1680;Customer_ID;JO-15280;JO-15280
+2932;Ship_Mode;Standard Class;?
+2394;Customer_Name;Ann Chong;Ann Chong
+740;Customer_ID;SH-19975;SH-19975
+2383;Sales;18.54;?
+3178;Sales;314.35;?
+4472;Product_Name;Kensington K72356US Mouse-in-a-Box USB Desktop Mouse;?
+1698;Customer_ID;MZ-17515;MZ-17515
+2976;Ship_Mode;Standard Class;?
+2272;Sales;82.38;?
+3524;Customer_Name;Maureen Gnade;Maureen Gnade
+30;City;Orange;?
+2456;Sales;97.84;?
+354;City;Chicago;?
+393;Sales;629.93;?
+4161;Region;Central;Central
+2105;Ship_Mode;Second Class;?
+3184;Product_ID;FUR-FU-10001185;?
+963;Segment;Corporate;Corporate
+1720;Product_ID;OFF-ST-10000060;?
+414;Sales;7.23;?
+3781;Sub-Category;Furnishings;Furnishings
+4205;Customer_ID;BF-11170;BF-11170
+9;City;Philadelphia;?
+1004;Ship_Mode;Standard Class;?
+2246;Region;West;West
+626;Sales;47.79;?
+1028;Product_ID;TEC-AC-10000158;?
+3322;Customer_Name;Sarah Foster;Sarah Foster
+23;Customer_Name;Jim Epp;Jim Epp
+1384;State;Arkansas;Arkansas
+4225;City;Houston;?
+2506;Product_ID;OFF-PA-10001125;?
+4328;Ship_Mode;Standard Class;?
+4098;State;Texas;?
+1322;Product_ID;OFF-BI-10003708;?
+2645;Sub-Category;Art;?
+4402;Sub-Category;Paper;Paper
+1340;Product_Name;Global Ergonomic Managers Chair;?
+1771;Customer_ID;MF-17665;MF-17665
+1208;Product_Name;Recycled Easel Ring Binders;?
+3512;Product_Name;Flexible Leather- Look Classic Collection Ring Binder;?
+2513;Sales;55.99;?
+2167;Sales;167.94;?
+2334;Product_ID;OFF-EN-10002500;?
+759;Product_ID;OFF-BI-10000545;?
+4162;Customer_Name;Dianna Wilson;Dianna Wilson
+3347;Sales;6.9;?
+4214;City;Detroit;?
+4376;Sales;22.37;?
+1822;Customer_Name;Laura Armstrong;Laura Armstrong
+564;Product_Name;Avery Hanging File Binders;?
+3937;Sales;1282.41;?
+797;Sales;7.16;?
+4380;Customer_Name;Nicole Hansen;Nicole Hansen
+1570;Sub-Category;Binders;Binders
+639;Region;Central;Central
+1782;Region;East;East
+1453;Sales;86.45;?
+2714;City;San Francisco;?
+3922;Sub-Category;Paper;?
+1202;Customer_ID;JM-16195;JM-16195
+3466;Sales;34.68;?
+1575;Customer_ID;AG-10675;AG-10675
+2078;Sales;28.91;?
+1287;Sub-Category;Accessories;?
+1933;Product_Name;Eldon Advantage Foldable Chair Mats for Low Pile Carpets;?
+2749;Sub-Category;Art;Art
+2530;Sub-Category;Labels;?
+2583;Segment;Consumer;Consumer
+1634;Ship_Mode;Standard Class;?
+324;Product_Name;Bevis Round Conference Table Top & Single Column Base;Bevis Round Conference Table Top & Single Column Base
+3038;State;California;California
+3142;State;Ohio;Ohio
+2691;State;Texas;?
+7;City;San Francisco;?
+3005;Product_Name;Global Highback Leather Tilter in Burgundy;?
+4066;Product_Name;Square Credit Card Reader;?
+3329;Sub-Category;Labels;Labels
+1946;Region;West;West
+1661;Product_Name;Xerox 1915;?
+2706;Sales;34.08;?
+2566;Product_ID;OFF-ST-10001031;?
+1637;Customer_ID;HE-14800;HE-14800
+1845;Product_ID;OFF-PA-10003656;?
+4387;Sales;11.18;?
+3904;Sub-Category;Binders;Binders
+1740;Segment;Consumer;Consumer
+1553;Customer_ID;VS-21820;VS-21820
+3054;State;Mississippi;Mississippi
+2200;Sub-Category;Art;Art
+4109;State;Pennsylvania;?
+1221;City;Los Angeles;?
+4493;Product_ID;FUR-FU-10003489;?
+944;Customer_Name;Kelly Williams;?
+2954;Sales;8.88;?
+3115;Sales;673.57;?
+3579;City;Los Angeles;?
+3553;Customer_ID;MP-18175;MP-18175
+2626;Region;West;West
+1176;City;Wilson;?
+1798;Sub-Category;Envelopes;Envelopes
+36;Segment;Corporate;Corporate
+657;Sales;59.52;?
+2977;Ship_Mode;Standard Class;?
+870;Customer_Name;Ralph Kennedy;Ralph Kennedy
+2307;Customer_ID;PN-18775;PN-18775
+4445;Segment;Consumer;Consumer
+577;Segment;Consumer;Consumer
+655;City;Dallas;?
+2386;Sales;4.62;?
+2518;Customer_Name;Laurel Elliston;Laurel Elliston
+3450;State;California;California
+3278;Customer_Name;Christine Sundaresam;Christine Sundaresam
+2534;Region;West;West
+84;State;California;California
+3701;Product_ID;OFF-AP-10001293;?
+3713;Sub-Category;Paper;Paper
+417;Product_Name;Samsung Replacement EH64AVFWE Premium Headset;Samsung Replacement EH64AVFWE Premium Headset
+1400;Customer_Name;Liz Willingham;Liz Willingham
+1235;Sales;32.97;?
+3196;Customer_ID;RR-19315;RR-19315
+1885;City;Jacksonville;?
+1743;State;California;?
+391;Segment;Corporate;Corporate
+420;Customer_ID;TT-21220;TT-21220
+2090;Sub-Category;Storage;Storage
+2462;Customer_Name;Lena Creighton;Lena Creighton
+1911;Sales;30.34;?
+176;State;Colorado;Colorado
+3244;Customer_ID;GT-14710;GT-14710
+4354;Sub-Category;Furnishings;Furnishings
+4303;City;Leominster;?
+134;Customer_Name;Thais Sissman;Thais Sissman
+2683;Segment;Consumer;Consumer
+3210;Product_Name;Peel-Off China Markers;?
+1804;Product_ID;OFF-BI-10002432;?
+1408;State;Arizona;Arizona
+2602;Customer_Name;Edward Hooks;Edward Hooks
+4013;Customer_ID;KD-16615;KD-16615
+1325;Product_ID;OFF-BI-10003314;?
+4018;Ship_Mode;Standard Class;?
+4079;City;Columbus;?
+3887;Customer_Name;James Galang;James Galang
+15;Customer_Name;Dean percer;?
+3337;Product_ID;TEC-AC-10004659;?
+4165;Sub-Category;Phones;Phones
+1528;Sales;20.1;?
+2576;Customer_ID;KH-16630;KH-16630
+2069;Customer_Name;Michelle Huthwaite;Michelle Huthwaite
+1438;City;Seattle;?
+4082;State;Ohio;?
+838;City;Minneapolis;?
+3200;State;New York;?
+1341;City;Oceanside;?
+478;Customer_Name;Melanie Seite;Melanie Seite
+174;Sub-Category;Binders;Binders
+1003;Ship_Mode;Standard Class;?
+750;Product_Name;Plantronics Voyager Pro HD - Bluetooth Headset;?
+1291;Customer_ID;DV-13045;DV-13045
+1397;Product_Name;Sanford Uni-Blazer View Highlighters Chisel Tip Yellow;?
+3019;Sub-Category;Accessories;Accessories
+4068;Customer_Name;Frank Carlisle;Frank Carlisle
+1582;State;California;?
+202;Customer_ID;AM-10360;AM-10360
+3934;Product_Name;Tennsco Lockers Sand;?
+962;Sub-Category;Storage;Storage
+1500;Customer_Name;Barbara Fisher;Barbara Fisher
+3195;Sub-Category;Labels;Labels
+3196;Sales;77.72;?
+1590;Product_ID;OFF-BI-10003676;?
+3761;Product_Name;Newell 344;?
+536;Ship_Mode;Standard Class;?
+901;Sales;512.5;?
+1756;State;Kentucky;?
+2012;Sales;244.55;?
+2959;State;Ohio;Ohio
+1350;Segment;Corporate;Corporate
+1684;Customer_ID;KL-16645;KL-16645
+700;Segment;Consumer;Consumer
+3899;City;Madison;?
+2415;Product_ID;OFF-ST-10000877;?
+1169;Sub-Category;Accessories;Accessories
+1035;State;California;California
+3334;Sales;62.18;?
+2197;Customer_ID;SG-20605;SG-20605
+1531;Customer_ID;PB-19150;PB-19150
+3577;Customer_Name;Bryan Mills;Bryan Mills
+1663;State;Texas;Texas
+761;City;Fort Worth;?
+1298;Customer_ID;DL-13330;DL-13330
+1533;Customer_Name;Laura Armstrong;Laura Armstrong
+2470;Segment;Corporate;Corporate
+1896;Product_ID;TEC-PH-10004614;?
+1263;Ship_Mode;First Class;?
+3476;Sub-Category;Accessories;Accessories
+1270;Segment;Consumer;Consumer
+4360;Ship_Mode;Standard Class;?
+3509;Customer_Name;Jennifer Ferguson;Jennifer Ferguson
+1222;Customer_ID;CS-12175;CS-12175
+2946;Customer_Name;Laurel Workman;Laurel Workman
+1159;Customer_ID;TH-21550;TH-21550
+3039;Ship_Mode;Standard Class;?
+269;Region;West;West
+914;State;New York;New York
+1987;Segment;Consumer;Consumer
+3276;Segment;Consumer;Consumer
+4270;City;San Francisco;?
+3925;Sales;32.4;?
+229;Region;West;West
+2135;Customer_Name;Edward Hooks;Edward Hooks
+4188;Region;East;East
+1563;Segment;Corporate;Corporate
+1952;Ship_Mode;Standard Class;?
+745;Segment;Consumer;Consumer
+3418;Sales;10.37;?
+3595;City;New York City;?
+1344;Product_Name;TOPS Carbonless Receipt Book Four 2-3/4 x 7-1/4 Money Receipts per Page;?
+1794;State;California;California
+516;Segment;Consumer;Consumer
+528;City;Knoxville;?
+4085;Product_Name;Wilson Jones Legal Size Ring Binders;?
+824;Segment;Corporate;Corporate
+4383;Region;South;South
+2289;Product_Name;Howard Miller 13 Diameter Goldtone Round Wall Clock;?
+2659;Sub-Category;Bookcases;Bookcases
+879;Product_Name;Prang Drawing Pencil Set;?
+3782;Segment;Consumer;Consumer
+464;Customer_ID;DW-13585;DW-13585
+2112;Sub-Category;Chairs;Chairs
+4446;Sales;579.51;?
+3982;Sub-Category;Binders;Binders
+177;Product_ID;TEC-PH-10000215;?
+1917;Customer_ID;MZ-17335;MZ-17335
+1642;Sub-Category;Phones;Phones
+1434;Ship_Mode;Standard Class;?
+588;Customer_Name;Daniel Byrd;Daniel Byrd
+1503;Sales;912.75;?
+3060;Ship_Mode;First Class;?
+3393;State;New York;New York
+1416;Product_ID;FUR-CH-10004540;?
+1955;Product_ID;OFF-LA-10004559;?
+4227;City;Columbus;?
+3867;Sub-Category;Binders;Binders
+4347;Product_Name;SmartStand Mobile Device Holder Assorted Colors;?
+2007;Segment;Home Office;Home Office
+3955;Product_ID;OFF-PA-10002751;?
+997;Customer_Name;Dean percer;Dean percer
+1213;City;Burlington;?
+1279;Sub-Category;Paper;Paper
+4084;Region;East;East
+1384;Customer_Name;Hunter Lopez;Hunter Lopez
+3252;Product_Name;Newell 34;?
+2346;Product_ID;TEC-AC-10002567;?
+2538;State;California;California
+4236;Customer_Name;Jim Sink;Jim Sink
+3137;Segment;Corporate;Corporate
+4494;Customer_Name;Roy Phan;Roy Phan
+4146;City;Paterson;?
+2818;Customer_Name;Amy Hunt;Amy Hunt
+4486;Sales;56.3;?
+1849;Customer_ID;SV-20935;SV-20935
+1198;Product_Name;Xerox 2;Xerox 2
+4383;Product_Name;Xerox 1958;?
+998;Segment;Consumer;Consumer
+4201;State;Maryland;Maryland
+3751;Customer_ID;DG-13300;DG-13300
+2778;Customer_Name;Tracy Blumstein;Tracy Blumstein
+3942;Customer_ID;AG-10675;AG-10675
+2797;City;Buffalo;?
+2751;Sub-Category;Storage;Storage
+1963;Customer_Name;Sheri Gordon;Sheri Gordon
+204;Region;East;East
+1320;Region;South;South
+4063;Sub-Category;Binders;Binders
+1536;Sales;19.68;?
+96;Ship_Mode;Standard Class;?
+1715;Sub-Category;Furnishings;Furnishings
+360;Segment;Consumer;Consumer
+2354;Sales;18.28;?
+3568;Product_ID;OFF-PA-10001609;?
+1442;Segment;Home Office;Home Office
+1986;Sales;0.56;?
+1860;Product_ID;FUR-TA-10003837;?
+2578;Segment;Home Office;Home Office
+147;City;Jacksonville;?
+4492;Region;Central;Central
+1232;Ship_Mode;Second Class;?
+1885;Sub-Category;Phones;Phones
+2013;Product_ID;TEC-PH-10003931;?
+871;Sub-Category;Binders;Binders
+1360;Product_ID;OFF-ST-10000419;?
+2811;Segment;Home Office;Home Office
+3488;Ship_Mode;Standard Class;?
+1489;Customer_Name;Theone Pippenger;Theone Pippenger
+1983;Product_ID;OFF-LA-10003720;?
+2359;Segment;Corporate;Corporate
+4012;Sub-Category;Furnishings;Furnishings
+2854;Sub-Category;Storage;Storage
+2227;Ship_Mode;Standard Class;?
+2406;State;Illinois;?
+1217;City;New Rochelle;?
+2977;City;Philadelphia;?
+2042;Ship_Mode;Second Class;?
+2989;Customer_Name;Ivan Liston;Ivan Liston
+3548;Product_ID;OFF-ST-10000046;?
+3562;Customer_Name;Roger Demir;Roger Demir
+915;Region;West;West
+4024;Product_Name;Acme Design Stainless Steel Bent Scissors;?
+4366;Region;East;East
+2073;Ship_Mode;Standard Class;?
+382;Product_ID;OFF-ST-10001932;?
+1219;Sales;62.18;?
+2407;State;Texas;Texas
+212;Region;West;West
+3035;City;Wilmington;?
+4059;Sub-Category;Paper;?
+3987;State;New York;New York
+3921;Sales;2.39;?
+2963;Ship_Mode;Standard Class;?
+3931;Region;East;East
+3621;Sub-Category;Binders;Binders
+4130;State;Texas;Texas
+2002;State;Florida;Florida
+3798;State;California;California
+2063;Region;South;South
+2944;Segment;Consumer;Consumer
+2702;Customer_Name;Eric Hoffmann;?
+4031;Region;Central;Central
+4229;Customer_Name;Evan Bailliet;Evan Bailliet
+990;Sales;179.9;?
+3422;City;San Francisco;?
+2448;Customer_Name;Allen Armold;Allen Armold
+520;Customer_ID;AS-10225;AS-10225
+1176;Sub-Category;Furnishings;Furnishings
+417;Segment;Home Office;Home Office
+1512;Segment;Consumer;Consumer
+1264;Region;East;East
+1988;City;Mishawaka;?
+1098;Product_Name;Computer Printout Index Tabs;?
+765;Sales;262.86;?
+737;Product_Name;Avery 508;?
+1148;Product_ID;OFF-BI-10000474;?
+2416;Product_ID;FUR-BO-10000330;?
+4302;Customer_ID;DK-12985;?
+3481;State;Washington;Washington
+1056;State;Washington;Washington
+2336;Product_Name;Acco Six-Outlet Power Strip 4' Cord Length;?
+3293;Ship_Mode;Standard Class;?
+3898;Sales;5.97;?
+4315;City;Los Angeles;?
+3650;Sub-Category;Storage;Storage
+3443;State;Indiana;Indiana
+4226;State;Washington;?
+1289;Ship_Mode;Standard Class;?
+2545;Sub-Category;Binders;Binders
+1673;City;Miami;?
+3015;Product_ID;OFF-ST-10003455;?
+4393;Segment;Corporate;?
+1523;Customer_ID;TT-21070;TT-21070
+4134;Product_ID;OFF-BI-10002133;?
+2653;State;Alabama;?
+964;City;Los Angeles;?
+3510;City;New York City;?
+4341;Ship_Mode;Second Class;?
+553;City;Riverside;?
+2236;City;Charlotte;?
+4467;Segment;Consumer;Consumer
+812;Sub-Category;Furnishings;Furnishings
+3731;Product_Name;Barrel Sharpener;?
+3791;Customer_Name;Brian Derr;Brian Derr
+3969;Sub-Category;Storage;Storage
+2772;Product_Name;Xerox 20;?
+4072;Customer_Name;Toby Braunhardt;Toby Braunhardt
+3695;Customer_ID;LW-16990;?
+3558;Region;South;South
+193;State;Illinois;?
+1188;Customer_ID;BP-11185;BP-11185
+3360;Segment;Home Office;Home Office
+3219;Product_ID;TEC-AC-10002857;?
+2138;Segment;Consumer;Consumer
+443;Product_Name;Iris Project Case;?
+3237;Region;Central;Central
+2071;Segment;Corporate;Corporate
+3299;Customer_Name;Luke Schmidt;Luke Schmidt
+3915;Region;West;West
+4364;State;Michigan;?
+4076;Customer_ID;ER-13855;?
+1962;Product_ID;FUR-CH-10000422;?
+4094;Product_Name;Deluxe Heavy-Duty Vinyl Round Ring Binder;?
+3538;City;Waterbury;?
+2935;Customer_Name;Dennis Pardue;Dennis Pardue
+1139;Product_Name;GBC Recycled Grain Textured Covers;?
+3076;Sales;158.38;?
+3633;Product_Name;C-Line Peel & Stick Add-On Filing Pockets 8-3/4 x 5-1/8 10/Pack;?
+2280;City;Philadelphia;?
+463;State;Ohio;Ohio
+2849;Product_ID;OFF-SU-10000898;?
+2105;State;Illinois;?
+2009;Region;East;East
+1635;Product_ID;OFF-BI-10003708;?
+3689;Customer_Name;Rob Haberlin;Rob Haberlin
+872;City;Fairfield;?
+139;Product_Name;Carina Double Wide Media Storage Towers in Natural & Black;?
+2907;Region;East;East
+71;Segment;Consumer;Consumer
+2758;State;New York;?
+932;City;Houston;?
+3329;Ship_Mode;Standard Class;?
+3415;City;Miami;?
+1906;Product_Name;SAFCO Arco Folding Chair;?
+3006;City;Carlsbad;?
+1098;Sales;1.34;?
+3786;Customer_Name;Becky Pak;Becky Pak
+3082;Sales;17.25;?
+1170;Customer_ID;DK-12835;DK-12835
+4178;Product_Name;Strathmore Photo Mount Cards;?
+3882;Product_ID;OFF-PA-10004156;?
+2157;Customer_ID;BT-11530;BT-11530
+1683;Product_ID;FUR-TA-10003008;?
+3716;Customer_Name;Ruben Dartt;Ruben Dartt
+280;Sub-Category;Binders;Binders
+1603;Segment;Consumer;Consumer
+2028;State;North Carolina;?
+2882;Sub-Category;Binders;Binders
+2196;Sub-Category;Binders;Binders
+3829;Ship_Mode;Standard Class;?
+2383;City;Watertown;?
+1661;Segment;Consumer;Consumer
+3265;Ship_Mode;Standard Class;?
+1351;Product_Name;Global Value Mid-Back Manager's Chair Gray;Global Value Mid-Back Manager's Chair Gray
+3833;City;Renton;?
+1778;Product_ID;OFF-BI-10003007;?
+580;Customer_ID;TP-21130;TP-21130
+1669;Sales;1652.94;?
+343;Sub-Category;Furnishings;Furnishings
+2641;Region;East;East
+1165;Product_Name;Economy Rollaway Files;Economy Rollaway Files
+223;Segment;Corporate;Corporate
+465;Product_Name;Holmes Replacement Filter for HEPA Air Cleaner Medium Room;?
+4133;Sub-Category;Fasteners;Fasteners
+4320;Sub-Category;Paper;Paper
+2591;Customer_ID;NM-18445;NM-18445
+2527;Region;Central;Central
+303;Ship_Mode;Standard Class;?
+2402;City;Columbus;?
+3677;Segment;Home Office;Home Office
+899;Sales;15.87;?
+2550;Sales;3.42;?
+1616;Product_Name;Chromcraft 48 x 96 Racetrack Double Pedestal Table;?
+2242;Sub-Category;Paper;Paper
+3341;Sales;60.12;?
+3916;State;California;California
+2619;State;New York;New York
+3086;Sub-Category;Appliances;Appliances
+3146;Sales;9.26;?
+1218;Product_Name;Avery 476;?
+4152;Product_ID;OFF-EN-10003296;?
+2861;Segment;Home Office;Home Office
+3803;Sales;14.35;?
+3972;Region;Central;Central
+93;Customer_ID;SJ-20125;SJ-20125
+3363;City;North Miami;?
+1379;City;Baltimore;?
+4039;Region;South;South
+4262;Ship_Mode;Standard Class;?
+1503;State;Utah;?
+3556;Sub-Category;Binders;Binders
+3375;Segment;Consumer;?
+739;Sales;55.6;?
+2739;Sales;32.78;?
+3209;Region;South;South
+415;Sub-Category;Binders;Binders
+3690;Sub-Category;Appliances;Appliances
+1614;Customer_Name;Arthur Prichep;Arthur Prichep
+2803;City;Lawrence;?
+1529;Customer_ID;DA-13450;DA-13450
+456;Product_ID;TEC-AC-10000865;?
+1858;City;Laredo;?
+1888;Ship_Mode;First Class;?
+4175;Product_ID;FUR-FU-10001876;?
+980;Region;East;East
+2074;Segment;Consumer;Consumer
+2590;Product_Name;Xerox 1967;?
+3791;City;New York City;?
+2702;Customer_ID;EH-13945;?
+4207;Ship_Mode;First Class;?
+3701;Product_Name;Belkin 8 Outlet Surge Protector;?
+1230;Region;East;East
+2662;State;California;?
+3331;Product_Name;Staple holder;?
+2556;Ship_Mode;Standard Class;?
+3794;Ship_Mode;Standard Class;?
+1157;Customer_Name;Alejandro Ballentine;Alejandro Ballentine
+510;City;Tampa;?
+1645;City;Denver;?
+3430;Segment;Corporate;Corporate
+2477;Product_Name;Fellowes PB200 Plastic Comb Binding Machine;?
+1194;Segment;Corporate;Corporate
+4125;Customer_ID;BE-11335;?
+3094;Segment;Consumer;Consumer
+2572;Sub-Category;Bookcases;?
+43;Product_Name;Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room;?
+341;Sales;141.76;?
+4482;State;Texas;?
+3399;Customer_Name;Daniel Byrd;Daniel Byrd
+3311;Product_ID;OFF-BI-10001460;?
+76;Product_ID;OFF-EN-10003862;?
+2548;Sub-Category;Chairs;Chairs
+2912;Customer_ID;SV-20935;SV-20935
+2751;Product_Name;Tennsco Industrial Shelving;?
+4429;Sales;60.89;?
+688;Customer_Name;Anna Hberlin;Anna Hberlin
+1719;Segment;Corporate;Corporate
+1913;City;Jacksonville;?
+4160;City;Wheeling;?
+844;Ship_Mode;Second Class;?
+2752;Product_Name;Kensington Expert Mouse Optical USB Trackball for PC or Mac;?
+4162;Region;South;South
+2041;Customer_Name;Greg Tran;Greg Tran
+1002;Product_ID;OFF-PA-10001970;?
+1543;Product_ID;FUR-TA-10004086;?
+2241;Ship_Mode;Standard Class;?
+59;Segment;Home Office;Home Office
+1096;Region;West;West
+592;City;Los Angeles;?
+2849;Sales;88.96;?
+2312;Product_ID;TEC-AC-10002402;?
+1917;State;Washington;?
+7;Customer_ID;LD-17005;LD-17005
+1997;Ship_Mode;First Class;?
+1951;Segment;Consumer;Consumer
+556;Customer_Name;Erin Ashbrook;Erin Ashbrook
+2206;Segment;Corporate;Corporate
+3415;Ship_Mode;Standard Class;?
+3742;Product_ID;TEC-PH-10003273;?
+763;Sales;33.49;?
+1996;Customer_ID;MP-17965;MP-17965
+15;Customer_ID;Dp-13240;?
+1565;State;North Carolina;?
+1827;Region;West;West
+1833;Sales;37.94;?
+814;Region;South;South
+51;Customer_ID;JF-15415;JF-15415
+36;Ship_Mode;First Class;?
+1135;Region;East;East
+305;Sales;59.71;?
+3837;Sales;43.31;?
+4440;Sales;56.16;?
+3686;Customer_ID;MH-17290;MH-17290
+690;Sub-Category;Binders;?
+2070;Customer_Name;Fred Hopkins;Fred Hopkins
+1831;Sales;861.76;?
+2269;Region;West;West
+3215;Sub-Category;Tables;Tables
+3835;Product_Name;Boston 19500 Mighty Mite Electric Pencil Sharpener;?
+2210;State;Indiana;Indiana
+3158;Product_Name;Holmes HEPA Air Purifier;?
+3244;City;Seattle;?
+2413;City;Grand Prairie;?
+395;Segment;Consumer;Consumer
+2287;Customer_Name;Christina DeMoss;Christina DeMoss
+1477;Customer_Name;Lindsay Williams;Lindsay Williams
+1071;Sales;66.54;?
+2449;Product_ID;FUR-CH-10003761;?
+384;Sub-Category;Accessories;Accessories
+246;Customer_ID;AB-10105;AB-10105
+3674;Product_ID;FUR-FU-10002396;?
+3988;City;Oceanside;?
+2548;Product_Name;Bevis Steel Folding Chairs;?
+1508;City;Los Angeles;?
+475;City;Quincy;?
+3047;Region;East;East
+2937;Ship_Mode;Second Class;?
+4479;Sales;318.43;?
+2980;City;Redlands;?
+2824;Customer_ID;HK-14890;HK-14890
+2738;Segment;Consumer;Consumer
+4059;City;Los Angeles;?
+1838;Sub-Category;Envelopes;?
+2529;Product_ID;TEC-CO-10000971;?
+2366;Ship_Mode;Standard Class;?
+840;Customer_ID;EA-14035;EA-14035
+2493;Customer_ID;DE-13255;DE-13255
+4184;Sub-Category;Binders;Binders
+674;Ship_Mode;Standard Class;?
+1224;Product_Name;Sauder Mission Library with Doors Fruitwood Finish;?
+3200;City;New York City;?
+1999;Sub-Category;Machines;?
+3164;Customer_ID;KN-16450;KN-16450
+558;Sub-Category;Paper;Paper
+1610;Customer_Name;Brian Thompson;Brian Thompson
+1853;Ship_Mode;Second Class;?
+1978;Sub-Category;Chairs;Chairs
+61;Product_Name;Pyle PMP37LED;Pyle PMP37LED
+857;State;New York;New York
+2085;City;Los Angeles;?
+722;Customer_ID;MV-17485;MV-17485
+3132;Customer_Name;Sharelle Roach;Sharelle Roach
+4175;City;Los Angeles;?
+3922;Product_ID;OFF-PA-10000062;?
+907;Product_Name;Acme Value Line Scissors;?
+2268;Product_Name;Boston 16801 Nautilus Battery Pencil Sharpener;?
+1517;Product_ID;OFF-PA-10002137;?
+3956;Product_ID;OFF-AP-10001962;?
+1769;Product_Name;Belkin F8E887 USB Wired Ergonomic Keyboard;?
+2605;Sales;11.68;?
+482;State;Washington;?
+3695;Sales;71.98;?
+3617;Customer_Name;Ben Peterman;Ben Peterman
+1270;Sub-Category;Phones;Phones
+3985;Region;Central;Central
+1879;Segment;Consumer;Consumer
+2399;Segment;Consumer;Consumer
+1164;Region;West;West
+3754;Product_Name;Vtech CS6719;?
+1899;Customer_Name;Barbara Fisher;Barbara Fisher
+149;Region;Central;Central
+3162;Product_Name;Aluminum Screw Posts;Aluminum Screw Posts
+997;Segment;Home Office;Home Office
+964;State;California;?
+706;Product_Name;Staples;?
+1283;Customer_ID;JH-15910;JH-15910
+3791;Ship_Mode;Second Class;?
+3632;Ship_Mode;Standard Class;?
+1723;Sales;51.75;?
+483;Product_Name;36X48 HARDFLOOR CHAIRMAT;?
+942;Segment;Consumer;Consumer
+1257;Region;Central;Central
+1388;Product_Name;GBC VeloBinder Manual Binding System;?
+415;Product_Name;Avery Non-Stick Binders;?
+1440;Sub-Category;Binders;Binders
+846;Product_Name;Cisco 8x8 Inc. 6753i IP Business Phone System;?
+1500;Product_Name;Newell 333;?
+1929;Customer_Name;Mary Zewe;Mary Zewe
+1998;Region;East;East
+1017;Sub-Category;Art;?
+492;Region;West;West
+2016;City;Los Angeles;?
+1981;Sub-Category;Furnishings;Furnishings
+4484;Product_ID;OFF-BI-10003527;?
+2929;Product_Name;Computer Printout Paper with Letter-Trim Perforations;?
+2016;Sub-Category;Furnishings;Furnishings
+3129;Region;South;South
+4144;City;New York City;?
+2821;Segment;Corporate;Corporate
+3678;Product_ID;OFF-PA-10003971;?
+2515;Product_ID;TEC-PH-10004120;?
+1647;Sales;8.1;?
+2698;Sales;36.62;?
+3328;Product_ID;FUR-FU-10002268;?
+1102;Segment;Corporate;Corporate
+3841;Product_Name;Deluxe Heavy-Duty Vinyl Round Ring Binder;?
+4073;Customer_ID;CS-11950;CS-11950
+3254;Product_Name;Surelock Post Binders;?
+4304;Sales;313.72;?
+536;Customer_Name;Suzanne McNair;Suzanne McNair
+4301;Product_Name;OIC Binder Clips;?
+1323;Customer_Name;Tiffany House;Tiffany House
+2457;Customer_ID;BT-11395;BT-11395
+2670;Customer_ID;SN-20710;SN-20710
+2284;Sales;3083.43;?
+1642;Product_Name;Jabra SPEAK 410;?
+4316;Region;South;South
+2418;Sub-Category;Paper;Paper
+2145;Product_Name;Samsung Galaxy S4;?
+4433;Sales;102.3;?
+2563;Product_Name;Avery File Folder Labels;?
+2755;City;Oklahoma City;?
+3934;Customer_ID;GP-14740;GP-14740
+3101;Customer_Name;Yoseph Carroll;Yoseph Carroll
+1630;Sales;587.97;?
+1647;Ship_Mode;Standard Class;?
+2925;Sub-Category;Paper;Paper
+2315;State;New Jersey;New Jersey
+2476;Product_ID;OFF-AP-10003779;?
+781;Customer_Name;Barry Franz;Barry Franz
+1269;Ship_Mode;Standard Class;?
+2436;City;Bakersfield;?
+2260;Product_Name;GE 48 Fluorescent Tube Cool White Energy Saver 34 Watts 30/Box;?
+3835;Sales;40.3;?
+659;City;Springfield;?
+2629;Region;South;South
+2584;Customer_Name;Denise Leinenbach;Denise Leinenbach
+107;Segment;Corporate;Corporate
+2629;Ship_Mode;Standard Class;?
+859;Segment;Consumer;Consumer
+36;Customer_Name;Jennifer Patt;Jennifer Patt
+2901;Product_ID;FUR-BO-10000780;?
+2437;Ship_Mode;Second Class;?
+1920;Ship_Mode;First Class;?
+4216;Product_Name;Master Caster Door Stop Brown;?
+3556;State;California;California
+4010;Sales;8.26;?
+1029;State;California;California
+3846;Customer_ID;FH-14350;FH-14350
+2284;Segment;Consumer;Consumer
+908;Sales;241.92;?
+2921;Segment;Consumer;Consumer
+377;Customer_ID;NG-18355;NG-18355
+190;State;California;California
+2958;Customer_ID;AF-10885;AF-10885
+3031;Customer_Name;Carol Darley;Carol Darley
+90;Region;East;East
+2181;Segment;Consumer;Consumer
+3568;Customer_ID;SC-20050;SC-20050
+887;Segment;Corporate;Corporate
+578;Customer_ID;DB-12910;DB-12910
+2299;Customer_ID;JD-15895;JD-15895
+1809;State;Georgia;?
+2868;Sales;191.6;?
+3521;Segment;Consumer;Consumer
+3140;Customer_ID;CL-12565;CL-12565
+3125;City;Superior;?
+3656;Segment;Consumer;Consumer
+1029;Customer_ID;JF-15355;JF-15355
+2284;Customer_ID;TB-21520;TB-21520
+2437;State;Rhode Island;Rhode Island
+4451;Customer_Name;Craig Reiter;Craig Reiter
+1236;Product_ID;OFF-LA-10003510;?
+1739;Segment;Corporate;Corporate
+3227;Segment;Corporate;Corporate
+3702;Ship_Mode;First Class;?
+1599;City;Seattle;?
+1389;Sales;9.18;?
+3191;Sub-Category;Binders;Binders
+2120;Ship_Mode;Standard Class;?
+3296;Product_Name;Xerox 1928;?
+1662;Ship_Mode;First Class;?
+17;Customer_Name;Bill Donatelli;Bill Donatelli
+2548;Customer_ID;MC-17425;MC-17425
+3468;Customer_ID;BT-11680;BT-11680
+3958;Ship_Mode;Standard Class;?
+4450;Product_ID;TEC-PH-10002293;?
+1964;City;Columbus;?
+2897;Customer_Name;Michael Kennedy;Michael Kennedy
+2429;Sub-Category;Binders;Binders
+4408;Product_ID;OFF-ST-10001034;?
+2550;Region;South;South
+1224;Product_ID;FUR-BO-10001601;?
+872;Segment;Consumer;Consumer
+1842;Region;West;West
+916;Region;East;East
+124;Segment;Consumer;Consumer
+937;City;Warwick;?
+233;State;Ohio;Ohio
+2834;Ship_Mode;Second Class;?
+4289;City;Phoenix;?
+2463;State;Texas;Texas
+1879;Sub-Category;Accessories;Accessories
+3521;State;Ohio;?
+3808;Region;South;South
+3336;Region;South;South
+4018;City;Atlanta;?
+2519;Region;West;West
+3146;Customer_Name;Cari Sayre;Cari Sayre
+2363;Segment;Consumer;Consumer
+4095;Sales;5.84;?
+2512;State;Oregon;Oregon
+307;Ship_Mode;Second Class;?
+211;Sub-Category;Envelopes;Envelopes
+2175;Region;East;East
+2142;Sub-Category;Furnishings;Furnishings
+1423;Sales;291.96;?
+2023;State;Georgia;?
+3579;Customer_Name;Corinna Mitchell;Corinna Mitchell
+1668;State;Florida;?
+1119;City;Huntsville;?
+2678;Ship_Mode;First Class;?
+49;Ship_Mode;Second Class;?
+3245;Ship_Mode;First Class;?
+2269;Sub-Category;Accessories;?
+1124;Region;South;South
+2231;Product_Name;Hand-Finished Solid Wood Document Frame;?
+134;Segment;Consumer;Consumer
+3398;Product_ID;OFF-PA-10000477;?
+3356;Customer_Name;Rob Dowd;Rob Dowd
+1841;City;Los Angeles;?
+3237;Product_ID;OFF-PA-10000520;?
+3692;Customer_ID;DB-12910;DB-12910
+868;State;Texas;?
+1302;Ship_Mode;Second Class;?
+1977;Product_Name;Recycled Pressboard Report Cover with Reinforced Top Hinge;?
+735;Sub-Category;Binders;Binders
+3161;Ship_Mode;Standard Class;?
+3759;Product_Name;Luxo Economy Swing Arm Lamp;?
+396;City;Apopka;?
+921;Ship_Mode;Second Class;?
+571;City;Philadelphia;?
+3617;Region;West;West
+3490;Ship_Mode;Standard Class;?
+3975;Customer_Name;Adam Shillingsburg;Adam Shillingsburg
+2613;Segment;Corporate;Corporate
+3759;Customer_ID;TB-21355;TB-21355
+408;City;Seattle;?
+1680;Product_ID;OFF-BI-10004632;?
+4421;Product_Name;Ultra Commercial Grade Dual Valve Door Closer;?
+1911;Customer_ID;CK-12205;CK-12205
+2918;State;Texas;Texas
+803;Product_ID;FUR-CH-10002647;?
+885;Sub-Category;Furnishings;Furnishings
+3871;Product_ID;FUR-FU-10003849;?
+1536;Region;Central;Central
+259;State;Indiana;Indiana
+615;Sub-Category;Storage;Storage
+4112;Product_Name;Xerox 1917;?
+1571;Ship_Mode;Standard Class;?
+3583;Customer_ID;ME-17320;ME-17320
+505;Ship_Mode;Second Class;?
+2048;Customer_ID;LC-17140;LC-17140
+3983;State;New York;?
+4435;Sales;1575.14;?
+2096;Product_Name;Bagged Rubber Bands;?
+4262;City;Johnson City;?
+1260;Customer_Name;Stewart Carmichael;Stewart Carmichael
+2742;City;Milwaukee;?
+2444;Segment;Corporate;Corporate
+2917;Sub-Category;Appliances;?
+3648;Product_Name;Flat Face Poster Frame;?
+1616;Ship_Mode;Standard Class;?
+3415;Region;South;South
+2538;Customer_Name;Jeremy Ellison;Jeremy Ellison
+1275;Ship_Mode;Standard Class;?
+442;Customer_ID;LS-16945;LS-16945
+354;Customer_ID;JB-15400;JB-15400
+67;Customer_Name;Laurel Elliston;Laurel Elliston
+1205;City;Houston;?
+2250;Customer_ID;SN-20560;SN-20560
+4457;Region;West;West
+1596;Sales;383.8;?
+459;State;California;California
+1593;Sub-Category;Phones;Phones
+4012;City;Little Rock;?
+4255;City;Jackson;?
+764;Segment;Corporate;Corporate
+403;Customer_ID;BF-11170;BF-11170
+2586;Customer_ID;PP-18955;PP-18955
+4247;Customer_ID;CS-12400;CS-12400
+456;Customer_ID;CP-12340;CP-12340
+3320;Customer_ID;IM-15070;IM-15070
+4499;Customer_ID;AA-10480;AA-10480
+2671;Customer_ID;DK-13375;DK-13375
+3781;Ship_Mode;Standard Class;?
+2708;Customer_ID;TB-21250;TB-21250
+406;Customer_ID;DW-13585;DW-13585
+3109;Sales;2799.96;?
+3409;State;Texas;?
+2073;Customer_Name;Frank Carlisle;Frank Carlisle
+1344;Product_ID;OFF-PA-10000659;?
+2659;State;Texas;Texas
+3075;City;Bristol;?
+2630;Sales;263.88;?
+1490;Ship_Mode;Standard Class;?
+1955;Sub-Category;Labels;?
+1797;Ship_Mode;Standard Class;?
+4080;Customer_ID;BD-11320;?
+3796;Ship_Mode;First Class;?
+3612;Ship_Mode;First Class;?
+1735;Ship_Mode;First Class;?
+2686;State;Texas;?
+2517;Sub-Category;Binders;Binders
+2433;City;Henderson;?
+622;City;Lancaster;?
+2631;Customer_Name;Tracy Hopkins;Tracy Hopkins
+3116;Sales;35.48;?
+774;Sub-Category;Paper;?
+1392;Ship_Mode;Same Day;?
+2461;Product_ID;TEC-PH-10004447;?
+1686;City;San Francisco;?
+200;Sub-Category;Supplies;Supplies
+4115;Product_Name;BOSTON Ranger #55 Pencil Sharpener Black;?
+2360;Customer_Name;Nathan Gelder;Nathan Gelder
+3154;Region;South;South
+2756;Customer_ID;EB-13870;EB-13870
+465;Ship_Mode;Standard Class;?
+2113;State;Florida;Florida
+386;Customer_ID;EH-13765;EH-13765
+2908;State;Texas;Texas
+3507;Segment;Consumer;Consumer
+2483;Segment;Consumer;Consumer
+1694;Customer_ID;HK-14890;HK-14890
+1127;Region;West;West
+1480;Product_Name;Staples;?
+1656;Segment;Home Office;Home Office
+2572;Customer_ID;AS-10225;AS-10225
+4112;Sub-Category;Paper;Paper
+2264;Sales;3.68;?
+1744;Sub-Category;Labels;Labels
+2529;Sales;479.98;?
+1331;Segment;Consumer;Consumer
+1513;Ship_Mode;Standard Class;?
+406;Segment;Corporate;Corporate
+2042;Region;East;East
+381;Segment;Corporate;Corporate
+4046;Ship_Mode;Standard Class;?
+3264;Product_ID;OFF-ST-10001128;?
+2889;State;California;?
+466;Sub-Category;Appliances;Appliances
+1801;Ship_Mode;Standard Class;?
+63;State;Texas;Texas
+396;Segment;Corporate;Corporate
+4339;Region;West;West
+3120;Sub-Category;Art;Art
+3278;State;Florida;?
+3771;Sub-Category;Paper;Paper
+3950;Sub-Category;Storage;Storage
+1240;Product_Name;Xerox 1972;Xerox 1972

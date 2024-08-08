@@ -56,8 +56,8 @@ This folder is divided into 3 subfolders: ‘Original Datasets’ contains the o
 | Chicago crimes  (Solo 2 RFD - provare con altre threshold) | 5000  | 10      | 100-750-1000                | [6,0,5,10,3,0,0,1,2,3]                     | https://www.kaggle.com/datasets/currie32/crimes-in-chicago                                 |
 | Superstore (in corso)                                      | 4500  | 11      | 90--900                     | [1, 0, 2, 1,1, 1, 3, 0, 3, 10]             | https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting                               |
 | Boeing (in corso)                                          | 1485  | 10      | 29--29                      | [1, 3, 3, 1, 2, 1, 3, 2, 2, 2]             | https://www.kaggle.com/datasets/nurielreuven/boeing-historical-airplane-orders-deliveries  |
-| Weather                                                    | 2500  | 11      | 50--500                     | []                                         | https://www.kaggle.com/datasets/nikhil7280/weather-type-classification                     |
-| US_Presidents                                              | 3754  | 10      | 75--750                     | []                                         | https://www.kaggle.com/datasets/tunguz/us-elections-dataset                                |
+| Weather                                                    | 2500  | 11      | 50--500                     | [2.5, 2.5, 2, 3, 1, 3, 1, 1,1.5,1,1]       | https://www.kaggle.com/datasets/nikhil7280/weather-type-classification                     |
+| US_Presidents                                              | 3754  | 10      | 75--750                     | [1,1,1,1,2,2,1,250,250,1]                  | https://www.kaggle.com/datasets/tunguz/us-elections-dataset                                |
 
 
 
