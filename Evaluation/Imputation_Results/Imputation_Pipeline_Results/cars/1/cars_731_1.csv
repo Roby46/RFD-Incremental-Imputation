@@ -1,0 +1,732 @@
+riga;nome attributo;valore da imputare;valore imputato
+197;MPG;15.5;?
+202;Cylinders;6;4
+395;Horsepower;110.0;?
+166;Car;Plymouth Grand Fury;?
+164;Car;Pontiac Catalina;?
+297;Horsepower;155.0;158.0
+213;Horsepower;75.00;52.00
+402;Displacement;140.0;?
+162;Horsepower;72.00;?
+43;Displacement;250.0;?
+256;Model;78;75
+141;Weight;3781.;?
+22;Car;Plymouth Duster;?
+331;Weight;2800.;?
+90;MPG;23.0;19.0
+370;Displacement;168.0;?
+381;Weight;2735.;?
+232;Weight;4295.;?
+252;Acceleration;21.5;?
+391;Displacement;108.0;?
+362;Weight;2320.;?
+267;Model;78;79
+393;Acceleration;15.7;?
+126;MPG;24.0;?
+110;Acceleration;21.0;?
+180;Horsepower;71.00;?
+363;Weight;2210.;?
+190;Origin;Europe;?
+192;Horsepower;92.00;?
+10;Displacement;390.0;?
+288;Acceleration;15.4;?
+26;Car;Volkswagen 1131 Deluxe Sedan;?
+187;Acceleration;14.5;?
+99;Horsepower;150.0;?
+369;Car;Volvo Diesel;?
+107;Model;73;?
+349;Weight;2725.;?
+241;MPG;29.0;?
+288;Car;Pontiac Lemans V6;?
+101;MPG;14.0;?
+287;Horsepower;68.00;?
+344;Horsepower;0;?
+136;MPG;15.0;?
+113;Origin;US;?
+240;Weight;4335.;?
+126;Acceleration;15.5;?
+371;MPG;24.2;?
+367;Model;81;?
+400;Horsepower;84.00;?
+116;Model;73;?
+103;Origin;US;?
+243;Cylinders;4;4
+337;Model;80;?
+199;Origin;US;US
+96;Displacement;302.0;?
+233;Weight;3520.;?
+213;Weight;2155.;?
+211;Cylinders;4;4
+152;Weight;1649.;?
+344;Weight;2905.;?
+206;Horsepower;53.00;53.00
+147;MPG;14.0;10.0
+34;MPG;11.0;?
+125;MPG;29.0;?
+406;Weight;2720.;?
+325;MPG;34.3;?
+212;Origin;Japan;?
+20;MPG;14.0;14.0
+40;Horsepower;48.00;?
+373;Weight;3725.;?
+28;Cylinders;4;6
+100;Model;73;79
+97;Model;73;?
+113;Horsepower;170.0;?
+274;Horsepower;68.00;?
+212;Car;Datsun B-210;?
+281;MPG;23.9;?
+330;MPG;46.6;0
+403;Cylinders;4;4
+129;Displacement;318.0;?
+338;MPG;40.9;0
+203;Acceleration;22.2;?
+368;Cylinders;4;4
+70;Acceleration;12.0;9.50
+299;Origin;US;?
+309;Acceleration;13.2;18.0
+388;Origin;US;?
+45;MPG;18.0;?
+89;MPG;28.0;22.0
+19;Weight;3761.;?
+145;MPG;13.0;15.0
+368;Origin;Europe;?
+395;Model;82;?
+254;Origin;Japan;?
+120;Model;73;?
+317;Displacement;98.00;?
+386;Horsepower;68.00;?
+114;Weight;4499.;?
+273;MPG;17.5;20.2
+271;Acceleration;13.4;?
+331;Model;80;?
+158;Model;74;?
+304;Acceleration;15.0;16.0
+184;Horsepower;90.00;?
+141;Car;Chevrolet Chevelle Malibu Classic;?
+367;Car;Peugeot 505s Turbo Diesel;?
+291;Horsepower;90.00;?
+372;Weight;3415.;?
+24;Model;70;74
+113;MPG;13.0;?
+96;Cylinders;8;?
+303;Model;79;?
+278;Acceleration;14.8;?
+120;Displacement;122.0;?
+159;MPG;31.0;32.0
+174;Model;75;?
+346;Origin;US;?
+274;Cylinders;4;6
+106;Origin;US;?
+150;Origin;Europe;Europe
+186;Origin;Europe;Japan
+174;Weight;3169.;?
+311;Acceleration;19.2;18.0
+52;Car;Pontiac Safari (sw);?
+116;MPG;20.0;?
+143;Weight;3613.;?
+187;MPG;22.0;?
+17;Car;Plymouth 'Cuda 340;?
+310;Model;79;?
+352;Acceleration;16.4;?
+353;Car;Honda Civic 1300;?
+334;Origin;Europe;?
+85;MPG;22.0;?
+240;Horsepower;149.0;?
+226;Weight;1825.;?
+203;Cylinders;4;6
+131;Model;73;?
+184;Origin;US;US
+396;Displacement;262.0;?
+110;Displacement;97.00;?
+149;Origin;Europe;?
+376;Origin;US;US
+72;Cylinders;8;?
+121;MPG;21.0;?
+173;Horsepower;110.0;?
+298;Acceleration;14.3;?
+377;Horsepower;88.00;?
+381;Acceleration;18.0;?
+245;MPG;30.5;?
+261;Model;78;?
+124;MPG;16.0;?
+14;Horsepower;175.0;?
+180;Displacement;90.00;?
+38;Displacement;113.0;?
+7;Origin;US;US
+119;Origin;Japan;Japan
+325;Horsepower;78.00;?
+27;Origin;Europe;Japan
+247;Displacement;97.00;?
+99;Cylinders;8;?
+90;Car;Toyota Corolla Mark II (sw);?
+346;Model;81;?
+2;Horsepower;165.0;?
+400;Origin;US;?
+378;Car;Chevrolet Cavalier 2-door;?
+351;Displacement;79.00;?
+161;Weight;3459.;?
+318;Weight;1968.;?
+71;Origin;US;US
+345;Weight;2290.;?
+79;MPG;19.0;?
+10;Acceleration;8.5;?
+108;MPG;18.0;?
+150;Horsepower;67.00;?
+132;Acceleration;11.0;?
+255;Acceleration;18.6;20.5
+151;Cylinders;4;6
+66;Weight;2126.;?
+404;Acceleration;11.6;?
+193;Model;76;?
+104;Origin;US;?
+277;Acceleration;14.5;?
+151;Car;Opel Manta;?
+17;Cylinders;8;8
+203;Displacement;85.00;?
+70;Displacement;350.0;?
+296;Origin;US;?
+80;Acceleration;12.5;?
+123;Acceleration;13.0;?
+256;Displacement;91.00;?
+164;Horsepower;170.0;?
+125;Acceleration;19.5;?
+23;MPG;18.0;?
+347;Model;81;?
+325;Cylinders;4;3
+397;Weight;2585.;?
+143;Displacement;225.0;?
+350;Car;Plymouth Reliant;?
+147;Weight;4638.;?
+350;Model;81;?
+392;Origin;Japan;?
+308;Weight;3420.;?
+252;Origin;Europe;?
+3;Origin;US;?
+224;Acceleration;18.5;?
+160;Displacement;225.0;?
+34;Origin;US;?
+169;Horsepower;105.0;?
+283;Weight;3140.;?
+262;Origin;US;US
+315;Horsepower;115.0;?
+343;Car;Triumph TR7 Coupe;?
+246;Origin;US;?
+110;Model;73;?
+291;Weight;3265.;?
+47;Model;71;?
+201;MPG;24.0;?
+301;Displacement;89.00;?
+168;Cylinders;6;6
+27;Acceleration;17.5;17.0
+351;Origin;Japan;Japan
+282;Displacement;131.0;?
+320;Origin;Japan;Japan
+215;Displacement;130.0;?
+324;Origin;US;?
+185;Displacement;115.0;?
+194;Acceleration;15.3;?
+178;MPG;23.0;?
+168;Model;75;?
+92;Displacement;97.00;?
+370;Cylinders;6;6
+278;Origin;Japan;?
+382;MPG;24.0;?
+377;MPG;27.0;32.3
+349;Horsepower;110.0;115.0
+60;Cylinders;4;6
+90;Cylinders;4;4
+2;Car;Buick Skylark 320;?
+37;MPG;28.0;?
+51;Horsepower;170.0;?
+405;Acceleration;18.6;?
+1;Model;70;?
+247;Car;Subaru DL;?
+300;MPG;18.5;?
+61;Weight;1773.;?
+381;Displacement;151.0;?
+236;Origin;US;US
+1;Weight;3504.;?
+392;Model;82;?
+175;MPG;29.0;?
+247;Horsepower;67.00;48.00
+111;Weight;4997.;?
+403;Displacement;97.00;?
+224;Model;77;?
+262;Cylinders;6;6
+294;Displacement;302.0;?
+243;Horsepower;75.00;?
+225;Cylinders;4;4
+34;Car;Dodge D200;?
+259;Origin;US;US
+232;Cylinders;8;8
+137;Acceleration;19.0;20.5
+324;Car;Dodge Aspen;?
+345;Acceleration;17.0;?
+294;Weight;3725.;?
+301;Acceleration;14.0;?
+208;Car;Ford Grenada ghia;?
+80;Origin;US;?
+176;Model;75;?
+159;Cylinders;4;4
+312;Origin;Europe;?
+296;Model;79;?
+130;Displacement;121.0;?
+381;Horsepower;90.00;?
+218;Origin;Japan;Japan
+195;Weight;4215.;?
+322;Displacement;140.0;?
+55;Model;71;73
+381;MPG;27.0;?
+269;MPG;18.1;?
+10;Weight;3850.;?
+39;Cylinders;4;6
+230;Model;77;?
+186;Weight;2957.;?
+387;Car;Plymouth Horizon Miser;?
+30;Cylinders;4;4
+84;Horsepower;112.0;?
+262;Acceleration;15.8;15.4
+402;Cylinders;4;6
+98;Model;73;?
+161;Car;Chevrolet Nova;?
+339;Displacement;97.00;?
+230;Cylinders;8;6
+58;Acceleration;14.0;?
+70;Car;Chevrolet Impala;?
+312;Acceleration;14.7;?
+351;Horsepower;58.00;?
+301;Weight;1925.;?
+298;Cylinders;8;6
+25;Displacement;97.00;?
+133;Displacement;198.0;198.0
+179;Weight;2702.;?
+223;Origin;US;US
+62;Cylinders;4;3
+270;Weight;3425.;?
+211;MPG;29.5;?
+319;Acceleration;15.5;?
+133;Model;74;73
+136;Acceleration;17.0;?
+44;Displacement;250.0;?
+99;Weight;4464.;?
+130;Origin;Europe;?
+232;MPG;15.0;10.0
+244;Car;Ford Mustang II 2+2;?
+46;Car;Chevrolet Impala;?
+357;MPG;34.1;?
+275;Origin;Japan;Japan
+309;Horsepower;70.00;?
+63;MPG;27.0;0
+364;Model;81;?
+254;Displacement;78.00;?
+83;Model;72;?
+149;Car;Audi Fox;?
+66;Origin;US;?
+282;Weight;2830.;?
+80;Car;AMC Matador (sw);?
+5;Horsepower;140.0;?
+113;Displacement;360.0;?
+379;Car;Pontiac J2000 SE Hatchback;?
+106;Acceleration;18.0;?
+373;MPG;26.6;?
+119;MPG;18.0;?
+5;Origin;US;Japan
+127;Model;73;?
+288;Displacement;231.0;?
+101;Displacement;318.0;?
+69;MPG;21.0;?
+148;Horsepower;150.0;?
+21;Origin;Japan;Japan
+32;Car;Ford F250;?
+143;Acceleration;16.5;?
+266;Cylinders;6;6
+15;Weight;3850.;?
+238;Weight;4165.;?
+39;Displacement;98.00;?
+89;Horsepower;92.00;?
+245;Horsepower;63.00;?
+202;Displacement;232.0;?
+360;Cylinders;4;4
+367;Cylinders;4;6
+22;Origin;US;?
+341;Model;80;?
+87;MPG;26.0;0
+227;Origin;US;?
+380;Origin;US;?
+361;Model;81;?
+258;Weight;3735.;?
+362;Horsepower;0;?
+296;Weight;3830.;?
+235;Weight;3630.;?
+378;Acceleration;18.0;12.9
+45;Cylinders;6;6
+33;Model;70;?
+68;MPG;20.0;?
+154;Model;74;?
+318;MPG;38.1;?
+268;Displacement;225.0;?
+148;MPG;14.0;10.0
+144;Acceleration;14.0;?
+197;Model;76;?
+385;Model;82;?
+89;Car;Datsun 510 (sw);?
+380;Displacement;135.0;?
+298;Model;79;?
+320;Horsepower;65.00;?
+13;Origin;US;Japan
+191;Model;76;?
+140;Origin;US;US
+165;Cylinders;8;8
+335;Model;80;?
+104;Displacement;360.0;?
+11;Acceleration;17.5;?
+41;Acceleration;13.0;?
+299;Cylinders;8;8
+216;Model;76;?
+66;Displacement;97.50;?
+397;Model;82;?
+358;MPG;34.7;0
+227;Cylinders;4;4
+215;Origin;Europe;Europe
+385;Displacement;91.00;?
+172;Origin;US;?
+136;Horsepower;100.0;?
+241;Origin;Europe;Europe
+169;Acceleration;18.5;?
+145;Origin;US;?
+318;Displacement;89.00;?
+146;Displacement;318.0;?
+364;Cylinders;4;4
+339;Origin;Japan;?
+160;Model;75;?
+142;Weight;3632.;?
+39;Car;Ford Pinto;?
+275;Acceleration;14.2;?
+254;Car;Mazda GLC Deluxe;?
+242;Weight;2740.;?
+14;Weight;4166.;?
+101;Model;73;?
+88;Horsepower;86.00;?
+84;Car;Volvo 145e (sw);?
+287;Origin;Japan;Japan
+253;Model;78;?
+11;Displacement;133.0;?
+29;Displacement;104.0;?
+257;Weight;3365.;?
+113;Model;73;?
+205;Displacement;90.00;?
+126;Weight;2158.;?
+234;Cylinders;6;8
+276;MPG;27.2;?
+50;Car;Dodge Monaco (sw);?
+372;Horsepower;110.0;?
+320;Displacement;86.00;?
+264;Car;Plymouth Volare;?
+159;Displacement;79.00;?
+37;Displacement;140.0;?
+311;Displacement;85.00;?
+60;Weight;2065.;?
+171;Displacement;225.0;?
+173;Car;Chevrolet Monza 2+2;?
+54;Weight;2408.;?
+173;Cylinders;8;6
+49;Weight;4096.;?
+43;Cylinders;6;6
+209;Car;Pontiac Ventura SJ;?
+54;Cylinders;4;4
+315;Car;Oldsmobile Omega Brougham;?
+332;MPG;40.8;?
+48;Horsepower;153.0;153.0
+18;Horsepower;140.0;?
+248;Acceleration;14.1;?
+22;Horsepower;95.00;112.0
+24;Acceleration;16.0;?
+212;Horsepower;70.00;?
+285;Displacement;163.0;?
+274;Origin;US;?
+252;Car;Volkswagen Rabbit Custom Diesel;?
+209;Displacement;250.0;?
+57;MPG;23.0;?
+123;Weight;4082.;?
+19;Displacement;400.0;?
+357;Horsepower;68.00;?
+372;Cylinders;6;6
+245;Acceleration;17.0;?
+235;Horsepower;100.0;?
+161;Acceleration;16.0;?
+258;Acceleration;13.2;?
+178;Car;Pontiac Astro;?
+75;Cylinders;8;8
+381;Model;82;?
+339;Cylinders;4;4
+347;Weight;2635.;?
+158;Cylinders;4;4
+369;Displacement;145.0;?
+112;Horsepower;167.0;139.0
+49;Model;71;70
+123;Model;73;?
+240;Model;77;?
+149;Cylinders;4;4
+207;Displacement;225.0;?
+193;Displacement;98.00;?
+225;Displacement;111.0;?
+188;Car;Saab 99LE;?
+202;MPG;22.5;?
+94;Cylinders;8;8
+38;MPG;25.0;?
+83;Cylinders;8;8
+235;Cylinders;6;8
+111;Displacement;400.0;?
+268;Cylinders;6;8
+126;Displacement;116.0;?
+183;Car;Volkswagen Rabbit;?
+226;Cylinders;4;3
+99;Displacement;400.0;?
+337;Cylinders;4;?
+198;Horsepower;152.0;165.0
+168;Horsepower;110.0;?
+361;Car;Volkswagen Jetta;?
+101;Acceleration;14.5;?
+309;Origin;US;US
+302;Acceleration;15.2;?
+344;Displacement;140.0;?
+159;Car;Fiat x1.9;?
+46;Acceleration;12.0;12.8
+61;Cylinders;4;3
+18;Weight;3353.;?
+176;Car;Ford Pinto;?
+18;Model;70;?
+388;Horsepower;70.00;?
+192;Cylinders;4;6
+174;Horsepower;129.0;?
+125;Model;73;?
+217;MPG;19.0;?
+209;Cylinders;6;6
+45;Origin;US;US
+404;Horsepower;84.00;?
+157;Car;Honda Civic;?
+88;Origin;US;Japan
+136;Cylinders;6;6
+328;Acceleration;15.0;?
+189;Car;Honda Civic CVCC;Honda Civic
+304;Displacement;121.0;?
+314;Cylinders;6;6
+227;Acceleration;15.5;?
+137;Origin;Japan;?
+395;Displacement;181.0;?
+294;Acceleration;13.4;?
+97;Horsepower;150.0;?
+123;Cylinders;8;8
+389;Model;82;?
+283;Acceleration;13.6;?
+51;Model;71;?
+199;Cylinders;6;8
+307;Origin;Europe;?
+107;Origin;US;?
+247;MPG;30.0;32.0
+130;Weight;2660.;?
+277;Model;78;?
+251;Cylinders;3;4
+400;Acceleration;13.0;?
+170;Car;AMC Matador;?
+231;MPG;15.5;10.0
+244;Origin;US;?
+314;Origin;US;US
+302;Cylinders;4;4
+71;Horsepower;175.0;?
+150;Cylinders;4;4
+11;MPG;0;14.0
+219;Displacement;168.0;?
+43;Origin;US;?
+380;Car;Dodge Aries SE;?
+340;Weight;1845.;?
+179;Origin;Japan;?
+294;Car;Ford LTD Landau;?
+280;MPG;23.8;?
+364;Car;Toyota Corolla;?
+118;Weight;2379.;?
+324;Model;80;?
+209;Acceleration;16.2;17.7
+329;MPG;32.2;0
+64;Cylinders;4;4
+97;Cylinders;8;6
+36;Car;Datsun PL510;?
+164;Weight;4668.;?
+44;Cylinders;6;6
+213;Displacement;97.00;?
+202;Weight;3085.;?
+379;Horsepower;85.00;?
+220;MPG;16.5;?
+364;MPG;32.4;?
+324;Weight;3381.;?
+394;Cylinders;4;6
+12;Acceleration;11.5;?
+365;Acceleration;14.8;16.5
+199;Model;76;?
+61;Model;71;?
+341;Origin;Japan;Japan
+229;Weight;3880.;?
+184;Cylinders;6;8
+296;Car;Dodge St. Regis;?
+300;Car;Chrysler Lebaron Town @ Country (sw);?
+316;MPG;33.5;?
+266;Weight;3380.;?
+313;Cylinders;4;4
+23;Model;70;?
+320;Cylinders;4;?
+400;Weight;2370.;?
+76;Car;Buick LeSabre Custom;?
+94;Horsepower;150.0;150.0
+336;Origin;Europe;?
+279;Car;Plymouth Sapporo;?
+308;MPG;23.9;?
+226;Acceleration;18.6;?
+67;Horsepower;54.00;?
+290;Car;Ford Fairmont 4;?
+243;Car;Toyota Corolla Liftback;?
+401;Weight;2950.;?
+30;Origin;Europe;?
+123;Car;Chevrolet Monte Carlo S;?
+212;Acceleration;17.0;?
+148;Car;AMC Matador (sw);?
+1;Car;Chevrolet Chevelle Malibu;?
+96;Acceleration;14.5;16.0
+164;MPG;16.0;?
+65;Displacement;113.0;?
+140;Cylinders;4;?
+236;MPG;18.5;?
+234;Origin;US;?
+138;Displacement;122.0;?
+132;MPG;11.0;14.0
+301;Cylinders;4;4
+363;Acceleration;14.4;?
+295;Model;79;?
+52;Model;71;?
+260;Displacement;231.0;?
+239;Weight;4325.;?
+45;Model;71;?
+155;Cylinders;4;6
+337;Displacement;91.00;?
+222;Origin;US;US
+35;Car;Hi 1200D;?
+236;Cylinders;6;6
+271;Cylinders;6;8
+169;MPG;16.0;?
+229;Model;77;79
+215;Horsepower;102.0;72.00
+54;Acceleration;19.0;19.5
+352;Displacement;86.00;?
+337;Car;Honda Civic 1500 gl;?
+400;Cylinders;4;4
+303;Origin;US;?
+272;Displacement;302.0;400.0
+41;Car;AMC Gremlin;?
+15;Model;70;?
+203;Horsepower;52.00;?
+222;Model;76;75
+29;Car;Saab 99e;?
+130;Car;Saab 99le;?
+82;Displacement;302.0;302.0
+18;Cylinders;8;?
+205;Cylinders;4;6
+35;Acceleration;18.5;?
+278;Car;Toyota Celica GT Liftback;?
+345;Displacement;107.0;?
+365;Model;81;?
+9;Model;70;?
+203;Model;76;?
+115;Weight;2789.;?
+211;Car;Volkswagen Rabbit;?
+133;Weight;3102.;?
+343;MPG;35.0;0
+336;Car;Mercedes-Benz 240d;?
+6;Horsepower;198.0;?
+313;Displacement;151.0;?
+290;Cylinders;4;6
+89;Weight;2288.;?
+260;Acceleration;19.2;19.0
+117;Cylinders;4;?
+183;Weight;1937.;?
+84;Acceleration;14.5;?
+94;Displacement;304.0;?
+68;Horsepower;90.00;?
+114;Model;73;?
+278;Displacement;134.0;?
+207;Cylinders;6;6
+48;Acceleration;13.5;13.0
+292;Weight;3360.;?
+82;MPG;13.0;?
+172;Displacement;231.0;?
+78;Acceleration;12.5;?
+111;Car;Chevrolet Impala;?
+201;Model;76;73
+266;Model;78;?
+138;MPG;26.0;?
+388;Cylinders;4;4
+215;Acceleration;15.7;19.6
+52;Acceleration;12.0;?
+24;Weight;2587.;?
+189;Acceleration;17.5;17.4
+281;Displacement;119.0;?
+173;Acceleration;13.5;17.0
+388;MPG;36.0;44.0
+32;Origin;US;?
+111;Acceleration;14.0;?
+142;Displacement;258.0;?
+111;Model;73;?
+323;Origin;US;?
+318;Cylinders;4;?
+221;Origin;US;?
+249;Horsepower;97.00;?
+368;Car;Saab 900s;?
+117;Displacement;140.0;?
+12;Model;70;?
+337;Acceleration;13.8;?
+75;Horsepower;208.0;?
+112;Origin;US;US
+311;Cylinders;4;3
+128;Car;Volvo 144ea;?
+397;Cylinders;4;4
+387;Horsepower;63.00;?
+310;Car;Plymouth Horizon TC3;?
+338;Weight;1835.;?
+297;Origin;US;?
+218;Model;76;?
+31;Acceleration;15.0;?
+268;Horsepower;110.0;?
+126;Car;Opel Manta;?
+300;Acceleration;13.0;13.2
+74;MPG;17.0;?
+354;Origin;Japan;?
+391;Horsepower;70.00;?
+343;Weight;2500.;?
+246;Cylinders;4;6
+11;Car;Citroen DS-21 Pallas;?
+297;Acceleration;14.9;13.0
+403;Horsepower;52.00;?
+132;Origin;US;?
+102;Weight;4735.;?
+86;Acceleration;19.5;17.0
+91;Displacement;98.00;?
+190;Car;Fiat 131;?
+81;Displacement;307.0;?
+331;MPG;27.9;?
+311;MPG;31.8;?
+4;Car;AMC Rebel SST;?
+124;Car;Pontiac Grand Prix;?
+221;Weight;4055.;?
+283;Model;78;?
+263;Weight;2720.;?
+203;Car;Chevrolet Chevette;?
+352;Model;81;?
+307;Cylinders;4;6
+187;Weight;2945.;?
+8;Weight;4312.;?
+348;Horsepower;92.00;?
+53;Car;AMC Hornet Sportabout (sw);?
+6;Acceleration;10.0;?
+160;Cylinders;6;6
+110;Weight;1950.;?
+221;Car;Chevrolet C10;?
+56;Origin;US;?

@@ -17,7 +17,9 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?", 11, 50, 2.5, 2.5, 2, 3, 1, 3, 1, 1, 1.5, 1, 1] #Weather
     #fixed_params = [";", "?",10,75,1, 1, 1, 1, 2, 2, 1, 250, 250, 1] #US_Presidents
     #fixed_params = [";", "?", 6, 18, 2.0,8.5,8.5,1.0,1.0,3.5]  # Restaurant
-    fixed_params = [";", "?", 9, 44,3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]  # Police
+    #fixed_params = [";", "?", 9, 44,3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]  # Police
+    #fixed_params = [";", "?", 9,8,5.0,4.18,0.82,16,10.0,11.3,1.37,1.84,1.0]  # cars
+    fixed_params = [";", "?", 12, 89, 2, 0, 1, 3, 2, 5, 6, 4, 2, 5, 0, 0]  # MotoGP
 
     command_strings = []
 
@@ -47,16 +49,16 @@ def generate_launch_file(dataset_name, command_string, template, output_dir, ree
 
 
 #dataset = "EV_Vehicles_4000"  # Change dataset name as needed
-dataset = "police"
+dataset = "MotoGP_REBUILT_4435"
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
 heap_size_gb=32
 
 #Scelta delle pipeline
+algoritmo="Pipeline"
 #algoritmo="Pipeline"
-algoritmo="Baseline"
 #algoritmo="RFD_Generator"
-reevaluation=True #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
+reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
 # Number of missing values
 #missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
@@ -76,7 +78,10 @@ reevaluation=True #solo per la pipeline. Per i baseline ed il generator non impo
 #missing_values = [275, 550, 825, 1100, 1375, 2750, 5500, 8250, 11000, 13750] # Weather
 #missing_values = [375, 751, 1126, 1502, 1877, 3754, 7508, 11262, 15016, 18770] # US_Presidents
 #missing_values = [52, 104, 156, 207, 259, 518, 1037, 1555, 2074, 2592] # restaurant
-missing_values = [198, 397, 595, 793, 992, 1984, 3967, 5951, 7934, 9918] # police
+#missing_values = [198, 397, 595, 793, 992, 1984, 3967, 5951, 7934, 9918] # police
+#missing_values = [37, 73, 110, 146, 183, 365, 731, 1096, 1462, 1827] # cars
+missing_values = [532, 1064, 1597, 2129, 183, 2661, 5322, 10644, 15966, 26610] # MOTOGP 4435
+
 print(algoritmo)
 
 launch_template=""

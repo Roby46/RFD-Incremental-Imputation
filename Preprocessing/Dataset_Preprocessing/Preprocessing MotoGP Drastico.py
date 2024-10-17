@@ -49,8 +49,8 @@ for idx, row in df.iterrows():
     # Aggiungi la nuova riga pulita al nuovo DataFrame
     new_df = new_df.append(new_row, ignore_index=True)
 
-# Solo piloti in top 10
-new_df = new_df[new_df['position'].between(1, 10)]
+# Solo piloti in top 5
+new_df = new_df[new_df['position'].between(1, 5)]
 
 # Crea un nuovo file CSV ripulito
 filename = f"../../Datasets/Preprocessed_Datasets/MotoGP_REBUILT_{len(new_df)}.csv"

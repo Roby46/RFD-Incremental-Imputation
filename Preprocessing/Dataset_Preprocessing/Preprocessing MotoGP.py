@@ -37,8 +37,8 @@ def remove_non_ascii(text):
 # Applica la funzione a tutte le stringhe nel DataFrame
 df = df.applymap(lambda x: remove_non_ascii(x) if isinstance(x, str) else x)
 
-#Solo piloti in top10
-df = df[df['position'].between(1, 10)]
+#Solo piloti in top6
+df = df[df['position'].between(1, 6)]
 
 filename=f"../../Datasets/Preprocessed_Datasets/MotoGP_{len(df)}.csv"
 df.to_csv(filename, sep=';', index=None, encoding="ascii")
