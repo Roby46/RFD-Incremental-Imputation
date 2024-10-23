@@ -294,7 +294,7 @@ def analyze_imputation_quality(version, approach, MV, xml_file):
     elif (approach == "Pipeline"):
         results_path = f'../Imputation_Results/Imputation_Pipeline_Results/superstore_4500/{version}/{dataset_name}.csv'
     elif (approach == "Hybrid"):
-        results_path = f'../Imputation_Results/Imputation_Hybrid_Results/superstore_4500/{version}ù/{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Hybrid_Results/superstore_4500/{version}/{dataset_name}.csv'
 
     header_file = f'../../Preprocessing/Headers/Headers.csv'
     rmse=process_dataset(missing_dataset_path, results_path, header_file, dataset_name, full_dataset_path, xml_file)
@@ -365,8 +365,7 @@ def checkResults(version, approach, MV,xml_file):
 
 
 
-#approaches=["Baseline", "Pipeline","Pipeline_noRev","Hybrid","Baseline20"]
-approaches=["Pipeline","Baseline20"]
+approaches=[ "Pipeline","Pipeline_noRev","Hybrid","Baseline20"]
 versions=[1,2,3,4,5]
 MVs=[495,990,1485,1980,2475,4950,9900,14850,19800,24750]
 

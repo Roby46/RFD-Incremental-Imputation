@@ -55,10 +55,10 @@ versions = [1, 2, 3, 4, 5]
 heap_size_gb=32
 
 #Scelta delle pipeline
-algoritmo="Pipeline"
 #algoritmo="Pipeline"
+algoritmo="Baseline"
 #algoritmo="RFD_Generator"
-reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
+reevaluation=True #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
 # Number of missing values
 #missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
@@ -80,7 +80,7 @@ reevaluation=False #solo per la pipeline. Per i baseline ed il generator non imp
 #missing_values = [52, 104, 156, 207, 259, 518, 1037, 1555, 2074, 2592] # restaurant
 #missing_values = [198, 397, 595, 793, 992, 1984, 3967, 5951, 7934, 9918] # police
 #missing_values = [37, 73, 110, 146, 183, 365, 731, 1096, 1462, 1827] # cars
-missing_values = [532, 1064, 1597, 2129, 183, 2661, 5322, 10644, 15966, 26610] # MOTOGP 4435
+missing_values = [532, 1064, 1597, 2129, 2661, 5322, 10644, 15966, 21288, 26610] # MOTOGP 4435
 
 print(algoritmo)
 

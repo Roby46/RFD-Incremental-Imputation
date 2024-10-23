@@ -42,7 +42,7 @@ def plot_rmse_results(datasets, ncols=2):
     fig, axs = plt.subplots(nrows, ncols, figsize=(13, 6), sharey=True, sharex=True)  # Aggiunto sharex=True
 
     # Modifica degli spazi orizzontali e verticali
-    fig.subplots_adjust(hspace=0.12, wspace=0.04)  # Riduci hspace e wspace
+    fig.subplots_adjust(hspace=0.14, wspace=0.04)  # Riduci hspace e wspace
 
     # Appiattire gli assi se nrows > 1
     axs = axs.flatten() if nrows > 1 else axs
@@ -98,7 +98,7 @@ def plot_rmse_results(datasets, ncols=2):
 
 # Esempio di utilizzo
 filepath = '../ALL_Results_v2.csv'  # Modifica con il percorso del tuo CSV
-selected_datasets = ['Boeing_898', 'actorfilms_4000', 'restaurant', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', 'cars']  # Aggiungi altri dataset qui
+selected_datasets = ['Boeing_898', 'actorfilms_4000', 'restaurant', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', 'cars', "superstore_4500"]  # Aggiungi altri dataset qui
 datasets = load_rmse_data(filepath, selected_datasets)  # Carica i dati RMSE
 print(datasets)
-plot_rmse_results(datasets, ncols=4)  # Mostra i risultati, specificando il numero di colonne
+plot_rmse_results(datasets, ncols=3)  # Mostra i risultati, specificando il numero di colonne
