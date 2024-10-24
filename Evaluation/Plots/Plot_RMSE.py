@@ -42,7 +42,7 @@ def plot_rmse_results(datasets, ncols=2):
     fig, axs = plt.subplots(nrows, ncols, figsize=(13, 6), sharey=True, sharex=True)  # Aggiunto sharex=True
 
     # Modifica degli spazi orizzontali e verticali
-    fig.subplots_adjust(hspace=0.14, wspace=0.04)  # Riduci hspace e wspace
+    fig.subplots_adjust(hspace=0.20, wspace=0.04)  # Riduci hspace e wspace
 
     # Appiattire gli assi se nrows > 1
     axs = axs.flatten() if nrows > 1 else axs
