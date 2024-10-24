@@ -1,3 +1,11 @@
 <similarity_rules>
-
+    <attr name="year" type="delta">
+        <value>1</value>
+    </attr>
+    <attr name="position" type="delta">
+        <value>1</value>
+    </attr>
+    <attr name="points" type="delta">
+        <value>1</value>
+    </attr>
 </similarity_rules>
