@@ -237,6 +237,6 @@ results_path = f'../Imputation_Results/Imputation_Pipeline_Results/EV_Vehicles_4
 
 output_path = 'path_to_your_output.csv'
 header_file= f'../../Preprocessing/Headers/Headers.csv'
-xml_file = 'XML Files/Restaurant_similarity_rules_DA_TESTARE.xml'
+xml_file = 'XML Files/Restaurant_similarity_rules.xml'
 
 process_dataset(dataset_path, results_path, header_file, dataset_name, output_path, full_dataset_path,xml_file)

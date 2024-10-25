@@ -62,25 +62,25 @@ def are_similar(attribute, value1, value2):
 
 # Leggi il CSV
 version=1
-MV=1064
+MV=532
 
-#approach="Pipeline"
+approach="Pipeline"
 #approach="Baseline"
 #approach="Baseline20"
-approach="Pipeline_noRev"
+#approach="Pipeline_noRev"
 #approach="Hybrid"
 
 df=""
 if(approach=="Baseline"):
-    df=pd.read_csv(f"../Imputation_Results/Imputation_Baseline_Results/Motogp_8870/{version}/Baseline_Motogp_8870_{MV}_{version}.csv", sep=';')
+    df=pd.read_csv(f"../Imputation_Results/Imputation_Baseline_Results/Motogp_4435/{version}/Baseline_Motogp_4435_{MV}_{version}.csv", sep=';')
 elif(approach=="Pipeline_noRev"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_noRestoring_Results/Motogp_8870/{version}/Motogp_8870_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_noRestoring_Results/Motogp_4435/{version}/Motogp_4435_{MV}_{version}.csv", sep=';')
 elif(approach=="Baseline20"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Baseline_20_Results/Motogp_8870/{version}/Baseline_Motogp_8870_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Baseline_20_Results/Motogp_4435/{version}/Baseline_Motogp_4435_{MV}_{version}.csv", sep=';')
 elif(approach=="Pipeline"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Pipeline_Results/Motogp_88700/{version}/Motogp_8870_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Pipeline_Results/Motogp_44350/{version}/Motogp_4435_{MV}_{version}.csv", sep=';')
 elif(approach=="Hybrid"):
-    df = pd.read_csv(f"../Imputation_Results/Imputation_Hybrid_Results/Motogp_8870/{version}/Motogp_8870_{MV}_{version}.csv", sep=';')
+    df = pd.read_csv(f"../Imputation_Results/Imputation_Hybrid_Results/Motogp_4435/{version}/Motogp_4435_{MV}_{version}.csv", sep=';')
 
 df = df.drop(['riga'], axis=1)
 print(df.columns.tolist())

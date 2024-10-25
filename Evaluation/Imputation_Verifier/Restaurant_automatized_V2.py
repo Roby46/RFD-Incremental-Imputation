@@ -5,7 +5,7 @@ import csv
 import numpy as np
 import math
 
-xml_file = 'XML Files/Restaurant_similarity_rules_DA_TESTARE.xml'
+xml_file = 'XML Files/Restaurant_similarity_rules.xml'
 # Carica il file XML
 tree = ET.parse(xml_file)
 root = tree.getroot()

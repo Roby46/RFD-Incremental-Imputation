@@ -70,6 +70,7 @@ def plot_rmse_results(datasets, ncols=2):
         axs[i].grid(which='minor', linewidth='0.5', linestyle='dotted', color='gray', alpha=0.4)
         axs[i].xaxis.set_minor_locator(MultipleLocator(1))
         axs[i].yaxis.set_minor_locator(MultipleLocator(0.05))
+        axs[i].set_yticks([0, 0.2, 0.4, 0.6, 0.8, 1])
 
         # Imposta l'etichetta RMSE solo per il primo subplot di ogni riga
         if i % ncols == 0:
