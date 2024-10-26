@@ -295,7 +295,7 @@ def analyze_imputation_quality(version, approach, MV, xml_file):
     elif (approach == "Pipeline"):
         results_path = f'../Imputation_Results/Imputation_Pipeline_Results/police/{version}/{dataset_name}.csv'
     elif (approach == "Hybrid"):
-        results_path = f'../Imputation_Results/Imputation_Hybrid_Results/police/{version}ù/{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Hybrid_Results/police/{version}/{dataset_name}.csv'
 
     header_file = f'../../Preprocessing/Headers/Headers.csv'
     rmse=process_dataset(missing_dataset_path, results_path, header_file, dataset_name, full_dataset_path, xml_file)
