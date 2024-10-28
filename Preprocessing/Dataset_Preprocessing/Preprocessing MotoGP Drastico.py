@@ -31,8 +31,8 @@ def remove_non_ascii_drastic(text):
 def normalize_text(text):
     return unidecode.unidecode(text) if isinstance(text, str) else text
 
-# Creiamo un nuovo DataFrame vuoto con le stesse colonne
-new_df = pd.DataFrame(columns=df.columns)
+# Crea una lista per raccogliere le righe pulite
+cleaned_rows = []
 
 # Itera su tutte le righe e colonne del DataFrame originale
 for idx, row in df.iterrows():
@@ -46,11 +46,17 @@ for idx, row in df.iterrows():
             value = normalize_text(value)
         # Inserisci il valore pulito nella nuova riga
         new_row[col] = value
-    # Aggiungi la nuova riga pulita al nuovo DataFrame
-    new_df = new_df.append(new_row, ignore_index=True)
+    # Aggiungi la nuova riga pulita alla lista
+    cleaned_rows.append(new_row)
+
+# Crea un nuovo DataFrame con le righe pulite
+new_df = pd.DataFrame(cleaned_rows)
 
 # Solo piloti in top 5
 new_df = new_df[new_df['position'].between(1, 5)]
+
+# Prendi un campione di 3000 righe
+new_df = new_df.sample(3000)
 
 # Crea un nuovo file CSV ripulito
 filename = f"../../Datasets/Preprocessed_Datasets/MotoGP_REBUILT_{len(new_df)}.csv"

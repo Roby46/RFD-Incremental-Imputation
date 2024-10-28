@@ -21,8 +21,8 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?", 9,8,5.0,4.18,0.82,16,10.0,11.3,1.37,1.84,1.0]  # cars
     #fixed_params = [";", "?", 12, 89, 2, 0, 1, 3, 2, 5, 6, 4, 2, 5, 0, 0]  # MotoGP
     #fixed_params = [";", "?", 8, 60, 1.5,0.001,2.5,0.5,0.001,0.5,0.003,2]  # IoT_Telemetry 60-600
-    #fixed_params = [";", "?", 7, 100, 0.5, 2, 0.5, 0.5, 0.5, 0.5, 0.5] #F1_REBUILT_5000
-    fixed_params = [";", "?", 14, 6, 3, 0.5, 1, 4, 5, 0.5, 0.5, 5, 0.5, 1, 1, 1, 1.5, 1] #Cleveland
+    fixed_params = [";", "?", 7, 100, 0.5, 2, 0.5, 0.5, 0.5, 0.5, 0.5] #F1_REBUILT_5000 100-1000
+    #fixed_params = [";", "?", 14, 6, 3, 0.5, 1, 4, 5, 0.5, 0.5, 5, 0.5, 1, 1, 1, 1.5, 1] #Cleveland
     command_strings = []
 
     bool_param = use_true  # Usa il parametro di input per determinare True o False
@@ -51,16 +51,16 @@ def generate_launch_file(dataset_name, command_string, template, output_dir, ree
 
 
 #dataset = "EV_Vehicles_4000"  # Change dataset name as needed
-dataset = "Cleveland"
+dataset = "F1_REBUILT_5000"
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
 heap_size_gb=32
 
 #Scelta delle pipeline
-algoritmo="Pipeline"
+#algoritmo="Pipeline"
 #algoritmo="Baseline"
-#algoritmo="RFD_Generator"
-reevaluation=True #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
+algoritmo="Baseline"
+reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
 # Number of missing values
 #missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
@@ -84,8 +84,8 @@ reevaluation=True #solo per la pipeline. Per i baseline ed il generator non impo
 #missing_values = [37, 73, 110, 146, 183, 365, 731, 1096, 1462, 1827] # cars
 #missing_values = [532, 1064, 1597, 2129, 2661, 5322, 10644, 15966, 21288, 26610] # MOTOGP 4435
 #missing_values = [240, 480, 720, 960,1200, 2400, 4800, 7200, 9600, 12000] # IoT_Telemetry_3000
-#missing_values = [350, 700, 1050, 1400,1750, 3500, 7000, 10500, 14000, 17500] # F1 REBUILT 5000
-missing_values = [42, 83, 125, 166,208, 416, 832, 1247, 1663, 2079] # Cleveland
+missing_values = [350, 700, 1050, 1400,1750, 3500, 7000, 10500, 14000, 17500] # F1 REBUILT 5000
+#missing_values = [42, 83, 125, 166,208, 416, 832, 1247, 1663, 2079] # Cleveland
 print(algoritmo)
 
 launch_template=""
