@@ -167,6 +167,54 @@ elif(algoritmo=="RFD_Generator"):
         <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Xmx{heap_size_gb}G"/>
     </launchConfiguration>
     """
+elif(algoritmo == "pipeline2"):
+    # Template for the launch file
+    launch_template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+            <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+                <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+                    <listEntry value="C:/Users/Utente\Desktop\lavoro\workspace java\RFD-Incremental-2021\src\main\java\incremental_Imputation_strategy2_v2\IncrementalImputationSTR2v2_Alternative_ARGS.java"/>
+                </listAttribute>
+
+                <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+                    <listEntry value="1"/>
+                </listAttribute>
+                <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
+                <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+                <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
+                <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
+                <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+                <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="incremental_Imputation_strategy2_v2.IncrementalImputationSTR2v2_Alternative_ARGS"/>
+                <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="RFD-Incremental-2021"/>
+                <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="{command_string}"/>
+                <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="RFD-Incremental-2021"/>
+                <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+                <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Xmx{heap_size_gb}G"/>
+            </launchConfiguration>
+            """
+elif (algoritmo == "baseline2"):
+    # Template for the launch file
+    launch_template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+            <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+                <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+                    <listEntry value="C:/Users/Utente\Desktop\lavoro\workspace java\RFD-Incremental-2021\src\main\java\main\RunnerRFD_Alternative_ARGS.java"/>
+                </listAttribute>
+
+                <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+                    <listEntry value="1"/>
+                </listAttribute>
+                <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
+                <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+                <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
+                <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
+                <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+                <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="main.RunnerRFD_Alternative_ARGS"/>
+                <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="RFD-Incremental-2021"/>
+                <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="{command_string}"/>
+                <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="RFD-Incremental-2021"/>
+                <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+                <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Xmx{heap_size_gb}G"/>
+            </launchConfiguration>
+            """
 
 # Generate the command strings
 commands = generate_command_strings(versions, missing_values, dataset,reevaluation)
