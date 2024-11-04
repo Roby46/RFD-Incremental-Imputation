@@ -47,7 +47,7 @@ def generate_inviolable_indices(df_length, n):
 
 percentages = [1,2,3,4,5,10,20,30,40,50]
 column_types = [""]
-dataset = "MotoGP_REBUILT_3000"
+dataset = "Statlog_270"
 delimiter = ';'
 path_file = f'../../Datasets/Preprocessed_Datasets/{dataset}.csv'
 iterations = [1,2,3,4,5]

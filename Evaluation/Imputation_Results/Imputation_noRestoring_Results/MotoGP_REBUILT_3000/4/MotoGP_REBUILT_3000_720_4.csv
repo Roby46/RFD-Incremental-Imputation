@@ -1,0 +1,721 @@
+riga;nome attributo;valore da imputare;valore imputato
+2713;rider_name;Stoner Casey;Stoner Casey
+1941;country;AU;AU
+775;number;19.0;?
+2759;number;30.0;?
+957;circuit_name;Le Mans;?
+635;number;32.0;?
+1387;shortname;MAL;?
+2689;team_name;Red Bull KTM Tech 3;?
+2113;bike_name;Aprilia;?
+1279;shortname;GER;?
+1568;team_name;Blusens Avintia;?
+1097;rider;2058;2058
+1910;team_name;Monster Energy Yamaha MotoGP;?
+2523;circuit_name;Le Mans;?
+624;points;16;?
+2339;year;2010;?
+1720;points;13;?
+358;team_name;SIC58 Squadra Corse;?
+1414;rider;2015;2015
+2956;team_name;RBA BOE Skull Rider;?
+2998;shortname;CZE;?
+112;position;3;2
+721;shortname;VAL;?
+2920;team_name;Repsol Honda Team;?
+53;shortname;SPA;SPA
+2810;year;2016;?
+1778;year;2007;?
+805;category;Moto3;?
+1240;bike_name;Kalex;?
+2648;circuit_name;Assen;?
+2261;rider_name;Baldassarri Lorenzo;Baldassarri Lorenzo
+520;team_name;Inde Aspar Team Moto2;?
+1409;country;IT;IT
+1564;points;20;?
+959;position;3;2
+283;shortname;RSM;RSM
+2284;category;MotoGP;?
+1224;circuit_name;Sachsenring;?
+1017;year;2021;?
+1550;bike_name;Gilera;?
+1099;country;IT;IT
+1137;year;2016;?
+2968;country;FR;FR
+1301;rider;2032;2032
+956;bike_name;Aprilia;?
+1687;rider;2468;?
+2387;rider;2052;2052
+137;rider;2055;2055
+262;rider_name;Gardner Remy;Gardner Remy
+1671;category;Moto2;?
+818;rider;2015;2015
+875;country;ES;ES
+2859;bike_name;Suzuki;?
+2964;position;4;4
+2112;bike_name;Speed Up;?
+1648;position;1;2
+1553;category;Moto3;?
+2046;category;Moto3;?
+1074;rider;2488;2488
+820;category;MotoGP;MotoGP
+815;number;10.0;?
+2274;points;11;?
+1834;position;2;2
+605;team_name;Fiat Yamaha Team;?
+316;team_name;Red Bull KTM GP125;?
+118;rider;2202;2202
+2765;number;46.0;?
+2447;rider;2428;2428
+427;bike_name;KTM;?
+2779;category;Moto3;?
+1146;position;3;2
+528;category;MotoGP;MotoGP
+2946;team_name;Monster Energy Yamaha MotoGP;?
+2613;rider;1981;1981
+2002;category;Moto3;?
+2829;category;MotoE;?
+215;year;2007;?
+2307;shortname;INP;?
+1379;shortname;GBR;?
+2875;points;25;?
+2796;points;11;?
+236;bike_name;KTM;?
+537;bike_name;Kalex;?
+323;points;20;?
+2476;points;13;?
+1269;number;14.0;?
+953;country;IT;IT
+1294;circuit_name;Jerez;?
+1770;rider_name;Ogura Ai;Ogura Ai
+1401;country;IT;IT
+1737;category;MotoGP;?
+1579;rider_name;Bradl Stefan;Bradl Stefan
+1673;category;250cc;?
+2358;rider;2565;?
+921;position;4;5
+1095;circuit_name;Losail;?
+2937;position;3;5
+2559;circuit_name;Ricardo Tormo;?
+2004;circuit_name;Catalunya;?
+1915;rider;2428;?
+2537;position;2;2
+1925;rider_name;Nakagami Takaaki;Nakagami Takaaki
+2836;position;4;4
+305;points;13;?
+574;circuit_name;Spielberg;?
+1546;shortname;USA;?
+2465;rider_name;Luthi Thomas;Luthi Thomas
+1928;rider_name;De Angelis Alex;De Angelis Alex
+2458;number;9.0;?
+1624;rider;2286;2286
+1918;rider_name;Marquez Alex;Marquez Alex
+172;circuit_name;Sepang;?
+1883;country;IT;IT
+2811;country;ES;ES
+208;category;125cc;?
+2076;rider_name;Gadea Sergio;Gadea Sergio
+801;rider;2499;2499
+1601;rider;2488;2488
+617;shortname;VAL;?
+2955;team_name;Bancaja Aspar Team 125cc;?
+2666;circuit_name;Le Mans;?
+2173;category;Moto3;?
+93;circuit_name;Le Mans;Le Mans
+843;position;1;2
+1660;shortname;SPA;?
+2511;bike_name;Suter;?
+1824;bike_name;Ducati;?
+1588;points;25;?
+177;bike_name;Honda;Honda
+1683;circuit_name;Assen;?
+1273;country;ES;ES
+2146;year;2017;?
+816;position;4;5
+863;circuit_name;Sachsenring;?
+2643;rider;2058;2058
+1544;circuit_name;Misano;?
+1783;year;2016;?
+1879;bike_name;Suzuki;?
+1047;country;CH;CH
+212;country;IT;IT
+549;bike_name;Ducati;?
+817;country;SM;SM
+1216;bike_name;KTM;?
+225;year;2019;?
+2754;shortname;CAT;?
+1916;circuit_name;Silverstone;?
+2722;category;MotoGP;?
+2268;position;2;2
+2851;points;25;?
+1812;number;19.0;?
+979;country;ES;ES
+2650;rider;2553;2553
+630;bike_name;Honda;?
+2021;team_name;Ducati Team;?
+742;position;1;2
+1732;year;2010;?
+2697;number;44.0;?
+1957;circuit_name;Assen;?
+1830;rider;2622;2622
+1453;rider;2563;2563
+961;country;CZ;CZ
+517;category;Moto2;Moto2
+2384;number;79.0;?
+1692;points;20;?
+2004;shortname;CAT;?
+25;points;25;?
+221;circuit_name;Donington Park;?
+2905;category;Moto2;?
+2337;circuit_name;Jerez;?
+1146;number;24.0;?
+923;country;ES;ES
+442;year;2016;?
+281;bike_name;Suter;?
+2647;number;93.0;?
+1394;category;125cc;?
+662;category;Moto3;?
+107;category;125cc;125cc
+421;points;16;?
+1473;country;IT;IT
+2911;team_name;Repsol Honda Team;?
+2842;points;25;?
+545;position;4;5
+997;circuit_name;Losail;?
+1411;year;2014;?
+2007;team_name;IDEMITSU Honda Team Asia;?
+2481;points;20;?
+272;number;19.0;?
+2879;category;Moto3;?
+2468;circuit_name;Le Mans;?
+1628;rider_name;Rossi Valentino;Rossi Valentino
+868;bike_name;Honda;?
+2196;year;2017;?
+1598;points;16;?
+2241;year;2021;?
+1338;points;11;?
+2597;bike_name;Yamaha;?
+1888;number;3.0;?
+2761;points;20;?
+1365;rider_name;Cortese Sandro;Cortese Sandro
+1652;category;125cc;?
+379;team_name;Estrella Galicia 00;?
+2933;bike_name;Suter;?
+2512;circuit_name;Assen;?
+1442;rider_name;Marquez Marc;Marquez Marc
+511;country;ES;ES
+1436;year;2021;?
+1625;shortname;AME;?
+1820;category;MotoGP;?
+1099;team_name;Fiat Yamaha Team;?
+2876;points;11;?
+1897;number;4.0;?
+67;country;ES;ES
+2140;circuit_name;Misano;?
+2510;year;2017;?
+1237;number;25.0;?
+2410;rider_name;Marquez Alex;Marquez Alex
+732;year;2019;?
+2415;rider_name;Vinales Maverick;Vinales Maverick
+1833;country;GB;GB
+2002;rider;2259;2259
+621;circuit_name;Assen;?
+928;circuit_name;Misano;?
+448;category;Moto2;?
+301;number;48.0;?
+2115;year;2008;?
+562;bike_name;Ducati;?
+2251;category;MotoGP;?
+1664;year;2017;?
+1108;points;25;?
+1793;team_name;Monster Yamaha Tech 3;?
+2091;category;Moto2;?
+1464;points;20;?
+797;circuit_name;Brno;?
+399;number;4.0;?
+2534;position;2;2
+883;rider_name;Vietti Celestino;Vietti Celestino
+1054;rider_name;Dovizioso Andrea;Dovizioso Andrea
+1590;rider;2218;2218
+1557;rider_name;Rossi Valentino;Rossi Valentino
+1899;bike_name;Ducati;?
+346;country;IT;IT
+2526;shortname;QAT;?
+1659;points;20;?
+1165;circuit_name;Losail;?
+2885;rider_name;Stoner Casey;Stoner Casey
+2244;category;MotoGP;?
+1680;year;2008;?
+1936;points;13;?
+1724;year;2019;?
+2526;position;5;3
+1586;position;4;5
+2376;year;2014;?
+494;rider;2037;2037
+2815;number;48.0;?
+2610;team_name;Marc VDS Racing Team;?
+756;shortname;FRA;?
+2748;team_name;Avintia Esponsorama Racing;?
+1226;bike_name;Suzuki;?
+2709;country;ES;ES
+2559;country;FR;FR
+682;number;99.0;?
+628;number;5.0;?
+454;category;125cc;?
+2181;number;93.0;?
+2043;circuit_name;Laguna Seca;?
+173;position;5;5
+2426;number;55.0;?
+2529;rider;2284;2284
+727;country;ES;ES
+1061;category;125cc;?
+348;country;ES;ES
+598;shortname;GER;?
+2256;year;2020;?
+1497;rider;2475;2475
+1271;year;2019;?
+192;rider;2567;2567
+84;bike_name;Yamaha;Yamaha
+2078;number;12.0;?
+2508;category;MotoGP;?
+1111;country;DE;DE
+1479;team_name;Bancaja Aspar Team;?
+662;country;DE;DE
+1288;rider_name;Pasini Mattia;Pasini Mattia
+422;points;13;?
+755;bike_name;Honda;?
+1287;bike_name;Yamaha;?
+2500;country;ES;ES
+1635;rider;2103;?
+2269;rider;2532;2532
+1323;number;14.0;?
+1545;rider;2218;2218
+1433;circuit_name;Ricardo Tormo;?
+1295;position;1;2
+1245;category;Moto3;?
+1931;points;25;?
+1886;category;125cc;?
+2044;rider_name;Migno Andrea;Migno Andrea
+1985;number;14.0;?
+281;shortname;NED;?
+2005;circuit_name;Assen;?
+1222;year;2007;?
+1853;shortname;SPA;?
+1361;rider;2015;2015
+1608;team_name;Tuenti HP 40;?
+1719;rider;2015;2015
+2446;country;IT;IT
+859;year;2013;?
+1018;shortname;VAL;?
+1701;rider;2064;2064
+2664;circuit_name;Catalunya;?
+2916;country;ES;ES
+1079;team_name;Master - MVA Aspar Team;?
+58;position;1;2
+2715;position;1;2
+1316;shortname;NED;?
+1625;country;ES;ES
+982;team_name;Ajo Motorsport;?
+942;points;20;?
+2640;number;93.0;?
+476;year;2010;?
+1702;bike_name;Aprilia;?
+781;rider;1762;1762
+579;rider_name;Lorenzo Jorge;Lorenzo Jorge
+190;shortname;THA;?
+1144;circuit_name;Ricardo Tormo;?
+1074;position;3;2
+2144;points;13;?
+371;position;1;2
+942;number;63.0;?
+268;shortname;CAT;?
+1170;shortname;ARG;?
+1069;year;2014;?
+2201;year;2012;?
+2655;team_name;Elit Grand Prix;?
+1535;bike_name;Honda;?
+1768;category;125cc;?
+2557;bike_name;Honda;?
+1351;rider;2587;2587
+2224;bike_name;Honda;?
+1221;category;Moto2;?
+1624;bike_name;Yamaha;?
+2185;year;2007;?
+1941;position;4;5
+2379;year;2016;?
+759;position;1;2
+1305;circuit_name;Le Mans;?
+2284;bike_name;Honda;?
+2371;category;125cc;?
+1838;circuit_name;Sepang;?
+1376;number;93.0;?
+1895;bike_name;Aprilia;?
+1313;rider;2470;2470
+252;category;Moto3;Moto3
+1521;year;2021;?
+400;bike_name;KTM;?
+1955;bike_name;FTR Honda;?
+1699;number;1.0;?
+2125;rider;2016;2016
+2889;team_name;Repsol Honda Team;?
+2926;bike_name;Aprilia;?
+39;year;2007;?
+382;country;ES;ES
+457;points;13;?
+651;year;2020;?
+752;number;5.0;?
+2183;circuit_name;Indianapolis;?
+16;shortname;ARA;ARA
+820;position;1;2
+115;team_name;EG 00 Marc VDS;EG 00 Marc VDS
+2149;position;5;5
+1887;year;2010;?
+1131;position;1;2
+2463;bike_name;Honda;?
+890;points;16;?
+2203;category;125cc;?
+1487;team_name;Team SUZUKI ECSTAR;?
+302;rider;2016;2016
+2358;position;4;5
+1087;points;11;?
+1468;year;2013;?
+2459;rider_name;Simoncelli Marco;Simoncelli Marco
+2716;team_name;Dynavolt Intact GP;?
+1645;category;Moto3;?
+1796;year;2009;?
+1410;team_name;Derendinger Racing Interwetten;?
+860;rider_name;Fernandez Raul;Fernandez Raul
+1247;category;Moto2;?
+246;circuit_name;Buriram;?
+2764;category;MotoGP;?
+1510;position;4;5
+1568;circuit_name;Ricardo Tormo;?
+2332;number;52.0;?
+2418;category;Moto2;?
+1036;category;MotoGP;?
+1827;shortname;MAL;?
+499;position;2;2
+1476;year;2010;?
+298;shortname;INP;INP
+1278;rider_name;Rossi Valentino;Rossi Valentino
+107;shortname;POR;POR
+2358;rider_name;Binder Darryn;?
+2967;number;3.0;?
+2878;country;GB;GB
+1664;circuit_name;Rio Hondo;?
+2974;category;Moto2;?
+2811;circuit_name;Ricardo Tormo;?
+2033;number;21.0;?
+2407;shortname;TUR;?
+172;bike_name;Ducati;Ducati
+527;team_name;Aspar Team Moto2;?
+312;circuit_name;Brno;?
+1129;bike_name;Aprilia;?
+1915;number;12.0;?
+2897;bike_name;FTR;?
+1837;shortname;VAL;?
+1876;points;20;?
+390;number;44.0;?
+2780;category;Moto2;?
+1100;country;ES;ES
+814;circuit_name;Phillip Island;?
+317;rider_name;Cortese Sandro;Cortese Sandro
+2307;country;ES;ES
+1937;bike_name;Aprilia;?
+483;bike_name;Kalex KTM;?
+2414;rider;2055;2055
+761;position;2;2
+757;year;2020;?
+788;shortname;VAL;?
+774;points;20;?
+1737;team_name;Movistar Yamaha MotoGP;?
+1138;circuit_name;Motegi;?
+1986;bike_name;Energica;?
+1874;category;MotoGP;?
+412;year;2011;?
+2372;circuit_name;Jerez;?
+822;team_name;Red Bull KTM Ajo;?
+1854;shortname;ARA;?
+764;country;IT;IT
+378;number;55.0;?
+1426;rider;1915;?
+2978;circuit_name;Sachsenring;?
+812;circuit_name;Sachsenring;?
+1799;shortname;AUS;?
+1480;shortname;INP;?
+624;year;2013;?
+959;rider_name;Di Giannantonio Fabio;Di Giannantonio Fabio
+1075;rider;2052;2052
+1252;number;14.0;?
+1005;category;Moto2;?
+1115;year;2006;?
+819;circuit_name;Le Mans;?
+2317;rider_name;Bradl Stefan;Bradl Stefan
+605;rider;1762;1762
+1999;circuit_name;Aragon;?
+40;country;IT;IT
+1666;number;71.0;?
+1584;rider_name;Simon Julian;Simon Julian
+245;circuit_name;Texas;?
+1095;category;MotoGP;?
+2283;shortname;TUR;?
+1932;points;13;?
+1844;rider_name;Pasini Mattia;Pasini Mattia
+2268;country;JP;JP
+2950;team_name;Monster Energy Yamaha MotoGP;?
+2850;circuit_name;Misano;?
+1999;position;2;2
+878;team_name;Viessmann Kiefer Racing;?
+345;bike_name;Honda;?
+903;year;2020;?
+2849;rider_name;Cortese Sandro;Cortese Sandro
+2837;rider;2015;2015
+869;circuit_name;Losail;?
+696;bike_name;Yamaha;?
+1942;team_name;Team Catalunya Caixa Repsol;?
+517;points;11;?
+1941;year;2005;?
+817;category;250cc;?
+870;category;Moto3;?
+2892;rider_name;Quartararo Fabio;Quartararo Fabio
+2798;circuit_name;Brno;?
+566;bike_name;KTM;?
+2960;bike_name;Honda;?
+1367;rider;2574;2574
+40;bike_name;Yamaha;?
+239;year;2005;?
+491;year;2015;?
+877;position;3;2
+1598;country;ES;ES
+247;position;4;5
+215;rider;1981;1981
+2527;rider;2561;2561
+382;rider_name;Elias Toni;Elias Toni
+1093;circuit_name;Le Mans;?
+2204;position;5;5
+1706;number;5.0;?
+1700;country;ES;ES
+1840;category;MotoGP;?
+1602;rider_name;Vinales Maverick;Vinales Maverick
+1702;points;16;?
+1529;rider_name;Lorenzo Jorge;Lorenzo Jorge
+1490;team_name;Ducati Team;?
+2622;team_name;OCTO Pramac MotoE;?
+188;points;20;20
+1639;category;MotoGP;?
+1979;bike_name;Honda;?
+2259;number;77.0;?
+2908;rider;2288;2288
+2291;shortname;MAL;?
+2156;number;25.0;?
+2221;number;14.0;?
+716;points;25;?
+1056;team_name;Movistar Yamaha MotoGP;?
+1608;position;1;2
+2712;year;2011;?
+835;year;2013;?
+2050;team_name;Del Conca Gresini Moto3;?
+2684;shortname;RSM;?
+2059;position;4;5
+2435;points;20;?
+2068;team_name;Movistar Yamaha MotoGP;?
+835;country;GB;GB
+1891;circuit_name;Catalunya;?
+1827;year;2018;?
+178;category;Moto2;?
+597;country;IT;IT
+36;circuit_name;Jerez;?
+1358;position;5;5
+225;number;21.0;?
+1858;country;PT;PT
+1776;rider_name;Zaccone Alessandro;Zaccone Alessandro
+2112;rider_name;Iannone Andrea;Iannone Andrea
+2791;shortname;THA;?
+2111;number;25.0;?
+1891;category;Moto3;?
+1285;year;2014;?
+369;rider_name;Migno Andrea;Migno Andrea
+932;year;2007;?
+2771;points;11;?
+850;circuit_name;Sepang;?
+1923;category;MotoGP;?
+126;country;GB;GB
+126;position;4;5
+293;category;MotoGP;?
+26;country;IT;IT
+189;number;25.0;?
+689;country;ES;ES
+2816;circuit_name;Assen;?
+2335;year;2010;?
+877;team_name;Nocable.it Race;?
+1133;year;2014;?
+2055;rider_name;Zaccone Alessandro;Zaccone Alessandro
+1219;number;5.0;?
+413;rider;2284;2284
+1609;country;GB;GB
+1008;points;20;?
+1341;rider;2160;2160
+77;circuit_name;Catalunya;?
+1004;position;1;2
+1439;shortname;RSM;?
+2965;team_name;Repsol Honda Team;?
+188;country;ES;ES
+1000;rider_name;Melandri Marco;Melandri Marco
+2179;team_name;VNE Snipers;?
+844;category;Moto2;Moto2
+371;number;21.0;?
+2090;year;2015;?
+641;points;11;?
+1489;country;DE;DE
+1786;team_name;Honda Gresini;?
+2259;category;Moto2;?
+996;year;2006;?
+625;year;2012;?
+2871;number;51.0;?
+781;shortname;ITA;?
+2379;bike_name;Kalex;?
+2117;shortname;CZE;?
+1778;circuit_name;Motegi;?
+2885;number;27.0;?
+742;rider_name;Bagnaia Francesco;Bagnaia Francesco
+1905;circuit_name;Mugello;?
+492;circuit_name;Losail;?
+2290;points;25;?
+2150;points;11;?
+2506;number;1.0;?
+964;year;2005;?
+2079;bike_name;Kalex;?
+974;number;69.0;?
+2367;points;25;?
+2341;bike_name;Suter;?
+382;bike_name;Moriwaki;?
+1170;bike_name;Honda;?
+246;points;25;?
+1403;circuit_name;Donington Park;?
+2582;position;1;2
+2940;points;16;?
+2308;rider;2591;2591
+2325;year;2009;?
+2885;country;AU;AU
+198;year;2020;?
+2126;position;2;2
+735;position;3;2
+1498;circuit_name;Ricardo Tormo;?
+660;number;33.0;?
+205;position;3;2
+2383;position;5;5
+1841;year;2013;?
+1076;year;2010;?
+2951;rider;2597;2597
+2042;rider;2330;2330
+1346;bike_name;Aprilia;?
+2417;position;4;4
+869;country;IT;IT
+2447;team_name;Pons HP 40;?
+2220;points;25;?
+2171;bike_name;Kawasaki;?
+544;rider_name;Talmacsi Gabor;Talmacsi Gabor
+379;shortname;MAL;?
+2481;bike_name;Yamaha;?
+2307;bike_name;KTM;?
+1763;team_name;Speed Up Racing;?
+2153;circuit_name;Aragon;?
+756;points;16;?
+1874;bike_name;Yamaha;?
+370;rider;2058;2058
+1337;team_name;Fiat Yamaha Team;?
+1842;shortname;QAT;?
+2105;rider;2015;2015
+208;rider;2004;2004
+1012;team_name;Repsol Honda Team;?
+104;year;2011;?
+537;rider;2245;?
+1451;points;20;?
+2831;bike_name;Yamaha;?
+770;country;IT;IT
+2833;team_name;RW Racing GP;?
+970;category;250cc;?
+281;points;11;?
+82;circuit_name;Sepang;?
+559;number;33.0;?
+2717;number;46.0;?
+776;year;2019;?
+1696;rider;2475;2475
+1541;circuit_name;Jerez;?
+1345;team_name;Repsol Honda Team;?
+1436;circuit_name;Spielberg;?
+418;position;4;5
+870;rider;2315;2315
+762;number;4.0;?
+1257;position;5;5
+240;position;5;5
+2414;country;IT;IT
+153;rider;2315;2315
+1466;team_name;Paginas Amarillas HP 40;?
+454;country;ES;ES
+2695;category;125cc;?
+2611;position;3;4
+2479;rider;2055;2055
+453;team_name;Derendinger Racing Interwetten;?
+2908;year;2008;?
+693;position;1;2
+14;category;Moto2;Moto2
+391;rider_name;Marquez Marc;Marquez Marc
+334;circuit_name;Spielberg;?
+1538;rider_name;Dalla Porta Lorenzo;Dalla Porta Lorenzo
+2658;position;4;3
+2374;number;8.0;?
+2302;country;CZ;CZ
+141;country;IT;IT
+1835;rider_name;Nakagami Takaaki;Nakagami Takaaki
+2235;bike_name;Yamaha;?
+838;number;46.0;?
+2215;shortname;SPA;?
+265;points;25;?
+615;country;IT;IT
+1721;number;27.0;?
+1377;bike_name;Speed Up;?
+2736;points;11;?
+1038;number;60.0;?
+2638;shortname;ARA;?
+2267;year;2007;?
+36;bike_name;Honda;Honda
+2036;rider_name;Iannone Andrea;Iannone Andrea
+666;country;ES;ES
+2694;position;2;1
+2672;team_name;Repsol Honda Team;?
+2307;points;25;?
+515;shortname;JPN;?
+1091;year;2019;?
+2490;team_name;Ducati Marlboro Team;?
+2256;team_name;Red Bull KTM Factory Racing;?
+1117;team_name;Estrella Galicia 00;?
+1197;position;4;5
+1626;category;MotoGP;?
+674;year;2019;?
+2233;shortname;AUS;?
+2008;rider;2245;2245
+721;year;2018;?
+2278;number;39.0;?
+248;position;5;5
+35;category;125cc;Moto2
+2109;points;25;?
+1513;position;5;5
+2019;points;25;?
+2751;position;5;5
+2490;points;20;?
+2509;number;1.0;?
+1624;position;5;5
+1745;category;125cc;?
+1328;position;1;2
+1852;circuit_name;Sachsenring;?
+510;position;4;5
+1231;team_name;SKY Racing Team VR46;?
+690;rider_name;Migno Andrea;Migno Andrea
+375;team_name;Ducati Team;?
+2798;position;2;3
+725;points;25;?
+1923;shortname;MAL;?
+442;points;11;?
+588;rider;2055;2055
+1025;team_name;Marc VDS Racing Team;?

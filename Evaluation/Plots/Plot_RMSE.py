@@ -98,8 +98,8 @@ def plot_rmse_results(datasets, ncols=2):
 
 
 # Esempio di utilizzo
-filepath = '../ALL_Results_v2.csv'  # Modifica con il percorso del tuo CSV
-selected_datasets = ['Boeing_898', 'actorfilms_4000', 'restaurant', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', 'cars', "superstore_4500", "police"]  # Aggiungi altri dataset qui
+filepath = '../ALL_Results_v3.csv'  # Modifica con il percorso del tuo CSV
+selected_datasets = ['Boeing_898', 'actorfilms_4000', 'restaurant', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', 'cars', "superstore_4500", "police", "IoT_Telemetry3000", "F1_REBUILT_5000", "Statlog_270", "Cleveland", "bikes_4100"]  # Aggiungi altri dataset qui
 datasets = load_rmse_data(filepath, selected_datasets)  # Carica i dati RMSE
 print(datasets)
-plot_rmse_results(datasets, ncols=3)  # Mostra i risultati, specificando il numero di colonne
+plot_rmse_results(datasets, ncols=5)  # Mostra i risultati, specificando il numero di colonne
