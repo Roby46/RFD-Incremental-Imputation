@@ -1,7 +1,5 @@
 import os
 
-from keras.src.applications.resnet_rs import fixed_padding
-
 
 def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?", 10, 80, 2.5, 2.5, 1, 2, 2, 3, 3, 3, 20, 10] #EV_Vehicles
@@ -93,7 +91,8 @@ reevaluation=False #solo per la pipeline. Per i baseline ed il generator non imp
 #missing_values = [350, 700, 1050, 1400,1750, 3500, 7000, 10500, 14000, 17500] # F1 REBUILT 5000
 #missing_values = [42, 83, 125, 166,208, 416, 832, 1247, 1663, 2079] # Cleveland
 #missing_values = [38,76,113,151,189,378,756,1134,1512,1890] # Statlog
-missing_values  = [360,720,1080,1440,1800,3600,7200,10800,14400,18000 ] #MOTOGP 3000
+missing_values  = [360,720,1080,1440,1800,3600,7200,10800,14400,18000] #MOTOGP 3000
+
 
 print(algoritmo)
 
