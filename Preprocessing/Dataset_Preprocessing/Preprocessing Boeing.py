@@ -36,6 +36,7 @@ def clean_data(text):
     text = text.replace('""', '')  # Rimuove i doppi apici doppi
     text = text.replace(',', '')   # Rimuove le virgole
     text = text.replace('"', '')   # Rimuove i doppi apici singoli
+
     return text
 
 # Applica la funzione di pulizia a tutte le colonne di tipo object (stringa)
