@@ -25,7 +25,8 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?", 7, 100, 0.5, 2, 0.5, 0.5, 0.5, 0.5, 0.5] #F1_REBUILT_5000 100-1000
     #fixed_params = [";", "?", 14, 6, 3, 0.5, 1, 4, 5, 0.5, 0.5, 5, 0.5, 1, 1, 1, 1.5, 1] #Cleveland
     #fixed_params = [";","?",14,5,3,0.5,1,3,3,0.5,0.5,3,0.5,0.5,1,1,1,0.5] #Statlog 5-54
-    fixed_params = [";", "?", 12, 60, 2, 0, 1, 3, 2, 5, 6, 4, 2, 5, 0, 0]  # MotoGP
+    #fixed_params = [";", "?", 12, 60, 2, 0, 1, 3, 2, 5, 6, 4, 2, 5, 0, 0]  # MotoGP
+    fixed_params = [";", "?", 12, 100, 0.5, 1, 2, 1, 0.5, 1, 3, 500, 500, 500, 0.5, 2] #Med_Ch
 
     command_strings = []
 
@@ -55,7 +56,7 @@ def generate_launch_file(dataset_name, command_string, template, output_dir, ree
 
 
 #dataset = "EV_Vehicles_4000"  # Change dataset name as needed
-dataset = "MotoGP_REBUILT_3000"
+dataset = "Med_Ch_5000"
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
 heap_size_gb=64
@@ -64,7 +65,7 @@ heap_size_gb=64
 algoritmo="Pipeline"
 #algoritmo="RFD_Generator"
 #algoritmo="Baseline"
-reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
+reevaluation=True #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
 # Number of missing values
 #missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
@@ -91,8 +92,8 @@ reevaluation=False #solo per la pipeline. Per i baseline ed il generator non imp
 #missing_values = [350, 700, 1050, 1400,1750, 3500, 7000, 10500, 14000, 17500] # F1 REBUILT 5000
 #missing_values = [42, 83, 125, 166,208, 416, 832, 1247, 1663, 2079] # Cleveland
 #missing_values = [38,76,113,151,189,378,756,1134,1512,1890] # Statlog
-missing_values  = [360,720,1080,1440,1800,3600,7200,10800,14400,18000] #MOTOGP 3000
-
+#missing_values  = [360,720,1080,1440,1800,3600,7200,10800,14400,18000] #MOTOGP 3000
+missing_values = [600,1200,1800,2400,3000,6000,12000,18000,24000,30000] #Med_Ch
 
 print(algoritmo)
 

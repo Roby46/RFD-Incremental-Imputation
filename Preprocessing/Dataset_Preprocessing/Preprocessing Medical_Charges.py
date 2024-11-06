@@ -49,7 +49,7 @@ def clean_data(text):
 for col in df.select_dtypes(include='object').columns:
     df[col] = df[col].apply(clean_data)
 
-df=df.sample(5000)
+df=df.sample(2500)
 
 # Salva il DataFrame pulito in un file CSV (decommenta per salvare)
 df.to_csv(f"../../Datasets/Preprocessed_Datasets/Med_Ch_{len(df)}.csv", sep=';', index=None, encoding='ascii')
