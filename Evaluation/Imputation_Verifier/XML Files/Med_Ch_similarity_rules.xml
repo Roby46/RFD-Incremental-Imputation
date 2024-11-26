@@ -1,0 +1,14 @@
+<similarity_rules>
+    <attr name="total_discharges" type="delta">
+        <value>1</value>
+    </attr>
+    <attr name="average_covered_charges" type="delta">
+        <value>10</value>
+    </attr>
+    <attr name="average_total_payments" type="delta">
+        <value>10</value>
+    </attr>
+    <attr name="average_medicare_payments" type="delta">
+        <value>10</value>
+    </attr>
+</similarity_rules>

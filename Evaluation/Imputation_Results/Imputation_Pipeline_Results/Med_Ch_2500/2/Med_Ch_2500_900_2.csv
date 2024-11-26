@@ -1,0 +1,901 @@
+riga;nome attributo;valore da imputare;valore imputato
+518;provider_name;UNIVERSITY OF TOLEDO MEDICAL CENTER;?
+1058;provider_street_address;1404 EAST SECOND STREET;?
+443;provider_id;220082;?
+362;average_medicare_payments;8830.0;?
+479;average_covered_charges;26668.0;?
+172;provider_state;NJ;NJ
+1176;codice;690;?
+889;provider_state;OH;OH
+682;provider_city;SUN CITY WEST;SUN CITY WEST
+658;total_discharges;21;?
+981;provider_city;WARNER ROBINS;?
+1717;hospital_referral_region_(hrr)_description;TX - Dallas;TX - Dallas
+155;provider_name;SPARKS REGIONAL MEDICAL CENTER;SPARKS REGIONAL MEDICAL CENTER
+183;provider_id;140018;140018
+1652;average_covered_charges;13594.0;?
+1271;average_total_payments;5892.0;?
+216;provider_street_address;1321 COLBY AVENUE;?
+1489;average_total_payments;10299.0;?
+2065;average_total_payments;7559.0;?
+847;descrizione;OTHER DIGESTIVE SYSTEM DIAGNOSES W CC;OTHER DIGESTIVE SYSTEM DIAGNOSES W CC
+127;average_covered_charges;23930.0;?
+430;hospital_referral_region_(hrr)_description;TX - Fort Worth;TX - Fort Worth
+729;codice;313;?
+2051;provider_name;EVANGELICAL COMMUNITY HOSPITAL;?
+1406;provider_street_address;1000 EAST WASHINGTON STREET;1000 EAST WASHINGTON STREET
+486;descrizione;DEGENERATIVE NERVOUS SYSTEM DISORDERS WO MCC;?
+1615;provider_name;GREAT RIVER MEDICAL CENTER;GREAT RIVER MEDICAL CENTER
+1050;provider_id;370037;370037
+1907;provider_state;FL;FL
+1907;total_discharges;15;?
+2005;provider_city;CINCINNATI;CINCINNATI
+1453;provider_state;NC;NC
+287;total_discharges;265;?
+2210;provider_name;HEARTLAND REGIONAL MEDICAL CENTER;HEARTLAND REGIONAL MEDICAL CENTER
+931;average_total_payments;4981.0;?
+261;average_total_payments;7034.0;?
+45;provider_name;INDIANA UNIVERSITY HEALTH LA PORTE HOSPITAL;?
+1399;average_total_payments;51874.0;?
+2301;provider_street_address;550 PEACHTREE ST NE;550 PEACHTREE ST NE
+1048;descrizione;CELLULITIS WO MCC;CELLULITIS WO MCC
+1042;provider_id;450035;?
+1895;descrizione;MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W CC;MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W CC
+8;codice;202;?
+2445;provider_id;100035;100035
+2150;provider_city;FORT WORTH;FORT WORTH
+1512;total_discharges;12;?
+1570;hospital_referral_region_(hrr)_description;PA - Philadelphia;PA - Philadelphia
+1172;total_discharges;34;?
+1733;provider_name;METHODIST DALLAS MEDICAL CENTER;METHODIST DALLAS MEDICAL CENTER
+1622;codice;469;?
+168;hospital_referral_region_(hrr)_description;VA - Norfolk;VA - Norfolk
+2062;provider_street_address;800 EAST 28TH STREET;800 EAST 28TH STREET
+1107;provider_id;160013;?
+2341;total_discharges;77;?
+202;average_total_payments;4174.0;?
+893;descrizione;SYNCOPE & COLLAPSE;SYNCOPE & COLLAPSE
+530;codice;313;?
+87;provider_city;FARMINGTON HILL;FARMINGTON HILL
+632;provider_street_address;6601 WHITE FEATHER ROAD;?
+2137;provider_id;140251;?
+1778;provider_street_address;3249 SOUTH OAK PARK AVENUE;?
+1311;average_medicare_payments;3078.0;?
+2372;total_discharges;23;?
+741;average_covered_charges;24913.0;?
+2109;provider_city;GRAND RAPIDS;GRAND RAPIDS
+529;average_medicare_payments;3537.0;?
+1807;average_total_payments;50278.0;?
+81;average_total_payments;4807.0;?
+1504;codice;247;?
+1383;provider_name;WEST HOUSTON MEDICAL CENTER;WEST HOUSTON MEDICAL CENTER
+836;codice;253;?
+343;provider_city;FLORENCE;?
+1247;average_covered_charges;8268.0;?
+392;hospital_referral_region_(hrr)_description;MO - Kansas City;MO - Kansas City
+2229;provider_state;OH;?
+1341;average_total_payments;10307.0;?
+1682;provider_city;SALISBURY;?
+442;total_discharges;83;?
+570;provider_name;ORLANDO HEALTH;ORLANDO HEALTH
+2356;provider_street_address;2333 MCCALLIE AVE;2333 MCCALLIE AVE
+1951;provider_id;80007;80007
+1630;total_discharges;28;?
+91;provider_name;DALLAS REGIONAL MEDICAL CENTER;DALLAS REGIONAL MEDICAL CENTER
+160;provider_city;WASHINGTON;WASHINGTON
+566;average_total_payments;10822.0;?
+1606;provider_id;90003;?
+1158;provider_city;AIEA;?
+1062;provider_name;ST DAVID\S SOUTH AUSTIN MEDICAL CENTER;ST DAVID\S SOUTH AUSTIN MEDICAL CENTER
+768;average_total_payments;6149.0;?
+2088;average_total_payments;10782.0;?
+1123;descrizione;OTHER CIRCULATORY SYSTEM DIAGNOSES W CC;OTHER CIRCULATORY SYSTEM DIAGNOSES W CC
+2417;average_medicare_payments;3321.0;?
+60;provider_id;330044;330044
+647;codice;177;?
+284;average_total_payments;4947.0;?
+2346;total_discharges;22;?
+304;average_total_payments;7945.0;?
+818;provider_city;PLANO;?
+657;hospital_referral_region_(hrr)_description;CT - Bridgeport;?
+1041;codice;65;?
+2361;total_discharges;37;?
+1061;average_covered_charges;26141.0;?
+582;provider_id;250057;?
+2074;average_total_payments;7863.0;?
+250;descrizione;CHRONIC OBSTRUCTIVE PULMONARY DISEASE WO CCMCC;CHRONIC OBSTRUCTIVE PULMONARY DISEASE WO CCMCC
+1205;provider_city;INDIANAPOLIS;INDIANAPOLIS
+1389;provider_street_address;1350 EAST MARKET STREET;1350 EAST MARKET STREET
+2461;average_covered_charges;46656.0;?
+1754;average_covered_charges;20267.0;?
+1064;codice;682;?
+2404;total_discharges;37;?
+134;codice;74;?
+1064;average_medicare_payments;8086.0;?
+1780;provider_city;HYANNIS;HYANNIS
+318;total_discharges;62;?
+91;codice;312;?
+1355;total_discharges;77;?
+818;average_total_payments;5783.0;?
+1851;provider_city;MAYFIELD HEIGHT;MAYFIELD HEIGHT
+535;total_discharges;30;?
+2242;provider_id;510007;510007
+1921;provider_name;NORTHWESTERN MEMORIAL HOSPITAL;NORTHWESTERN MEMORIAL HOSPITAL
+681;codice;390;?
+2043;provider_city;FAIRFAX;FAIRFAX
+655;provider_street_address;500 S STATE HWY 37;?
+858;provider_city;ROCHESTER;ROCHESTER
+2188;total_discharges;16;?
+589;provider_state;MO;MO
+1535;total_discharges;58;?
+1957;average_total_payments;18803.0;?
+1964;average_medicare_payments;7817.0;?
+1748;average_medicare_payments;4277.0;?
+1150;provider_state;KS;?
+1735;descrizione;SYNCOPE & COLLAPSE;SYNCOPE & COLLAPSE
+118;provider_name;CROZER CHESTER MEDICAL CENTER;CROZER CHESTER MEDICAL CENTER
+1911;total_discharges;27;?
+1844;hospital_referral_region_(hrr)_description;TX - San Antonio;TX - San Antonio
+1358;average_total_payments;16535.0;?
+2121;provider_street_address;15TH STREET AT CALIFORNIA;15TH STREET AT CALIFORNIA
+49;provider_id;150008;150008
+79;provider_city;HUNTINGTON;HUNTINGTON
+1128;average_medicare_payments;8537.0;?
+1948;provider_street_address;1111 N RONALD REAGAN PKWY;1111 N RONALD REAGAN PKWY
+2221;descrizione;SEPTICEMIA OR SEVERE SEPSIS WO MV 96+ HOURS WO MCC;SEPTICEMIA OR SEVERE SEPSIS WO MV 96+ HOURS WO MCC
+275;provider_state;CA;CA
+436;provider_city;MCCOMB;?
+957;provider_street_address;475 SEAVIEW AVENUE;475 SEAVIEW AVENUE
+2116;descrizione;RENAL FAILURE W CC;RENAL FAILURE W CC
+1085;provider_street_address;1300 MICCOSUKEE RD;1300 MICCOSUKEE RD
+267;descrizione;PULMONARY EMBOLISM WO MCC;PULMONARY EMBOLISM WO MCC
+983;codice;308;?
+161;average_covered_charges;13902.0;?
+123;average_medicare_payments;64416.0;?
+1861;average_medicare_payments;45107.0;?
+1819;provider_street_address;5000 KENTUCKY RTE 321;5000 KENTUCKY RTE 321
+1182;hospital_referral_region_(hrr)_description;AZ - Phoenix;AZ - Phoenix
+1416;provider_state;MI;MI
+2257;hospital_referral_region_(hrr)_description;MN - Minneapolis;?
+783;average_total_payments;10564.0;?
+1722;descrizione;CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC;CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC
+210;provider_name;UNDERWOOD - MEMORIAL HOSPITAL;UNDERWOOD - MEMORIAL HOSPITAL
+2105;average_covered_charges;12444.0;?
+1648;provider_name;ST VINCENT\S MEDICAL CENTER;ST VINCENT\S MEDICAL CENTER
+43;provider_name;TEXAS HEALTH PRESBYTERIAN HOSPITAL DENTON;?
+1031;provider_street_address;501 SUNSET LANE;?
+113;provider_city;PHILADELPHIA;?
+300;total_discharges;93;?
+562;provider_id;490048;?
+415;total_discharges;14;?
+1934;provider_street_address;1901 SW 172ND AVE;1901 SW 172ND AVE
+251;codice;330;?
+189;average_total_payments;14821.0;?
+1738;hospital_referral_region_(hrr)_description;IL - Evanston;IL - Evanston
+309;codice;194;?
+377;codice;378;?
+1030;descrizione;PULMONARY EMBOLISM WO MCC;PULMONARY EMBOLISM WO MCC
+1309;hospital_referral_region_(hrr)_description;FL - Sarasota;FL - Sarasota
+2448;provider_id;50132;50132
+4;descrizione;INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC;INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC
+2343;provider_street_address;201 STATE STREET;201 STATE STREET
+2288;provider_city;MACON;MACON
+1103;provider_id;390270;390270
+288;average_medicare_payments;8971.0;?
+1676;average_total_payments;10252.0;?
+1606;provider_name;HOWARD UNIVERSITY HOSPITAL;?
+2333;hospital_referral_region_(hrr)_description;MA - Boston;MA - Boston
+1969;hospital_referral_region_(hrr)_description;NY - Albany;NY - Albany
+1994;codice;470;?
+6;average_medicare_payments;5201.0;?
+2219;provider_street_address;700 EAST NORWEGIAN STREET;700 EAST NORWEGIAN STREET
+1955;provider_city;TACOMA;TACOMA
+81;provider_name;MEMORIAL REGIONAL HOSPITAL;MEMORIAL REGIONAL HOSPITAL
+1165;average_covered_charges;13568.0;?
+847;provider_name;PARKRIDGE MEDICAL CENTER;PARKRIDGE MEDICAL CENTER
+2163;codice;66;?
+2424;provider_state;TX;TX
+717;provider_state;PA;?
+291;average_total_payments;8231.0;?
+260;hospital_referral_region_(hrr)_description;UT - Salt Lake City;?
+400;provider_name;CITIZENS MEMORIAL HOSPITAL;?
+1468;provider_name;COMMUNITY HOSPITAL OF ANDERSON AND MADISON COUNTY;COMMUNITY HOSPITAL OF ANDERSON AND MADISON COUNTY
+17;provider_name;CENTURA HEALTH-PORTER ADVENTIST HOSPITAL;?
+2231;average_covered_charges;23050.0;?
+1004;provider_street_address;155 5TH STREET N E;?
+609;hospital_referral_region_(hrr)_description;MI - Dearborn;MI - Dearborn
+1988;average_covered_charges;15675.0;?
+2276;descrizione;SEIZURES WO MCC;SEIZURES WO MCC
+970;average_total_payments;9534.0;?
+688;descrizione;PULMONARY EDEMA & RESPIRATORY FAILURE;PULMONARY EDEMA & RESPIRATORY FAILURE
+926;descrizione;MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WO MCC;MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WO MCC
+2073;provider_id;360179;?
+2125;codice;812;?
+494;hospital_referral_region_(hrr)_description;OH - Elyria;OH - Elyria
+2186;provider_state;MD;DC
+84;provider_street_address;BOX 196604;BOX 196604
+2230;provider_street_address;615 NEW BALLAS ROAD;615 NEW BALLAS ROAD
+1125;average_covered_charges;100511.0;?
+776;provider_name;ROCKINGHAM MEMORIAL HOSPITAL;?
+420;average_total_payments;31320.0;?
+2016;average_medicare_payments;5175.0;?
+1031;total_discharges;23;?
+817;provider_id;490045;490045
+1933;provider_street_address;12303 DEPAUL DRIVE;12303 DEPAUL DRIVE
+267;provider_city;TUCSON;?
+2221;total_discharges;31;?
+518;hospital_referral_region_(hrr)_description;OH - Toledo;?
+437;descrizione;G--I-- HEMORRHAGE W CC;G--I-- HEMORRHAGE W CC
+2146;hospital_referral_region_(hrr)_description;TX - Fort Worth;?
+1066;hospital_referral_region_(hrr)_description;PA - Philadelphia;?
+1599;average_medicare_payments;8378.0;?
+204;total_discharges;20;?
+1021;codice;603;?
+1089;provider_id;50300;50300
+1773;provider_city;HOBART;?
+1308;total_discharges;17;?
+726;average_total_payments;6821.0;?
+1059;provider_city;ELK GROVE VILLA;?
+301;provider_street_address;6245 INKSTER RD;?
+1381;provider_state;OH;?
+2198;average_total_payments;15378.0;?
+1703;average_total_payments;6892.0;?
+458;average_medicare_payments;11733.0;?
+1461;provider_street_address;3950 AUSTELL RD;3950 AUSTELL RD
+245;hospital_referral_region_(hrr)_description;TX - Longview;TX - Longview
+2430;provider_name;SPRING VALLEY HOSPITAL MEDICAL CENTER;?
+2011;provider_id;450007;450007
+571;codice;305;?
+824;average_total_payments;10869.0;?
+1830;codice;251;?
+2035;provider_city;ATHENS;?
+893;provider_street_address;28400 MCCALL B0ULEVARD;28400 MCCALL B0ULEVARD
+430;descrizione;PERIPHERAL VASCULAR DISORDERS W CC;PERIPHERAL VASCULAR DISORDERS W CC
+1027;descrizione;G--I-- OBSTRUCTION WO CCMCC;G--I-- OBSTRUCTION WO CCMCC
+1896;average_covered_charges;12315.0;?
+802;codice;482;?
+337;hospital_referral_region_(hrr)_description;CA - San Bernardino;?
+1880;provider_street_address;455 TOLL GATE RD;455 TOLL GATE RD
+1436;codice;291;?
+2025;hospital_referral_region_(hrr)_description;CA - Los Angeles;CA - Los Angeles
+452;provider_city;LAFAYETTE;LAFAYETTE
+282;descrizione;PERC CARDIOVASC PROC W DRUG-ELUTING STENT WO MCC;PERC CARDIOVASC PROC W DRUG-ELUTING STENT WO MCC
+153;average_medicare_payments;2336.0;?
+2249;provider_street_address;38600 MEDICAL CENTER DRIVE;?
+1012;hospital_referral_region_(hrr)_description;ME - Portland;?
+1038;average_medicare_payments;6997.0;6756.0
+610;descrizione;INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC;INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC
+1401;average_covered_charges;34630.0;?
+2212;provider_id;310075;310075
+2393;descrizione;INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC;INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC
+916;provider_name;RIVERSIDE METHODIST HOSPITAL;RIVERSIDE METHODIST HOSPITAL
+502;provider_id;450051;450051
+1057;provider_city;BOONE;?
+2491;average_medicare_payments;8364.0;?
+1172;descrizione;PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT WO MCC;PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT WO MCC
+213;provider_state;SD;SD
+2224;average_covered_charges;10652.0;?
+34;hospital_referral_region_(hrr)_description;VA - Newport News;VA - Newport News
+868;provider_street_address;1411 BADDOUR PARKWAY;1411 BADDOUR PARKWAY
+724;average_total_payments;5023.0;?
+532;provider_street_address;7950 W JEFFERSON BLVD;7950 W JEFFERSON BLVD
+1483;provider_id;190053;?
+1752;descrizione;DEGENERATIVE NERVOUS SYSTEM DISORDERS WO MCC;DEGENERATIVE NERVOUS SYSTEM DISORDERS WO MCC
+26;total_discharges;40;?
+845;average_covered_charges;20778.0;?
+2054;average_covered_charges;55428.0;?
+535;average_covered_charges;12269.0;?
+77;total_discharges;55;?
+1499;average_covered_charges;8136.0;?
+1691;provider_state;WA;WA
+776;average_covered_charges;10224.0;?
+2190;descrizione;RENAL FAILURE W MCC;RENAL FAILURE W MCC
+217;provider_city;OAK PARK;OAK PARK
+626;provider_street_address;3300 GALLOWS RD;?
+1467;provider_name;JOHN D ARCHBOLD MEMORIAL HOSPITAL;JOHN D ARCHBOLD MEMORIAL HOSPITAL
+1365;provider_name;GOOD SAMARITAN HOSPITAL OF SUFFERN;GOOD SAMARITAN HOSPITAL OF SUFFERN
+448;provider_name;GENESIS HEALTHCARE SYSTEM;GENESIS HEALTHCARE SYSTEM
+863;average_covered_charges;12193.0;?
+2007;hospital_referral_region_(hrr)_description;MD - Baltimore;MD - Baltimore
+936;average_total_payments;7834.0;?
+2047;descrizione;KIDNEY & URINARY TRACT INFECTIONS WO MCC;KIDNEY & URINARY TRACT INFECTIONS WO MCC
+1336;provider_city;HATTIESBURG;?
+754;codice;812;?
+2072;provider_city;DURHAM;DURHAM
+557;descrizione;HEART FAILURE & SHOCK W CC;HEART FAILURE & SHOCK W CC
+297;provider_id;220070;220070
+517;hospital_referral_region_(hrr)_description;OR - Portland;OR - Portland
+1140;hospital_referral_region_(hrr)_description;ME - Bangor;ME - Bangor
+2271;descrizione;PULMONARY EDEMA & RESPIRATORY FAILURE;?
+614;provider_state;FL;?
+128;descrizione;SIMPLE PNEUMONIA & PLEURISY W CC;SIMPLE PNEUMONIA & PLEURISY W CC
+968;average_medicare_payments;5336.0;?
+1857;provider_city;CHICAGO;?
+482;average_medicare_payments;5535.0;?
+632;average_medicare_payments;7488.0;?
+1460;provider_id;450079;450079
+263;total_discharges;25;?
+1036;average_medicare_payments;11466.0;?
+577;codice;247;?
+957;average_total_payments;30484.0;?
+2253;provider_id;190111;190111
+1183;average_medicare_payments;18960.0;?
+870;provider_street_address;707 14TH ST;?
+2403;provider_name;GADSDEN REGIONAL MEDICAL CENTER;?
+782;average_total_payments;7785.0;?
+704;average_total_payments;5561.0;?
+1196;provider_state;OR;?
+36;provider_id;450229;450229
+1063;total_discharges;17;?
+151;provider_city;SAINT AUGUSTINE;SAINT AUGUSTINE
+2462;provider_street_address;800 EAST 28TH STREET;800 EAST 28TH STREET
+590;provider_street_address;250 COLLEGE AVENUE;250 COLLEGE AVENUE
+2264;average_medicare_payments;7331.0;?
+679;average_medicare_payments;9984.0;?
+1964;provider_id;330057;330057
+307;codice;872;?
+196;average_total_payments;6474.0;?
+481;hospital_referral_region_(hrr)_description;NC - Charlotte;NC - Charlotte
+486;codice;57;?
+1142;provider_id;70007;70007
+349;total_discharges;33;?
+703;hospital_referral_region_(hrr)_description;IA - Davenport;IA - Davenport
+2020;average_covered_charges;17120.0;?
+1775;provider_name;JOHN MUIR MEDICAL CENTER - CONCORD CAMPUS;JOHN MUIR MEDICAL CENTER - CONCORD CAMPUS
+1649;codice;552;?
+1433;descrizione;SIGNS & SYMPTOMS WO MCC;SIGNS & SYMPTOMS WO MCC
+1217;descrizione;SEIZURES WO MCC;SEIZURES WO MCC
+2251;provider_state;IL;IL
+2297;average_total_payments;6495.0;?
+848;provider_name;ST MARY\S REGIONAL MEDICAL CENTER;?
+711;provider_name;ST ANTHONY HOSPITAL;ST ANTHONY HOSPITAL
+495;average_total_payments;9487.0;?
+1408;hospital_referral_region_(hrr)_description;CA - Bakersfield;CA - Bakersfield
+2498;average_medicare_payments;3608.0;?
+2047;provider_id;490012;490012
+250;average_medicare_payments;3143.0;?
+343;provider_id;420091;?
+1645;total_discharges;71;?
+2365;provider_id;350011;?
+2047;provider_state;VA;VA
+2239;average_medicare_payments;8601.0;?
+1420;descrizione;DEGENERATIVE NERVOUS SYSTEM DISORDERS WO MCC;DEGENERATIVE NERVOUS SYSTEM DISORDERS WO MCC
+1188;average_total_payments;44525.0;?
+1962;provider_state;WI;WI
+2293;provider_name;MARION GENERAL HOSPITAL;?
+1666;hospital_referral_region_(hrr)_description;TX - Dallas;?
+75;provider_city;LOUISVILLE;LOUISVILLE
+1783;average_covered_charges;34494.0;?
+938;average_covered_charges;56507.0;?
+1651;provider_id;210015;210015
+462;average_covered_charges;17420.0;?
+1961;average_medicare_payments;4186.0;?
+920;descrizione;CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W MCC;CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W MCC
+1070;provider_name;DOCTORS\  COMMUNITY HOSPITAL;?
+821;provider_city;FLORENCE;FLORENCE
+1865;average_medicare_payments;4525.0;?
+937;descrizione;G--I-- HEMORRHAGE WO CCMCC;G--I-- HEMORRHAGE WO CCMCC
+1359;descrizione;SIMPLE PNEUMONIA & PLEURISY W MCC;SIMPLE PNEUMONIA & PLEURISY W MCC
+1547;average_covered_charges;36632.0;?
+1964;hospital_referral_region_(hrr)_description;NY - Albany;NY - Albany
+2443;average_total_payments;45333.0;?
+1655;provider_id;200019;200019
+2117;hospital_referral_region_(hrr)_description;TX - Dallas;TX - Dallas
+1127;average_medicare_payments;4516.0;?
+1886;average_covered_charges;70336.0;?
+195;codice;202;?
+886;codice;202;?
+2251;descrizione;OTHER CIRCULATORY SYSTEM DIAGNOSES W CC;OTHER CIRCULATORY SYSTEM DIAGNOSES W CC
+794;provider_state;MO;MO
+2142;codice;194;?
+1738;provider_city;EVANSTON;?
+1474;codice;948;?
+1826;descrizione;PERIPHERAL VASCULAR DISORDERS W CC;PERIPHERAL VASCULAR DISORDERS W CC
+1380;hospital_referral_region_(hrr)_description;MO - Columbia;?
+145;provider_street_address;1000 MINERAL POINT AVE;1000 MINERAL POINT AVE
+1511;codice;379;?
+2009;average_medicare_payments;11589.0;?
+820;descrizione;OTHER VASCULAR PROCEDURES W MCC;OTHER VASCULAR PROCEDURES W MCC
+1882;descrizione;MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WO MCC;MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WO MCC
+1659;average_medicare_payments;13412.0;?
+51;provider_city;LIMA;LIMA
+1201;provider_street_address;20 HOSPITAL DRIVE;?
+2348;provider_name;TRMC OF ORANGEBURG & CALHOUN;TRMC OF ORANGEBURG & CALHOUN
+2388;codice;310;?
+2067;provider_city;CHICAGO;CHICAGO
+2198;provider_city;BEAUMONT;BEAUMONT
+1164;provider_name;SOUTH SHORE HOSPITAL;SOUTH SHORE HOSPITAL
+28;descrizione;OTHER VASCULAR PROCEDURES W CC;OTHER VASCULAR PROCEDURES W CC
+1771;average_covered_charges;9374.0;?
+1517;codice;149;?
+2056;average_total_payments;10058.0;?
+1035;descrizione;CELLULITIS WO MCC;CELLULITIS WO MCC
+1866;hospital_referral_region_(hrr)_description;HI - Honolulu;?
+1680;hospital_referral_region_(hrr)_description;DE - Wilmington;DE - Wilmington
+1857;total_discharges;24;?
+2479;codice;309;?
+311;hospital_referral_region_(hrr)_description;CA - San Diego;CA - San Diego
+414;provider_city;WORCESTER;WORCESTER
+107;total_discharges;14;?
+571;provider_name;ST ANTHONY HOSPITAL;ST ANTHONY HOSPITAL
+1992;codice;872;?
+124;hospital_referral_region_(hrr)_description;CT - Hartford;CT - Hartford
+1162;average_total_payments;5974.0;?
+1030;provider_name;BAPTIST HOSPITAL EAST;BAPTIST HOSPITAL EAST
+973;average_total_payments;5627.0;?
+2053;average_covered_charges;41818.0;?
+1058;provider_state;OH;?
+1111;average_medicare_payments;12527.0;?
+2118;average_covered_charges;13975.0;?
+1321;average_total_payments;4596.0;?
+2038;provider_state;NV;?
+2445;provider_street_address;206 2ND ST E;206 2ND ST E
+12;average_medicare_payments;11449.0;?
+110;provider_name;GREAT RIVER MEDICAL CENTER;GREAT RIVER MEDICAL CENTER
+377;average_medicare_payments;7414.0;?
+1692;provider_city;PENSACOLA;PENSACOLA
+1759;provider_city;EVANSTON;?
+1771;descrizione;CRANIAL & PERIPHERAL NERVE DISORDERS WO MCC;CRANIAL & PERIPHERAL NERVE DISORDERS WO MCC
+1728;descrizione;RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <96 HOURS;RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <96 HOURS
+1247;average_medicare_payments;3098.0;?
+2066;average_medicare_payments;22162.0;?
+1079;average_medicare_payments;5114.0;?
+1037;descrizione;PULMONARY EMBOLISM WO MCC;PULMONARY EMBOLISM WO MCC
+2236;codice;377;?
+1782;provider_city;BRONX;?
+587;descrizione;CELLULITIS W MCC;CELLULITIS W MCC
+2453;average_covered_charges;33173.0;?
+857;provider_id;100001;100001
+1968;provider_city;HARTFORD;HARTFORD
+146;average_covered_charges;11521.0;?
+1752;total_discharges;14;?
+1053;provider_id;360002;?
+664;descrizione;CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W CC;CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W CC
+2160;provider_id;230146;230146
+1663;descrizione;HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W CC;HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W CC
+1948;average_covered_charges;26172.0;?
+1126;average_medicare_payments;6130.0;?
+2223;provider_street_address;ONE HAMILTON HEALTH PLACE;ONE HAMILTON HEALTH PLACE
+845;provider_name;CHRISTUS ST CATHERINE HOSPITAL;?
+2481;provider_state;MO;MO
+1333;provider_name;CAROLINAS MED CENTER-MERCY;CAROLINAS MED CENTER-MERCY
+1544;provider_city;PATERSON;PATERSON
+1256;average_total_payments;5931.0;?
+703;descrizione;G--I-- OBSTRUCTION WO CCMCC;G--I-- OBSTRUCTION WO CCMCC
+2109;hospital_referral_region_(hrr)_description;MI - Grand Rapids;MI - Grand Rapids
+1467;average_medicare_payments;4786.0;?
+48;average_covered_charges;47326.0;?
+1371;total_discharges;21;?
+2027;provider_id;330141;330141
+652;provider_city;LEITCHFIELD;?
+160;average_total_payments;5124.0;?
+1700;average_covered_charges;32573.0;?
+100;provider_state;IA;?
+10;provider_name;ST JOSEPH MEDICAL CENTER;?
+1678;average_total_payments;14481.0;?
+1751;provider_street_address;3231 MCMULLEN BOOTH RD;3231 MCMULLEN BOOTH RD
+859;average_total_payments;26932.0;?
+1712;average_covered_charges;49886.0;?
+1976;provider_street_address;1900 SOUTH MAIN STREET;?
+1257;descrizione;POISONING & TOXIC EFFECTS OF DRUGS WO MCC;POISONING & TOXIC EFFECTS OF DRUGS WO MCC
+1932;average_medicare_payments;9542.0;?
+255;provider_name;ERIE COUNTY MEDICAL CENTER;?
+116;provider_street_address;5450 FORT STREET;?
+1112;average_covered_charges;51029.0;?
+509;provider_street_address;433 PLAZA ST;?
+23;provider_street_address;2315 STOCKTON BOULEVARD;2315 STOCKTON BOULEVARD
+1926;average_total_payments;4010.0;?
+2399;provider_street_address;1300 ROANOKE AVENUE;1300 ROANOKE AVENUE
+597;descrizione;SYNCOPE & COLLAPSE;SYNCOPE & COLLAPSE
+231;provider_street_address;2801 ATLANTIC AVE;2801 ATLANTIC AVE
+1492;provider_name;WAYNE MEMORIAL HOSPITAL;?
+791;average_medicare_payments;4572.0;?
+2097;codice;917;?
+38;provider_city;PHILADELPHIA;PHILADELPHIA
+913;average_medicare_payments;2784.0;?
+1825;codice;64;?
+1989;provider_id;260105;260105
+1712;provider_street_address;750 BRUNSWICK AVE;750 BRUNSWICK AVE
+204;hospital_referral_region_(hrr)_description;KY - Louisville;KY - Louisville
+1875;provider_street_address;350 HOSPITAL DRIVE;350 HOSPITAL DRIVE
+405;descrizione;PERMANENT CARDIAC PACEMAKER IMPLANT WO CCMCC;PERMANENT CARDIAC PACEMAKER IMPLANT WO CCMCC
+1029;provider_street_address;1500 SW 1ST AVE;1500 SW 1ST AVE
+1388;total_discharges;13;?
+310;provider_name;UNIVERSITY OF TEXAS MEDICAL BRANCH GAL;?
+561;provider_id;280030;?
+1733;average_total_payments;6582.0;?
+449;hospital_referral_region_(hrr)_description;IL - Elgin;IL - Elgin
+2279;provider_state;PA;?
+2271;codice;189;?
+1505;total_discharges;22;?
+586;hospital_referral_region_(hrr)_description;VA - Roanoke;?
+35;average_covered_charges;10719.0;?
+768;average_medicare_payments;4379.0;?
+687;provider_street_address;800 EAST 28TH STREET;800 EAST 28TH STREET
+590;provider_name;LANCASTER REGIONAL MEDICAL CENTER;LANCASTER REGIONAL MEDICAL CENTER
+2055;provider_name;HOLY CROSS HOSPITAL;HOLY CROSS HOSPITAL
+1530;provider_city;GRENADA;?
+1011;descrizione;MEDICAL BACK PROBLEMS WO MCC;MEDICAL BACK PROBLEMS WO MCC
+2155;provider_state;CT;?
+1751;average_medicare_payments;2817.0;?
+899;provider_state;CA;CA
+849;provider_state;NC;NC
+1882;average_covered_charges;101660.0;?
+1366;descrizione;SIMPLE PNEUMONIA & PLEURISY W MCC;SIMPLE PNEUMONIA & PLEURISY W MCC
+2098;provider_state;IL;IL
+532;provider_name;LUTHERAN HOSPITAL OF INDIANA;LUTHERAN HOSPITAL OF INDIANA
+2033;descrizione;OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC;OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC
+2344;provider_id;520103;520103
+660;provider_city;REDLANDS;?
+1230;descrizione;SEPTICEMIA OR SEVERE SEPSIS WO MV 96+ HOURS WO MCC;SEPTICEMIA OR SEVERE SEPSIS WO MV 96+ HOURS WO MCC
+2025;provider_state;CA;CA
+1788;provider_city;ELKHART;?
+243;hospital_referral_region_(hrr)_description;MI - Royal Oak;MI - Royal Oak
+2463;provider_name;KING\S DAUGHTERS MEDICAL CENTER-BROOKHAVEN;?
+1949;provider_name;NANTICOKE MEMORIAL HOSPITAL;?
+390;codice;193;?
+1234;provider_state;TX;?
+306;provider_city;AVENTURA;AVENTURA
+1954;provider_street_address;15031 RINALDI ST;15031 RINALDI ST
+1622;average_total_payments;22295.0;?
+1112;average_medicare_payments;7130.0;?
+1203;average_medicare_payments;9925.0;?
+1089;provider_street_address;18300 HIGHWAY 18;18300 HIGHWAY 18
+1951;codice;378;?
+1717;average_medicare_payments;5251.0;?
+2169;average_covered_charges;29925.0;?
+2227;codice;315;?
+2007;total_discharges;52;?
+1587;descrizione;RED BLOOD CELL DISORDERS WO MCC;RED BLOOD CELL DISORDERS WO MCC
+1559;provider_id;220035;?
+1400;hospital_referral_region_(hrr)_description;CA - Los Angeles;CA - Los Angeles
+45;hospital_referral_region_(hrr)_description;IN - South Bend;?
+1654;codice;603;?
+229;average_covered_charges;26495.0;?
+2317;average_covered_charges;82195.0;?
+870;provider_id;520057;?
+2123;average_medicare_payments;4546.0;?
+2393;provider_state;GA;GA
+2209;average_medicare_payments;9096.0;?
+1963;average_medicare_payments;6853.0;?
+774;total_discharges;15;?
+2089;codice;689;?
+262;hospital_referral_region_(hrr)_description;OH - Youngstown;?
+2334;provider_state;IL;IL
+2060;total_discharges;19;?
+71;total_discharges;36;?
+3;provider_name;GETTYSBURG HOSPITAL;GETTYSBURG HOSPITAL
+476;provider_city;COLUMBUS;COLUMBUS
+913;average_total_payments;4148.0;?
+1434;codice;690;?
+1916;average_total_payments;20856.0;?
+2119;average_medicare_payments;3085.0;?
+87;provider_id;230151;230151
+1567;provider_name;SANTA CLARA VALLEY MEDICAL CENTER;?
+1133;provider_name;DUKE UNIVERSITY HOSPITAL;DUKE UNIVERSITY HOSPITAL
+1425;average_covered_charges;22125.0;?
+2301;provider_state;GA;GA
+355;codice;309;?
+1653;provider_name;EDWARD HOSPITAL;EDWARD HOSPITAL
+882;provider_name;KOOTENAI MEDICAL CENTER;KOOTENAI MEDICAL CENTER
+869;codice;602;?
+1975;provider_id;110035;110035
+980;provider_name;BAYLOR MEDICAL CENTER AT GARLAND;BAYLOR MEDICAL CENTER AT GARLAND
+1919;total_discharges;52;?
+2203;descrizione;FRACTURES OF HIP & PELVIS WO MCC;FRACTURES OF HIP & PELVIS WO MCC
+2305;average_medicare_payments;7259.0;?
+1922;provider_id;450400;?
+2143;total_discharges;72;?
+2213;total_discharges;28;?
+1583;descrizione;MAJOR SMALL & LARGE BOWEL PROCEDURES W CC;MAJOR SMALL & LARGE BOWEL PROCEDURES W CC
+1285;provider_state;PA;PA
+1524;provider_name;JEWISH HOSPITAL & ST MARY\S HEALTHCARE;JEWISH HOSPITAL & ST MARY\S HEALTHCARE
+982;provider_street_address;3601 W THIRTEEN MILE RD;3601 W THIRTEEN MILE RD
+1665;total_discharges;97;?
+1461;average_medicare_payments;13991.0;?
+514;total_discharges;68;?
+1036;average_covered_charges;109245.0;?
+580;codice;603;?
+959;provider_name;BAPTIST MEDICAL CENTER EAST;BAPTIST MEDICAL CENTER EAST
+831;provider_street_address;12303 DEPAUL DRIVE;12303 DEPAUL DRIVE
+572;average_covered_charges;57744.0;?
+1859;average_total_payments;5538.0;?
+41;total_discharges;14;?
+1416;average_total_payments;18017.0;?
+1265;codice;552;?
+961;total_discharges;36;?
+673;total_discharges;38;?
+564;total_discharges;17;?
+36;provider_city;ABILENE;ABILENE
+592;descrizione;SIMPLE PNEUMONIA & PLEURISY W CC;SIMPLE PNEUMONIA & PLEURISY W CC
+2216;average_medicare_payments;6603.0;?
+1097;provider_state;NY;NY
+266;hospital_referral_region_(hrr)_description;FL - Ocala;FL - Ocala
+2199;average_total_payments;17877.0;?
+2189;provider_name;PARKVIEW REGIONAL MEDICAL CENTER;PARKVIEW REGIONAL MEDICAL CENTER
+1761;provider_street_address;82-68 164TH STREET;?
+206;provider_id;450104;450104
+950;provider_id;230302;230302
+957;descrizione;PERC CARDIOVASC PROC W DRUG-ELUTING STENT W MCC OR 4+ VESSELSSTENTS;PERC CARDIOVASC PROC W DRUG-ELUTING STENT W MCC OR 4+ VESSELSSTENTS
+2418;hospital_referral_region_(hrr)_description;PA - Erie;PA - Erie
+2133;hospital_referral_region_(hrr)_description;AL - Birmingham;?
+2255;hospital_referral_region_(hrr)_description;ME - Portland;ME - Portland
+1320;provider_street_address;202 MAPLEWOOD AVENUE  PO BOX 497;202 MAPLEWOOD AVENUE  PO BOX 497
+1062;codice;194;?
+122;provider_city;BERKELEY;?
+261;provider_name;SCOTT & WHITE MEMORIAL HOSPITAL;SCOTT & WHITE MEMORIAL HOSPITAL
+121;codice;378;?
+703;average_covered_charges;9887.0;?
+597;provider_street_address;1200 B  GALE WILSON BLVD;1200 B  GALE WILSON BLVD
+2296;hospital_referral_region_(hrr)_description;NY - East Long Island;?
+184;provider_id;310015;310015
+1184;provider_street_address;4077 5TH AVE;?
+1011;provider_name;UAMS MEDICAL CENTER;UAMS MEDICAL CENTER
+2103;average_medicare_payments;5707.0;?
+1451;average_medicare_payments;3252.0;?
+1548;descrizione;MAJOR CARDIOVASC PROCEDURES WO MCC;MAJOR CARDIOVASC PROCEDURES WO MCC
+306;average_covered_charges;63069.0;?
+525;provider_name;ST VINCENT INFIRMARY MEDICAL CENTER;?
+620;provider_state;IL;?
+1343;provider_name;PETERSON REGIONAL MEDICAL CENTER;PETERSON REGIONAL MEDICAL CENTER
+1174;hospital_referral_region_(hrr)_description;MO - St-- Louis;MO - St-- Louis
+2209;provider_street_address;64 ROBBINS ST;64 ROBBINS ST
+563;provider_state;FL;?
+1271;provider_street_address;6019 WALNUT GROVE ROAD;6019 WALNUT GROVE ROAD
+2343;average_medicare_payments;9336.0;?
+49;total_discharges;74;?
+2096;provider_name;PROVENA MERCY MEDICAL CENTER;?
+1275;provider_id;100242;?
+1472;average_covered_charges;22534.0;?
+199;average_medicare_payments;5079.0;?
+495;provider_city;FORT WORTH;FORT WORTH
+710;provider_id;670004;?
+1743;provider_id;340115;340115
+1476;hospital_referral_region_(hrr)_description;NY - Buffalo;?
+447;descrizione;G--I-- HEMORRHAGE WO CCMCC;G--I-- HEMORRHAGE WO CCMCC
+2331;provider_id;440049;440049
+1503;provider_state;PA;PA
+1199;average_total_payments;3905.0;?
+1536;average_total_payments;5470.0;?
+22;provider_street_address;1105 SIXTH STREET;1105 SIXTH STREET
+1775;total_discharges;30;?
+1407;descrizione;RED BLOOD CELL DISORDERS WO MCC;RED BLOOD CELL DISORDERS WO MCC
+1006;provider_name;DANBURY HOSPITAL;DANBURY HOSPITAL
+645;provider_city;FRESNO;FRESNO
+2377;provider_name;RAULERSON HOSPITAL;?
+86;descrizione;KIDNEY & URINARY TRACT INFECTIONS WO MCC;KIDNEY & URINARY TRACT INFECTIONS WO MCC
+1561;provider_street_address;201 SETON PARKWAY;201 SETON PARKWAY
+1628;hospital_referral_region_(hrr)_description;WI - Milwaukee;WI - Milwaukee
+1448;provider_id;110028;110028
+985;provider_city;PRINCE FREDERIC;?
+1927;average_covered_charges;45162.0;?
+2148;codice;244;?
+1578;provider_state;IA;?
+1320;total_discharges;71;?
+816;average_medicare_payments;3615.0;?
+1945;average_total_payments;3289.0;?
+752;total_discharges;59;?
+1091;codice;238;?
+1701;descrizione;RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <96 HOURS;RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <96 HOURS
+1471;descrizione;OTHER DIGESTIVE SYSTEM DIAGNOSES W CC;OTHER DIGESTIVE SYSTEM DIAGNOSES W CC
+826;total_discharges;38;?
+983;descrizione;CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W MCC;?
+676;provider_city;ORLANDO;ORLANDO
+394;provider_street_address;1050 EAST SOUTH TEMPLE;?
+2010;average_total_payments;4085.0;?
+1251;provider_name;CARILION FRANKLIN MEMORIAL HOSPITAL;CARILION FRANKLIN MEMORIAL HOSPITAL
+2477;provider_street_address;300 RANDALL RD;?
+1415;provider_name;MEMORIAL MEDICAL CENTER;MEMORIAL MEDICAL CENTER
+1296;average_medicare_payments;4903.0;?
+1124;hospital_referral_region_(hrr)_description;MI - Detroit;MI - Detroit
+662;average_total_payments;8887.0;?
+1941;hospital_referral_region_(hrr)_description;MD - Baltimore;MD - Baltimore
+110;provider_state;IA;IA
+854;total_discharges;18;?
+1815;provider_city;OCALA;OCALA
+2468;total_discharges;26;?
+119;hospital_referral_region_(hrr)_description;KY - Louisville;KY - Louisville
+2241;hospital_referral_region_(hrr)_description;MO - Columbia;MO - Columbia
+209;provider_name;FREDERICK MEMORIAL HOSPITAL;FREDERICK MEMORIAL HOSPITAL
+2427;provider_name;MARIAN MEDICAL CENTER;MARIAN MEDICAL CENTER
+2152;provider_name;NORTHWEST MEDICAL CENTER;?
+1638;average_covered_charges;8531.0;?
+66;provider_id;360159;?
+1150;hospital_referral_region_(hrr)_description;KS - Topeka;?
+432;total_discharges;33;?
+1899;total_discharges;33;?
+1753;provider_street_address;525 EAST 68TH STREET;?
+968;provider_state;MO;MO
+720;average_covered_charges;14979.0;?
+731;average_total_payments;4876.0;?
+376;hospital_referral_region_(hrr)_description;CO - Greeley;CO - Greeley
+347;provider_city;LEWISTON;LEWISTON
+961;average_covered_charges;70309.0;?
+1173;average_total_payments;4984.0;?
+1050;total_discharges;19;?
+1684;provider_state;TX;?
+356;average_total_payments;14653.0;?
+1176;provider_id;40119;40119
+1367;provider_id;140206;140206
+1775;average_medicare_payments;11437.0;?
+692;average_total_payments;4375.0;?
+785;descrizione;PSYCHOSES;PSYCHOSES
+1404;average_total_payments;11838.0;?
+1806;total_discharges;42;?
+2000;codice;193;?
+1724;codice;536;?
+2198;codice;243;?
+1082;provider_id;120001;?
+1970;provider_state;MO;MO
+1010;average_total_payments;8147.0;?
+868;total_discharges;77;?
+1900;hospital_referral_region_(hrr)_description;SD - Rapid City;?
+846;provider_name;ORANGE COAST MEMORIAL MEDICAL CENTER;?
+2309;hospital_referral_region_(hrr)_description;WI - La Crosse;WI - La Crosse
+409;provider_name;WISE REGIONAL HEALTH SYSTEM;WISE REGIONAL HEALTH SYSTEM
+441;total_discharges;22;?
+1371;hospital_referral_region_(hrr)_description;IN - Indianapolis;IN - Indianapolis
+850;provider_name;SINAI HOSPITAL OF BALTIMORE;SINAI HOSPITAL OF BALTIMORE
+1097;descrizione;PULMONARY EDEMA & RESPIRATORY FAILURE;PULMONARY EDEMA & RESPIRATORY FAILURE
+435;provider_street_address;400 EAST MAIN STREET;400 EAST MAIN STREET
+967;codice;482;?
+506;provider_city;HAZARD;HAZARD
+1447;provider_state;MO;MO
+490;average_covered_charges;15664.0;?
+65;codice;310;?
+872;descrizione;CHEST PAIN;CHEST PAIN
+2440;provider_street_address;21214 NORTHWEST FREEWAY;21214 NORTHWEST FREEWAY
+2318;provider_id;330104;?
+361;descrizione;MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WO MCC;MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY WO MCC
+1176;hospital_referral_region_(hrr)_description;AR - Little Rock;AR - Little Rock
+530;total_discharges;98;?
+18;average_medicare_payments;4718.0;?
+773;total_discharges;76;?
+555;hospital_referral_region_(hrr)_description;NM - Albuquerque;NM - Albuquerque
+1036;hospital_referral_region_(hrr)_description;CA - Los Angeles;CA - Los Angeles
+2471;provider_street_address;1301 PENNSYLVANIA AVENUE;1301 PENNSYLVANIA AVENUE
+2120;average_total_payments;36846.0;?
+74;average_total_payments;9009.0;?
+2070;provider_city;AURORA;?
+1921;descrizione;INFECTIOUS & PARASITIC DISEASES W O--R-- PROCEDURE W MCC;INFECTIOUS & PARASITIC DISEASES W O--R-- PROCEDURE W MCC
+959;hospital_referral_region_(hrr)_description;AL - Montgomery;AL - Montgomery
+1634;codice;439;?
+2311;average_medicare_payments;8107.0;?
+941;average_total_payments;25005.0;?
+2182;hospital_referral_region_(hrr)_description;TX - Houston;TX - Houston
+946;average_covered_charges;26930.0;?
+1147;provider_street_address;10666 NORTH TORREY PINES ROAD;?
+934;provider_city;MEDINA;MEDINA
+1767;provider_id;70025;70025
+1043;average_total_payments;9140.0;?
+100;provider_city;CEDAR RAPIDS;?
+1067;provider_name;ARIZONA REGIONAL MEDICAL CENTER;ARIZONA REGIONAL MEDICAL CENTER
+705;total_discharges;17;?
+1603;descrizione;KIDNEY & URINARY TRACT INFECTIONS W MCC;KIDNEY & URINARY TRACT INFECTIONS W MCC
+2392;provider_id;390110;390110
+1609;codice;292;292
+2239;provider_city;LA GRANGE;LA GRANGE
+1732;total_discharges;25;?
+1827;descrizione;OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC;OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC
+604;codice;191;?
+1283;descrizione;HYPERTENSION WO MCC;HYPERTENSION WO MCC
+1826;provider_street_address;1101 W UNIVERSITY DRIVE;1101 W UNIVERSITY DRIVE
+46;provider_street_address;4000 MIAMISBURG-CENTERVILLE ROAD;?
+1611;average_covered_charges;19155.0;?
+1992;provider_city;PORTERVILLE;?
+1301;provider_city;SHEBOYGAN;?
+1432;provider_name;MADERA COMMUNITY HOSPITAL;MADERA COMMUNITY HOSPITAL
+1320;average_total_payments;12093.0;?
+474;average_medicare_payments;9546.0;?
+2276;provider_city;INDIANAPOLIS;INDIANAPOLIS
+1650;provider_street_address;710 FM 1960 WEST;710 FM 1960 WEST
+2070;provider_state;CO;?
+354;provider_city;PEORIA;PEORIA
+2426;hospital_referral_region_(hrr)_description;FL - Pensacola;FL - Pensacola
+785;total_discharges;687;?
+115;hospital_referral_region_(hrr)_description;NY - East Long Island;NY - East Long Island
+2205;hospital_referral_region_(hrr)_description;MO - Kansas City;?
+1196;average_medicare_payments;12363.0;?
+1571;provider_city;CAPE GIRARDEAU;CAPE GIRARDEAU
+287;average_total_payments;15032.0;?
+760;codice;872;?
+1908;hospital_referral_region_(hrr)_description;OH - Youngstown;?
+2471;descrizione;LAPAROSCOPIC CHOLECYSTECTOMY WO C--D--E-- WO CCMCC;LAPAROSCOPIC CHOLECYSTECTOMY WO C--D--E-- WO CCMCC
+2449;provider_id;220031;?
+1201;codice;193;?
+181;provider_state;NY;NY
+767;provider_street_address;5121 SOUTH COTTONWOOD STREET;5121 SOUTH COTTONWOOD STREET
+945;hospital_referral_region_(hrr)_description;MS - Tupelo;?
+842;hospital_referral_region_(hrr)_description;OH - Kettering;?
+2454;provider_id;260119;?
+1531;provider_state;KY;KY
+1489;total_discharges;19;?
+1441;descrizione;RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <96 HOURS;RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <96 HOURS
+2103;provider_id;230195;?
+1512;provider_city;JANESVILLE;JANESVILLE
+1987;provider_name;BRIGHAM AND WOMEN\S HOSPITAL;BRIGHAM AND WOMEN\S HOSPITAL
+1813;average_medicare_payments;10219.0;?
+368;average_covered_charges;271231.0;?
+2310;provider_name;GLENS FALLS HOSPITAL;GLENS FALLS HOSPITAL
+517;provider_street_address;2211 NE 139TH STREET;2211 NE 139TH STREET
+1643;provider_name;CHRISTUS SCHUMPERT HEALTH SYSTEM;?
+1104;total_discharges;30;?
+1212;total_discharges;13;?
+1203;descrizione;G--I-- HEMORRHAGE W MCC;G--I-- HEMORRHAGE W MCC
+706;hospital_referral_region_(hrr)_description;IL - Blue Island;IL - Blue Island
+80;average_covered_charges;13504.0;?
+1530;total_discharges;59;?
+1415;average_covered_charges;17521.0;?
+99;average_medicare_payments;5684.0;?
+817;average_total_payments;12380.0;?
+1409;provider_id;230059;230059
+915;provider_street_address;9100 BABCOCK BOULEVARD;?
+19;average_medicare_payments;6772.0;?
+694;average_covered_charges;45594.0;?
+2121;provider_state;IL;IL
+355;total_discharges;21;?
+589;provider_name;FREEMAN HEALTH SYSTEM - FREEMAN WEST;FREEMAN HEALTH SYSTEM - FREEMAN WEST
+1288;codice;372;?
+2209;codice;308;?
+1664;average_medicare_payments;3254.0;4905.0
+1189;total_discharges;103;?
+1986;provider_city;NORTH BERGEN;NORTH BERGEN
+608;provider_city;WEST HILLS;WEST HILLS
+1803;codice;195;?
+106;total_discharges;12;?
+2230;average_medicare_payments;5159.0;?
+356;total_discharges;19;?
+1874;provider_state;NC;?
+2329;provider_city;DAYTON;?
+1079;provider_city;JASPER;?
+1520;provider_name;CAPE COD HOSPITAL;CAPE COD HOSPITAL
+1724;provider_id;330164;?
+2315;descrizione;OTHER DIGESTIVE SYSTEM DIAGNOSES W CC;OTHER DIGESTIVE SYSTEM DIAGNOSES W CC
+2387;provider_state;GA;GA
+1339;codice;293;?
+1511;average_covered_charges;14300.0;?
+685;descrizione;TRANSIENT ISCHEMIA;TRANSIENT ISCHEMIA
+964;average_covered_charges;87437.0;?
+2193;provider_id;100050;100050
+1529;total_discharges;21;?
+1421;hospital_referral_region_(hrr)_description;MI - Detroit;MI - Detroit
+1458;provider_state;MD;MD
+1670;average_total_payments;20471.0;?
+1956;average_total_payments;10872.0;?
+1901;provider_name;CHAMBERSBURG HOSPITAL;CHAMBERSBURG HOSPITAL
+569;provider_city;LA MESA;?
+728;provider_street_address;1493 CAMBRIDGE STREET;1493 CAMBRIDGE STREET
+2379;total_discharges;11;?
+2487;hospital_referral_region_(hrr)_description;WA - Seattle;WA - Seattle
+1463;average_medicare_payments;11274.0;?
+728;total_discharges;23;?
+603;provider_id;670068;670068
+878;provider_name;BAY AREA MED CTR;BAY AREA MED CTR
+377;descrizione;G--I-- HEMORRHAGE W CC;?
+1432;average_covered_charges;150076.0;?
+829;hospital_referral_region_(hrr)_description;TX - Houston;TX - Houston
+1024;codice;101;?
+1460;total_discharges;37;?
+219;provider_city;CAPE CORAL;CAPE CORAL
+1991;provider_city;KIRKLAND;KIRKLAND
+1840;total_discharges;53;?
+1656;provider_name;PINNACLE HEALTH HOSPITALS;?
+1863;descrizione;SYNCOPE & COLLAPSE;SYNCOPE & COLLAPSE
+1073;descrizione;EXTRACRANIAL PROCEDURES WO CCMCC;EXTRACRANIAL PROCEDURES WO CCMCC
+54;provider_id;500088;500088
+72;average_covered_charges;9257.0;?
+1017;total_discharges;18;?
+1475;average_medicare_payments;2309.0;?
+939;provider_name;ABINGTON MEMORIAL HOSPITAL;ABINGTON MEMORIAL HOSPITAL
+1837;provider_city;SPRINGFIELD;SPRINGFIELD
+1957;descrizione;PERMANENT CARDIAC PACEMAKER IMPLANT W CC;PERMANENT CARDIAC PACEMAKER IMPLANT W CC
+1144;provider_city;GREENVILLE;?
+2285;descrizione;MEDICAL BACK PROBLEMS WO MCC;MEDICAL BACK PROBLEMS WO MCC
+1715;codice;308;?
+2378;codice;460;?
+1962;provider_street_address;725 AMERICAN AVE;725 AMERICAN AVE
+346;average_medicare_payments;8660.0;?
+994;provider_id;250138;?
+1698;codice;69;?
+1624;average_medicare_payments;4967.0;?
+1845;provider_city;FAIRFIELD;FAIRFIELD

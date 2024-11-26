@@ -43,6 +43,8 @@ def clean_data(text):
     text = text.replace(',', '')   # Rimuove le virgole
     text = text.replace('"', '')   # Rimuove i doppi apici singoli
     text = text.replace('/', '')   # Rimuove i caratteri '/'
+    text = text.replace("'", '')   # Rimuove i caratteri
+
     return text
 
 # Applica la funzione di pulizia a tutte le colonne di tipo object (stringa)
@@ -53,3 +55,5 @@ df=df.sample(2500)
 
 # Salva il DataFrame pulito in un file CSV (decommenta per salvare)
 df.to_csv(f"../../Datasets/Preprocessed_Datasets/Med_Ch_{len(df)}.csv", sep=';', index=None, encoding='ascii')
+
+print(df)

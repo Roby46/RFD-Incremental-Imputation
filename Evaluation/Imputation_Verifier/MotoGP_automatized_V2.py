@@ -279,23 +279,23 @@ def are_similar(attribute, value1, value2):
 
 
 def analyze_imputation_quality(version, approach, MV, xml_file):
-    dataset_name = f"MotoGP_REBUILT_4435_{MV}_{version}"
+    dataset_name = f"MotoGP_REBUILT_3000_{MV}_{version}"
 
     # Esempio di utilizzo
-    missing_dataset_path = f'../../Datasets/Missing_Datasets/MotoGP_REBUILT_4435/{dataset_name}.csv'
-    full_dataset_path = f'../../Datasets/Preprocessed_Datasets/MotoGP_REBUILT_4435.csv'
+    missing_dataset_path = f'../../Datasets/Missing_Datasets/MotoGP_REBUILT_3000/{dataset_name}.csv'
+    full_dataset_path = f'../../Datasets/Preprocessed_Datasets/MotoGP_REBUILT_3000.csv'
 
     results_path = ""
     if (approach == "Baseline"):
-        results_path = f'../Imputation_Results/Imputation_Baseline_Results/MotoGP_REBUILT_4435/{version}/Baseline_{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Baseline_Results/MotoGP_REBUILT_3000/{version}/Baseline_{dataset_name}.csv'
     elif (approach == "Pipeline_noRev"):
-        results_path = f'../Imputation_Results/Imputation_noRestoring_Results/MotoGP_REBUILT_4435/{version}/{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_noRestoring_Results/MotoGP_REBUILT_3000/{version}/{dataset_name}.csv'
     elif (approach == "Baseline20"):
-        results_path = f'../Imputation_Results/Imputation_Baseline_20_Results/MotoGP_REBUILT_4435/{version}/Baseline_{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Baseline_20_Results/MotoGP_REBUILT_3000/{version}/Baseline_{dataset_name}.csv'
     elif (approach == "Pipeline"):
-        results_path = f'../Imputation_Results/Imputation_Pipeline_Results/MotoGP_REBUILT_4435/{version}/{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Pipeline_Results/MotoGP_REBUILT_3000/{version}/{dataset_name}.csv'
     elif (approach == "Hybrid"):
-        results_path = f'../Imputation_Results/Imputation_Hybrid_Results/MotoGP_REBUILT_4435/{version}ù/{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Hybrid_Results/MotoGP_REBUILT_3000/{version}/{dataset_name}.csv'
 
     header_file = f'../../Preprocessing/Headers/Headers.csv'
     rmse=process_dataset(missing_dataset_path, results_path, header_file, dataset_name, full_dataset_path, xml_file)
@@ -305,23 +305,23 @@ def checkResults(version, approach, MV,xml_file):
     df = ""
     if (approach == "Baseline"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_Baseline_Results/MotoGP_REBUILT_4435/{version}/Baseline_MotoGP_REBUILT_4435_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_Baseline_Results/MotoGP_REBUILT_3000/{version}/Baseline_MotoGP_REBUILT_3000_{MV}_{version}.csv",
             sep=';')
     elif (approach == "Pipeline_noRev"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_noRestoring_Results/MotoGP_REBUILT_4435/{version}/MotoGP_REBUILT_4435_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_noRestoring_Results/MotoGP_REBUILT_3000/{version}/MotoGP_REBUILT_3000_{MV}_{version}.csv",
             sep=';')
     elif (approach == "Baseline20"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_Baseline_20_Results/MotoGP_REBUILT_4435/{version}/Baseline_MotoGP_REBUILT_4435_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_Baseline_20_Results/MotoGP_REBUILT_3000/{version}/Baseline_MotoGP_REBUILT_3000_{MV}_{version}.csv",
             sep=';')
     elif (approach == "Pipeline"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_Pipeline_Results/MotoGP_REBUILT_4435/{version}/MotoGP_REBUILT_4435_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_Pipeline_Results/MotoGP_REBUILT_3000/{version}/MotoGP_REBUILT_3000_{MV}_{version}.csv",
             sep=';')
     elif (approach == "Hybrid"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_Hybrid_Results/MotoGP_REBUILT_4435/{version}/MotoGP_REBUILT_4435_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_Hybrid_Results/MotoGP_REBUILT_3000/{version}/MotoGP_REBUILT_3000_{MV}_{version}.csv",
             sep=';')
 
     df = df.drop(['riga'], axis=1)
@@ -358,18 +358,20 @@ def checkResults(version, approach, MV,xml_file):
 
 
     rmse=analyze_imputation_quality(version,approach,mv,xml_file)
-    all_results_path = f"../ALL_Results_v2.csv"
-    row_data = ["MotoGP_REBUILT_4435"] + [approach] + [MV] + [str(recall)] + [str(precision)] + [str(version)] + [
+    all_results_path = f"../ALL_Results_v3.csv"
+    row_data = ["MotoGP_REBUILT_3000"] + [approach] + [MV] + [str(recall)] + [str(precision)] + [str(version)] + [
         str(exact)] + [str(similar)] + [str(wrong)] + [rmse]
     print(row_data)
-    #write_unique_row_to_csv(all_results_path, row_data)
+    write_unique_row_to_csv(all_results_path, row_data)
 
 
 
-#approaches=["Baseline", "Pipeline","Pipeline_noRev","Hybrid","Baseline20"]
-approaches=["Pipeline","Baseline20"]
+approaches=["Pipeline","Pipeline_noRev","Hybrid","Baseline20"]
+#approaches=["Pipeline","Baseline20"]
+#approaches=["Pipeline_noRev","Hybrid"]
 versions=[1,2,3,4,5]
-MVs=[532, 1064, 2661]
+MVs= [360,720,1080,1440,1800,3600,7200,10800,14400,18000] #MOTOGP 3000
+
 
 for version in versions:
     for approach in approaches:

@@ -1421,3 +1421,9 @@ provider_id;provider_name;provider_street_address;provider_city;provider_state;h
 provider_id;provider_name;provider_street_address;provider_city;provider_state;hospital_referral_region_(hrr)_description;total_discharges;average_covered_charges;average_total_payments;average_medicare_payments;codice;descrizione;Med_Ch_2500_9000_5
 provider_id;provider_name;provider_street_address;provider_city;provider_state;hospital_referral_region_(hrr)_description;total_discharges;average_covered_charges;average_total_payments;average_medicare_payments;codice;descrizione;Med_Ch_2500_12000_5
 provider_id;provider_name;provider_street_address;provider_city;provider_state;hospital_referral_region_(hrr)_description;total_discharges;average_covered_charges;average_total_payments;average_medicare_payments;codice;descrizione;Med_Ch_2500_15000_5
+V1;V2;V3;V4;V5;V6;V7;Class;Bank_8000_640_1
+V1;V2;V3;V4;V5;V6;V7;Class;Bank_8000_1280_1
+V1;V2;V3;V4;V5;V6;V7;Class;Bank_8000_1920_1
+V1;V2;V3;V4;V5;V6;V7;Class;Bank_8000_2560_1
+V1;V2;V3;V4;V5;V6;V7;Class;Bank_8000_3200_1
+V1;V2;V3;V4;V5;V6;V7;Class;Bank_8000_6400_1

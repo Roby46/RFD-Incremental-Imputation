@@ -62,7 +62,7 @@ This folder is divided into 3 subfolders: ‘Original Datasets’ contains the o
 | Boeing 1485 (fatta versione ridotta)                       | 1485  | 10      | 29--290                     | [1, 3, 3, 1, 2, 1, 3, 2, 2, 2]             | https://www.kaggle.com/datasets/nurielreuven/boeing-historical-airplane-orders-deliveries                               |
 | Cleveland (Non va)                                         | 297   | 14      | 6--59                       | [3,0.5,1,4,5,0.5,0.5,5,0.5,1,1,1,1.5,1]    | Paper EDBT 2025                                                                                                         |
 | Statlog (Non va)                                           | 270   | 14      | 5--54                       | [3,0.5,1,3,3,0.5,0.5,3,0.5,0.5,1,1,1,0.5]  | Paper EDBT 2025                                                                                                         |
-| Med_Ch                                                     | 5000  | 12      | 100--1000                   | [0.5,1,2,1,0.5,1,3,500,500,500,0.5,2]      | https://www.openml.org/search?type=data&status=active&qualities.NumberOfInstances=between_1000_10000&id=42130&sort=runs |
+| Med_Ch                                                     | 2500  | 12      | 50--500                     | [0.5,1,2,1,0.5,1,3,500,500,500,0.5,2]      | https://www.openml.org/search?type=data&status=active&qualities.NumberOfInstances=between_1000_10000&id=42130&sort=runs |
 
 
 
