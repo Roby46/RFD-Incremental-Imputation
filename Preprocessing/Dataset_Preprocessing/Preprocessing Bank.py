@@ -36,8 +36,8 @@ df_selected = df[selected_features]
 print("Feature selezionate:", selected_features)
 
 # Ora, selezioniamo 4000 righe per ciascuna delle classi (1 e 2)
-df_class_1 = df_selected[df_selected['Class'] == 1].sample(n=4000, random_state=42)
-df_class_2 = df_selected[df_selected['Class'] == 2].sample(n=4000, random_state=42)
+df_class_1 = df_selected[df_selected['Class'] == 1].sample(n=2000, random_state=42)
+df_class_2 = df_selected[df_selected['Class'] == 2].sample(n=2000, random_state=42)
 
 # Uniamo le due classi per ottenere il dataset finale di 8000 righe
 df_final = pd.concat([df_class_1, df_class_2])

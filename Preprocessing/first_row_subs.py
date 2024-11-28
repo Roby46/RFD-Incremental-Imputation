@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Directory contenente i file CSV
-directory = './first_row_invalid'
+directory = './First_Row_Invalid'
 
 
 # Funzione per gestire ogni file CSV
