@@ -64,7 +64,7 @@ heap_size_gb=64
 #Scelta delle pipeline
 #algoritmo="Pipeline"
 #algoritmo="RFD_Generator"
-algoritmo="Baseline"
+algoritmo="baseline2"
 reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
 # Number of missing values
@@ -172,7 +172,8 @@ elif(algoritmo == "pipeline2"):
     launch_template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
             <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
                 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-                    <listEntry value="C:/Users/Utente\Desktop\lavoro\workspace java\RFD-Incremental-2021\src\main\java\incremental_Imputation_strategy2_v2\IncrementalImputationSTR2v2_Alternative_ARGS.java"/>
+                /RFD-Incremental-2021/src/main/java/incremental_Imputation_strategy2_v2/
+                    <listEntry value="/RFD-Incremental-2021/src/main/java/incremental_Imputation_strategy2_v2\IncrementalImputationSTR2v2_Alternative_ARGS.java"/>
                 </listAttribute>
 
                 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
@@ -196,7 +197,7 @@ elif (algoritmo == "baseline2"):
     launch_template = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
             <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
                 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-                    <listEntry value="C:/Users/Utente\Desktop\lavoro\workspace java\RFD-Incremental-2021\src\main\java\main\RunnerRFD_Alternative_ARGS.java"/>
+                    <listEntry value="C:/Users/gianp/Desktop/Codes/eclipse workspace\RFD-Incremental-2021\src\main\java\main\RunnerRFD_Alternative_ARGS.java"/>
                 </listAttribute>
 
                 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">

@@ -1,0 +1,8 @@
+RHS;Actor;ActorID;Film;Year;Votes;Rating;FilmID
+Votes;?;0.0;?;?;100.0;?;0.0
+ActorID;1.0;0.0;?;2.0;100.0;?;?
+Votes;1.0;?;?;?;100.0;?;0.0
+Votes;?;0.0;3.0;2.0;100.0;?;?
+ActorID;1.0;0.0;3.0;?;?;?;?
+Votes;1.0;?;3.0;2.0;100.0;?;?
+ActorID;1.0;0.0;?;?;?;?;0.0

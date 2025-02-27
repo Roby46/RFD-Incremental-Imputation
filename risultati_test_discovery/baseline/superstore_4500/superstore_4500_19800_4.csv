@@ -1,0 +1,5 @@
+RHS;Ship_Mode;Customer_ID;Customer_Name;Segment;City;State;Region;Product_ID;Sub-Category;Product_Name;Sales
+Customer_ID;1.0;0.0;2.0;?;1.0;1.0;3.0;0.0;3.0;10.0;50.0
+State;1.0;0.0;2.0;?;1.0;1.0;3.0;0.0;3.0;10.0;50.0
+State;1.0;0.0;2.0;1.0;1.0;1.0;3.0;0.0;?;10.0;50.0
+Customer_ID;1.0;0.0;2.0;1.0;1.0;1.0;?;0.0;3.0;10.0;50.0
