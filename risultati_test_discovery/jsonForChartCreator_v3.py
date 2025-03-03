@@ -2,7 +2,6 @@ import csv as csv
 import json
 import copy
 import numpy as np
-from Demos.rastest import stateMap
 
 
 class RFD():
