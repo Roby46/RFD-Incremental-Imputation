@@ -15,11 +15,9 @@ def rename_files(folder_path, mapping):
                     new_filename = "_".join(parts[:-1]) + "_" + str(new_number) + ".csv"
                     os.rename(os.path.join(folder_path, filename), os.path.join(folder_path, new_filename))
 
-cartella = "cars/"
+cartella = "C:/Users\gianp\Desktop\Codes/test imputation discovery 2024/test vecchi (edbt 2024)\RFDnullvalues/IoT_Telemetry3000"
 mappatura = {
     1: 1,
-    3: 1,
-    4: 1,
     16: 2,
     17: 3,
     18: 4,

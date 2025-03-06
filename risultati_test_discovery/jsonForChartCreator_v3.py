@@ -3,7 +3,6 @@ import json
 import copy
 import numpy as np
 
-
 class RFD():
     def __init__(self, RHS, LHS, label_attributi, thres_attributi, stampaRHS, stampaLHS, found):
         self.RHS = RHS
@@ -1902,7 +1901,7 @@ def create_json(oracle, rfdsfile, nomedataset,versione,iteration, tipologia):
         json.dump(stampe_per_plot, outfile)
 
 
-tipologia = "incremental"
+tipologia = "baseline"
 
 #datasets = ["actorfilms_4000","Boeing_1485","EV_Vehicles_4000","F1_REBUILT_5000","Med_Ch_2500","MotoGP_REBUILT_3000","NBA_3200","superstore_4500","US_Presidents_3754"]
 
@@ -1914,7 +1913,11 @@ datasets = {"actorfilms_4000":["280","560","840","1120","1400","2800","5600","84
             "MotoGP_REBUILT_3000":["360","720","1080","1440","1800","3600","7200","10800","14400","18000"],
             "NBA_3200":["384","768","1152","1536","1920","3840","7680","11520","15360","19200"],
             "superstore_4500":["495","990","1485","1980","2475","4950","9900","14850","19800","24750"],
-            "US_Presidents_3754":["375","751","1126","1502","1877","3754","7508","11262","15016","18770"]}
+            "US_Presidents_3754":["375","751","1126","1502","1877","3754","7508","11262","15016","18770"],
+            "cars":["37","73","110","146","183","365","731","1096","1462","1827"],
+            "police":["198","397","595","793","992","1984","3967","5951","7934","9918"],
+            "restaurant":["52","104","156","207","259","518","1037","1555","2074","2592"],
+            "IoT_Telemetry3000":["240","480","720","960","1200","2400","4800","7200","9600","12000"]}
 
 
 for dataset in datasets.keys():

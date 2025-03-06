@@ -1,0 +1,6 @@
+RHS;Car;MPG;Cylinders;Displacement;Horsepower;Weight;Acceleration;Model;Origin
+Acceleration;5.0;?;?;16;10.0;11.3;1.37;1.84;1.0
+Acceleration;5.0;4.18;0.82;16;10.0;11.3;1.37;?;1.0
+Origin;5.0;4.18;?;16;10.0;11.3;1.37;1.84;1.0
+Horsepower;5.0;4.18;0.82;16;10.0;11.3;1.37;1.84;1.0
+Origin;5.0;?;0.82;16;10.0;11.3;1.37;1.84;1.0

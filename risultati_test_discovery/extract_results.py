@@ -1,6 +1,7 @@
 import json
 
-datasets_incremental = {"actorfilms_4000": {"280":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+datasets_incremental = {
+            "actorfilms_4000": {"280":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
                                 "560":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
                                 "840":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
                                 "1120":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
@@ -98,9 +99,54 @@ datasets_incremental = {"actorfilms_4000": {"280":{"new":[],"found":[],"not":[],
                                    "11262":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
                                    "15016":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
                                    "18770":{"new":[],"found":[],"not":[],"gen":[],"spec":[]}
-                                   }
+                                   },
+            "cars": {"37": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                     "73": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                     "110": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                     "146": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                     "183": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                     "365": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                     "731": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                     "1096": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                     "1462": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                     "1827": {"new": [], "found": [], "not": [], "gen": [], "spec": []}
+                     },
+            "police": {"198": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                       "397": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                       "595": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                       "793": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                       "992": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                       "1984": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                       "3967": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                       "5951": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                       "7934": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                       "9918": {"new": [], "found": [], "not": [], "gen": [], "spec": []}
+                       },
+            "restaurant": {"52": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                           "104": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                           "156": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                           "207": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                           "259": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                           "518": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                           "1037": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                           "1555": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                           "2074": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                           "2592": {"new": [], "found": [], "not": [], "gen": [], "spec": []}
+                           },
+            "IoT_Telemetry3000": {"240": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                                  "480": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                                  "720": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                                  "960": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                                  "1200": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                                  "2400": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                                  "4800": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                                  "7200": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                                  "9600": {"new": [], "found": [], "not": [], "gen": [], "spec": []},
+                                  "12000": {"new": [], "found": [], "not": [], "gen": [], "spec": []}
+                                  }
             }
-datasets_baseline = {"actorfilms_4000": {"280":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+datasets_baseline = {
+            "actorfilms_4000": {"280":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
                                 "560":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
                                 "840":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
                                 "1120":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
@@ -198,9 +244,52 @@ datasets_baseline = {"actorfilms_4000": {"280":{"new":[],"found":[],"not":[],"ge
                                    "11262":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
                                    "15016":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
                                    "18770":{"new":[],"found":[],"not":[],"gen":[],"spec":[]}
+                                   },
+            "cars": {"37":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "73":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "110":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "146":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "183":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "365":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "731":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "1096":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "1462":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "1827":{"new":[],"found":[],"not":[],"gen":[],"spec":[]}
+                                   },
+            "police": {"198":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "397":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "595":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "793":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "992":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "1984":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "3967":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "5951":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "7934":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "9918":{"new":[],"found":[],"not":[],"gen":[],"spec":[]}
+                                   },
+            "restaurant": {"52":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "104":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "156":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "207":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "259":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "518":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "1037":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "1555":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "2074":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "2592":{"new":[],"found":[],"not":[],"gen":[],"spec":[]}
+                                   },
+            "IoT_Telemetry3000": {"240":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "480":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "720":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "960":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "1200":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "2400":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "4800":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "7200":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "9600":{"new":[],"found":[],"not":[],"gen":[],"spec":[]},
+                                   "12000":{"new":[],"found":[],"not":[],"gen":[],"spec":[]}
                                    }
             }
-
 
 for ds in datasets_incremental.keys():
     print(ds)
@@ -230,3 +319,42 @@ with open(f"./ris_baseline/results_baseline.json", "w") as outfile:
 
 with open(f"./ris_incremental/results_incremental.json", "w") as outfile2:
     json.dump(datasets_incremental, outfile2)
+
+
+
+dict_finale = {"1":[],"2":[],"3":[],"4":[],"5":[],"6":[],"7":[],"8":[],"9":[],"10":[]}
+for ds in datasets_baseline.keys():
+    print(ds)
+    count = 1
+    for perc in datasets_baseline[ds].keys():
+        valori_da_mediare = datasets_baseline[ds][perc]
+        array_medie = []
+        array_medie.append(round(sum(datasets_baseline[ds][perc]["found"]) / len(datasets_baseline[ds][perc]["found"]),2))
+        array_medie.append(round(sum(datasets_baseline[ds][perc]["not"]) / len(datasets_baseline[ds][perc]["not"]),2))
+        array_medie.append(round(sum(datasets_baseline[ds][perc]["gen"]) / len(datasets_baseline[ds][perc]["gen"]),2))
+        array_medie.append(round(sum(datasets_baseline[ds][perc]["spec"]) / len(datasets_baseline[ds][perc]["spec"]),2))
+        array_medie.append(round(sum(datasets_baseline[ds][perc]["new"]) / len(datasets_baseline[ds][perc]["new"]),2))
+        dict_finale[str(count)].append(array_medie)
+        count += 1
+
+with open(f"./ris_baseline/medie_baseline.json", "w") as outfile:
+    json.dump(dict_finale, outfile)
+
+
+dict_finale = {"1":[],"2":[],"3":[],"4":[],"5":[],"6":[],"7":[],"8":[],"9":[],"10":[]}
+for ds in datasets_incremental.keys():
+    count = 1
+    for perc in datasets_incremental[ds].keys():
+        valori_da_mediare = datasets_incremental[ds][perc]
+        array_medie = []
+        array_medie.append(round(sum(datasets_incremental[ds][perc]["found"]) / len(datasets_incremental[ds][perc]["found"]),2))
+        array_medie.append(round(sum(datasets_incremental[ds][perc]["not"]) / len(datasets_incremental[ds][perc]["not"]),2))
+        array_medie.append(round(sum(datasets_incremental[ds][perc]["gen"]) / len(datasets_incremental[ds][perc]["gen"]),2))
+        array_medie.append(round(sum(datasets_incremental[ds][perc]["spec"]) / len(datasets_incremental[ds][perc]["spec"]),2))
+        array_medie.append(round(sum(datasets_incremental[ds][perc]["new"]) / len(datasets_incremental[ds][perc]["new"]),2))
+        dict_finale[str(count)].append(array_medie)
+        count += 1
+
+with open(f"./ris_incremental/medie_incremental.json", "w") as outfile:
+    json.dump(dict_finale, outfile)
+
