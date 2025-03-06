@@ -26,7 +26,9 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?", 14, 6, 3, 0.5, 1, 4, 5, 0.5, 0.5, 5, 0.5, 1, 1, 1, 1.5, 1] #Cleveland
     #fixed_params = [";","?",14,5,3,0.5,1,3,3,0.5,0.5,3,0.5,0.5,1,1,1,0.5] #Statlog 5-54
     #fixed_params = [";", "?", 12, 60, 2, 0, 1, 3, 2, 5, 6, 4, 2, 5, 0, 0]  # MotoGP
-    fixed_params = [";", "?", 12, 50, 0.5, 1, 2, 1, 0.5, 1, 3, 500, 500, 500, 0.5, 2] #Med_Ch
+    #fixed_params = [";", "?", 12, 50, 0.5, 1, 2, 1, 0.5, 1, 3, 500, 500, 500, 0.5, 2] #Med_Ch
+    fixed_params = [";", "?", 13, 180, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5] #Air
+
 
     command_strings = []
 
@@ -56,7 +58,7 @@ def generate_launch_file(dataset_name, command_string, template, output_dir, ree
 
 
 #dataset = "EV_Vehicles_4000"  # Change dataset name as needed
-dataset = "Med_Ch_2500"
+dataset = "Air_9000"
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
 heap_size_gb=64
@@ -64,8 +66,9 @@ heap_size_gb=64
 #Scelta delle pipeline
 #algoritmo="Pipeline"
 #algoritmo="RFD_Generator"
-algoritmo="baseline2"
-reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
+algoritmo="Baseline"
+#algoritmo="baseline2"
+reevaluation=True #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
 # Number of missing values
 #missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
@@ -93,7 +96,8 @@ reevaluation=False #solo per la pipeline. Per i baseline ed il generator non imp
 #missing_values = [42, 83, 125, 166,208, 416, 832, 1247, 1663, 2079] # Cleveland
 #missing_values = [38,76,113,151,189,378,756,1134,1512,1890] # Statlog
 #missing_values  = [360,720,1080,1440,1800,3600,7200,10800,14400,18000] #MOTOGP 3000
-missing_values = [300,600,900,1200,1500,3000,6000,9000,12000,15000] #Med_Ch
+#missing_values = [300,600,900,1200,1500,3000,6000,9000,12000,15000] #Med_Ch
+missing_values = [1170,2340,3510,4680,5850,11700,23400,35100,46800,58500] #Air
 
 print(algoritmo)
 

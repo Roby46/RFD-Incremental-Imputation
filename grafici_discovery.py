@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from nltk.sem.chat80 import borders
 
 # Dati di esempio: 4 gruppi, con una barra multi-segmento e una barra unica per ogni gruppo
 groups = ['NBA','Cars','Actor','Admissions','Police','Callout','Restaurant','Boeing','Telemetry']
