@@ -1,0 +1,519 @@
+riga;nome attributo;valore da imputare;valore imputato
+155;type;french;?
+75;phone;212/765-1737;?
+76;phone;212-765-1737;?
+77;phone;212/223-5656;?
+96;name;mesa grill;?
+97;name;mi cocina;?
+433;phone;212/245-4850;?
+147;class;73;?
+96;type;southwestern;?
+97;type;mexican;?
+98;type;mexican;?
+759;type;polish;?
+760;type;thai;?
+761;type;thai;?
+828;type;tex-mex;?
+122;type;chinese;?
+16;phone;213-848-6677;?
+17;phone;310/456-0488;?
+18;phone;310-456-0488;?
+699;type;mexican;?
+700;type;japanese;?
+701;type;diners;?
+55;type;continental;?
+56;type;french (classic);?
+57;type;italian;?
+314;name;cafe la fortuna;?
+315;name;cafe luxembourg;?
+648;class;536;?
+649;class;537;?
+650;class;538;?
+154;phone;404-237-2663;?
+155;phone;404/266-1440;?
+205;addr;22 hawthorne st.;?
+206;addr;22 hawthorne st.;?
+207;addr;5937 geary blvd.;?
+208;addr;5937 geary blvd.;?
+653;class;541;?
+111;phone;212/632-5000;?
+112;phone;212-632-5000;?
+113;phone;718/522-5200;?
+716;phone;212-254-2054;?
+501;type;italian;?
+502;type;mediterranean;?
+503;type;international;?
+17;type;californian;?
+18;type;californian;?
+19;type;american;?
+20;type;american (traditional);?
+384;name;ipanema;?
+385;name;jean lafitte;?
+386;name;jewel of india;?
+363;city;new york;?
+364;city;new york;?
+654;phone;310-276-7732;?
+655;phone;310-643-5229;?
+656;phone;310-397-5703;?
+423;phone;212/972-3315;?
+424;phone;212/581-8030;?
+100;addr;239 w. broadway;?
+101;addr;55 e. 54th st.;?
+102;addr;55 e. 54th st.;?
+103;addr;100 e. 63rd st.;?
+95;class;47;?
+535;class;422;?
+536;class;423;?
+537;class;424;?
+538;class;425;?
+411;phone;212/873-5025;?
+412;phone;212/956-3976;?
+413;phone;212/888-6556;?
+414;phone;212/777-6314;?
+637;phone;415/346-4430;?
+638;phone;415/673-9245;?
+75;name;island spice;?
+76;name;island spice;?
+77;name;jo jo;?
+78;name;jo jo;?
+121;phone;212/371-8844;?
+122;phone;212-371-8844;?
+123;phone;212/861-8080;?
+124;phone;212-861-8080;?
+606;name;macarthur park;?
+607;name;manora;?
+608;name;maykadeh;?
+609;name;mccormick & kuleto's;?
+316;addr;2 e. 61st st.;?
+96;class;47;?
+97;class;48;?
+98;class;48;?
+480;type;middle eastern;?
+481;type;american;?
+128;phone;212-873-3200;?
+479;class;366;?
+480;class;367;?
+481;class;368;?
+538;addr;4850 flamingo rd.;?
+539;addr;4041 audrie st. at flamingo rd.;?
+540;addr;3570 las vegas blvd. s;?
+389;type;american;?
+390;type;french;?
+391;type;middle eastern;?
+502;name;cassis;?
+41;name;spago;?
+42;name;spago (los angeles);?
+43;name;valentino;?
+443;type;american;?
+444;type;american;?
+445;type;asian;?
+446;type;eastern european;?
+168;phone;404-876-4408;?
+726;city;new york city;?
+261;name;morton's;?
+262;name;nate 'n' al's;?
+330;addr;72 macdougal st.  between w. houston and bleecker sts.;?
+147;phone;702/731-4036;?
+148;phone;702-731-4036;?
+149;phone;404/261-8186;?
+150;phone;404-261-8186;?
+163;type;american;?
+164;type;southwestern;?
+136;city;las vegas;?
+137;city;las vegas;?
+138;city;las vegas;?
+139;city;las vegas;?
+651;class;539;?
+652;class;540;?
+527;name;rib ranch;?
+230;city;santa monica;?
+228;class;115;?
+229;class;116;?
+230;class;117;?
+231;class;118;?
+694;addr;145 n. atlantic blvd.;?
+695;addr;875 s. figueroa st. downtown;?
+685;addr;10509 w. pico blvd.;?
+686;addr;519 s. fairfax ave.;?
+687;addr;22nd street grill 25 22nd;?
+688;addr;13329 washington blvd.;?
+598;city;san francisco;?
+599;city;san francisco;?
+600;city;san francisco;?
+286;phone;212/989-1220;?
+287;phone;212/903-3918;?
+288;phone;212/473-2602;?
+289;phone;212/473-8388;?
+511;name;horseradish grill;?
+512;name;hsu's gourmet;?
+513;name;imperial fez;?
+514;name;kamogawa;?
+851;city;san francisco;?
+852;city;san francisco;?
+853;city;san francisco;?
+265;addr;11705 national blvd.;?
+266;addr;6th st.;?
+267;addr;10001 riverside dr.;?
+164;class;81;?
+165;class;82;?
+166;class;82;?
+491;class;378;?
+492;class;379;?
+493;class;380;?
+535;city;atlanta;?
+394;type;french;?
+483;name;verbena;?
+23;name;l'orangerie;?
+630;city;san francisco;?
+631;city;san francisco;?
+632;city;san francisco;?
+633;city;san francisco;?
+826;addr;3330 piedmont rd.;?
+827;addr;764 marietta st. nw;?
+828;addr;774 ponce de leon ave. ne;?
+829;addr;70 w. crossville rd.;?
+457;phone;212/496-6280;?
+458;phone;212/332-7610;?
+459;phone;212/838-3531;?
+460;phone;212/744-4107;?
+639;city;san francisco;?
+640;city;san francisco;?
+692;phone;818-906-8881;?
+693;phone;310-452-5728;?
+694;phone;818-308-2128;?
+695;phone;213-627-6879;?
+482;name;veniero's pasticceria;?
+484;name;victor's cafe;?
+740;name;mitali east-west;?
+802;name;eats;?
+803;name;flying biscuit  the;?
+804;name;frijoleros;?
+805;name;greenwood's;?
+782;type;californian;?
+783;type;steakhouses;?
+756;class;644;?
+757;class;645;?
+361;type;american;?
+362;type;french;?
+363;type;coffee bar;?
+203;phone;415/543-0573;?
+463;phone;212/734-2676;?
+464;phone;212/966-0290;?
+775;city;las vegas;?
+686;type;desserts;?
+687;type;american;?
+700;phone;213-687-7178;?
+701;phone;310-828-7937;?
+702;phone;818-905-6515;?
+167;name;heera of india;?
+168;name;heera of india;?
+169;name;indigo coastal grill;?
+170;name;indigo coastal grill;?
+12;city;santa monica;?
+13;city;los angeles;?
+14;city;los angeles;?
+238;class;125;?
+239;class;126;?
+240;class;127;?
+851;phone;415-387-2244;?
+852;phone;415-788-3779;?
+106;phone;212-245-2214;?
+107;phone;212/724-8585;?
+108;phone;212-724-8585;?
+853;phone;415-775-5979;?
+854;phone;415-550-9213;?
+705;class;593;?
+793;phone;404-261-7015;?
+794;phone;404-231-5907;?
+60;addr;854 seventh ave.;?
+829;class;717;?
+830;class;718;?
+831;class;719;?
+832;class;720;?
+118;name;second avenue deli;?
+119;name;seryna;?
+651;addr;515 s. olive st.;?
+652;addr;45 s. mentor ave.;?
+653;addr;19565 parthenia ave.;?
+654;addr;9600 brighton way;?
+145;addr;2880 las vegas blvd. s;?
+146;addr;2880 las vegas blvd. s.;?
+147;addr;2245 e. flamingo rd.;?
+674;type;delis;?
+675;type;southern/soul;?
+681;addr;22800 pch;?
+682;addr;1842 e. first;?
+683;addr;704 s. alvarado st.;?
+353;city;new york;?
+378;name;i trulli;?
+379;name;il cortile;?
+380;name;il nido;?
+381;name;inca grill;?
+332;class;219;?
+333;class;220;?
+261;phone;310/276-5205;?
+262;phone;310/274-0101;?
+171;type;italian;?
+172;type;italian;?
+173;type;southern;?
+665;city;west la;?
+713;city;glendale;?
+714;city;new york city;?
+715;city;new york city;?
+101;phone;212/759-5941;?
+486;phone;212/486-9592;?
+487;phone;212/683-3333;?
+488;phone;212/246-6363;?
+857;addr;584 valencia st.;?
+858;addr;1517 polk st.;?
+859;addr;400 waller st.;?
+573;name;buca giovanni;?
+574;name;cafe adriano;?
+575;name;cafe marimba;?
+162;phone;404-681-2909;?
+342;class;229;?
+730;phone;212-721-7001;?
+731;phone;212-228-1212;?
+732;phone;212-674-4040;?
+733;phone;212-317-2802;?
+10;phone;213-938-1447;?
+11;phone;310/392-9025;?
+12;phone;310-392-9025;?
+13;phone;213/857-0034;?
+385;phone;212/751-2323;?
+386;phone;212/869-5544;?
+387;phone;212/682-5678;?
+27;city;los angeles;?
+465;phone;212/245-7850;?
+466;phone;212/501-7515;?
+467;phone;212/334-8088;?
+845;name;kelly's on trinity;?
+846;name;la cumbre;?
+847;name;la mediterranee;?
+848;name;la taqueria;?
+83;phone;212/489-1515;?
+84;phone;212-489-1515;?
+85;phone;212/484-5113;?
+86;phone;212-484-5113;?
+243;type;french;?
+244;type;continental;?
+31;city;los angeles;?
+32;city;w. hollywood;?
+515;type;italian;?
+516;type;asian;?
+517;type;barbecue;?
+518;type;continental;?
+319;type;coffee bar;?
+320;type;coffee bar;?
+321;type;french;?
+1;class;0;?
+2;class;0;?
+3;class;1;?
+4;class;1;?
+860;class;748;?
+115;class;57;57
+187;type;italian;?
+122;class;60;?
+123;class;61;?
+124;class;61;?
+721;name;darbar;?
+86;class;42;?
+87;class;43;?
+88;class;43;?
+25;class;12;?
+776;phone;702-737-7111;?
+777;phone;702-733-4524;?
+711;name;uncle bill's pancake house;?
+712;name;water grill;?
+713;name;zankou chicken;?
+714;name;afghan kebab house;?
+379;city;new york;?
+380;city;new york;?
+381;city;new york;?
+609;phone;415/929-1730;?
+610;phone;415/487-9800;?
+611;phone;415/989-7800;?
+612;phone;415/931-1556;?
+156;type;french bistro;?
+157;type;american;?
+158;type;american (new);?
+159;type;french;?
+163;class;81;?
+291;name;alley's end;?
+292;name;ambassador grill;?
+644;addr;2000 hyde st.;?
+645;addr;1658 market st.;?
+338;name;da nico;?
+339;name;dean & deluca;?
+340;name;diva;?
+552;type;buffets;?
+553;type;buffets;?
+554;type;steak houses;?
+343;class;230;?
+671;name;jody maroni's sausage kingdom;?
+672;name;joe's;?
+291;addr;311 w. 17th st.;?
+221;addr;600 stockton st.;?
+78;type;french bistro;?
+79;type;french;?
+80;type;french (classic);?
+824;phone;404-262-7112;?
+825;phone;404-874-1388;?
+825;addr;200 14th st. nw;?
+7;type;french;?
+8;type;french bistro;?
+9;type;american;?
+838;type;american;?
+839;type;diners;?
+840;type;thai;?
+841;type;japanese;?
+571;addr;56 gold st.;?
+486;addr;200 e. 54th st.;?
+487;addr;500 e. 30th st.;?
+488;addr;63rd street steakhouse 44 w. 63rd st.;?
+489;addr;174 1st ave.  between 10th and 11th sts.;?
+384;addr;13 w. 46th st.;?
+385;addr;68 w. 58th st.;?
+386;addr;15 w. 44th st.;?
+387;addr;219 e. 44th st.  between 2nd and 3rd aves.;?
+128;city;new york city;?
+129;city;new york;?
+130;city;new york city;?
+131;city;new york;new york
+217;type;mediterranean;?
+218;type;american (new);?
+219;type;american;?
+100;city;new york city;?
+101;city;new york;?
+102;city;new york city;?
+103;city;new york;?
+135;name;chin's;?
+136;name;chin's;?
+729;city;queens;?
+730;city;new york city;?
+283;phone;213/660-4446;?
+284;phone;310/823-5396;?
+285;phone;212/964-0380;?
+636;name;vertigo;?
+637;name;vivande porta via;?
+318;name;cafe fes;?
+319;name;caffe dante;?
+26;type;french bistro;?
+27;type;italian;?
+28;type;italian;?
+497;type;continental;?
+498;type;italian;?
+499;type;mediterranean;?
+600;phone;415/668-9292;?
+601;phone;415/397-7720;?
+813;type;spanish;?
+814;type;cafeterias;?
+151;class;75;?
+152;class;75;?
+153;class;76;?
+110;type;seafood;?
+111;type;or 212/632-5100 american;?
+112;type;american (new);?
+305;phone;212/249-8484;?
+306;phone;212/758-0323;?
+307;phone;212/727-2775;?
+570;class;457;?
+571;class;458;?
+572;class;459;?
+573;class;460;?
+201;type;french;?
+320;name;caffe dell'artista;?
+321;name;caffe lure;?
+322;name;caffe reggio;?
+323;name;caffe roma;?
+501;city;atlanta;?
+502;city;atlanta;?
+503;city;atlanta;?
+7;class;3;?
+8;class;3;?
+9;class;4;?
+10;class;4;?
+67;name;felidia;?
+812;name;kalo's coffee house;?
+813;name;la fonda latina;?
+814;name;lettuce souprise you (at);?
+815;name;majestic;?
+686;name;mani's bakery & espresso bar;?
+687;name;martha's;?
+688;name;maxwell's cafe;?
+689;name;michael's (los angeles);?
+576;type;french;?
+577;type;italian;?
+287;addr;700 5th ave. at 55th st.;?
+288;addr;322 e. 14 st.  between 1st and 2nd aves.;?
+289;addr;937 broadway at 22nd st.;?
+290;addr;304 e. 48th st.;?
+602;city;san francisco;?
+820;name;original pancake house (at);?
+821;name;palm  the (atlanta);?
+822;name;rainbow restaurant;?
+39;class;19;19
+553;name;golden nugget hotel;?
+554;name;golden steer;?
+555;name;lillie langtry's;?
+821;phone;404-814-1955;?
+289;class;176;?
+290;class;177;?
+291;class;178;?
+292;class;179;?
+460;name;seventh regiment mess and bar;?
+461;name;sfuzzi;?
+462;name;shaan;?
+463;name;sofia fabulous pizza;?
+415;city;new york;?
+416;city;new york;?
+417;city;new york;?
+375;phone;212/249-3600;?
+690;addr;8474 w. third st.;?
+691;addr;7261 melrose ave.;?
+278;name;tavola calda;?
+279;name;the mandarin;?
+73;name;gramercy tavern;?
+224;addr;532 columbus ave.;?
+463;type;italian;?
+464;type;american;?
+465;type;delicatessen;?
+466;type;seafood;?
+769;addr;3300 las vegas blvd. s.;?
+280;addr;7313 melrose ave.;?
+281;addr;3835 cross creek rd.;?
+282;addr;9876 wilshire blvd.;?
+684;addr;30869 thousand oaks blvd.;?
+852;class;740;?
+853;class;741;?
+420;type;coffee bar;?
+421;type;american;?
+361;class;248;?
+362;class;249;?
+132;addr;21 e. 16th st.;?
+203;city;san francisco;san francisco
+204;city;san francisco;?
+500;type;american;?
+163;city;atlanta;?
+164;city;atlanta;?
+165;city;atlanta;?
+81;type;french;?
+763;city;new york city;?
+38;phone;818-990-0500;?
+39;phone;213/627-2300;?
+40;phone;213-627-2300;?
+452;name;s.p.q.r;?
+262;addr;414 n. beverly dr.;?
+263;addr;601 s. figueroa st.;?
+264;addr;1401 ocean ave.;?
+60;city;new york city;?
+61;city;new york;?
+404;name;le perigord;?
+405;name;le select;?
+773;name;hugo's cellar;?
+20;class;9;?
+21;class;10;?
+22;class;10;?
+23;class;11;?
+830;name;veggieland;?
+831;name;white house restaurant;?

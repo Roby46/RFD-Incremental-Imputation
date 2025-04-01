@@ -351,7 +351,10 @@ def checkResults(version, approach, MV,xml_file):
     print("Sbagliati", wrong)
     recall = (exact + similar) / tot
     print("Recall: ", recall)
-    precision = (exact + similar) / (exact + similar + wrong)
+    try:
+        precision = (exact + similar) / (exact + similar + wrong)
+    except:
+        precision = 0
     print("Precision: ", precision)
 
 

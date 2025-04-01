@@ -1,0 +1,365 @@
+392;Car;Honda Civic
+393;Car;Honda Civic (auto)
+107;Displacement;232.0
+210;Weight;3193.0
+211;Weight;1825.0
+216;Displacement;318.0
+217;Displacement;120.0
+152;MPG;31.0
+153;MPG;32.0
+240;Weight;4335.0
+241;Weight;1940.0
+242;Weight;2740.0
+157;Weight;2489.0
+158;Weight;2391.0
+343;Cylinders;4
+250;Acceleration;12.8
+251;Acceleration;13.5
+252;Acceleration;21.5
+7;Weight;4354.0
+8;Weight;4312.0
+9;Weight;4425.0
+19;Cylinders;8
+20;Cylinders;8
+358;Displacement;105.0
+359;Displacement;98.0
+360;Displacement;98.0
+17;Displacement;340.0
+342;Displacement;70.0
+343;Displacement;122.0
+369;Weight;3160.0
+370;Weight;2900.0
+371;Weight;2930.0
+99;Cylinders;8
+100;Cylinders;8
+44;Car;Ford Torino 500
+45;Car;AMC Matador
+46;Car;Chevrolet Impala
+56;Displacement;250.0
+57;Displacement;122.0
+58;Displacement;116.0
+15;Origin;US
+16;Origin;US
+254;Displacement;78.0
+232;Horsepower;130.0
+64;Cylinders;4
+65;Cylinders;4
+319;Displacement;98.0
+320;Displacement;86.0
+321;Displacement;151.0
+219;Horsepower;120.0
+220;Horsepower;180.0
+221;Horsepower;145.0
+247;Horsepower;67.0
+248;Horsepower;78.0
+249;Horsepower;97.0
+99;Car;Chevrolet Caprice Classic
+100;Car;Ford LTD
+101;Car;Plymouth Fury Gran Sedan
+51;Origin;US
+52;Origin;US
+53;Origin;US
+116;Cylinders;4
+117;Cylinders;4
+118;Cylinders;4
+210;Acceleration;17.8
+145;Horsepower;150.0
+146;Horsepower;150.0
+357;Acceleration;16.0
+358;Acceleration;14.9
+359;Acceleration;16.2
+116;Displacement;97.0
+117;Displacement;140.0
+118;Displacement;108.0
+184;Displacement;232.0
+185;Displacement;115.0
+186;Displacement;120.0
+56;Origin;US
+57;Origin;US
+164;Horsepower;170.0
+48;Model;71
+111;Cylinders;8
+112;Cylinders;8
+77;Origin;US
+59;Displacement;79.0
+43;Acceleration;15.5
+297;Cylinders;8
+374;Displacement;200.0
+375;Displacement;225.0
+162;MPG;15.0
+163;MPG;15.0
+83;Horsepower;150.0
+260;Horsepower;105.0
+261;Horsepower;95.0
+301;Car;Volkswagen Rabbit Custom
+302;Car;Mazda GLC Deluxe
+303;Car;Dodge Colt Hatchback Custom
+343;Acceleration;15.1
+344;Acceleration;14.3
+345;Acceleration;17.0
+15;Car;AMC Rebel SST (sw)
+16;Car;Dodge Challenger SE
+285;Acceleration;15.8
+286;Acceleration;14.9
+291;MPG;20.2
+292;MPG;20.6
+237;Model;77
+238;Model;77
+239;Model;77
+360;Car;Ford Escort 2H
+201;MPG;24.0
+202;MPG;22.5
+203;MPG;29.0
+296;Cylinders;8
+298;Cylinders;8
+289;Displacement;200.0
+307;Model;79
+308;Model;79
+309;Model;79
+98;Displacement;429.0
+99;Displacement;400.0
+100;Displacement;351.0
+276;Acceleration;14.7
+225;Car;Buick Opel Isuzu Deluxe
+226;Car;Renault 5 GTL
+355;Model;81
+356;Model;81
+357;Model;81
+395;Horsepower;110.0
+396;Horsepower;85.0
+126;Cylinders;4
+50;Model;71
+221;Displacement;350.0
+222;Displacement;302.0
+48;Car;Ford Galaxie 500
+34;Weight;4382.0
+35;Weight;4732.0
+159;Origin;Europe
+160;Origin;US
+58;MPG;28.0
+261;Model;78
+262;Model;78
+263;Model;78
+10;Displacement;390.0
+11;Displacement;133.0
+12;Displacement;350.0
+227;Origin;US
+228;Origin;Japan
+376;Origin;US
+377;Origin;US
+66;Cylinders;4
+67;Cylinders;4
+68;Cylinders;4
+59;MPG;30.0
+60;MPG;30.0
+116;Horsepower;88.0
+338;Displacement;85.0
+339;Displacement;97.0
+98;Cylinders;8
+52;Weight;5140.0
+53;Weight;2962.0
+54;Weight;2408.0
+239;Car;Chrysler Cordoba
+240;Car;Ford Thunderbird
+241;Car;Volkswagen Rabbit Custom
+164;Model;75
+253;Horsepower;66.0
+254;Horsepower;52.0
+107;MPG;18.0
+108;MPG;18.0
+69;Acceleration;16.5
+70;Acceleration;12.0
+20;Acceleration;10.0
+18;Car;Ford Mustang Boss 302
+19;Car;Chevrolet Monte Carlo
+349;Cylinders;6
+155;Model;74
+156;Model;74
+157;Model;74
+8;Acceleration;8.5
+9;Acceleration;10.0
+98;Car;Mercury Marquis Brougham
+226;Origin;Europe
+390;Horsepower;75.0
+391;Horsepower;70.0
+392;Horsepower;67.0
+33;Origin;US
+34;Origin;US
+310;Origin;US
+137;Car;Datsun B210
+138;Car;Ford Pinto
+139;Car;Toyota Corolla 1200
+341;Horsepower;132.0
+342;Horsepower;100.0
+348;Acceleration;14.4
+349;Acceleration;12.6
+350;Acceleration;12.9
+115;Model;73
+116;Model;73
+151;MPG;26.0
+124;Model;73
+258;MPG;19.4
+82;Origin;US
+83;Origin;US
+84;Origin;Europe
+380;Acceleration;16.0
+381;Acceleration;18.0
+382;Acceleration;16.4
+58;Horsepower;90.0
+59;Horsepower;70.0
+66;Weight;2126.0
+94;MPG;14.0
+95;MPG;13.0
+376;MPG;28.0
+270;Horsepower;145.0
+271;Horsepower;165.0
+263;Car;Ford Fairmont (man)
+264;Car;Plymouth Volare
+265;Car;AMC Concord
+406;Horsepower;82.0
+45;Weight;3288.0
+46;Weight;4209.0
+47;Weight;4464.0
+133;Acceleration;16.5
+134;Acceleration;17.0
+135;Acceleration;16.0
+50;Acceleration;11.5
+51;Acceleration;12.0
+52;Acceleration;12.0
+207;Model;76
+208;Model;76
+209;Model;76
+200;Weight;3353.0
+201;Weight;3012.0
+202;Weight;3085.0
+314;Weight;2595.0
+315;Weight;2700.0
+140;Cylinders;4
+32;Model;70
+33;Model;70
+34;Model;70
+304;Cylinders;4
+305;Cylinders;5
+306;Cylinders;8
+15;Acceleration;11.0
+16;Acceleration;10.0
+245;Cylinders;4
+246;Cylinders;4
+247;Cylinders;4
+228;Acceleration;16.8
+229;Acceleration;12.5
+109;Horsepower;95.0
+110;Horsepower;46.0
+122;Displacement;98.0
+123;Displacement;350.0
+290;Acceleration;17.3
+33;Weight;4376.0
+174;Weight;3169.0
+175;Weight;2171.0
+101;Origin;US
+102;Origin;US
+250;Displacement;121.0
+251;Displacement;80.0
+81;Cylinders;8
+357;Horsepower;68.0
+352;Origin;US
+353;Origin;Japan
+354;Origin;Japan
+169;Horsepower;105.0
+397;Cylinders;4
+317;Cylinders;4
+377;Car;Chevrolet Cavalier Wagon
+378;Car;Chevrolet Cavalier 2-door
+271;Origin;US
+272;Origin;US
+273;Origin;US
+282;Cylinders;5
+283;Cylinders;6
+87;MPG;26.0
+169;Displacement;250.0
+281;MPG;23.9
+282;MPG;20.3
+345;Model;80
+346;Model;81
+13;Horsepower;153.0
+14;Horsepower;175.0
+15;Horsepower;175.0
+131;Model;73
+132;Model;73
+133;Model;74
+160;Acceleration;16.0
+143;Car;Plymouth Satellite Sebring
+10;MPG;15.0
+136;Acceleration;17.0
+137;Acceleration;19.0
+44;Displacement;250.0
+45;Displacement;232.0
+285;Horsepower;133.0
+399;Origin;Japan
+400;Origin;US
+14;Car;Plymouth Satellite (sw)
+104;Horsepower;175.0
+218;Displacement;156.0
+219;Displacement;168.0
+329;Weight;2265.0
+330;Weight;2110.0
+331;Weight;2800.0
+218;Weight;2930.0
+241;Displacement;97.0
+145;MPG;13.0
+67;Model;72
+68;Model;72
+14;Displacement;383.0
+15;Displacement;360.0
+356;Displacement;89.0
+301;Weight;1925.0
+98;Model;73
+99;Model;73
+134;Cylinders;6
+206;Origin;Japan
+139;Acceleration;21.0
+140;Acceleration;17.0
+141;Acceleration;17.0
+269;Origin;US
+270;Origin;US
+296;Origin;US
+297;Origin;US
+104;Origin;US
+105;Origin;US
+63;Model;71
+64;Model;71
+65;Model;72
+223;Origin;US
+155;Weight;2108.0
+156;Weight;2246.0
+325;Weight;2188.0
+326;Weight;2711.0
+25;Model;70
+223;Displacement;318.0
+224;Displacement;98.0
+262;Car;Ford Fairmont (auto)
+9;Horsepower;225.0
+10;Horsepower;190.0
+395;Weight;2945.0
+331;Model;80
+332;Model;80
+333;Model;80
+97;Origin;US
+98;Origin;US
+285;Model;78
+286;Model;78
+58;Origin;Europe
+59;Origin;Europe
+60;Origin;Europe
+178;Horsepower;78.0
+179;Horsepower;96.0
+122;Car;Fiat 124 Sport Coupe
+123;Car;Chevrolet Monte Carlo S
+193;Displacement;98.0
+194;Displacement;101.0
+195;Displacement;305.0
+81;Model;72
+82;Model;72
+83;Model;72
+183;Acceleration;14.0
+184;Acceleration;17.0
