@@ -1,0 +1,992 @@
+1981;armed;Firearm
+1386;county;henderson
+1387;county;bernalillo
+1388;county;chesapeake
+1389;county;jefferson
+127;raceethnicity;White
+128;raceethnicity;Hispanic/Latino
+129;raceethnicity;Black
+980;county;los angeles
+981;county;san bernardino
+1659;state;AZ
+1660;state;MT
+1661;state;TN
+764;gender;Male
+765;gender;Male
+766;gender;Male
+1035;classification;Gunshot
+1036;classification;Gunshot
+1037;classification;Gunshot
+1371;county;prince george's
+1372;county;cobb
+1373;county;baltimore
+1137;state;AL
+1138;state;NV
+655;county;bonner
+656;county;mclennan
+657;county;alameda
+1514;name;Clifford Tucker
+1515;name;William 'David' Powell
+1516;name;William Hollis
+1597;lawenforcementagency;Reno Police Department
+1598;lawenforcementagency;California Highway Patrol
+1599;lawenforcementagency;San Jose Police Department
+1600;lawenforcementagency;New York Police Department
+855;armed;No
+856;armed;Firearm
+861;classification;Gunshot
+862;classification;Gunshot
+863;classification;Gunshot
+648;armed;Firearm
+1850;city;Hometown
+4;state;KS
+1385;name;Bradford Macomber
+567;county;jackson
+568;county;laramie
+54;classification;Gunshot
+55;classification;Gunshot
+56;classification;Gunshot
+57;classification;Gunshot
+810;county;fresno
+811;county;san bernardino
+812;county;washington
+2033;classification;Death in custody
+2034;classification;Gunshot
+2035;classification;Gunshot
+683;gender;Male
+1332;state;AL
+1333;state;MN
+1334;state;IN
+239;lawenforcementagency;Oxnard Police Department
+240;lawenforcementagency;Saint Lucie County Sheriff's Office
+1830;lawenforcementagency;Sacramento County Sheriff's Department
+1831;lawenforcementagency;Baltimore County Police Department
+1832;lawenforcementagency;San Antonio Police Department
+1833;lawenforcementagency;Claremont Police Department
+168;gender;Male
+169;gender;Male
+170;gender;Male
+171;gender;Male
+382;county;dekalb
+1854;armed;Firearm
+1855;armed;Firearm
+1856;armed;Other
+890;state;OH
+298;lawenforcementagency;Gibraltar Police Department
+299;lawenforcementagency;Shafter Police Department
+300;lawenforcementagency;Chicago Police Department
+1418;raceethnicity;Black
+1419;raceethnicity;Black
+1636;armed;Firearm
+1637;armed;Firearm
+1638;armed;Knife
+1639;armed;Firearm
+1069;lawenforcementagency;Pittsburgh Bureau of Police
+1070;lawenforcementagency;Delaware State Police
+1396;raceethnicity;White
+1397;raceethnicity;White
+2014;classification;Gunshot
+2015;classification;Death in custody
+2016;classification;Gunshot
+2017;classification;Gunshot
+1148;name;William Adams
+2182;armed;No
+2183;armed;Unknown
+1709;name;Fred Barlow
+1710;name;Sergio Weick
+1711;name;Jovany Martinez
+1712;name;Danny Pirtle
+1097;raceethnicity;White
+1098;raceethnicity;White
+1099;raceethnicity;White
+1100;raceethnicity;White
+681;classification;Gunshot
+682;classification;Gunshot
+1278;classification;Gunshot
+1279;classification;Gunshot
+1280;classification;Gunshot
+2115;name;Abraham Fryer
+1795;county;district of columbia
+1946;state;PA
+746;county;san joaquin
+147;gender;Male
+148;gender;Male
+149;gender;Male
+150;gender;Male
+1318;county;navajo
+2135;county;ellis
+2136;county;dakota
+2137;county;cooke
+2138;county;mccracken
+1042;county;district of columbia
+1043;county;wayne
+1044;county;yuba
+618;lawenforcementagency;California Highway Patrol
+619;lawenforcementagency;Douglas County Sheriff's Office
+607;armed;Non-lethal firearm
+608;armed;Firearm
+609;armed;Knife
+610;armed;No
+387;classification;Gunshot
+359;name;Joseph Roy
+669;county;los angeles
+670;county;santa clara
+671;county;kerr
+1484;lawenforcementagency;Bellevue Police Department
+1744;raceethnicity;Hispanic/Latino
+1745;raceethnicity;Hispanic/Latino
+1746;raceethnicity;Unknown
+205;armed;No
+206;armed;Firearm
+207;armed;Vehicle
+1147;name;Thongsavanh Vandarack
+1149;name;Jacqueline Salyers
+1876;city;Seattle
+1652;raceethnicity;Unknown
+897;county;humboldt
+1232;raceethnicity;White
+1233;raceethnicity;Hispanic/Latino
+908;lawenforcementagency;Ward 2 city marshals
+909;lawenforcementagency;Portland Police Bureau
+910;lawenforcementagency;Clark County School District Police Department
+821;city;Monterey
+912;state;DC
+913;state;OR
+914;state;PA
+915;state;TX
+1837;city;Burnsville
+1838;city;Middle River
+1839;city;El Cajon
+1859;state;AZ
+1860;state;SC
+100;raceethnicity;White
+101;raceethnicity;Hispanic/Latino
+102;raceethnicity;Hispanic/Latino
+103;raceethnicity;White
+1853;gender;Male
+762;armed;Firearm
+763;armed;Unknown
+764;armed;Firearm
+639;state;GA
+444;state;WV
+272;raceethnicity;White
+273;raceethnicity;White
+274;raceethnicity;White
+1262;classification;Gunshot
+1263;classification;Gunshot
+1264;classification;Taser
+1769;gender;Male
+1770;gender;Male
+1771;gender;Male
+1772;gender;Male
+732;city;Providence
+733;city;Virginia Beach
+734;city;Virginia Beach
+735;city;Shreveport
+2018;raceethnicity;Black
+2019;raceethnicity;Arab-American
+1975;county;kings
+1976;county;orange
+1107;lawenforcementagency;Los Angeles County Sheriff's Department
+1108;lawenforcementagency;El Cajon Police Department
+1109;lawenforcementagency;Los Angeles Police Department
+1110;lawenforcementagency;Los Angeles Police Department
+463;state;TX
+464;state;IN
+465;state;TX
+349;armed;Firearm
+219;armed;Knife
+1949;gender;Male
+1950;gender;Male
+1807;lawenforcementagency;Escambia County Sheriff's Office
+1808;lawenforcementagency;Hernando County Sheriff's Office
+1809;lawenforcementagency;Missouri State Highway Patrol Taney County Sheriff's Office
+1444;lawenforcementagency;Coconino County Sheriff's Office
+1445;lawenforcementagency;Florence County Sheriff's Office South Carolina Law Enforcement Division
+1446;lawenforcementagency;Oregon City Police Department
+1447;lawenforcementagency;Hallandale Beach Police Department
+1916;county;bexar
+1917;county;elbert
+947;name;Cornelius Brown
+770;county;los angeles
+771;county;montgomery
+772;county;san bernardino
+1643;lawenforcementagency;Louisiana State Police
+1644;lawenforcementagency;Santa Maria Police Department
+1645;lawenforcementagency;Hawaii Police Department
+728;armed;Non-lethal firearm
+1004;classification;Gunshot
+1005;classification;Gunshot
+1006;classification;Gunshot
+992;name;Colten Marcellus
+993;name;Michael Funk
+742;armed;No
+905;classification;Gunshot
+996;armed;No
+997;armed;No
+1281;state;IL
+1282;state;KY
+324;lawenforcementagency;New York Police Department
+325;lawenforcementagency;Victoria Police Department
+326;lawenforcementagency;Lake County Sheriff's Office
+327;lawenforcementagency;Oklahoma Highway Patrol
+738;state;NH
+84;name;Salvador Muna
+85;name;Joaquin Hernandez
+86;name;Markell Atkins
+536;name;Michael Westrich
+537;name;Nicholas Booth
+1869;armed;Knife
+1870;armed;Firearm
+191;county;baldwin
+192;county;los angeles
+2034;city;Shenandoah
+2035;city;Long Beach
+561;name;Chacarion Avant
+1667;armed;No
+1668;armed;Firearm
+1669;armed;Unknown
+343;state;DE
+344;state;TX
+345;state;TX
+346;state;UT
+1060;city;Seattle
+1061;city;Jacksonville
+1062;city;Rosemead
+1063;city;Fresno
+2084;raceethnicity;White
+1209;gender;Male
+1210;gender;Male
+1773;name;Michael Musson
+1774;name;Cameron Ayers
+1864;gender;Male
+1865;gender;Male
+1866;gender;Female
+1867;gender;Male
+666;lawenforcementagency;Sunnyvale Police Department
+667;lawenforcementagency;Kern County Sheriff's Office
+668;lawenforcementagency;Carson City Sheriff's Office
+669;lawenforcementagency;Los Angeles County Sheriff’s Department Baldwin Park Police Department
+1505;raceethnicity;White
+1506;raceethnicity;Hispanic/Latino
+1507;raceethnicity;White
+1508;raceethnicity;White
+1442;name;Reginald Dogan
+1443;name;Joshua Beebee
+1444;name;Mark Nelson
+1445;name;Norman Campbell
+1880;lawenforcementagency;Boston Police Department
+1881;lawenforcementagency;Kentucky State Police
+1882;lawenforcementagency;Las Vegas Metropolitan Police Department
+355;gender;Male
+356;gender;Male
+1356;county;llano
+1357;county;white
+1358;county;shelby
+1350;county;schenectady
+1351;county;cook
+1352;county;clark
+814;armed;Firearm
+815;armed;Firearm
+320;gender;Male
+321;gender;Female
+322;gender;Male
+1473;gender;Male
+64;city;New Hope
+65;city;Phoenix
+66;city;Morenci
+67;city;Columbus
+826;gender;Male
+1335;gender;Male
+1336;gender;Male
+1337;gender;Male
+1248;raceethnicity;Hispanic/Latino
+1249;raceethnicity;Black
+1814;county;rutherford
+1815;county;daviess
+1816;county;riverside
+1817;county;stearns
+509;classification;Gunshot
+510;classification;Gunshot
+511;classification;Gunshot
+512;classification;Gunshot
+1343;classification;Gunshot
+1359;state;KS
+1360;state;IN
+1361;state;OK
+1362;state;CA
+255;name;Shawn Clyde
+1930;name;Ferguson Laurent
+610;raceethnicity;White
+611;raceethnicity;White
+612;raceethnicity;White
+1080;county;lubbock
+1081;county;san bernardino
+1082;county;putnam
+1083;county;san diego
+49;armed;Knife
+50;armed;Firearm
+51;armed;Knife
+52;armed;Knife
+753;state;AL
+754;state;IA
+1816;armed;Other
+1817;armed;Knife
+1818;armed;Firearm
+2102;city;Opelika
+2103;city;Indio
+2104;city;Las Vegas
+737;armed;No
+738;armed;Knife
+709;gender;Male
+1258;county;shawnee
+528;state;CA
+529;state;CA
+530;state;TX
+531;state;NH
+1013;state;CO
+115;lawenforcementagency;Clackamas County Sheriff's Office
+116;lawenforcementagency;Iuka Police Department
+117;lawenforcementagency;Pinal County Sheriff's Office
+222;state;NY
+223;state;IN
+224;state;NY
+106;name;Phillip Watkins
+107;name;Fletcher Stewart
+475;county;indian river
+476;county;chilton
+477;county;kings
+478;county;lea
+1423;classification;Gunshot
+1316;name;Robert Guerin
+1982;armed;Unknown
+2056;city;Everett
+2057;city;Arlington
+2058;city;Tulsa
+1901;lawenforcementagency;Nevada Highway Patrol
+1902;lawenforcementagency;Tulsa Police Department
+2104;name;Brenda Kimberling
+2105;name;Edel Moreland
+2106;name;Robert Martinez
+2107;name;Willie Holderfield
+1493;lawenforcementagency;Charlotte-Mecklenburg Police Department
+1494;lawenforcementagency;California Highway Patrol
+1495;lawenforcementagency;Muncie Police Department
+391;raceethnicity;White
+972;county;kern
+973;county;mercer
+974;county;dekalb
+1064;city;Greeley
+1065;city;Las Vegas
+1066;city;Rawlins
+1175;name;Phillip Ferry
+1176;name;Michael Laniado
+1177;name;Jose Mendez
+1967;raceethnicity;Unknown
+1968;raceethnicity;White
+1969;raceethnicity;Black
+1970;raceethnicity;Black
+922;county;butte
+923;county;santa clara
+924;county;san francisco
+572;gender;Male
+573;gender;Male
+574;gender;Male
+121;gender;Male
+1235;armed;Firearm
+1506;county;bronx
+1507;county;warren
+1508;county;saginaw
+1509;county;stanislaus
+432;name;Kamal Dajani
+433;name;Edelmiro Hernandez
+434;name;Ronald Neal
+1998;name;Abdul Artan
+1999;name;Pablo Cartagena
+2000;name;Irecas Valentine
+2001;name;Thomas Binkley
+2148;gender;Male
+2149;gender;Male
+2150;gender;Male
+2151;gender;Male
+1118;state;AZ
+734;classification;Gunshot
+735;classification;Gunshot
+736;classification;Taser
+1155;lawenforcementagency;Port Authority Police Department
+1537;classification;Gunshot
+1538;classification;Gunshot
+1539;classification;Gunshot
+1540;classification;Gunshot
+1007;classification;Gunshot
+272;city;Ocala
+273;city;Tehachapi
+274;city;Shawnee
+275;city;Sunnyvale
+1611;county;los angeles
+1368;lawenforcementagency;El Paso Police Department
+1369;lawenforcementagency;St Louis Metropolitan Police Department
+1370;lawenforcementagency;Charlotte-Mecklenburg Police Department
+973;classification;Gunshot
+974;classification;Gunshot
+975;classification;Gunshot
+976;classification;Gunshot
+243;state;WV
+244;state;CA
+245;state;AL
+246;state;OH
+1449;gender;Male
+1450;gender;Male
+2115;county;pennington
+2116;county;washoe
+2117;county;vanderburgh
+2118;county;geneva
+561;raceethnicity;Black
+245;lawenforcementagency;Birmingham Police Department
+384;raceethnicity;White
+385;raceethnicity;Black
+386;raceethnicity;Black
+1582;gender;Male
+1583;gender;Male
+1584;gender;Male
+1332;lawenforcementagency;Auburn Police Department
+47;city;Maricopa
+48;city;Gunlock
+49;city;Weymouth
+50;city;St Louis
+822;raceethnicity;White
+1074;raceethnicity;Hispanic/Latino
+1226;state;TX
+1227;state;TN
+1228;state;AZ
+1229;state;CA
+846;state;CA
+847;state;TX
+848;state;CA
+215;armed;No
+1762;state;NC
+1763;state;CT
+1764;state;OR
+565;raceethnicity;Black
+566;raceethnicity;White
+567;raceethnicity;White
+585;classification;Gunshot
+586;classification;Gunshot
+587;classification;Gunshot
+588;classification;Death in custody
+1328;city;Odessa
+1329;city;Indianapolis
+1330;city;Eau Claire
+1331;city;Austin
+931;lawenforcementagency;Sunnyvale Bureau of Police Services
+932;lawenforcementagency;Effingham County Sheriff's Office
+933;lawenforcementagency;Gibson County Sheriff's Office
+1210;name;Jose Quintanilla
+594;lawenforcementagency;Montgomery County Sheriff’s Office
+595;lawenforcementagency;Oklahoma City Police Department
+591;gender;Male
+592;gender;Male
+593;gender;Male
+594;gender;Male
+409;city;Snohomish
+410;city;Middletown
+423;city;Grants Pass
+424;city;Cottonwood
+1815;classification;Gunshot
+1816;classification;Gunshot
+1817;classification;Gunshot
+1818;classification;Gunshot
+1262;gender;Male
+1263;gender;Male
+835;county;lincoln
+836;county;bartow
+181;state;OH
+1895;name;Salvador Reyes
+1896;name;Deborah Danner
+1469;city;Tualatin
+1207;classification;Gunshot
+1208;classification;Gunshot
+1209;classification;Gunshot
+1210;classification;Gunshot
+327;city;Miami
+328;city;Bunch
+2168;name;Christopher Nichols
+2169;name;Jonathan Wardlow
+171;classification;Gunshot
+172;classification;Struck by vehicle
+173;classification;Gunshot
+174;classification;Gunshot
+1172;raceethnicity;White
+1173;raceethnicity;White
+1174;raceethnicity;Hispanic/Latino
+800;armed;Firearm
+801;armed;Knife
+274;name;Erick Rose
+275;name;Joseph Weber
+276;name;Dexter Bethea
+277;name;Mark Smith
+1572;classification;Gunshot
+1573;classification;Gunshot
+2080;name;Tyrel Vick
+2081;name;John Allen
+2082;name;Roberto Rodriguez
+1560;classification;Gunshot
+1561;classification;Gunshot
+1562;classification;Gunshot
+1563;classification;Gunshot
+336;state;CA
+337;state;AZ
+1559;gender;Male
+1560;gender;Male
+1561;gender;Male
+385;gender;Male
+386;gender;Male
+387;gender;Male
+922;raceethnicity;Hispanic/Latino
+923;raceethnicity;Hispanic/Latino
+2140;name;Charles Stidham
+2141;name;Kenny Tomblin
+2142;name;John Zemola
+2143;name;Alexander Partain
+2046;classification;Gunshot
+2047;classification;Gunshot
+2048;classification;Gunshot
+1447;raceethnicity;Black
+1448;raceethnicity;Hispanic/Latino
+1449;raceethnicity;White
+1450;raceethnicity;Native American
+1963;state;PA
+205;city;Rio Linda
+960;city;Denver
+961;city;Corpus Christi
+962;city;Reno
+1063;county;fresno
+1064;county;weld
+1183;raceethnicity;Hispanic/Latino
+1184;raceethnicity;White
+1024;armed;Knife
+1025;armed;Other
+1026;armed;Vehicle
+1441;classification;Gunshot
+889;county;cumberland
+890;county;franklin
+492;raceethnicity;Black
+493;raceethnicity;Hispanic/Latino
+494;raceethnicity;White
+495;raceethnicity;White
+290;county;craighead
+291;county;sullivan
+292;county;miami dade
+293;county;san bernardino
+833;raceethnicity;Hispanic/Latino
+1205;gender;Male
+1206;gender;Male
+1207;gender;Male
+1208;gender;Male
+1842;name;Johnathan Lozano-Murillo
+1843;name;Jeffrey Cave
+1844;name;Jacquarius Robinson
+300;city;Chicago
+301;city;Jennings
+1915;county;yellowstone
+1918;county;sacramento
+944;lawenforcementagency;Cayce Department of Public Safety
+945;lawenforcementagency;Orlando Police Department
+946;lawenforcementagency;Little Egg Harbor Police Department
+947;lawenforcementagency;Opa-locka Police Department
+1904;classification;Gunshot
+1905;classification;Gunshot
+1906;classification;Gunshot
+1907;classification;Gunshot
+1609;classification;Gunshot
+345;name;Nadir Soofi
+346;name;Kevin Norton
+347;name;Billy Grimm
+311;gender;Male
+312;gender;Male
+313;gender;Male
+1792;state;WA
+1793;state;FL
+1338;gender;Female
+1339;gender;Male
+712;raceethnicity;Hispanic/Latino
+713;raceethnicity;Hispanic/Latino
+714;raceethnicity;White
+715;raceethnicity;Hispanic/Latino
+242;classification;Gunshot
+243;classification;Gunshot
+244;classification;Gunshot
+245;classification;Gunshot
+1514;raceethnicity;White
+1515;raceethnicity;White
+1516;raceethnicity;White
+1441;state;FL
+1427;county;pontotoc
+1428;county;henry
+1429;county;maricopa
+1430;county;clark
+729;name;Luis Wenceslao
+730;name;Manuel Ornelas
+731;name;Carlos Yero
+2058;raceethnicity;Unknown
+1285;county;bexar
+1286;county;richmond
+1287;county;dakota
+1021;armed;No
+1022;armed;Knife
+1023;armed;Firearm
+2188;lawenforcementagency;Saraland Police Department
+938;classification;Gunshot
+939;classification;Gunshot
+1503;armed;No
+1504;armed;Firearm
+1505;armed;No
+1615;classification;Gunshot
+1616;classification;Gunshot
+1617;classification;Gunshot
+1618;classification;Gunshot
+162;state;AZ
+163;state;FL
+455;gender;Male
+456;gender;Male
+384;lawenforcementagency;Jefferson County Sheriff Department
+385;lawenforcementagency;Fort Worth Police Department
+386;lawenforcementagency;Baltimore Police Department
+1667;raceethnicity;Black
+1668;raceethnicity;Hispanic/Latino
+375;raceethnicity;White
+376;raceethnicity;White
+1791;armed;Firearm
+1792;armed;Unknown
+1793;armed;Disputed
+1794;armed;Non-lethal firearm
+444;classification;Gunshot
+445;classification;Gunshot
+446;classification;Gunshot
+1610;city;Covina
+1611;city;Bell
+1612;city;Clovis
+1346;name;Diahlo Grant
+1347;name;Lonnie Ball
+1348;name;Arturo Yobani-Torrez Valdez
+1349;name;Quron Williams
+810;gender;Male
+811;gender;Male
+904;lawenforcementagency;Lakeshire Police Department St Louis County Police Department
+905;lawenforcementagency;Berkeley County Sheriff's Office
+906;lawenforcementagency;Monongalia County Sheriff’s Office
+1777;gender;Male
+1778;gender;Male
+1779;gender;Male
+445;city;North Port
+446;city;Sand Springs
+1376;lawenforcementagency;Johnson County Sheriff's Office
+1377;lawenforcementagency;Everett Police Department
+1378;lawenforcementagency;Greensboro Police Department
+1087;city;Ragley
+310;classification;Gunshot
+311;classification;Gunshot
+172;armed;No
+441;state;CA
+442;state;CA
+134;name;Anthony Giaquinta
+135;name;Bradford Leonard
+136;name;A'donte Washington
+126;gender;Female
+127;gender;Male
+2111;name;Scottie Yanagawa
+2112;name;Emily Thibodeaux
+2023;gender;Male
+2024;gender;Male
+2025;gender;Female
+2026;gender;Male
+2005;city;Houma
+738;county;hillsborough
+739;county;wayne
+740;county;fresno
+566;gender;Male
+300;armed;Firearm
+301;armed;Knife
+101;county;anchorage
+102;county;franklin
+103;county;garfield
+104;county;shelby
+1580;raceethnicity;Unknown
+1581;raceethnicity;Black
+1111;lawenforcementagency;Palm Beach County Sheriff's Office
+1741;gender;Male
+1742;gender;Male
+435;armed;No
+436;armed;Firearm
+203;state;NC
+204;state;TX
+2001;gender;Male
+2002;gender;Male
+2003;gender;Male
+1861;state;CA
+1862;state;CA
+1863;state;IN
+1939;gender;Male
+1940;gender;Male
+2173;classification;Gunshot
+2174;classification;Gunshot
+2175;classification;Gunshot
+2176;classification;Gunshot
+1116;classification;Gunshot
+1117;classification;Gunshot
+1658;state;LA
+1647;name;Paul Yacabitis
+1648;name;Austin Howard
+1649;name;Bernard Wells III
+1650;name;Steven Longoria
+835;gender;Male
+836;gender;Male
+837;gender;Male
+968;county;christian
+1836;county;harris
+1837;county;dakota
+1145;classification;Gunshot
+1146;classification;Gunshot
+1678;city;Lake City
+876;city;Frederick
+877;city;Washington
+206;classification;Gunshot
+207;classification;Gunshot
+208;classification;Taser
+209;classification;Gunshot
+112;raceethnicity;White
+113;raceethnicity;White
+114;raceethnicity;Black
+115;raceethnicity;White
+1060;raceethnicity;Unknown
+1061;raceethnicity;White
+1062;raceethnicity;Asian/Pacific Islander
+1063;raceethnicity;Hispanic/Latino
+1559;armed;Firearm
+1560;armed;Firearm
+1561;armed;Firearm
+1562;armed;Firearm
+779;raceethnicity;White
+780;raceethnicity;Black
+936;classification;Gunshot
+937;classification;Gunshot
+1880;name;Kirk Figueroa
+199;classification;Gunshot
+200;classification;Taser
+201;classification;Gunshot
+202;classification;Taser
+1522;county;los angeles
+852;raceethnicity;Black
+853;raceethnicity;Black
+854;raceethnicity;White
+855;raceethnicity;Hispanic/Latino
+542;name;Martice Milliner
+543;name;Rocco Palmisano III
+1716;state;CA
+1717;state;AZ
+2058;name;Ronald Massengale
+131;classification;Gunshot
+132;classification;Taser
+133;classification;Gunshot
+892;gender;Male
+893;gender;Male
+702;name;Yonas Alehegne
+703;name;Bertrand Davis
+704;name;Manuel Soriano
+705;name;Robert Hober
+1054;state;MS
+1055;state;AZ
+1056;state;VA
+1057;state;TX
+180;county;chatham
+181;county;richland
+182;county;east baton rouge
+169;raceethnicity;White
+1686;gender;Male
+1687;gender;Male
+1688;gender;Male
+1689;gender;Male
+1863;city;Fort Wayne
+1864;city;Macon
+1865;city;Alexandria
+2096;gender;Male
+2097;gender;Male
+2098;gender;Male
+268;name;Ethan Noll
+269;name;Walter Scott
+270;name;Alexander Myers
+271;name;Desmond Willis
+907;state;OK
+908;state;LA
+1575;county;kent
+1576;county;district of columbia
+1257;state;TX
+1258;state;KS
+1259;state;CA
+607;lawenforcementagency;Terrebonne Parish Sheriff's Office Houma Police Department Louisiana State Police
+608;lawenforcementagency;Florida Highway Patrol
+609;lawenforcementagency;Lexington County Sheriff's Department
+610;lawenforcementagency;Bradley County Sheriff's Department
+990;classification;Gunshot
+1873;lawenforcementagency;Benton Police Department
+1874;lawenforcementagency;California Highway Patrol
+1875;lawenforcementagency;North Carolina State Highway Patrol
+71;county;tarrant
+72;county;payne
+73;county;douglas
+2125;city;Montague
+2126;city;Fisty
+2127;city;Athens
+2128;city;Hesperia
+305;lawenforcementagency;San Antonio Police Department
+306;lawenforcementagency;Wilmore Police Department
+307;lawenforcementagency;Sidney Police Department
+308;lawenforcementagency;Hidalgo County Sheriff's Office
+1613;classification;Other
+1614;classification;Gunshot
+1283;state;CA
+1284;state;CA
+1285;state;TX
+401;city;El Paso
+402;city;Somerset
+1309;city;Redlands
+1310;city;Pawtucket
+1311;city;Blue Springs
+2064;state;TN
+1102;county;los angeles
+1103;county;perry
+703;city;Dallas
+704;city;Los Angeles
+705;city;San Diego
+1924;county;roger mills
+1925;county;los angeles
+1926;county;los angeles
+1346;raceethnicity;Black
+1347;raceethnicity;White
+1348;raceethnicity;Hispanic/Latino
+577;lawenforcementagency;Brownsville Police Department
+578;lawenforcementagency;Farmersville Police Department
+541;state;FL
+542;state;IL
+543;state;UT
+544;state;CA
+1834;county;pulaski
+1451;armed;No
+29;county;brazoria
+30;county;middlesex
+950;name;Marcus Meridy
+951;name;Randy Smith
+952;name;Steve Dormil
+1033;raceethnicity;White
+1034;raceethnicity;Black
+1594;state;FL
+1595;state;UT
+226;county;multnomah
+143;lawenforcementagency;Oklahoma City Police Department
+1986;classification;Gunshot
+1987;classification;Gunshot
+1988;classification;Gunshot
+919;armed;Firearm
+920;armed;Vehicle
+921;armed;Firearm
+922;armed;Firearm
+513;city;Lancaster
+514;city;West Covina
+1752;state;OR
+1947;gender;Male
+1948;gender;Male
+94;gender;Male
+95;gender;Male
+96;gender;Female
+1723;state;CA
+332;county;orleans
+333;county;williamson
+334;county;richland
+280;gender;Male
+281;gender;Male
+282;gender;Male
+283;gender;Male
+2198;classification;Gunshot
+2199;classification;Gunshot
+2200;classification;Gunshot
+927;classification;Gunshot
+928;classification;Death in custody
+929;classification;Gunshot
+930;classification;Gunshot
+1859;county;maricopa
+1860;county;berkeley
+1861;county;los angeles
+505;classification;Gunshot
+506;classification;Struck by vehicle
+345;classification;Gunshot
+1502;classification;Gunshot
+1503;classification;Struck by vehicle
+1504;classification;Gunshot
+80;raceethnicity;Black
+81;raceethnicity;Black
+1025;name;Douglas Yon
+1026;name;Ronnie Carr
+1027;name;Christopher Fletcher
+1028;name;Amos Frerichs
+1769;name;Richard Swihart
+1770;name;Joseph Moreno
+1430;lawenforcementagency;Las Vegas Metropolitan Police Department
+1431;lawenforcementagency;Newark Police Department
+1432;lawenforcementagency;Jacksonville Sheriff's Office
+1635;name;Cody Jarrett
+1817;city;St Cloud
+1818;city;Longmont
+1819;city;Akron
+2132;raceethnicity;White
+2133;raceethnicity;White
+2134;raceethnicity;White
+2135;raceethnicity;White
+1736;state;OH
+273;classification;Gunshot
+274;classification;Gunshot
+275;classification;Gunshot
+276;classification;Gunshot
+1667;state;CA
+1668;state;CA
+1660;lawenforcementagency;Phillips County Sheriff's Office
+1661;lawenforcementagency;Franklin County Sheriff's Office
+1662;lawenforcementagency;San Bernardino Police Department
+710;raceethnicity;Black
+711;raceethnicity;Black
+877;state;DC
+878;state;PA
+879;state;GA
+1913;county;dallas
+1914;county;washington
+634;classification;Gunshot
+635;classification;Gunshot
+1603;classification;Gunshot
+1604;classification;Gunshot
+1605;classification;Gunshot
+1606;classification;Gunshot
+796;raceethnicity;White
+797;raceethnicity;Native American
+798;raceethnicity;White
+799;raceethnicity;Black
+1954;county;dekalb
+1955;county;polk
+2165;gender;Male
+2166;gender;Male
+1877;state;CA
+889;classification;Gunshot
+890;classification;Gunshot
+749;classification;Gunshot
+750;classification;Death in custody
+751;classification;Gunshot
+2160;gender;Male
+2161;gender;Male
+2162;gender;Male
+1044;state;CA
+1045;state;NC
+1046;state;LA
+14;armed;Firearm
+1547;classification;Gunshot
+1548;classification;Gunshot
+2129;raceethnicity;White
+1146;city;Santa Fe
+693;city;Jacksonville

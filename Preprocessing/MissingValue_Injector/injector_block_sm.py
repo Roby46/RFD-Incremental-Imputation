@@ -51,7 +51,7 @@ def write_row_to_csv(file_path, row_data):
 
 percentages = [1,2,3,4,5,10,20,30,40,50]
 column_types = [""]
-dataset = "cars_MNAR"
+dataset = "police_MNAR"
 delimiter = ';'
 path_file = f'../../Datasets/Preprocessed_Datasets/{dataset}.csv'
 iterations = [1,2,3,4,5]
@@ -65,59 +65,59 @@ total_values = len(df.columns.tolist()) * len(df)
 print(len(df))
 
 column_types = [determine_column_type(df[col]) for col in df.columns]
-max_malfunction_duration=3
+max_malfunction_duration=4
 
 
 for iteration in iterations:
-            for p in percentages:
-                df = pd.read_csv(path_file, sep=delimiter)
-                mv_target = round(total_values * (p / 100))
-                mv_count = 0
+    for p in percentages:
+        df = pd.read_csv(path_file, sep=delimiter)
+        mv_target = round(total_values * (p / 100))
+        mv_count = 0
 
-                inviolable_indices = generate_inviolable_indices(len(df), n_inviolable_rows)
+        inviolable_indices = generate_inviolable_indices(len(df), n_inviolable_rows)
 
-                missing_dataset_name = f'{dataset}_{mv_target}_{iteration}'
-
-
-                column_types_data = column_types + [missing_dataset_name]
-                column_types_output_path = f'../../Preprocessing/ColumnTypes/ColumnTypes.csv'
-                write_unique_row_to_csv(column_types_output_path, column_types_data)
-
-                header_data = df.columns.tolist() + [missing_dataset_name]
-                header_output_path = f'../../Preprocessing/Headers/Headers.csv'
-                write_unique_row_to_csv(header_output_path, header_data)
+        missing_dataset_name = f'{dataset}_{mv_target}_{iteration}'
 
 
-                path_initial_tuples_output = f'../../Preprocessing/Initial_Tuples/{dataset}/{missing_dataset_name}.csv'
-                os.makedirs(os.path.dirname(path_initial_tuples_output), exist_ok=True)
+        column_types_data = column_types + [missing_dataset_name]
+        column_types_output_path = f'../../Preprocessing/ColumnTypes/ColumnTypes.csv'
+        write_unique_row_to_csv(column_types_output_path, column_types_data)
 
-                while mv_count < mv_target:
-                    sensor_col = random.randint(0, len(df.columns.tolist()) - 1)
-                    start_time = random.randint(0, len(df) - 1)
-                    malfunction_duration = random.randint(1, max_malfunction_duration)
+        header_data = df.columns.tolist() + [missing_dataset_name]
+        header_output_path = f'../../Preprocessing/Headers/Headers.csv'
+        write_unique_row_to_csv(header_output_path, header_data)
 
-                    # Limit duration to avoid exceeding mv_target
-                    remaining_mvs = mv_target - mv_count
-                    malfunction_duration = min(malfunction_duration, remaining_mvs)
 
-                    if is_valid_interval(start_time, malfunction_duration, inviolable_indices, len(df)):
-                        for i in range(malfunction_duration):
-                            row_idx = start_time + i
-                            if row_idx >= len(df):
-                                break
-                            if df.iat[row_idx, sensor_col] != null_value:
-                                raw_data = [row_idx + 1, df.columns[sensor_col], df.iat[row_idx, sensor_col]]
-                                write_row_to_csv(path_initial_tuples_output, raw_data)
-                                df.iat[row_idx, sensor_col] = null_value
-                                mv_count += 1
-                                if mv_count >= mv_target:
-                                    break  # Stop if we reach the target missing values
+        path_initial_tuples_output = f'../../Preprocessing/Initial_Tuples/{dataset}/{missing_dataset_name}.csv'
+        os.makedirs(os.path.dirname(path_initial_tuples_output), exist_ok=True)
 
-                print(f"{mv_count} missing values injected for {missing_dataset_name}")
-                count_question_marks = (df == "?").sum().sum()
-                print(count_question_marks, "Missing values found")
+        while mv_count < mv_target:
+            sensor_col = random.randint(0, len(df.columns.tolist()) - 1)
+            start_time = random.randint(0, len(df) - 1)
+            malfunction_duration = random.randint(1, max_malfunction_duration)
 
-                df_complete = df[~df.isin([null_value]).any(axis=1)]
-                path_file_output = f'../../Datasets/Missing_Datasets/{dataset}/{missing_dataset_name}.csv'
-                os.makedirs(os.path.dirname(path_file_output), exist_ok=True)
-                df.to_csv(path_file_output, index=None, sep=";", header=False)
+            # Limit duration to avoid exceeding mv_target
+            remaining_mvs = mv_target - mv_count
+            malfunction_duration = min(malfunction_duration, remaining_mvs)
+
+            if is_valid_interval(start_time, malfunction_duration, inviolable_indices, len(df)):
+                for i in range(malfunction_duration):
+                    row_idx = start_time + i
+                    if row_idx >= len(df):
+                        break
+                    if df.iat[row_idx, sensor_col] != null_value:
+                        raw_data = [row_idx + 1, df.columns[sensor_col], df.iat[row_idx, sensor_col]]
+                        write_row_to_csv(path_initial_tuples_output, raw_data)
+                        df.iat[row_idx, sensor_col] = null_value
+                        mv_count += 1
+                        if mv_count >= mv_target:
+                            break  # Stop if we reach the target missing values
+
+        print(f"{mv_count} missing values injected for {missing_dataset_name}")
+        count_question_marks = (df == "?").sum().sum()
+        print(count_question_marks, "Missing values found")
+
+        df_complete = df[~df.isin([null_value]).any(axis=1)]
+        path_file_output = f'../../Datasets/Missing_Datasets/{dataset}/{missing_dataset_name}.csv'
+        os.makedirs(os.path.dirname(path_file_output), exist_ok=True)
+        df.to_csv(path_file_output, index=None, sep=";", header=False)

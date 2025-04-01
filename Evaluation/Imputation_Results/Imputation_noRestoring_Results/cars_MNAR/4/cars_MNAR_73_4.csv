@@ -1,0 +1,74 @@
+riga;nome attributo;valore da imputare;valore imputato
+343;Model;80;?
+344;Model;80;?
+118;Weight;2379.0;?
+119;Weight;2124.0;?
+1;Horsepower;130.0;150.0
+2;Horsepower;165.0;?
+3;Horsepower;150.0;150.0
+353;MPG;35.1;?
+354;MPG;32.3;?
+404;Horsepower;84.0;?
+349;Horsepower;110.0;?
+244;Acceleration;15.8;?
+245;Acceleration;17.0;?
+246;Acceleration;15.9;?
+346;Cylinders;4;4
+347;Cylinders;4;4
+348;Cylinders;4;?
+68;Model;72;71
+69;Model;72;71
+206;Horsepower;53.0;53.0
+207;Horsepower;100.0;?
+208;Horsepower;78.0;?
+218;Car;Toyota Mark II;?
+219;Car;Mercedes-Benz 280s;?
+284;MPG;21.6;0.0
+285;MPG;16.2;18.1
+231;MPG;15.5;15.0
+232;MPG;15.0;13.0
+384;MPG;36.0;?
+385;MPG;37.0;?
+341;Origin;Japan;Japan
+342;Origin;Japan;Japan
+343;Origin;Europe;?
+236;Model;77;?
+23;Displacement;199.0;?
+302;Origin;Japan;?
+101;Model;73;?
+379;Acceleration;16.2;?
+57;MPG;23.0;25.0
+389;Acceleration;14.5;?
+11;Acceleration;17.5;?
+12;Acceleration;11.5;?
+53;Acceleration;13.5;?
+54;Acceleration;19.0;15.5
+55;Acceleration;15.0;?
+231;Horsepower;145.0;?
+232;Horsepower;130.0;?
+132;MPG;11.0;17.0
+133;MPG;20.0;23.0
+347;Car;Buick Skylark;?
+348;Car;Dodge Aries Wagon (sw);?
+153;MPG;32.0;?
+374;Horsepower;88.0;?
+375;Horsepower;85.0;?
+185;Model;75;?
+186;Model;75;?
+187;Model;75;?
+385;Weight;2025.0;?
+386;Weight;1970.0;?
+150;Origin;Europe;Europe
+151;Origin;Europe;Europe
+6;Displacement;429.0;?
+168;Acceleration;21.0;?
+169;Acceleration;18.5;?
+170;Acceleration;19.0;?
+325;Acceleration;15.8;?
+401;Model;82;?
+402;Model;82;?
+253;Origin;US;US
+254;Origin;Japan;?
+141;MPG;16.0;?
+8;Car;Plymouth Fury iii;?
+9;Car;Pontiac Catalina;?

@@ -1,0 +1,38 @@
+riga;nome attributo;valore da imputare;valore imputato
+249;Weight;2815.0;?
+250;Weight;2600.0;?
+251;Weight;2720.0;?
+249;Origin;Japan;?
+250;Origin;Europe;Europe
+251;Origin;Japan;Japan
+190;Model;76;?
+191;Model;76;72
+192;Model;76;73
+132;Acceleration;11.0;?
+229;Horsepower;145.0;?
+36;Model;71;70
+377;Car;Chevrolet Cavalier Wagon;?
+340;Horsepower;62.0;?
+341;Horsepower;132.0;?
+46;Cylinders;8;8
+280;Model;78;82
+281;Model;78;72
+248;Car;Volkswagen Dasher;?
+249;Car;Datsun 810;?
+216;Horsepower;150.0;?
+27;Horsepower;87.0;?
+28;Horsepower;90.0;?
+136;Acceleration;17.0;?
+137;Acceleration;19.0;?
+138;Acceleration;16.5;16.0
+76;Horsepower;155.0;?
+77;Horsepower;160.0;?
+183;MPG;29.0;41.5
+137;Displacement;79.0;?
+159;Weight;2000.0;?
+160;Weight;3264.0;?
+161;Weight;3459.0;?
+104;Acceleration;11.0;?
+105;Acceleration;16.5;15.4
+106;Acceleration;18.0;?
+138;Horsepower;80.0;?

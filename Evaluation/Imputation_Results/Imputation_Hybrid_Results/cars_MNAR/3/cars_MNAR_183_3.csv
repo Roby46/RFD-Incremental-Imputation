@@ -1,0 +1,184 @@
+riga;nome attributo;valore da imputare;valore imputato
+282;Model;78;?
+283;Model;78;?
+284;Model;78;?
+354;Model;81;?
+205;Origin;Europe;Europe
+206;Origin;Japan;Japan
+381;Weight;2735.0;?
+340;Model;80;?
+291;Model;79;?
+292;Model;79;?
+207;Acceleration;17.7;?
+208;Acceleration;21.0;?
+209;Acceleration;16.2;?
+216;Displacement;318.0;?
+217;Displacement;120.0;?
+99;Cylinders;8;8
+100;Cylinders;8;8
+251;Horsepower;110.0;?
+252;Horsepower;48.0;?
+300;Displacement;360.0;?
+301;Displacement;89.0;?
+5;Origin;US;US
+6;Origin;US;US
+231;Model;77;?
+173;Car;Chevrolet Monza 2+2;?
+365;Car;Datsun 200SX;?
+366;Car;Mazda 626;?
+403;Displacement;97.0;?
+404;Displacement;135.0;?
+243;MPG;26.0;26.0
+276;Acceleration;14.7;?
+277;Acceleration;14.5;?
+278;Acceleration;14.8;?
+379;Acceleration;16.2;?
+380;Acceleration;16.0;?
+381;Acceleration;18.0;?
+247;Car;Subaru DL;?
+248;Car;Volkswagen Dasher;?
+249;Car;Datsun 810;?
+1;Origin;US;US
+2;Origin;US;US
+253;Weight;1800.0;?
+254;Weight;1985.0;?
+387;Acceleration;14.7;?
+388;Acceleration;17.3;?
+304;Displacement;121.0;?
+305;Displacement;183.0;?
+306;Displacement;350.0;?
+7;MPG;14.0;18.0
+396;Model;82;?
+397;Model;82;?
+373;Acceleration;19.0;?
+374;Acceleration;17.1;?
+375;Acceleration;16.6;?
+348;MPG;25.8;?
+349;MPG;23.5;?
+350;MPG;30.0;?
+136;Displacement;250.0;?
+137;Displacement;79.0;?
+210;Origin;US;US
+211;Origin;Europe;Europe
+212;Origin;Japan;Japan
+280;Weight;2855.0;?
+281;Weight;2405.0;?
+158;Horsepower;93.0;?
+302;Acceleration;15.2;?
+76;MPG;13.0;12.0
+243;Cylinders;4;4
+244;Cylinders;4;4
+245;Cylinders;4;4
+206;Displacement;91.0;91.0
+239;Acceleration;12.2;?
+49;Displacement;318.0;318.0
+50;Displacement;383.0;?
+51;Displacement;400.0;?
+374;Cylinders;6;6
+375;Cylinders;6;?
+376;Cylinders;4;6
+317;Displacement;98.0;?
+318;Displacement;89.0;?
+319;Displacement;98.0;?
+284;Horsepower;115.0;?
+285;Horsepower;133.0;?
+233;Car;Chevrolet Concours;?
+324;Cylinders;6;6
+325;Cylinders;4;4
+326;Cylinders;4;4
+162;Acceleration;21.0;?
+163;Acceleration;19.5;?
+349;Displacement;173.0;?
+350;Displacement;135.0;?
+351;Displacement;79.0;?
+389;Weight;2160.0;?
+176;Acceleration;17.0;?
+177;Acceleration;16.0;?
+178;Acceleration;18.5;?
+352;Origin;US;US
+164;Cylinders;8;8
+39;MPG;25.0;29.0
+40;MPG;0.0;26.0
+41;MPG;19.0;?
+315;Horsepower;115.0;?
+89;Horsepower;92.0;95.0
+90;Horsepower;97.0;76.0
+91;Horsepower;80.0;?
+157;Origin;Japan;Japan
+186;Car;Peugeot 504;?
+187;Car;Volvo 244DL;?
+188;Car;Saab 99LE;?
+223;Acceleration;14.0;?
+224;Acceleration;18.5;?
+390;Displacement;107.0;?
+391;Displacement;108.0;?
+43;MPG;17.0;15.0
+44;MPG;19.0;?
+19;Cylinders;8;8
+207;Displacement;225.0;?
+208;Displacement;250.0;?
+265;Origin;US;US
+54;Cylinders;4;4
+55;Cylinders;6;6
+253;Horsepower;66.0;?
+254;Horsepower;52.0;?
+255;Horsepower;70.0;?
+328;Origin;Japan;Japan
+329;Origin;Japan;Japan
+138;Horsepower;80.0;?
+139;Horsepower;65.0;?
+140;Horsepower;75.0;?
+85;Car;Volkswagen 411 (sw);?
+320;Car;Datsun 310;?
+321;Car;Chevrolet Citation;?
+322;Car;Ford Fairmont;?
+164;Car;Pontiac Catalina;?
+165;Car;Chevrolet Bel Air;?
+166;Car;Plymouth Grand Fury;?
+9;Car;Pontiac Catalina;?
+10;Car;AMC Ambassador DPL;?
+38;Horsepower;95.0;113.0
+377;Cylinders;4;4
+29;Origin;Europe;Europe
+30;Origin;Europe;US
+31;Origin;US;US
+385;Displacement;91.0;?
+386;Displacement;91.0;?
+349;Acceleration;12.6;?
+350;Acceleration;12.9;?
+351;Acceleration;16.9;?
+31;Weight;2648.0;?
+32;Weight;4615.0;?
+33;Weight;4376.0;?
+29;Weight;2375.0;?
+25;Acceleration;14.5;14.5
+26;Acceleration;20.5;?
+72;MPG;15.0;0.0
+73;MPG;14.0;0.0
+74;MPG;17.0;14.0
+78;Displacement;400.0;?
+79;Displacement;70.0;?
+80;Displacement;304.0;304.0
+264;Cylinders;6;6
+265;Cylinders;6;6
+168;Cylinders;6;6
+190;Model;76;?
+222;Model;76;?
+223;Model;76;?
+224;Model;77;?
+29;Cylinders;4;4
+30;Cylinders;4;4
+31;Cylinders;6;4
+170;Cylinders;6;6
+171;Cylinders;6;6
+73;Displacement;351.0;318.0
+20;MPG;14.0;0.0
+21;MPG;24.0;28.0
+21;Weight;2372.0;?
+22;Weight;2833.0;?
+23;Weight;2774.0;?
+344;Displacement;140.0;?
+345;Displacement;107.0;?
+346;Displacement;135.0;?
+271;MPG;17.7;?
+65;MPG;24.0;28.0
