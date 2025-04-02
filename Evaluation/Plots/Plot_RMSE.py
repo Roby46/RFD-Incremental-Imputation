@@ -39,8 +39,8 @@ def plot_rmse_results(datasets, ncols=2):
     # Calcolo del numero di righe necessarie
     nrows = (num_datasets + ncols - 1) // ncols  # Formula per arrotondare verso l'alto
 
-    fig, axs = plt.subplots(nrows, ncols, figsize=(13, 6), sharey=True, sharex=True)  # Aggiunto sharex=True
-
+    #fig, axs = plt.subplots(nrows, ncols, figsize=(13, 6), sharey=True, sharex=True)
+    fig, axs = plt.subplots(nrows, ncols, figsize=(19, 8), sharey=True, sharex=True)
     # Modifica degli spazi orizzontali e verticali
     fig.subplots_adjust(hspace=0.20, wspace=0.04)  # Riduci hspace e wspace
 
@@ -99,7 +99,7 @@ def plot_rmse_results(datasets, ncols=2):
 
 # Esempio di utilizzo
 filepath = '../ALL_Results_v3.csv'  # Modifica con il percorso del tuo CSV
-selected_datasets = ['Boeing_898', 'actorfilms_4000', 'restaurant', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', 'cars', "superstore_4500", "police", "IoT_Telemetry3000", "F1_REBUILT_5000", "MotoGP_REBUILT_3000", "Med_Ch_2500", "Air_9000", "restaurant_MNAR", "cars_MNAR"]  # Aggiungi altri dataset qui
+selected_datasets = ['Boeing_898', 'actorfilms_4000', 'restaurant', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', 'cars', "superstore_4500", "police", "IoT_Telemetry3000", "F1_REBUILT_5000", "MotoGP_REBUILT_3000", "Med_Ch_2500", "Air_9000", "restaurant_MNAR", "cars_MNAR", "Boeing_898_MNAR"]  # Aggiungi altri dataset qui
 datasets = load_rmse_data(filepath, selected_datasets)  # Carica i dati RMSE
 print(datasets)
 plot_rmse_results(datasets, ncols=4)  # Mostra i risultati, specificando il numero di colonne

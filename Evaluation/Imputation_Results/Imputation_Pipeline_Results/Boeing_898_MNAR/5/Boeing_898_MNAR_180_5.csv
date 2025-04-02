@@ -1,0 +1,181 @@
+riga;nome attributo;valore da imputare;valore imputato
+360;Order_Year;1974;1974
+157;Order_Month;Dec;?
+158;Order_Month;Jan;?
+128;Country;Mauritania;?
+129;Country;Finland;?
+598;Customer_Name;Boullioun Aviation Services;?
+599;Customer_Name;Far Eastern Air Transport;?
+531;Delivery_Year_;2014;?
+532;Delivery_Year_;1990;?
+253;Order_Month;Mar;?
+442;Delivery_Year_;1978;?
+443;Delivery_Year_;1971;?
+444;Delivery_Year_;1979;?
+198;Country;USA;?
+199;Country;Brazil;?
+207;Delivery_Year_;1967;?
+208;Delivery_Year_;2018;?
+209;Delivery_Year_;1980;?
+13;Engine;CF;?
+14;Engine;PW;?
+15;Engine;PW;?
+257;Country;Sweden;Sweden
+155;Region;North America;North America
+156;Region;Europe;Europe
+766;Customer_Name;North Central Airlines;?
+473;Customer_Name;Japan Transocean Air;?
+474;Customer_Name;Avolon - Ireland;?
+475;Customer_Name;British Royal Air Force;?
+331;Order_Year;2010;2008
+28;Model_Series;747-400ERF;?
+287;Customer_Name;Maersk Air;?
+139;Delivery_Total;1;2
+454;Engine;CF;?
+455;Engine;CF;?
+456;Engine;CF;?
+866;Country;China;?
+867;Country;USA;USA
+12;Country;Turkey;Turkey
+581;Model_Series;747-8F;?
+582;Model_Series;767-300ER;?
+583;Model_Series;737-800;?
+855;Delivery_Total;1;2
+856;Delivery_Total;2;3
+857;Delivery_Total;1;3
+747;Customer_Name;North Central Airlines;?
+748;Customer_Name;Goiania;?
+749;Customer_Name;BDS Australia P-8;?
+217;Country;Germany;Germany
+218;Country;USA;?
+479;Order_Year;2007;2007
+251;Delivery_Year_;2007;?
+252;Delivery_Year_;2017;?
+835;Order_Year;1966;?
+836;Order_Year;2009;?
+837;Order_Year;1988;?
+629;Order_Total;3;2
+878;Engine;CF;?
+879;Engine;PW;?
+880;Engine;PW;?
+145;Order_Month;Mar;?
+146;Order_Month;Jan;?
+546;Delivery_Total;3;3
+547;Delivery_Total;1;3
+548;Delivery_Total;1;3
+4;Delivery_Year_;2010;?
+5;Delivery_Year_;2012;?
+6;Delivery_Year_;1978;?
+175;Model_Series;747-200;?
+176;Model_Series;777F;?
+407;Customer_Name;Middle East Airlines;?
+408;Customer_Name;VASP Airlines;?
+409;Customer_Name;Korean Air;?
+164;Order_Month;Dec;?
+165;Order_Month;Dec;?
+799;Region;North America;North America
+702;Country;United Arab Emirates;United Arab Emirates
+703;Country;Spain;?
+704;Country;Italy;Italy
+773;Model_Series;777-300ER;?
+774;Model_Series;737-200;?
+738;Engine;GE;?
+739;Engine;CF;?
+740;Engine;PW;?
+595;Order_Month;Apr;?
+596;Order_Month;May;?
+597;Order_Month;May;?
+80;Country;Saudi Arabia;?
+81;Country;Brazil;?
+82;Country;USA;?
+569;Country;United Kingdom;?
+570;Country;United Arab Emirates;United Arab Emirates
+571;Country;Algeria;Algeria
+754;Customer_Name;Zambia Airways;?
+755;Customer_Name;Ethiopian Airlines Group;?
+601;Delivery_Year_;1966;?
+497;Delivery_Total;1;3
+444;Delivery_Total;1;3
+275;Engine;PW;?
+684;Region;Europe;Europe
+685;Region;North America;North America
+90;Delivery_Year_;2016;?
+329;Order_Total;8;?
+134;Delivery_Year_;1992;?
+135;Delivery_Year_;2011;?
+853;Delivery_Year_;2021;?
+854;Delivery_Year_;2006;?
+181;Customer_Name;Aviation Capital Group;?
+182;Customer_Name;Nepal Airlines Corporation;?
+183;Customer_Name;DAE Aerospace Enterprise;?
+95;Region;North America;North America
+96;Region;North America;North America
+97;Region;Caribbean;Caribbean
+741;Country;Germany;?
+742;Country;Greece;Greece
+743;Country;South Africa;South Africa
+658;Customer_Name;BDS USAF Tanker Program;?
+659;Customer_Name;777 Partners;?
+660;Customer_Name;Brussels Airlines SA/NV;?
+718;Delivery_Total;1;3
+324;Country;Netherlands;?
+325;Country;Netherlands;?
+388;Region;Europe;Europe
+389;Region;North America;North America
+390;Region;North America;North America
+58;Region;Europe;Europe
+59;Region;Southeast Asia;Southeast Asia
+180;Country;Sweden;Sweden
+181;Country;USA;?
+10;Country;France;?
+11;Country;United Kingdom;?
+560;Order_Month;Mar;?
+561;Order_Month;Jun;?
+90;Order_Month;Dec;?
+780;Region;East Asia;East Asia
+488;Delivery_Year_;1960;?
+489;Delivery_Year_;1979;?
+808;Model_Series;737-300;?
+809;Model_Series;DC-10;?
+134;Delivery_Total;1;1
+135;Delivery_Total;2;3
+136;Delivery_Total;1;1
+770;Country;Mauritius;?
+771;Country;Syrian Arab Republic;Syrian Arab Republic
+590;Order_Year;1971;1971
+591;Order_Year;1973;?
+759;Customer_Name;Air Gabon;?
+760;Customer_Name;Midwest Airlines Inc.;?
+761;Customer_Name;FedEx Express;?
+509;Order_Year;1996;?
+510;Order_Year;1958;?
+817;Order_Month;Jul;?
+873;Engine;PW;?
+608;Region;South America;South America
+76;Order_Total;1;1
+77;Order_Total;1;?
+658;Order_Year;2017;?
+659;Order_Year;2021;?
+660;Order_Year;1995;?
+192;Delivery_Total;1;1
+193;Delivery_Total;1;1
+96;Order_Year;1982;?
+97;Order_Year;1988;1988
+782;Engine;RR;?
+619;Delivery_Year_;2016;?
+620;Delivery_Year_;1960;?
+621;Delivery_Year_;1980;?
+144;Region;North America;North America
+145;Region;Europe;Europe
+258;Delivery_Total;1;1
+259;Delivery_Total;4;4
+260;Delivery_Total;1;1
+375;Delivery_Year_;1991;?
+630;Delivery_Year_;1971;?
+631;Delivery_Year_;2020;?
+831;Order_Month;Dec;?
+832;Order_Month;Jan;?
+310;Engine;RR;?
+311;Engine;CF;?
+612;Customer_Name;Ariana Afghan Airlines;?
+150;Country;USA;?

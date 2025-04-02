@@ -1,0 +1,64 @@
+riga;nome attributo;valore da imputare;valore imputato
+15;Customer_Name;U.S. Air Force;?
+15;Model_Series;707/720;?
+16;Model_Series;737-200;?
+9;Model_Series;757-200;?
+10;Model_Series;MD-80;?
+11;Model_Series;757-200;?
+1;Order_Total;3;?
+2;Order_Total;2;?
+3;Order_Total;1;?
+9;Engine;RR;?
+7;Delivery_Year_;1976;?
+8;Delivery_Year_;2002;?
+9;Delivery_Year_;2000;?
+12;Region;Europe;?
+8;Region;East Asia;?
+8;Engine;RR;?
+13;Model_Series;737-300;?
+14;Model_Series;MD-80;?
+12;Order_Year;2006;?
+13;Order_Year;1991;?
+5;Customer_Name;Volga-Dnepr UK Ltd;?
+6;Customer_Name;Aerolineas Argentinas;?
+16;Country;Germany;?
+8;Delivery_Total;1;?
+8;Customer_Name;China Xinjiang Airlines;?
+9;Customer_Name;ATA Airlines Inc.;KLM Royal Dutch Airlines
+1;Order_Year;1966;?
+2;Order_Year;2002;?
+3;Order_Year;1982;?
+14;Order_Month;May;?
+11;Engine;RR;?
+12;Engine;CF;?
+13;Engine;CF;?
+5;Order_Total;3;?
+6;Order_Total;2;?
+7;Order_Total;3;?
+1;Model_Series;DC-9;?
+14;Delivery_Total;1;?
+15;Delivery_Total;1;?
+16;Delivery_Total;2;?
+6;Delivery_Total;2;?
+7;Delivery_Total;3;?
+6;Region;South America;?
+9;Region;North America;?
+10;Region;Europe;?
+10;Customer_Name;AOM French Airlines;?
+11;Customer_Name;Air Europe;?
+12;Customer_Name;Pegasus Airlines;?
+3;Country;Netherlands;?
+15;Order_Month;Jan;?
+10;Country;France;Netherlands
+11;Country;United Kingdom;?
+12;Country;Turkey;?
+17;Delivery_Total;1;?
+7;Order_Year;1976;?
+8;Order_Year;2000;?
+9;Order_Year;2000;1995
+17;Delivery_Year_;2005;?
+14;Country;Venezuela;China
+13;Customer_Name;ITOCHU AirLease B.V.;?
+14;Customer_Name;Aeropostal;?
+1;Engine;PW;?
+2;Engine;CF;?

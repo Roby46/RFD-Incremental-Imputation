@@ -1,0 +1,91 @@
+riga;nome attributo;valore da imputare;valore imputato
+201;Delivery_Year_;2011;?
+675;Delivery_Total;2;3
+676;Delivery_Total;5;4
+509;Order_Month;Jul;?
+16;Country;Germany;?
+17;Country;Turkey;Turkey
+18;Country;Germany;?
+287;Order_Total;1;1
+288;Order_Total;1;?
+128;Order_Total;1;?
+129;Order_Total;2;2
+130;Order_Total;1;?
+187;Delivery_Year_;1971;?
+188;Delivery_Year_;1973;?
+189;Delivery_Year_;2018;?
+586;Delivery_Year_;1967;?
+587;Delivery_Year_;1978;?
+244;Region;South America;South America
+245;Region;Europe;Europe
+246;Region;Middle East;Middle East
+448;Delivery_Year_;1978;?
+449;Delivery_Year_;2014;?
+604;Engine;CF;?
+605;Engine;GE;?
+186;Order_Total;6;?
+187;Order_Total;2;1
+87;Order_Total;2;2
+368;Region;Oceania;Oceania
+369;Region;North America;North America
+370;Region;South America;South America
+422;Customer_Name;Nauru Airlines;?
+423;Customer_Name;AIR ITALY S.p.A.;?
+727;Country;Brazil;?
+728;Country;USA;?
+543;Order_Total;1;?
+544;Order_Total;1;?
+545;Order_Total;1;?
+885;Country;USA;?
+886;Country;Australia;?
+887;Country;Canada;?
+63;Model_Series;757-200;?
+64;Model_Series;787-9;?
+44;Delivery_Year_;1975;?
+760;Order_Total;11;?
+761;Order_Total;1;?
+762;Order_Total;1;?
+12;Delivery_Total;1;3
+13;Delivery_Total;1;3
+438;Order_Total;2;?
+439;Order_Total;1;?
+440;Order_Total;1;?
+348;Delivery_Year_;2004;?
+502;Country;France;France
+151;Order_Year;1968;?
+811;Customer_Name;Dominicana Airlines;?
+812;Customer_Name;Great China Airlines;?
+256;Engine;CF;?
+257;Engine;CF;?
+601;Engine;PW;?
+602;Engine;CF;?
+652;Order_Year;1970;?
+653;Order_Year;1988;?
+67;Order_Total;9;9
+68;Order_Total;1;1
+69;Order_Total;1;?
+157;Engine;CF;?
+158;Engine;GE;?
+269;Customer_Name;Dream Aviation Ltd.;?
+270;Customer_Name;Boeing Capital Corporation;?
+271;Customer_Name;Varig Airlines;?
+372;Order_Year;2014;?
+373;Order_Year;1969;?
+804;Delivery_Total;1;1
+882;Order_Year;2005;?
+729;Delivery_Year_;1966;?
+730;Delivery_Year_;1991;?
+731;Delivery_Year_;2011;?
+627;Model_Series;777F;?
+628;Model_Series;737-200;?
+279;Order_Total;4;4
+767;Order_Month;Apr;?
+768;Order_Month;Apr;?
+382;Order_Year;1974;?
+812;Order_Year;1990;?
+813;Order_Year;2010;?
+814;Order_Year;1975;?
+183;Delivery_Total;1;1
+807;Order_Total;3;?
+115;Model_Series;707/720;?
+116;Model_Series;777-300ER;?

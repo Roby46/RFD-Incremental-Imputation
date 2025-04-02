@@ -1,0 +1,91 @@
+riga;nome attributo;valore da imputare;valore imputato
+92;Region;Southeast Asia;Southeast Asia
+136;Region;North America;North America
+746;Order_Month;Mar;?
+747;Order_Month;Mar;?
+533;Order_Year;2007;?
+534;Order_Year;1975;?
+535;Order_Year;1992;?
+224;Order_Year;1988;?
+649;Model_Series;707/720;?
+650;Model_Series;787-9;?
+651;Model_Series;727;?
+555;Engine;CF;?
+556;Engine;GE;?
+772;Customer_Name;Voyager Aviation Aircraft Leas;?
+773;Customer_Name;Swiss International Air Lines;?
+774;Customer_Name;Arkia Israeli Airlines;?
+557;Delivery_Total;1;3
+558;Delivery_Total;1;1
+559;Delivery_Total;2;3
+781;Engine;PW;?
+782;Engine;RR;?
+783;Engine;GE;?
+434;Order_Year;1963;?
+435;Order_Year;2018;?
+436;Order_Year;1977;?
+314;Country;USA;USA
+315;Country;Czech Republic;?
+316;Country;Turkmenistan;?
+311;Engine;CF;?
+312;Engine;GE;?
+313;Engine;CF;?
+586;Country;Sweden;?
+454;Order_Total;1;?
+455;Order_Total;4;?
+456;Order_Total;8;?
+892;Engine;PW;?
+893;Engine;CF;?
+345;Delivery_Year_;1980;?
+80;Engine;GE;?
+81;Engine;RR;?
+82;Engine;PW;?
+304;Order_Year;1977;?
+419;Region;North America;North America
+420;Region;Africa;?
+421;Region;Middle East;Middle East
+831;Delivery_Total;4;4
+832;Delivery_Total;3;3
+647;Region;East Asia;East Asia
+615;Order_Year;1979;?
+616;Order_Year;1980;?
+883;Delivery_Year_;1966;?
+612;Model_Series;727;?
+775;Model_Series;777-300ER;?
+248;Delivery_Year_;1968;?
+845;Delivery_Total;1;3
+846;Delivery_Total;1;3
+847;Delivery_Total;5;3
+730;Engine;CF;?
+731;Engine;CF;?
+732;Engine;PW;?
+820;Order_Year;2006;?
+821;Order_Year;1993;?
+822;Order_Year;1979;?
+784;Model_Series;DC-10;?
+521;Delivery_Total;2;3
+540;Country;South Africa;?
+541;Country;Germany;Germany
+542;Country;Sweden;Sweden
+51;Order_Year;1982;?
+190;Customer_Name;Air Gabon;?
+315;Order_Year;1992;?
+275;Order_Total;1;?
+141;Engine;CF;?
+271;Delivery_Total;1;1
+272;Delivery_Total;2;2
+428;Order_Month;May;?
+863;Order_Total;2;2
+864;Order_Total;1;1
+865;Order_Total;3;3
+694;Delivery_Year_;1990;?
+695;Delivery_Year_;1976;?
+895;Order_Year;2006;?
+267;Region;North America;North America
+268;Region;Europe;Europe
+269;Region;Middle East;Middle East
+240;Customer_Name;EL AL Israel Airlines;?
+241;Customer_Name;Nippon Cargo Airlines;?
+365;Delivery_Total;1;3
+855;Order_Month;Feb;?
+856;Order_Month;Aug;?

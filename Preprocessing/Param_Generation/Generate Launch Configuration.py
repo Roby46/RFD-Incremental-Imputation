@@ -58,7 +58,7 @@ def generate_launch_file(dataset_name, command_string, template, output_dir, ree
 
 
 #dataset = "EV_Vehicles_4000"  # Change dataset name as needed
-dataset = "cars_MNAR"
+dataset = "Boeing_898_MNAR"
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
 heap_size_gb=64
@@ -68,7 +68,7 @@ heap_size_gb=64
 algoritmo="RFD_Generator"
 #algoritmo="Baseline"
 #algoritmo="baseline2"
-reevaluation=True #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
+reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
 # Number of missing values
 #missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
