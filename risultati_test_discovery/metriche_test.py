@@ -29,8 +29,8 @@ def compute_metrics(spec, gen, new, not_found, found):
 
 specialized=5
 generalized=1
-new=2
+new=6
 not_found=3
-found=1
+found=6
 
 compute_metrics(specialized, generalized, new, not_found, found)
