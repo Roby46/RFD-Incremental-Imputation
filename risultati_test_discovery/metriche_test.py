@@ -1,4 +1,3 @@
-import pandas as pd
 
 def metric1(spec, gen, nw, nf, oracle, coeff):
     numerator = nf + coeff * spec + coeff * gen + nw
