@@ -1,0 +1,91 @@
+riga;nome attributo;valore da imputare;valore imputato
+214;Order_Month;Feb;?
+577;Order_Total;3;1
+578;Order_Total;3;1
+579;Order_Total;1;1
+470;Delivery_Year_;1979;?
+471;Delivery_Year_;1983;?
+472;Delivery_Year_;1969;?
+271;Region;South America;South America
+565;Model_Series;767-2C;?
+566;Model_Series;DC-9;?
+567;Model_Series;777-200ER;777-200ER
+717;Order_Month;Apr;?
+718;Order_Month;Feb;?
+719;Order_Month;Jan;?
+32;Order_Total;1;1
+528;Country;Qatar;?
+62;Engine;PW;PW
+891;Engine;RR;?
+892;Engine;PW;PW
+893;Engine;CF;?
+495;Customer_Name;Standard Airways;?
+496;Customer_Name;Gulf Air;?
+497;Customer_Name;Air Atlantis;?
+360;Country;USA;USA
+180;Order_Month;Jan;?
+814;Country;Iraq;Iraq
+247;Order_Year;2004;2004
+248;Order_Year;1966;?
+249;Order_Year;1972;?
+462;Customer_Name;Pegasus Airlines;?
+463;Customer_Name;Seaboard World Airlines;?
+464;Customer_Name;ANA Holdings Inc.;?
+888;Order_Total;1;1
+889;Order_Total;1;1
+509;Country;Japan;?
+510;Country;South Africa;?
+478;Region;Europe;Europe
+294;Order_Month;Dec;?
+295;Order_Month;Mar;?
+634;Order_Month;Mar;?
+218;Country;USA;?
+219;Country;China;?
+344;Customer_Name;United States Navy;?
+345;Customer_Name;Air Florida;?
+75;Model_Series;737-400;?
+786;Country;USA;?
+787;Country;China;China
+788;Country;United Arab Emirates;?
+290;Delivery_Total;1;1
+275;Delivery_Total;1;1
+276;Delivery_Total;4;6
+106;Order_Year;1988;1987
+437;Region;South America;South America
+438;Region;Africa;Africa
+439;Region;North America;North America
+870;Delivery_Total;5;6
+624;Order_Total;2;?
+625;Order_Total;1;1
+626;Order_Total;1;1
+481;Order_Total;4;?
+482;Order_Total;1;?
+810;Customer_Name;Pan Am World Airways;?
+811;Customer_Name;Dominicana Airlines;?
+812;Customer_Name;Great China Airlines;?
+288;Engine;CF;CF
+289;Engine;CF;CF
+58;Country;Spain;Spain
+599;Delivery_Total;2;3
+600;Delivery_Total;3;?
+601;Delivery_Total;1;1
+487;Delivery_Total;1;1
+487;Model_Series;737-800;?
+77;Customer_Name;Government of Korea;?
+78;Customer_Name;BDS Japan International Tanker;?
+609;Model_Series;737-200;?
+610;Model_Series;737-300;?
+325;Order_Total;2;1
+326;Order_Total;2;1
+170;Delivery_Year_;1968;?
+171;Delivery_Year_;2009;?
+542;Model_Series;MD-80;MD-80
+543;Model_Series;DC-10;?
+814;Model_Series;727;?
+815;Model_Series;DC-9;?
+437;Model_Series;707/720;?
+246;Delivery_Year_;1979;?
+492;Delivery_Year_;1962;?
+493;Delivery_Year_;1980;?
+494;Delivery_Year_;1974;?
+700;Delivery_Total;1;1

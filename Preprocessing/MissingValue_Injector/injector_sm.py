@@ -47,12 +47,12 @@ def generate_inviolable_indices(df_length, n):
 
 percentages = [1,2,3,4,5,10,20,30,40,50]
 column_types = [""]
-dataset = "Air_9000"
+dataset = "iTunes_3000"
 delimiter = ';'
 path_file = f'../../Datasets/Preprocessed_Datasets/{dataset}.csv'
 iterations = [1,2,3,4,5]
 null_value = '?'
-n_inviolable_rows = 3  # Number of rows to remain complete in each half
+n_inviolable_rows = 4  # Number of rows to remain complete in each half
 
 print(path_file)
 

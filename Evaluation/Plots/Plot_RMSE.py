@@ -40,7 +40,7 @@ def plot_rmse_results(datasets, ncols=2):
     nrows = (num_datasets + ncols - 1) // ncols  # Formula per arrotondare verso l'alto
 
     #fig, axs = plt.subplots(nrows, ncols, figsize=(13, 6), sharey=True, sharex=True)
-    fig, axs = plt.subplots(nrows, ncols, figsize=(19, 8), sharey=True, sharex=True)
+    fig, axs = plt.subplots(nrows, ncols, figsize=(22, 8), sharey=True, sharex=True)
     # Modifica degli spazi orizzontali e verticali
     fig.subplots_adjust(hspace=0.20, wspace=0.04)  # Riduci hspace e wspace
 
