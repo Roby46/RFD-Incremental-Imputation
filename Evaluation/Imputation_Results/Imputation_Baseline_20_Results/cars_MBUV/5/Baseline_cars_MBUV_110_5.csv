@@ -1,0 +1,111 @@
+riga;nome attributo;valore da imputare;valore imputato
+16;Car;Dodge Challenger SE;?
+234;Car;Buick Skylark;?
+231;Car;Dodge Monaco Brougham;?
+351;Car;Toyota Starlet;?
+78;Car;Chrysler Newport Royal;?
+31;Car;AMC Gremlin;?
+386;Car;Mazda GLC Custom;?
+116;Car;Toyota Camry;?
+229;Car;Chevrolet Caprice Classic;?
+133;Car;Plymouth Duster;?
+345;Car;Honda Accord;?
+123;Car;Chevrolet Monte Carlo S;?
+127;Car;Audi 100LS;?
+232;MPG;15.0;13.0
+75;MPG;11.0;?
+370;MPG;25.4;32.7
+94;MPG;14.0;17.0
+389;MPG;36.0;28.0
+168;MPG;17.0;16.0
+301;MPG;31.9;29.0
+92;MPG;27.0;24.0
+107;MPG;18.0;?
+143;MPG;18.0;18.6
+209;Cylinders;6;6
+70;Cylinders;8;8
+9;Cylinders;8;8
+170;Cylinders;6;6
+329;Cylinders;4;4
+223;Cylinders;8;8
+283;Cylinders;6;6
+194;Cylinders;4;4
+180;Cylinders;4;4
+306;Cylinders;8;8
+328;Cylinders;4;4
+368;Cylinders;4;4
+139;Displacement;71.0;?
+140;Displacement;140.0;?
+163;Displacement;250.0;?
+68;Displacement;140.0;140.0
+350;Displacement;135.0;?
+7;Displacement;454.0;?
+345;Displacement;107.0;?
+341;Displacement;168.0;?
+187;Displacement;121.0;?
+77;Horsepower;160.0;?
+205;Horsepower;70.0;?
+356;Horsepower;62.0;?
+70;Horsepower;165.0;165.0
+361;Horsepower;74.0;?
+180;Horsepower;71.0;86.0
+284;Horsepower;115.0;?
+306;Horsepower;125.0;?
+68;Horsepower;90.0;72.0
+35;Horsepower;193.0;?
+93;Horsepower;175.0;130.0
+344;Horsepower;0.0;?
+143;Horsepower;105.0;?
+217;Horsepower;88.0;?
+167;Horsepower;148.0;?
+40;Horsepower;48.0;?
+41;Weight;2634.0;?
+298;Weight;4054.0;?
+229;Weight;3880.0;?
+165;Weight;4440.0;?
+88;Weight;2395.0;?
+79;Weight;2330.0;?
+257;Weight;3365.0;?
+127;Weight;2582.0;?
+384;Weight;1980.0;?
+406;Weight;2720.0;?
+231;Weight;4140.0;?
+107;Weight;2945.0;?
+358;Acceleration;14.9;?
+399;Acceleration;13.9;?
+53;Acceleration;13.5;?
+207;Acceleration;17.7;?
+11;Acceleration;17.5;?
+215;Acceleration;15.7;?
+173;Model;75;?
+319;Model;80;76
+212;Model;76;70
+332;Model;80;70
+142;Model;74;71
+375;Model;81;75
+217;Model;76;70
+325;Model;80;70
+158;Model;74;77
+397;Model;82;70
+154;Model;74;70
+60;Model;71;71
+100;Model;73;70
+233;Model;77;77
+219;Model;76;79
+21;Model;70;72
+371;Model;81;72
+340;Model;80;70
+148;Model;74;71
+216;Origin;US;?
+325;Origin;Europe;?
+99;Origin;US;?
+181;Origin;Japan;Japan
+12;Origin;US;US
+341;Origin;Japan;Japan
+373;Origin;US;?
+321;Origin;US;US
+338;Origin;Europe;?
+64;Origin;US;?
+169;Origin;US;US
+131;Origin;Japan;Japan
+231;Origin;US;?

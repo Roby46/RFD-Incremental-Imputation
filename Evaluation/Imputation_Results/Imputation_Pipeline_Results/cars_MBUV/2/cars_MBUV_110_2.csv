@@ -1,0 +1,111 @@
+riga;nome attributo;valore da imputare;valore imputato
+106;Car;Chevrolet Nova Custom;?
+43;Car;Chevrolet Chevelle Malibu;?
+221;Car;Chevrolet C10;?
+253;Car;Ford Fiesta;?
+298;Car;Ford Country Squire (sw);?
+18;Car;Ford Mustang Boss 302;?
+159;Car;Fiat x1.9;?
+44;Car;Ford Torino 500;?
+393;Car;Honda Civic (auto);?
+65;Car;Toyota Corolla Hardtop;?
+299;Car;Chevrolet Malibu Classic (sw);?
+151;MPG;26.0;?
+398;MPG;22.0;?
+325;MPG;34.3;?
+277;MPG;30.9;?
+153;MPG;32.0;?
+357;MPG;34.1;38.0
+139;MPG;32.0;?
+145;MPG;13.0;?
+179;MPG;24.0;?
+13;MPG;0.0;?
+35;MPG;9.0;?
+253;MPG;36.1;?
+149;MPG;29.0;?
+288;Cylinders;6;?
+221;Cylinders;8;8
+120;Cylinders;4;4
+45;Cylinders;6;6
+252;Cylinders;4;4
+310;Cylinders;4;4
+223;Cylinders;8;?
+47;Cylinders;8;?
+238;Displacement;350.0;?
+99;Displacement;400.0;?
+232;Displacement;302.0;?
+64;Displacement;91.0;?
+257;Displacement;260.0;?
+169;Displacement;250.0;?
+260;Displacement;231.0;?
+328;Displacement;119.0;?
+147;Displacement;302.0;?
+207;Displacement;225.0;?
+386;Horsepower;68.0;?
+21;Horsepower;95.0;?
+103;Horsepower;225.0;?
+253;Horsepower;66.0;?
+113;Horsepower;170.0;?
+13;Horsepower;153.0;?
+61;Horsepower;65.0;?
+330;Horsepower;65.0;?
+75;Horsepower;208.0;?
+136;Horsepower;100.0;?
+405;Horsepower;79.0;?
+223;Horsepower;150.0;?
+291;Horsepower;90.0;?
+178;Horsepower;78.0;?
+220;Horsepower;180.0;?
+354;Horsepower;67.0;?
+241;Weight;1940.0;?
+228;Weight;1945.0;?
+217;Weight;3270.0;?
+348;Weight;2620.0;?
+5;Weight;3449.0;?
+111;Weight;4997.0;?
+163;Weight;3158.0;?
+337;Weight;1850.0;?
+84;Weight;2933.0;?
+247;Weight;1985.0;?
+144;Weight;4141.0;?
+67;Weight;2254.0;?
+112;Weight;4906.0;?
+262;Weight;2965.0;?
+190;Acceleration;15.5;?
+93;Acceleration;13.0;?
+12;Acceleration;11.5;?
+263;Acceleration;15.4;?
+276;Acceleration;14.7;?
+60;Acceleration;14.5;?
+187;Acceleration;14.5;?
+358;Acceleration;14.9;?
+34;Acceleration;13.5;?
+158;Acceleration;15.5;?
+102;Acceleration;11.0;?
+52;Acceleration;12.0;?
+307;Model;79;?
+43;Model;71;?
+269;Model;78;?
+337;Model;80;?
+208;Model;76;?
+354;Model;81;?
+80;Model;72;?
+207;Model;76;?
+290;Model;79;?
+285;Model;78;?
+141;Model;74;?
+186;Model;75;?
+397;Model;82;?
+333;Origin;Europe;?
+50;Origin;US;US
+177;Origin;US;US
+137;Origin;Japan;Japan
+400;Origin;US;?
+91;Origin;US;US
+292;Origin;US;?
+401;Origin;US;?
+66;Origin;US;?
+294;Origin;US;?
+246;Origin;US;US
+244;Origin;US;?
+219;Origin;Europe;Europe

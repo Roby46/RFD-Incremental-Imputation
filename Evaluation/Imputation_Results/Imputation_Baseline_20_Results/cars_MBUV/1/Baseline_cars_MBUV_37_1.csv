@@ -1,0 +1,38 @@
+riga;nome attributo;valore da imputare;valore imputato
+21;Car;Toyota Corolla Mark ii;?
+141;Car;Chevrolet Chevelle Malibu Classic;?
+349;MPG;23.5;?
+252;MPG;43.1;0.0
+113;Cylinders;8;8
+393;Cylinders;4;4
+5;Cylinders;8;8
+96;Cylinders;8;8
+396;Cylinders;6;6
+373;Cylinders;8;6
+318;Displacement;89.0;?
+164;Displacement;400.0;?
+183;Displacement;90.0;?
+299;Displacement;267.0;?
+375;Displacement;225.0;?
+28;Displacement;107.0;?
+227;Displacement;122.0;?
+271;Horsepower;165.0;?
+311;Horsepower;65.0;?
+216;Horsepower;150.0;?
+402;Horsepower;86.0;?
+204;Horsepower;60.0;?
+258;Weight;3735.0;?
+132;Weight;3664.0;?
+35;Weight;4732.0;?
+31;Acceleration;15.0;?
+342;Acceleration;12.5;?
+114;Acceleration;12.5;?
+153;Model;74;70
+262;Model;78;75
+331;Model;80;70
+394;Model;82;72
+76;Model;72;73
+351;Model;81;81
+381;Origin;US;?
+325;Origin;Europe;?
+46;Origin;US;US

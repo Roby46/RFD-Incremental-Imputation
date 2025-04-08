@@ -1,0 +1,74 @@
+riga;nome attributo;valore da imputare;valore imputato
+252;Car;Volkswagen Rabbit Custom Diesel;?
+188;Car;Saab 99LE;?
+192;Car;Capri ii;?
+45;Car;AMC Matador;?
+353;Car;Honda Civic 1300;?
+53;Car;AMC Hornet Sportabout (sw);?
+168;MPG;17.0;?
+278;MPG;21.1;?
+232;MPG;15.0;13.0
+139;MPG;32.0;?
+104;MPG;13.0;?
+216;MPG;13.0;?
+318;MPG;38.1;?
+107;MPG;18.0;19.0
+68;MPG;20.0;28.0
+213;MPG;28.0;?
+310;MPG;34.5;30.0
+83;MPG;14.0;15.0
+257;Cylinders;8;6
+266;Cylinders;6;6
+144;Cylinders;8;8
+11;Displacement;133.0;?
+304;Displacement;121.0;?
+406;Displacement;119.0;?
+395;Displacement;181.0;?
+15;Displacement;360.0;390.0
+265;Displacement;232.0;232.0
+37;Displacement;140.0;?
+269;Horsepower;120.0;?
+357;Horsepower;68.0;?
+183;Horsepower;70.0;70.0
+263;Horsepower;88.0;?
+118;Horsepower;94.0;88.0
+173;Horsepower;110.0;?
+375;Weight;3465.0;?
+48;Weight;4154.0;?
+77;Weight;4456.0;?
+3;Weight;3436.0;?
+337;Weight;1850.0;?
+195;Weight;4215.0;?
+335;Weight;2950.0;?
+139;Weight;1836.0;?
+46;Weight;4209.0;?
+252;Acceleration;21.5;?
+178;Acceleration;18.5;?
+270;Acceleration;13.2;?
+103;Acceleration;11.0;?
+34;Acceleration;13.5;?
+362;Acceleration;15.8;?
+73;Acceleration;13.0;?
+350;Acceleration;12.9;?
+47;Acceleration;11.5;?
+206;Model;76;?
+282;Model;78;?
+71;Model;72;?
+140;Model;74;?
+294;Model;79;?
+385;Model;82;?
+341;Model;80;?
+259;Model;78;?
+379;Model;82;?
+397;Model;82;?
+302;Model;79;?
+30;Model;70;70
+218;Model;76;?
+286;Origin;Europe;?
+112;Origin;US;US
+215;Origin;Europe;Europe
+334;Origin;Europe;?
+100;Origin;US;US
+15;Origin;US;US
+268;Origin;US;US
+292;Origin;US;US
