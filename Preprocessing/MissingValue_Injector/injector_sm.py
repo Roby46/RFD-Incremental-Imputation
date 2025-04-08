@@ -47,7 +47,7 @@ def generate_inviolable_indices(df_length, n):
 
 percentages = [1,2,3,4,5,10,20,30,40,50]
 column_types = [""]
-dataset = "iTunes_3000"
+dataset = "S4-ADL5_2400"
 delimiter = ';'
 path_file = f'../../Datasets/Preprocessed_Datasets/{dataset}.csv'
 iterations = [1,2,3,4,5]

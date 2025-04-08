@@ -1,0 +1,518 @@
+416;name;marquet patisserie
+140;name;le montrachet bistro
+177;name;pano's and paul's
+765;name;wollensky's grill
+344;name;el teddy's
+694;name;ocean star
+539;name;battista's hole in the wall
+626;name;splendido embarcadero
+439;name;penang soho
+43;name;valentino
+860;name;ti couz
+209;name;la folie
+69;name;four seasons grill room
+213;name;masa's
+378;name;i trulli
+276;name;sofi
+810;name;java jive
+271;name;rj's the rib joint
+274;name;roscoe's house of chicken 'n' waffles
+286;name;9 jones street
+616;name;palio d'asti
+790;name;barbecue kitchen
+688;name;maxwell's cafe
+66;name;dawat
+382;name;indochine
+403;name;le marais
+359;name;flowers
+333;name;cite
+55;name;cafe des artistes
+193;name;boulevard
+651;name;bernard's
+744;name;one if by land  tibs
+818;name;nava
+45;name;yujean kang's gourmet chinese cuisine
+114;name;river cafe
+826;name;soto
+696;name;parkway grill
+723;name;edison cafe
+563;name;venetian
+480;name;turkish kitchen
+36;name;philippe the original
+475;name;trattoria dell'arte
+557;name;margarita's mexican cantina
+48;name;21 club
+844;name;hamburger mary's
+489;name;xunta
+248;name;gilliland's
+459;name;serendipity
+99;name;montrachet
+210;name;la folie
+782;name;spago (las vegas)
+263;name;nicola
+184;name;ritz-carlton restaurant
+509;name;french quarter food shop
+644;name;zarzuela
+25;name;le chardonnay
+227;name;beaurivage
+721;name;darbar
+3;name;art's delicatessen
+742;name;moustache
+424;name;motown cafe
+12;name;chinois on main
+339;name;dean & deluca
+682;name;la serenata de garibaldi
+450;name;rosa mexicano
+735;name;la grenouille
+633;name;the heights
+770;name;buzio's in the rio
+77;name;jo jo
+554;name;golden steer
+130;name;uncle nick's
+720;name;cucina di pesce
+229;name;border grill
+307;name;brothers bar-b-q
+417;name;match
+673;name;john o'groats
+667;name;hollywood hills coffee shop
+391;name;l'auberge
+597;name;izzy's steak & chop house
+514;name;kamogawa
+407;name;lincoln tavern
+142;name;palace court
+861;name;trio cafe
+690;name;mishima
+273;addr;111 s. san pedro st.
+120;addr;11 e. 53rd st.
+368;addr;15 fulton st.
+291;addr;311 w. 17th st.
+428;addr;145 w. broadway at thomas st.
+512;addr;192 peachtree center ave.  at international blvd.
+680;addr;10506 little santa monica blvd.
+365;addr;467 columbus ave.  between 82nd and 83rd sts.
+71;addr;12 e. 12th st.
+409;addr;59 grand st.  between wooster st. and w. broadway
+752;addr;1295 madison ave.
+582;addr;161 sutter st.
+781;addr;355 convention center dr.
+525;addr;500 pharr rd.
+95;addr;102 5th ave.  between 15th and 16th sts.
+754;addr;5-16 51st ave.
+823;addr;181 peachtree st.
+427;addr;2 w. 19th st.
+857;addr;584 valencia st.
+64;addr;20 e. 76th st.
+459;addr;3 225 e. 60th st.
+506;addr;3380 peachtree rd.
+35;addr;1001 n. alameda st.
+152;addr;3125 piedmont rd.
+7;addr;14016 ventura blvd.
+817;addr;1248 clairmont rd.
+791;addr;56 e. andrews dr. nw
+816;addr;303 peachtree st. ne
+295;addr;206 206 e. 60th st.
+264;addr;1401 ocean ave.
+797;addr;1021 cobb pkwy. se
+21;addr;1972 n. hillhurst ave.
+504;addr;40  buckhead crossing mall on the sidney marcus blvd.
+379;addr;125 mulberry st.  between canal and hester sts.
+528;addr;3043 buford hwy.
+56;addr;1 w. 67th st.
+793;addr;2911 s. pharr court
+177;addr;1232 w. paces ferry rd.
+376;addr;20 cornelia st.  between bleecker and w. 4th st.
+480;addr;386 3rd ave.  between 27th and 28th sts.
+580;addr;500 jackson st.
+168;addr;595 piedmont ave.
+539;addr;4041 audrie st. at flamingo rd.
+861;addr;1870 fillmore st.
+505;addr;1879 cheshire bridge rd.
+597;addr;3345 steiner st.
+93;addr;405 e. 58th st.
+774;addr;3300 las vegas blvd. s.
+393;addr;432 lafayette st.  near astor pl.
+584;addr;market and new montgomery sts.
+11;addr;2709 main st.
+447;addr;145 w. 53rd st.
+567;addr;1722 sacramento st.
+461;addr;58 w. 65th st.
+410;addr;2182 broadway  between 77th and 78th sts.
+101;addr;55 e. 54th st.
+725;addr;483 amsterdam ave.
+194;addr;1 mission st.
+380;addr;251 e. 53rd st.
+304;addr;23 e. 22nd st.
+814;addr;3525 mall blvd.
+508;addr;1811 piedmont ave.  near cheshire bridge rd.
+553;addr;129 e. fremont st.
+166;addr;490 e. paces ferry rd. ne
+850;addr;2225 irving st.
+352;addr;57 e. 57th st.
+648;addr;3345 kimber dr.
+383;addr;82 e. 3rd st.  between 1st and 2nd aves.
+63;addr;20 e. 76th st.
+174;addr;224 ponce de leon ave.
+207;addr;5937 geary blvd.
+17;addr;23725 w. malibu rd.
+778;addr;3400 las vegas blvd. s.
+268;addr;1448 n. gower st.
+289;addr;937 broadway at 22nd st.
+232;addr;4100 cahuenga blvd.
+705;addr;224 s. beverly dr.
+223;addr;532 columbus ave.
+233;addr;700 w. fifth st.
+768;addr;401 s. 6th st.
+363;addr;2340 broadway at 85th st.
+358;addr;348 e. 62nd st.
+116;addr;240 central park s.
+805;addr;1087 green st.
+133;addr;152 w. 44th st.
+810;city;atlanta
+337;city;new york
+568;city;san francisco
+41;city;los angeles
+438;city;new york
+186;city;atlanta
+785;city;las vegas
+58;city;new york city
+417;city;new york
+472;city;new york
+292;city;new york
+774;city;las vegas
+463;city;new york
+182;city;atlanta
+401;city;new york
+854;city;san francisco
+256;city;los angeles
+493;city;atlanta
+258;city;los angeles
+48;city;new york city
+325;city;new york
+674;city;culver city
+69;city;new york
+436;city;new york
+819;city;atlanta
+103;city;new york
+484;city;new york
+571;city;san francisco
+202;city;san francisco
+750;city;new york city
+823;city;atlanta
+742;city;brooklyn
+112;city;new york city
+483;city;new york
+668;city;la
+431;city;new york
+710;city;la
+535;city;atlanta
+269;city;sherman oaks
+522;city;atlanta
+514;city;atlanta
+814;city;duluth
+82;city;new york city
+693;city;santa monica
+121;city;new york
+143;city;las vegas
+419;city;new york
+273;city;los angeles
+857;city;san francisco
+602;city;san francisco
+513;city;atlanta
+398;city;new york
+191;city;san francisco
+474;city;new york
+185;city;atlanta
+555;city;las vegas
+406;city;new york
+7;city;sherman oaks
+396;city;new york
+452;city;new york
+68;city;new york city
+863;city;san francisco
+218;city;san francisco
+354;city;new york
+150;city;atlanta
+835;city;san francisco
+801;city;atlanta
+347;city;new york
+15;city;hollywood
+86;city;new york city
+449;city;new york
+582;city;san francisco
+485;city;new york
+194;city;san francisco
+51;city;new york
+282;city;los angeles
+694;city;monterey park
+459;city;new york
+682;city;st. boyle hts.
+367;city;new york
+144;city;las vegas
+362;city;new york
+437;city;new york
+550;city;las vegas
+724;city;queens
+476;city;new york
+516;city;atlanta
+606;city;san francisco
+217;city;san francisco
+590;city;san francisco
+719;city;new york city
+451;city;new york
+831;city;atlanta
+464;city;new york
+161;city;atlanta
+473;city;new york
+792;city;atlanta
+371;city;new york
+434;city;new york
+298;city;new york
+799;phone;404-262-2675
+54;phone;212-496-6031
+660;phone;310-540-1222
+819;phone;404-352-9009
+73;phone;212/477-0777
+298;phone;212/355-1112
+741;phone;212-580-8686
+738;phone;212-741-3214
+806;phone;404-627-9268
+793;phone;404-261-7015
+763;phone;212-245-0800
+634;phone;415/863-9335
+562;phone;702/731-7525
+277;phone;213/653-5858
+80;phone;212-586-4252
+314;phone;212/724-5846
+471;phone;212/228-0604
+483;phone;212/260-5454
+707;phone;818-508-7017
+613;phone;415/777-5577
+664;phone;310-208-4444
+207;phone;415/668-6654
+364;phone;212/564-7272
+773;phone;702-385-4011
+89;phone;212/752-2225
+623;phone;415/346-3486
+597;phone;415/563-0487
+193;phone;415/543-6084
+168;phone;404-876-4408
+653;phone;818-886-5679
+6;phone;310-472-1211
+408;phone;212/675-6700
+371;phone;212/ 941-0911
+203;phone;415/543-0573
+195;phone;415/392-3505
+130;phone;212-245-7992
+510;phone;770/242-3984
+687;phone;310-376-7786
+199;phone;415/775-7036
+747;phone;212-697-5198
+322;phone;212/475-9557
+248;phone;310/392-3901
+536;phone;702/252-7737
+66;phone;212-355-7555
+247;phone;213/734-2773
+70;phone;212-754-9494
+396;phone;212/315-0980
+538;phone;702/871-3262
+635;phone;415/752-4440
+709;phone;310-207-7782
+92;phone;212-371-7777
+743;phone;212-219-0500
+572;phone;415/543-2222
+145;phone;702/734-0410
+578;phone;415/863-3516
+675;phone;310-423-7327
+210;phone;415-776-5577
+698;phone;213-931-4223
+680;phone;310-470-4992
+802;phone;404-888-9149
+430;phone;212/944-3643
+676;phone;213-651-3361
+621;phone;415/434-4100
+574;phone;415/474-4180
+69;phone;212/754-9494
+409;phone;212/941-0479
+373;phone;212/468-8888
+667;phone;213-467-7678
+519;phone;404/874-2626
+7;phone;818/788-3536
+79;phone;212/586-4252
+828;phone;404-892-0193
+296;phone;212/677-3820
+71;phone;212/620-4020
+45;phone;818/585-0855
+795;phone;404-256-1675
+534;type;southern
+428;type;american
+319;type;coffee bar
+536;type;italian
+857;type;vietnamese
+330;type;french
+280;type;asian
+220;type;californian
+85;type;french
+337;type;coffee bar
+824;type;mediterranean
+419;type;asian
+409;type;or 212/941-0772 american
+810;type;coffee shops
+776;type;continental
+214;type;french (new)
+762;type;ukrainian
+790;type;bbq
+318;type;mediterranean
+746;type;steakhouses
+548;type;buffets
+511;type;southern
+641;type;asian
+802;type;italian
+209;type;french
+626;type;mediterranean
+570;type;french
+701;type;diners
+606;type;american
+386;type;asian
+582;type;greek and middle eastern
+10;type;californian
+242;type;italian
+298;type;mediterranean
+131;type;american
+302;type;american
+37;type;french
+845;type;californian
+152;type;californian
+408;type;american
+555;type;asian
+216;type;japanese
+422;type;asian
+224;type;italian
+805;type;southern/soul
+244;type;continental
+710;type;hamburgers
+4;type;delis
+25;type;french
+138;type;southwestern
+658;type;pacific new wave
+794;type;vegetarian
+247;type;mexican
+358;type;coffee bar
+91;type;seafood
+116;type;italian
+185;type;french
+317;type;french
+101;type;seafood
+255;type;continental
+278;type;italian
+112;type;american (new)
+510;type;barbecue
+283;type;american
+390;type;french
+466;type;seafood
+680;type;french (new)
+128;type;american (new)
+603;type;italian
+371;type;asian
+469;type;asian
+87;type;american
+301;type;coffee bar
+249;type;american
+418;type;american
+728;type;indian
+788;type;sandwiches
+822;type;vegetarian
+675;type;southern/soul
+445;type;asian
+107;type;mediterranean
+325;type;italian
+686;type;desserts
+473;type;coffee bar
+760;type;thai
+163;type;american
+496;type;american
+129;type;mediterranean
+492;type;international
+336;class;223
+159;class;79
+769;class;657
+136;class;67
+446;class;333
+310;class;197
+72;class;35
+565;class;452
+418;class;305
+574;class;461
+337;class;224
+549;class;436
+458;class;345
+602;class;489
+725;class;613
+619;class;506
+582;class;469
+289;class;176
+62;class;30
+230;class;117
+25;class;12
+488;class;375
+254;class;141
+818;class;706
+771;class;659
+54;class;26
+107;class;53
+178;class;88
+518;class;405
+58;class;28
+775;class;663
+367;class;254
+127;class;63
+757;class;645
+126;class;62
+297;class;184
+670;class;558
+634;class;521
+79;class;39
+728;class;616
+657;class;545
+278;class;165
+836;class;724
+505;class;392
+89;class;44
+495;class;382
+387;class;274
+473;class;360
+592;class;479
+97;class;48
+588;class;475
+782;class;670
+577;class;464
+391;class;278
+98;class;48
+91;class;45
+171;class;85
+508;class;395
+261;class;148
+163;class;81
+854;class;742
+759;class;647
+124;class;61
+673;class;561
+430;class;317
+801;class;689
+244;class;131
+752;class;640
+346;class;233
+412;class;299
+142;class;70
+195;class;97
+546;class;433
+146;class;72
+307;class;194
+143;class;71
+31;class;15
+295;class;182
+792;class;680
+734;class;622
+579;class;466
+663;class;551
+277;class;164
+288;class;175
