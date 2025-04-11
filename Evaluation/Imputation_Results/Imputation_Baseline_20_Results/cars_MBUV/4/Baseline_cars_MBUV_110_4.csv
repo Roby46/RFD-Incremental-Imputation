@@ -1,0 +1,111 @@
+riga;nome attributo;valore da imputare;valore imputato
+22;Car;Plymouth Duster;?
+89;Car;Datsun 510 (sw);?
+382;Car;Ford Fairmont Futura;?
+265;Car;AMC Concord;?
+3;Car;Plymouth Satellite;?
+42;Car;Plymouth Satellite Custom;?
+206;Car;Honda Civic;Honda Civic CVCC
+247;Car;Subaru DL;?
+375;Car;Chrysler Lebaron Salon;?
+18;Car;Ford Mustang Boss 302;?
+81;Car;Chevrolet Chevelle Concours (sw);?
+125;Car;Fiat 128;?
+151;Car;Opel Manta;?
+394;Car;Datsun 310 GX;?
+119;Car;Mazda RX3;?
+4;Car;AMC Rebel SST;?
+26;Car;Volkswagen 1131 Deluxe Sedan;?
+10;MPG;15.0;0.0
+176;MPG;23.0;31.6
+103;MPG;12.0;12.0
+394;MPG;38.0;?
+321;MPG;28.0;25.0
+219;MPG;16.5;?
+319;MPG;32.1;37.3
+229;MPG;17.5;?
+332;MPG;40.8;32.0
+113;Cylinders;8;8
+235;Cylinders;6;6
+228;Cylinders;4;4
+388;Cylinders;4;4
+21;Cylinders;4;4
+202;Cylinders;6;4
+276;Cylinders;4;4
+61;Cylinders;4;4
+237;Cylinders;8;8
+243;Cylinders;4;4
+326;Cylinders;4;4
+279;Cylinders;4;4
+91;Cylinders;4;4
+88;Displacement;122.0;?
+32;Displacement;360.0;?
+12;Displacement;350.0;?
+211;Displacement;97.0;?
+321;Displacement;151.0;?
+295;Displacement;351.0;?
+46;Displacement;350.0;350.0
+284;Displacement;121.0;?
+286;Displacement;89.0;?
+270;Displacement;305.0;?
+314;Displacement;173.0;?
+122;Displacement;98.0;?
+39;Displacement;98.0;?
+323;Displacement;151.0;?
+183;Displacement;90.0;?
+403;Displacement;97.0;?
+114;Displacement;350.0;?
+197;Horsepower;120.0;?
+309;Horsepower;70.0;?
+363;Horsepower;75.0;?
+327;Horsepower;75.0;?
+248;Horsepower;78.0;?
+160;Horsepower;95.0;?
+244;Horsepower;89.0;?
+382;Horsepower;92.0;?
+199;Horsepower;100.0;?
+89;Weight;2288.0;?
+54;Weight;2408.0;?
+51;Weight;4746.0;?
+36;Weight;2130.0;?
+400;Weight;2370.0;?
+287;Weight;2135.0;?
+147;Weight;4638.0;?
+279;Weight;2745.0;?
+344;Weight;2905.0;?
+1;Weight;3504.0;?
+381;Weight;2735.0;?
+301;Weight;1925.0;?
+210;Weight;3193.0;?
+306;Acceleration;17.4;?
+93;Acceleration;13.0;?
+23;Acceleration;15.5;?
+97;Acceleration;12.5;11.0
+35;Acceleration;18.5;?
+356;Acceleration;17.3;?
+89;Acceleration;17.0;?
+113;Acceleration;13.0;?
+266;Acceleration;15.8;?
+298;Acceleration;14.3;?
+212;Acceleration;17.0;?
+31;Acceleration;15.0;?
+137;Model;74;74
+38;Model;71;80
+34;Model;70;70
+405;Model;82;71
+151;Model;74;77
+147;Model;74;72
+236;Model;77;79
+289;Model;79;72
+159;Model;74;71
+166;Model;75;72
+276;Model;78;73
+241;Model;77;75
+120;Model;73;71
+175;Origin;Japan;Japan
+35;Origin;US;Europe
+95;Origin;US;US
+121;Origin;US;US
+261;Origin;US;?
+318;Origin;Japan;Japan
+235;Origin;US;?

@@ -1,0 +1,38 @@
+riga;nome attributo;valore da imputare;valore imputato
+13;Country;Netherlands;?
+7;Country;Indonesia;?
+17;Country;Turkey;Turkey
+3;Country;Netherlands;?
+12;Customer_Name;Pegasus Airlines;Turkish Air Force Peace Eagle
+11;Customer_Name;Air Europe;?
+15;Delivery_Year_;1978;?
+11;Delivery_Year_;1989;?
+10;Delivery_Year_;1996;?
+14;Delivery_Year_;1987;?
+12;Delivery_Year_;2007;?
+16;Delivery_Year_;1982;?
+15;Engine;PW;?
+15;Model_Series;707/720;?
+2;Model_Series;737-800;?
+10;Model_Series;MD-80;?
+11;Model_Series;757-200;?
+14;Order_Month;May;?
+17;Order_Month;Aug;?
+1;Order_Month;May;?
+10;Order_Month;Jun;?
+5;Order_Month;Nov;?
+7;Order_Year;1976;?
+1;Order_Year;1966;?
+12;Order_Year;2006;?
+9;Order_Year;2000;?
+8;Region;East Asia;?
+11;Region;Europe;?
+6;Delivery_Total;2;?
+13;Delivery_Total;1;?
+3;Delivery_Total;1;?
+9;Delivery_Total;2;?
+5;Order_Total;3;?
+1;Order_Total;3;?
+10;Order_Total;2;?
+16;Order_Total;2;?
+8;Order_Total;1;?

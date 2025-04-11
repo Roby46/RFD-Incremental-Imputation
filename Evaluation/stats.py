@@ -1,17 +1,21 @@
 import pandas as pd
 
-
 def analizza_risultati(file_input, selected_datasets):
     # Legge il CSV
     df = pd.read_csv(file_input, sep=';')
 
+    df = df[df['algoritmo'] != 'Baseline']
+
     # Filtra i dataset selezionati
     df = df[df['dataset'].isin(selected_datasets)]
 
-    # Trova i valori unici di MV e assegna i missing rates
-    mv_sorted = sorted(df['MV'].unique())
-    missing_rates = {mv: rate for mv, rate in zip(mv_sorted, [1, 2, 3, 4, 5, 10, 20, 30, 40, 50])}
-    df['missing_rate'] = df['MV'].map(missing_rates)
+    # Mappa i missing_rate all'interno di ogni dataset
+    df['missing_rate'] = df.groupby('dataset')['MV'].transform(
+        lambda x: x.map({mv: rate for mv, rate in zip(sorted(x.unique()), [1, 2, 3, 4, 5, 10, 20, 30, 40, 50])})
+    )
+
+    # Debug check
+    print(df[['dataset', 'MV', 'missing_rate']].drop_duplicates().sort_values(['dataset', 'missing_rate']))
 
     # Calcola RMSE medio per ogni dataset e approccio
     dataset_rmse = df.groupby(['dataset', 'algoritmo'])['rmse'].mean().unstack()
@@ -42,7 +46,6 @@ def analizza_risultati(file_input, selected_datasets):
     print("\nGuadagno percentuale della Pipeline su tutti i test:")
     print(guadagni_globali)
 
-    # Calcola il guadagno percentuale della Pipeline per ogni missing rate
     guadagni_missing_rate = rate_rmse.apply(
         lambda col: calcola_guadagno(rate_rmse['Pipeline'], col) if col.name != 'Pipeline' else None)
     print("\nGuadagno percentuale della Pipeline per ogni missing rate:")
@@ -53,5 +56,6 @@ def analizza_risultati(file_input, selected_datasets):
 selected_datasets = ['Boeing_898', 'actorfilms_4000', 'restaurant', 'NBA_3200', 'EV_Vehicles_4000',
                      'US_Presidents_3754', 'cars', "superstore_4500", "police", "IoT_Telemetry3000", "F1_REBUILT_5000",
                      "MotoGP_REBUILT_3000", "Med_Ch_2500", "restaurant_MNAR", "cars_MNAR",
-                     "Boeing_898_MNAR"]
+                     "Boeing_898_MNAR", "cars_MBUV"]
+
 analizza_risultati('ALL_Results_v3.csv', selected_datasets)

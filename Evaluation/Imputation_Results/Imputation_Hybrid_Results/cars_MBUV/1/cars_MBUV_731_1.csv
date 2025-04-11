@@ -1,0 +1,732 @@
+riga;nome attributo;valore da imputare;valore imputato
+175;Car;Toyota Corolla;?
+271;Car;Buick Regal Sport Coupe (turbo);?
+101;Car;Plymouth Fury Gran Sedan;?
+310;Car;Plymouth Horizon TC3;?
+194;Car;Renault 12tl;?
+220;Car;Cadillac Seville;?
+250;Car;BMW 320i;?
+4;Car;AMC Rebel SST;Ford Mustang Boss 302
+93;Car;Buick Century 350;AMC Ambassador Brougham
+225;Car;Buick Opel Isuzu Deluxe;?
+330;Car;Mazda GLC;?
+186;Car;Peugeot 504;?
+201;Car;Ford Maverick;?
+292;Car;Dodge Aspen 6;?
+5;Car;Ford Torino;Chevrolet Chevelle Malibu
+160;Car;Plymouth Valiant Custom;?
+70;Car;Chevrolet Impala;?
+327;Car;Mazda 626;?
+263;Car;Ford Fairmont (man);?
+187;Car;Volvo 244DL;?
+320;Car;Datsun 310;?
+287;Car;Honda Accord LX;?
+282;Car;Audi 5000;?
+253;Car;Ford Fiesta;?
+88;Car;Ford Pinto (sw);?
+313;Car;Buick Skylark Limited;?
+397;Car;Chrysler Lebaron Medallion;?
+376;Car;Chevrolet Cavalier;?
+326;Car;Toyota Corolla Liftback;?
+133;Car;Plymouth Duster;?
+209;Car;Pontiac Ventura SJ;Dodge Aspen SE
+179;Car;Toyota Corolla;?
+63;Car;Volkswagen Model 111;Volkswagen 1131 Deluxe Sedan
+2;Car;Buick Skylark 320;?
+50;Car;Dodge Monaco (sw);?
+96;Car;Ford Gran Torino;?
+324;Car;Dodge Aspen;?
+47;Car;Pontiac Catalina Brougham;?
+102;Car;Chrysler New Yorker Brougham;Hi 1200D
+80;Car;AMC Matador (sw);?
+110;Car;Volkswagen Super Beetle;?
+267;Car;Mercury Zephyr;?
+167;Car;Ford LTD;Plymouth Custom Suburb
+214;Car;Ford Pinto;?
+284;Car;Saab 99gle;?
+406;Car;Chevy S-10;?
+178;Car;Pontiac Astro;?
+157;Car;Honda Civic;?
+3;Car;Plymouth Satellite;Ford Mustang Boss 302
+129;Car;Dodge Dart Custom;?
+82;Car;Ford Gran Torino (sw);?
+159;Car;Fiat x1.9;?
+85;Car;Volkswagen 411 (sw);?
+19;Car;Chevrolet Monte Carlo;?
+230;Car;Oldsmobile Cutlass Supreme;?
+279;Car;Plymouth Sapporo;Pontiac Sunbird Coupe
+212;Car;Datsun B-210;?
+217;Car;Peugeot 504;?
+184;Car;AMC Pacer;AMC Concord
+347;Car;Buick Skylark;?
+61;Car;Toyota Corolla 1200;?
+67;Car;Volkswagen Type 3;?
+283;Car;Volvo 264gl;?
+16;Car;Dodge Challenger SE;?
+69;Car;Ford Pinto Runabout;Mercury Capri 2000
+395;Car;Buick Century Limited;?
+359;Car;Ford Escort 4W;Chevrolet Chevette
+348;Car;Dodge Aries Wagon (sw);?
+89;Car;Datsun 510 (sw);Toyota Camry
+298;Car;Ford Country Squire (sw);?
+307;Car;Peugeot 504;?
+21;Car;Toyota Corolla Mark ii;Datsun PL510
+281;Car;Datsun 200-SX;?
+128;Car;Volvo 144ea;?
+211;Car;Volkswagen Rabbit;?
+244;Car;Ford Mustang II 2+2;?
+189;Car;Honda Civic CVCC;Honda Civic
+137;Car;Datsun B210;?
+121;Car;Mercury Capri v6;?
+314;Car;Chevrolet Citation;?
+204;Car;Chevrolet Woody;Dodge Colt (sw)
+297;Car;Buick Estate Wagon (sw);?
+210;Car;AMC Pacer d/l;?
+62;Car;Datsun 1200;?
+24;Car;Ford Maverick;?
+30;Car;BMW 2002;?
+172;Car;Buick Skyhawk;?
+198;Car;Ford Gran Torino;Chevrolet Impala
+36;Car;Datsun PL510;?
+296;Car;Dodge St. Regis;?
+66;Car;Dodge Colt Hardtop;?
+191;Car;Opel 1900;Volkswagen Dasher
+181;Car;Datsun 710;?
+197;Car;AMC Matador;?
+338;Car;Renault Lecar Deluxe;?
+83;Car;Plymouth Satellite Custom (sw);Chevrolet Monte Carlo S
+308;MPG;23.9;?
+250;MPG;21.5;?
+317;MPG;41.5;?
+119;MPG;18.0;27.0
+248;MPG;30.5;29.0
+200;MPG;22.0;20.6
+280;MPG;23.8;?
+235;MPG;19.0;18.6
+278;MPG;21.1;?
+115;MPG;18.0;21.0
+311;MPG;31.8;?
+198;MPG;14.5;14.0
+28;MPG;24.0;37.0
+366;MPG;31.6;34.1
+286;MPG;31.5;43.1
+156;MPG;26.0;23.0
+66;MPG;25.0;?
+151;MPG;26.0;19.0
+240;MPG;16.0;15.5
+298;MPG;15.5;13.0
+101;MPG;14.0;?
+30;MPG;26.0;0.0
+123;MPG;15.0;14.0
+74;MPG;17.0;14.0
+109;MPG;23.0;?
+388;MPG;36.0;29.5
+33;MPG;10.0;11.0
+106;MPG;16.0;19.0
+372;MPG;22.4;18.1
+89;MPG;28.0;32.4
+306;MPG;23.0;?
+153;MPG;32.0;22.0
+7;MPG;14.0;10.0
+365;MPG;32.9;?
+396;MPG;38.0;?
+296;MPG;18.2;13.0
+238;MPG;15.5;?
+316;MPG;33.5;?
+87;MPG;26.0;?
+95;MPG;13.0;?
+367;MPG;28.1;?
+305;MPG;25.4;18.5
+267;MPG;20.8;?
+319;MPG;32.1;?
+150;MPG;26.0;26.0
+165;MPG;15.0;?
+43;MPG;17.0;18.0
+261;MPG;20.5;15.0
+173;MPG;20.0;19.0
+279;MPG;23.2;24.5
+230;MPG;17.0;?
+12;MPG;0.0;16.0
+377;MPG;27.0;34.1
+157;MPG;24.0;?
+86;MPG;21.0;18.0
+227;MPG;25.5;27.2
+216;MPG;13.0;18.5
+323;MPG;24.3;?
+392;MPG;38.0;?
+80;MPG;15.0;?
+325;MPG;34.3;?
+176;MPG;23.0;26.0
+376;MPG;28.0;?
+147;MPG;14.0;16.0
+310;MPG;34.5;?
+158;MPG;26.0;21.0
+321;MPG;28.0;?
+9;MPG;14.0;?
+225;MPG;30.0;?
+368;MPG;0.0;27.0
+208;MPG;18.0;18.5
+350;MPG;30.0;?
+370;MPG;25.4;32.7
+41;MPG;19.0;21.0
+161;MPG;18.0;18.0
+181;MPG;24.0;25.0
+81;MPG;13.0;?
+283;MPG;17.0;18.0
+391;MPG;34.0;32.4
+237;MPG;16.0;?
+214;MPG;26.5;27.5
+352;MPG;39.0;?
+307;MPG;27.2;?
+111;MPG;11.0;10.0
+335;MPG;36.4;?
+154;MPG;28.0;?
+231;MPG;15.5;14.0
+18;MPG;0.0;18.0
+369;Cylinders;6;4
+388;Cylinders;4;8
+401;Cylinders;4;4
+177;Cylinders;6;6
+265;Cylinders;6;6
+273;Cylinders;8;?
+134;Cylinders;6;6
+37;Cylinders;4;6
+300;Cylinders;8;8
+244;Cylinders;4;6
+191;Cylinders;4;8
+320;Cylinders;4;4
+385;Cylinders;4;4
+113;Cylinders;8;8
+65;Cylinders;4;8
+218;Cylinders;6;6
+289;Cylinders;6;8
+206;Cylinders;4;4
+378;Cylinders;4;6
+80;Cylinders;8;8
+241;Cylinders;4;8
+55;Cylinders;6;6
+301;Cylinders;4;4
+356;Cylinders;4;8
+288;Cylinders;6;6
+182;Cylinders;6;6
+261;Cylinders;6;6
+139;Cylinders;4;3
+46;Cylinders;8;8
+175;Cylinders;4;4
+148;Cylinders;8;8
+275;Cylinders;4;4
+7;Cylinders;8;8
+321;Cylinders;4;6
+194;Cylinders;4;4
+179;Cylinders;4;6
+35;Cylinders;8;8
+91;Cylinders;4;8
+60;Cylinders;4;8
+152;Cylinders;4;4
+334;Cylinders;4;4
+105;Cylinders;6;6
+180;Cylinders;4;8
+355;Cylinders;4;8
+107;Cylinders;6;4
+230;Cylinders;8;6
+387;Cylinders;4;4
+2;Cylinders;8;8
+379;Cylinders;4;?
+279;Cylinders;4;6
+324;Cylinders;6;?
+406;Cylinders;4;8
+277;Cylinders;4;4
+88;Cylinders;4;6
+315;Cylinders;6;6
+154;Cylinders;4;4
+280;Cylinders;4;6
+333;Cylinders;4;4
+39;Cylinders;4;4
+29;Cylinders;4;4
+264;Cylinders;6;6
+376;Cylinders;4;4
+130;Cylinders;4;5
+360;Cylinders;4;4
+131;Cylinders;6;6
+25;Cylinders;4;4
+232;Cylinders;8;8
+284;Cylinders;4;4
+165;Cylinders;8;8
+386;Cylinders;4;?
+294;Cylinders;8;?
+285;Cylinders;6;5
+5;Cylinders;8;8
+250;Cylinders;4;5
+9;Cylinders;8;8
+209;Cylinders;6;6
+78;Cylinders;8;8
+364;Cylinders;4;4
+73;Cylinders;8;8
+271;Cylinders;6;6
+248;Cylinders;4;4
+137;Cylinders;4;4
+195;Cylinders;8;?
+174;Cylinders;8;8
+106;Cylinders;6;6
+12;Cylinders;8;8
+177;Displacement;232.0;232.0
+113;Displacement;360.0;351.0
+31;Displacement;199.0;?
+295;Displacement;351.0;?
+375;Displacement;225.0;?
+173;Displacement;262.0;?
+138;Displacement;122.0;?
+205;Displacement;90.0;?
+54;Displacement;140.0;?
+397;Displacement;156.0;114.0
+33;Displacement;307.0;318.0
+340;Displacement;89.0;?
+71;Displacement;400.0;350.0
+84;Displacement;121.0;?
+232;Displacement;302.0;?
+77;Displacement;350.0;?
+337;Displacement;91.0;?
+38;Displacement;113.0;?
+116;Displacement;97.0;?
+284;Displacement;121.0;?
+83;Displacement;318.0;350.0
+163;Displacement;250.0;200.0
+87;Displacement;96.0;?
+399;Displacement;144.0;121.0
+191;Displacement;116.0;?
+7;Displacement;454.0;351.0
+231;Displacement;318.0;351.0
+226;Displacement;79.0;97.0
+27;Displacement;110.0;?
+207;Displacement;225.0;250.0
+379;Displacement;112.0;?
+206;Displacement;91.0;?
+155;Displacement;90.0;?
+288;Displacement;231.0;?
+197;Displacement;304.0;?
+210;Displacement;258.0;?
+359;Displacement;98.0;?
+216;Displacement;318.0;360.0
+190;Displacement;107.0;?
+312;Displacement;91.0;116.0
+36;Displacement;97.0;?
+267;Displacement;200.0;?
+293;Displacement;305.0;?
+175;Displacement;97.0;120.0
+76;Displacement;350.0;?
+384;Displacement;105.0;?
+328;Displacement;119.0;?
+366;Displacement;120.0;151.0
+201;Displacement;200.0;?
+102;Displacement;440.0;304.0
+107;Displacement;232.0;121.0
+153;Displacement;83.0;?
+361;Displacement;105.0;?
+105;Displacement;225.0;?
+61;Displacement;71.0;?
+74;Displacement;304.0;304.0
+16;Displacement;383.0;302.0
+339;Displacement;97.0;?
+362;Displacement;100.0;?
+170;Displacement;258.0;258.0
+301;Horsepower;71.0;?
+389;Horsepower;88.0;?
+51;Horsepower;170.0;?
+89;Horsepower;92.0;?
+4;Horsepower;150.0;198.0
+65;Horsepower;95.0;?
+120;Horsepower;85.0;?
+290;Horsepower;88.0;?
+191;Horsepower;81.0;?
+278;Horsepower;95.0;?
+205;Horsepower;70.0;?
+254;Horsepower;52.0;?
+17;Horsepower;160.0;150.0
+112;Horsepower;167.0;?
+303;Horsepower;80.0;?
+291;Horsepower;90.0;?
+102;Horsepower;215.0;?
+220;Horsepower;180.0;?
+203;Horsepower;52.0;?
+197;Horsepower;120.0;?
+319;Horsepower;70.0;?
+233;Horsepower;110.0;?
+94;Horsepower;150.0;100.0
+374;Horsepower;88.0;?
+198;Horsepower;152.0;?
+201;Horsepower;81.0;?
+359;Horsepower;65.0;?
+119;Horsepower;90.0;?
+394;Horsepower;67.0;?
+378;Horsepower;88.0;?
+179;Horsepower;96.0;?
+105;Horsepower;105.0;?
+232;Horsepower;130.0;?
+309;Horsepower;70.0;?
+275;Horsepower;95.0;?
+364;Horsepower;75.0;?
+62;Horsepower;69.0;?
+10;Horsepower;190.0;130.0
+369;Horsepower;76.0;?
+61;Horsepower;65.0;?
+399;Horsepower;96.0;?
+375;Horsepower;85.0;?
+84;Horsepower;112.0;?
+388;Horsepower;70.0;?
+250;Horsepower;110.0;?
+379;Horsepower;85.0;?
+354;Horsepower;67.0;?
+44;Horsepower;88.0;?
+115;Horsepower;100.0;?
+322;Horsepower;88.0;?
+135;Horsepower;100.0;?
+142;Horsepower;110.0;?
+353;Horsepower;60.0;?
+181;Horsepower;97.0;?
+267;Horsepower;85.0;?
+36;Horsepower;88.0;?
+402;Horsepower;86.0;?
+87;Horsepower;69.0;?
+108;Horsepower;88.0;?
+48;Horsepower;153.0;?
+241;Horsepower;78.0;?
+50;Horsepower;180.0;?
+74;Horsepower;150.0;?
+210;Horsepower;95.0;?
+13;Horsepower;153.0;?
+136;Horsepower;100.0;?
+221;Horsepower;145.0;?
+154;Weight;2125.0;?
+322;Weight;2870.0;?
+230;Weight;4060.0;?
+50;Weight;4955.0;?
+93;Weight;4100.0;3821.0
+395;Weight;2945.0;?
+66;Weight;2126.0;?
+260;Weight;3535.0;?
+170;Weight;3730.0;?
+293;Weight;3840.0;?
+304;Weight;2670.0;?
+337;Weight;1850.0;?
+225;Weight;2155.0;?
+238;Weight;4165.0;?
+192;Weight;2572.0;?
+403;Weight;2130.0;?
+218;Weight;2930.0;?
+316;Weight;2556.0;?
+9;Weight;4425.0;?
+18;Weight;3353.0;3436.0
+383;Weight;3035.0;?
+38;Weight;2228.0;?
+334;Weight;2335.0;?
+398;Weight;2835.0;?
+45;Weight;3288.0;?
+251;Weight;2720.0;?
+362;Weight;2320.0;?
+43;Weight;3329.0;?
+277;Weight;2230.0;?
+1;Weight;3504.0;3449.0
+254;Weight;1985.0;?
+212;Weight;1990.0;?
+105;Weight;3121.0;?
+217;Weight;3270.0;?
+87;Weight;2189.0;?
+72;Weight;4135.0;4096.0
+336;Weight;3250.0;?
+401;Weight;2950.0;?
+90;Weight;2506.0;?
+405;Weight;2625.0;?
+82;Weight;4294.0;?
+344;Weight;2905.0;?
+201;Weight;3012.0;?
+77;Weight;4456.0;?
+51;Weight;4746.0;?
+357;Weight;1985.0;?
+96;Weight;4042.0;?
+321;Weight;2678.0;?
+76;Weight;4502.0;?
+115;Weight;2789.0;?
+350;Weight;2385.0;?
+264;Weight;3430.0;?
+152;Weight;1649.0;?
+25;Weight;2130.0;?
+369;Weight;3160.0;?
+363;Weight;2210.0;?
+307;Weight;3190.0;?
+194;Weight;2202.0;?
+143;Weight;3613.0;?
+310;Weight;2150.0;?
+203;Weight;2035.0;?
+262;Weight;2965.0;?
+21;Weight;2372.0;?
+246;Weight;2075.0;?
+331;Weight;2800.0;?
+297;Weight;4360.0;?
+137;Weight;1950.0;?
+85;Weight;2511.0;?
+176;Weight;2639.0;?
+306;Acceleration;17.4;?
+326;Acceleration;15.5;?
+299;Acceleration;15.0;?
+343;Acceleration;15.1;?
+134;Acceleration;17.0;15.5
+260;Acceleration;19.2;?
+349;Acceleration;12.6;?
+244;Acceleration;15.8;?
+370;Acceleration;12.6;11.4
+252;Acceleration;21.5;?
+272;Acceleration;11.2;?
+57;Acceleration;14.0;?
+362;Acceleration;15.8;?
+396;Acceleration;17.0;?
+186;Acceleration;17.0;?
+230;Acceleration;19.0;?
+155;Acceleration;15.5;?
+123;Acceleration;13.0;13.7
+361;Acceleration;14.2;14.1
+129;Acceleration;11.0;?
+131;Acceleration;13.5;?
+136;Acceleration;17.0;?
+210;Acceleration;17.8;?
+191;Acceleration;16.9;?
+173;Acceleration;13.5;?
+378;Acceleration;18.0;?
+148;Acceleration;15.5;?
+226;Acceleration;18.6;?
+88;Acceleration;16.0;?
+192;Acceleration;14.9;?
+44;Acceleration;15.5;15.5
+323;Acceleration;20.1;?
+185;Acceleration;15.0;13.5
+53;Acceleration;13.5;15.5
+18;Acceleration;8.0;10.0
+219;Acceleration;16.7;?
+158;Acceleration;15.5;19.5
+223;Acceleration;14.0;?
+7;Acceleration;9.0;11.5
+152;Acceleration;16.5;?
+24;Acceleration;16.0;14.0
+251;Acceleration;13.5;?
+261;Acceleration;18.2;?
+22;Acceleration;15.5;?
+17;Acceleration;8.0;10.0
+169;Acceleration;18.5;?
+271;Acceleration;13.4;15.5
+400;Acceleration;13.0;?
+385;Acceleration;18.2;?
+122;Acceleration;15.5;23.5
+194;Acceleration;15.3;?
+363;Acceleration;14.4;?
+225;Acceleration;14.8;?
+4;Acceleration;12.0;11.0
+263;Acceleration;15.4;?
+187;Acceleration;14.5;?
+404;Acceleration;11.6;?
+235;Acceleration;17.7;18.0
+312;Acceleration;14.7;?
+40;Acceleration;20.0;?
+151;Acceleration;14.5;18.5
+256;Acceleration;16.4;14.4
+317;Acceleration;14.7;?
+286;Acceleration;14.9;?
+209;Acceleration;16.2;17.7
+294;Acceleration;13.4;13.2
+91;Acceleration;15.0;?
+1;Acceleration;12.0;11.5
+203;Acceleration;22.2;?
+300;Acceleration;13.0;13.2
+38;Acceleration;14.0;?
+229;Acceleration;12.5;?
+290;Acceleration;17.3;?
+234;Acceleration;16.9;15.8
+240;Acceleration;14.5;12.2
+19;Acceleration;9.5;10.0
+175;Acceleration;16.0;?
+11;Acceleration;17.5;12.5
+377;Acceleration;18.6;?
+380;Acceleration;16.0;?
+406;Acceleration;19.4;?
+297;Acceleration;14.9;?
+83;Acceleration;14.0;13.7
+374;Acceleration;17.1;?
+292;Acceleration;16.6;?
+62;Acceleration;18.0;?
+189;Acceleration;17.5;14.4
+264;Acceleration;17.2;?
+214;Acceleration;13.6;14.2
+55;Acceleration;15.0;?
+314;Acceleration;11.3;?
+106;Acceleration;18.0;?
+301;Acceleration;14.0;?
+31;Acceleration;15.0;13.0
+168;Acceleration;21.0;?
+93;Acceleration;13.0;11.5
+338;Acceleration;17.3;?
+373;Acceleration;19.0;?
+48;Acceleration;13.5;13.0
+206;Acceleration;17.4;14.4
+96;Acceleration;14.5;11.5
+59;Acceleration;19.5;17.5
+257;Model;78;?
+204;Model;76;?
+287;Model;78;?
+132;Model;73;?
+108;Model;73;?
+389;Model;82;?
+259;Model;78;?
+70;Model;72;70
+347;Model;81;?
+156;Model;74;?
+189;Model;75;76
+52;Model;71;70
+298;Model;79;?
+115;Model;73;70
+36;Model;71;70
+264;Model;78;75
+373;Model;81;?
+217;Model;76;?
+3;Model;70;70
+315;Model;79;?
+317;Model;80;?
+116;Model;73;72
+336;Model;80;?
+319;Model;80;?
+247;Model;77;?
+300;Model;79;?
+91;Model;72;70
+230;Model;77;?
+396;Model;82;?
+267;Model;78;?
+7;Model;70;70
+340;Model;80;?
+150;Model;74;?
+294;Model;79;?
+203;Model;76;78
+54;Model;71;72
+163;Model;75;?
+81;Model;72;70
+328;Model;80;?
+254;Model;78;79
+66;Model;72;70
+126;Model;73;71
+175;Model;75;70
+25;Model;70;70
+160;Model;75;?
+379;Model;82;?
+290;Model;79;?
+14;Model;70;70
+334;Model;80;?
+102;Model;73;70
+19;Model;70;70
+6;Model;70;70
+277;Model;78;?
+327;Model;80;?
+296;Model;79;?
+113;Model;73;75
+245;Model;77;?
+349;Model;81;?
+198;Model;76;71
+186;Model;75;?
+167;Model;75;75
+278;Model;78;?
+35;Model;70;70
+184;Model;75;?
+78;Model;72;70
+214;Model;76;?
+103;Model;73;73
+89;Model;72;70
+129;Model;73;?
+265;Model;78;?
+17;Model;70;70
+242;Model;77;?
+166;Model;75;?
+165;Model;75;?
+234;Model;77;?
+67;Model;72;70
+162;Model;75;70
+216;Model;76;?
+231;Model;77;?
+227;Model;77;?
+318;Model;80;?
+330;Model;80;?
+275;Model;78;?
+233;Model;77;?
+100;Model;73;?
+50;Model;71;70
+79;Origin;Japan;?
+276;Origin;Japan;?
+158;Origin;Japan;Japan
+273;Origin;US;?
+344;Origin;US;?
+7;Origin;US;US
+6;Origin;US;US
+94;Origin;US;US
+123;Origin;US;US
+41;Origin;US;US
+228;Origin;Japan;Japan
+203;Origin;US;US
+335;Origin;Europe;?
+390;Origin;Japan;?
+206;Origin;Japan;Japan
+23;Origin;US;US
+271;Origin;US;?
+272;Origin;US;US
+235;Origin;US;?
+338;Origin;Europe;?
+387;Origin;US;?
+263;Origin;US;?
+384;Origin;Europe;Europe
+148;Origin;US;US
+240;Origin;US;?
+392;Origin;Japan;?
+327;Origin;Japan;?
+100;Origin;US;US
+83;Origin;US;US
+401;Origin;US;?
+167;Origin;US;US
+402;Origin;US;?
+398;Origin;US;US
+233;Origin;US;US
+230;Origin;US;?
+277;Origin;US;?
+128;Origin;Europe;Europe
+386;Origin;Japan;Japan
+355;Origin;Japan;Japan
+396;Origin;US;?
+191;Origin;Europe;Europe
+101;Origin;US;US
+283;Origin;Europe;?
+93;Origin;US;Europe
+380;Origin;US;?
+71;Origin;US;US
+193;Origin;US;Japan
+397;Origin;US;?
+89;Origin;Japan;Japan
+317;Origin;Europe;?
+103;Origin;US;US
+141;Origin;US;US
+347;Origin;US;?
+119;Origin;Japan;Japan
+275;Origin;Japan;?
+246;Origin;US;US
+75;Origin;US;US
+66;Origin;US;Japan
+324;Origin;US;?
+27;Origin;Europe;Europe
+379;Origin;US;?
+303;Origin;US;?
+134;Origin;US;US
+184;Origin;US;US
+234;Origin;US;US
+314;Origin;US;?
+12;Origin;US;US
+14;Origin;US;US
+127;Origin;Europe;Europe
+333;Origin;Europe;?
+131;Origin;Japan;Japan
+187;Origin;Europe;US
+8;Origin;US;US
+226;Origin;Europe;Europe
+259;Origin;US;US
+99;Origin;US;US
+62;Origin;Japan;?

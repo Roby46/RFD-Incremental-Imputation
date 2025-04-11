@@ -1,0 +1,184 @@
+riga;nome attributo;valore da imputare;valore imputato
+226;Car;Renault 5 GTL;?
+98;Car;Mercury Marquis Brougham;?
+384;Car;Volkswagen Rabbit l;?
+97;Car;Dodge Coronet Custom;?
+247;Car;Subaru DL;?
+302;Car;Mazda GLC Deluxe;?
+198;Car;Ford Gran Torino;?
+267;Car;Mercury Zephyr;?
+400;Car;Dodge Charger 2.2;?
+390;Car;Honda Accord;?
+394;Car;Datsun 310 GX;?
+340;Car;Volkswagen Rabbit;?
+37;Car;Chevrolet Vega 2300;?
+103;Car;Buick Electra 225 Custom;?
+183;Car;Volkswagen Rabbit;?
+156;Car;Fiat 124 TC;?
+362;MPG;34.5;?
+137;MPG;31.0;35.0
+342;MPG;23.7;?
+56;MPG;18.0;?
+100;MPG;13.0;14.0
+174;MPG;13.0;?
+139;MPG;32.0;?
+22;MPG;22.0;23.0
+211;MPG;29.5;?
+406;MPG;31.0;?
+12;MPG;0.0;15.0
+4;MPG;16.0;18.0
+224;MPG;31.5;25.0
+35;MPG;9.0;13.0
+158;MPG;26.0;22.0
+87;MPG;26.0;?
+144;Cylinders;8;8
+123;Cylinders;8;8
+62;Cylinders;4;4
+346;Cylinders;4;4
+377;Cylinders;4;4
+110;Cylinders;4;4
+159;Cylinders;4;4
+86;Cylinders;4;4
+304;Cylinders;4;4
+102;Cylinders;8;8
+273;Cylinders;8;8
+199;Cylinders;6;6
+85;Cylinders;4;4
+399;Cylinders;4;4
+366;Cylinders;4;4
+63;Cylinders;4;4
+190;Cylinders;4;4
+6;Displacement;429.0;?
+373;Displacement;350.0;?
+157;Displacement;120.0;?
+248;Displacement;97.0;?
+259;Displacement;302.0;?
+246;Displacement;98.0;?
+142;Displacement;258.0;?
+257;Displacement;260.0;?
+200;Displacement;250.0;?
+93;Displacement;350.0;?
+83;Displacement;318.0;350.0
+210;Displacement;258.0;?
+108;Displacement;250.0;200.0
+204;Displacement;98.0;?
+376;Displacement;112.0;?
+57;Displacement;122.0;113.0
+291;Displacement;232.0;?
+81;Displacement;307.0;?
+91;Displacement;98.0;116.0
+40;Displacement;97.0;?
+58;Displacement;116.0;?
+263;Displacement;140.0;?
+368;Displacement;121.0;121.0
+363;Horsepower;75.0;?
+184;Horsepower;90.0;?
+67;Horsepower;54.0;?
+169;Horsepower;105.0;?
+72;Horsepower;150.0;?
+349;Horsepower;110.0;?
+255;Horsepower;70.0;?
+348;Horsepower;92.0;?
+168;Horsepower;110.0;?
+142;Horsepower;110.0;?
+32;Horsepower;215.0;?
+298;Horsepower;142.0;?
+265;Horsepower;90.0;?
+227;Horsepower;96.0;?
+331;Horsepower;105.0;?
+9;Horsepower;225.0;?
+102;Horsepower;215.0;?
+4;Horsepower;150.0;150.0
+392;Horsepower;67.0;?
+143;Horsepower;105.0;?
+279;Horsepower;105.0;?
+35;Horsepower;193.0;?
+381;Horsepower;90.0;?
+320;Horsepower;65.0;?
+270;Horsepower;145.0;?
+249;Horsepower;97.0;?
+40;Weight;1978.0;?
+256;Weight;1800.0;?
+36;Weight;2130.0;2130.0
+24;Weight;2587.0;?
+294;Weight;3725.0;?
+76;Weight;4502.0;?
+49;Weight;4096.0;?
+321;Weight;2678.0;?
+388;Weight;2125.0;?
+6;Weight;4341.0;?
+166;Weight;4498.0;?
+252;Weight;1985.0;?
+333;Weight;2085.0;?
+58;Weight;2123.0;?
+328;Weight;2434.0;?
+62;Weight;1613.0;?
+216;Weight;3940.0;?
+337;Weight;1850.0;?
+162;Weight;3432.0;?
+119;Acceleration;13.5;?
+214;Acceleration;13.6;?
+82;Acceleration;16.0;14.5
+77;Acceleration;13.5;?
+65;Acceleration;15.5;15.0
+135;Acceleration;16.0;16.0
+170;Acceleration;19.0;?
+252;Acceleration;21.5;?
+187;Acceleration;14.5;?
+45;Acceleration;15.5;?
+284;Acceleration;15.7;15.4
+15;Acceleration;11.0;8.5
+155;Acceleration;15.5;?
+55;Acceleration;15.0;?
+310;Acceleration;14.9;?
+403;Acceleration;24.6;?
+210;Acceleration;17.8;?
+347;Acceleration;16.4;?
+305;Acceleration;20.1;?
+63;Acceleration;19.0;?
+320;Acceleration;16.4;19.2
+183;Acceleration;14.0;?
+139;Acceleration;21.0;?
+79;Acceleration;13.5;?
+333;Acceleration;21.7;?
+110;Acceleration;21.0;?
+140;Acceleration;17.0;?
+232;Acceleration;14.9;?
+67;Acceleration;23.5;?
+389;Model;82;?
+60;Model;71;70
+155;Model;74;?
+8;Model;70;70
+356;Model;81;?
+270;Model;78;?
+401;Model;82;?
+22;Model;70;70
+120;Model;73;?
+328;Model;80;?
+395;Model;82;?
+320;Model;80;?
+200;Model;76;?
+368;Model;81;?
+192;Model;76;?
+178;Origin;US;?
+313;Origin;US;?
+22;Origin;US;US
+203;Origin;US;US
+13;Origin;US;US
+172;Origin;US;US
+160;Origin;US;US
+391;Origin;Japan;Japan
+381;Origin;US;US
+29;Origin;Europe;Europe
+275;Origin;Japan;Japan
+123;Origin;US;US
+337;Origin;Japan;Japan
+405;Origin;US;US
+380;Origin;US;US
+62;Origin;Japan;Japan
+143;Origin;US;?
+169;Origin;US;US
+1;Origin;US;US
+254;Origin;Japan;?
+248;Origin;Europe;Europe
+96;Origin;US;US

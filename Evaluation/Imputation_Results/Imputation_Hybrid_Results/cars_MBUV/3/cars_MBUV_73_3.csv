@@ -1,0 +1,74 @@
+riga;nome attributo;valore da imputare;valore imputato
+259;Car;Mercury Monarch ghia;?
+405;Car;Ford Ranger;?
+8;Car;Plymouth Fury iii;?
+46;Car;Chevrolet Impala;?
+18;Car;Ford Mustang Boss 302;?
+389;Car;Nissan Stanza XE;?
+101;Car;Plymouth Fury Gran Sedan;?
+220;Car;Cadillac Seville;?
+164;Car;Pontiac Catalina;?
+75;MPG;11.0;?
+9;MPG;14.0;?
+98;MPG;12.0;12.0
+205;MPG;29.0;26.0
+53;MPG;18.0;?
+340;MPG;29.8;?
+268;MPG;18.6;19.0
+260;Cylinders;6;6
+196;Cylinders;8;?
+204;Cylinders;4;4
+218;Cylinders;6;4
+98;Cylinders;8;8
+1;Cylinders;8;8
+55;Cylinders;6;6
+153;Cylinders;4;4
+69;Displacement;122.0;?
+47;Displacement;400.0;?
+28;Displacement;107.0;?
+221;Displacement;350.0;?
+332;Displacement;85.0;?
+402;Displacement;140.0;?
+2;Horsepower;165.0;?
+110;Horsepower;46.0;?
+50;Horsepower;180.0;?
+86;Horsepower;87.0;?
+51;Horsepower;170.0;?
+44;Weight;3302.0;?
+149;Weight;2219.0;?
+183;Weight;1937.0;?
+214;Weight;2565.0;?
+181;Weight;2545.0;?
+239;Weight;4325.0;?
+3;Acceleration;11.0;10.5
+104;Acceleration;11.0;?
+381;Acceleration;18.0;?
+237;Acceleration;11.1;?
+238;Acceleration;11.4;?
+256;Acceleration;16.4;17.5
+368;Acceleration;15.4;?
+252;Acceleration;21.5;?
+2;Acceleration;11.5;?
+175;Acceleration;16.0;?
+233;Acceleration;16.4;?
+130;Model;73;?
+314;Model;79;?
+182;Model;75;?
+19;Model;70;70
+155;Model;74;?
+340;Model;80;?
+39;Model;71;70
+339;Model;80;?
+209;Model;76;?
+140;Model;74;?
+396;Model;82;?
+338;Origin;Europe;?
+157;Origin;Japan;Japan
+371;Origin;Japan;?
+238;Origin;US;US
+206;Origin;Japan;Japan
+116;Origin;Japan;?
+38;Origin;Japan;Japan
+166;Origin;US;?
+58;Origin;Europe;Europe
+250;Origin;Europe;Europe

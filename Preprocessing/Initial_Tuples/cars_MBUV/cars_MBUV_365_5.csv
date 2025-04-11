@@ -1,0 +1,365 @@
+42;Car;Plymouth Satellite Custom
+91;Car;Dodge Colt (sw)
+404;Car;Dodge Rampage
+310;Car;Plymouth Horizon TC3
+20;Car;Buick Estate Wagon (sw)
+104;Car;AMC Ambassador Brougham
+128;Car;Volvo 144ea
+307;Car;Peugeot 504
+392;Car;Honda Civic
+191;Car;Opel 1900
+248;Car;Volkswagen Dasher
+101;Car;Plymouth Fury Gran Sedan
+380;Car;Dodge Aries SE
+349;Car;Chevrolet Citation
+172;Car;Buick Skyhawk
+385;Car;Mazda GLC Custom l
+187;Car;Volvo 244DL
+140;Car;Chevrolet Vega
+194;Car;Renault 12tl
+178;Car;Pontiac Astro
+145;Car;Buick Century Luxus (sw)
+292;Car;Dodge Aspen 6
+400;Car;Dodge Charger 2.2
+351;Car;Toyota Starlet
+167;Car;Ford LTD
+318;Car;Toyota Corolla Tercel
+341;Car;Datsun 280-ZX
+155;Car;Fiat 128
+372;Car;Buick Century
+51;Car;Ford Country Squire (sw)
+353;Car;Honda Civic 1300
+314;Car;Chevrolet Citation
+136;Car;Chevrolet Nova
+196;Car;Dodge Coronet Brougham
+193;Car;Dodge Colt
+359;Car;Ford Escort 4W
+402;Car;Ford Mustang GL
+243;Car;Toyota Corolla Liftback
+249;Car;Datsun 810
+36;Car;Datsun PL510
+192;Car;Capri ii
+216;Car;Plymouth Volare Premier v8
+329;Car;Toyota Corolla
+298;Car;Ford Country Squire (sw)
+83;Car;Plymouth Satellite Custom (sw)
+220;Car;Cadillac Seville
+114;Car;Oldsmobile Vista Cruiser
+61;MPG;31.0
+163;MPG;15.0
+325;MPG;34.3
+152;MPG;31.0
+331;MPG;27.9
+253;MPG;36.1
+111;MPG;11.0
+130;MPG;24.0
+104;MPG;13.0
+17;MPG;14.0
+301;MPG;31.9
+34;MPG;11.0
+88;MPG;22.0
+103;MPG;12.0
+383;MPG;23.0
+48;MPG;14.0
+99;MPG;13.0
+235;MPG;19.0
+342;MPG;23.7
+368;MPG;0.0
+73;MPG;14.0
+328;MPG;37.0
+254;MPG;32.8
+335;MPG;36.4
+75;MPG;11.0
+110;MPG;26.0
+359;MPG;34.4
+275;MPG;27.5
+337;MPG;44.6
+290;MPG;22.3
+36;MPG;27.0
+299;MPG;19.2
+8;MPG;14.0
+222;MPG;13.0
+120;MPG;19.0
+295;MPG;16.5
+338;MPG;40.9
+38;MPG;25.0
+118;MPG;22.0
+75;Cylinders;8
+82;Cylinders;8
+243;Cylinders;4
+100;Cylinders;8
+180;Cylinders;4
+163;Cylinders;6
+297;Cylinders;8
+295;Cylinders;8
+300;Cylinders;8
+283;Cylinders;6
+337;Cylinders;4
+128;Cylinders;4
+396;Cylinders;6
+190;Cylinders;4
+351;Cylinders;4
+60;Cylinders;4
+240;Cylinders;8
+278;Cylinders;4
+344;Cylinders;4
+322;Cylinders;4
+207;Cylinders;6
+388;Cylinders;4
+216;Cylinders;8
+340;Cylinders;4
+316;Cylinders;4
+101;Cylinders;8
+359;Cylinders;4
+341;Cylinders;6
+230;Cylinders;8
+169;Cylinders;6
+77;Cylinders;8
+27;Cylinders;4
+146;Cylinders;8
+132;Cylinders;8
+378;Cylinders;4
+319;Cylinders;4
+326;Cylinders;4
+34;Cylinders;8
+13;Cylinders;8
+271;Cylinders;6
+304;Cylinders;4
+253;Cylinders;4
+213;Cylinders;4
+121;Cylinders;6
+332;Cylinders;4
+166;Cylinders;8
+361;Cylinders;4
+268;Cylinders;6
+383;Cylinders;4
+262;Displacement;200.0
+269;Displacement;258.0
+336;Displacement;146.0
+74;Displacement;304.0
+249;Displacement;146.0
+121;Displacement;155.0
+222;Displacement;302.0
+178;Displacement;140.0
+375;Displacement;225.0
+123;Displacement;350.0
+37;Displacement;140.0
+184;Displacement;232.0
+21;Displacement;113.0
+346;Displacement;135.0
+12;Displacement;350.0
+260;Displacement;231.0
+215;Displacement;130.0
+96;Displacement;302.0
+61;Displacement;71.0
+316;Displacement;151.0
+164;Displacement;400.0
+174;Displacement;302.0
+57;Displacement;122.0
+322;Displacement;140.0
+241;Displacement;97.0
+362;Displacement;100.0
+107;Displacement;232.0
+382;Displacement;140.0
+182;Displacement;171.0
+186;Displacement;120.0
+160;Displacement;225.0
+17;Displacement;340.0
+5;Displacement;302.0
+339;Displacement;97.0
+256;Displacement;91.0
+284;Displacement;121.0
+185;Displacement;115.0
+23;Displacement;199.0
+239;Displacement;400.0
+85;Displacement;121.0
+9;Displacement;455.0
+357;Displacement;91.0
+325;Displacement;97.0
+383;Displacement;151.0
+235;Displacement;225.0
+129;Horsepower;150.0
+196;Horsepower;150.0
+103;Horsepower;225.0
+91;Horsepower;80.0
+217;Horsepower;88.0
+146;Horsepower;150.0
+118;Horsepower;94.0
+279;Horsepower;105.0
+256;Horsepower;60.0
+316;Horsepower;90.0
+326;Horsepower;90.0
+51;Horsepower;170.0
+28;Horsepower;90.0
+297;Horsepower;155.0
+262;Horsepower;85.0
+346;Horsepower;84.0
+357;Horsepower;68.0
+218;Horsepower;108.0
+310;Horsepower;70.0
+116;Horsepower;88.0
+2;Horsepower;165.0
+188;Horsepower;115.0
+376;Horsepower;88.0
+94;Horsepower;150.0
+386;Horsepower;68.0
+261;Horsepower;95.0
+144;Horsepower;140.0
+47;Horsepower;175.0
+247;Horsepower;67.0
+211;Horsepower;71.0
+242;Horsepower;88.0
+343;Horsepower;88.0
+19;Horsepower;150.0
+280;Horsepower;85.0
+321;Horsepower;90.0
+328;Horsepower;92.0
+36;Horsepower;88.0
+210;Horsepower;95.0
+293;Weight;3840.0
+33;Weight;4376.0
+367;Weight;3230.0
+88;Weight;2395.0
+218;Weight;2930.0
+269;Weight;3410.0
+8;Weight;4312.0
+329;Weight;2265.0
+308;Weight;3420.0
+402;Weight;2790.0
+1;Weight;3504.0
+134;Weight;2875.0
+384;Weight;1980.0
+345;Weight;2290.0
+365;Weight;2615.0
+166;Weight;4498.0
+226;Weight;1825.0
+278;Weight;2515.0
+280;Weight;2855.0
+312;Weight;2130.0
+11;Weight;3090.0
+190;Weight;2464.0
+331;Weight;2800.0
+164;Weight;4668.0
+47;Weight;4464.0
+221;Weight;4055.0
+271;Weight;3445.0
+263;Weight;2720.0
+51;Weight;4746.0
+150;Weight;1963.0
+339;Weight;2145.0
+73;Weight;4129.0
+92;Weight;2100.0
+213;Weight;2155.0
+67;Weight;2254.0
+316;Acceleration;13.2
+54;Acceleration;19.0
+387;Acceleration;14.7
+119;Acceleration;13.5
+359;Acceleration;16.2
+369;Acceleration;19.6
+84;Acceleration;14.5
+167;Acceleration;13.5
+260;Acceleration;19.2
+31;Acceleration;15.0
+330;Acceleration;17.9
+39;Acceleration;19.0
+193;Acceleration;17.7
+361;Acceleration;14.2
+187;Acceleration;14.5
+290;Acceleration;17.3
+259;Acceleration;12.8
+289;Acceleration;18.2
+401;Acceleration;17.3
+101;Acceleration;14.5
+306;Acceleration;17.4
+406;Acceleration;19.4
+263;Acceleration;15.4
+288;Acceleration;15.4
+305;Acceleration;20.1
+254;Acceleration;19.4
+370;Acceleration;12.6
+96;Acceleration;14.5
+228;Acceleration;16.8
+15;Acceleration;11.0
+362;Acceleration;15.8
+77;Acceleration;13.5
+110;Acceleration;21.0
+109;Acceleration;16.0
+160;Acceleration;16.0
+21;Acceleration;15.0
+367;Acceleration;20.4
+150;Model;74
+4;Model;70
+100;Model;73
+255;Model;78
+172;Model;75
+271;Model;78
+188;Model;75
+50;Model;71
+118;Model;73
+258;Model;78
+63;Model;71
+110;Model;73
+243;Model;77
+311;Model;79
+373;Model;81
+286;Model;78
+119;Model;73
+122;Model;73
+396;Model;82
+117;Model;73
+279;Model;78
+240;Model;77
+406;Model;82
+132;Model;73
+228;Model;77
+151;Model;74
+316;Model;79
+349;Model;81
+104;Model;73
+302;Model;79
+47;Model;71
+173;Model;75
+324;Model;80
+323;Model;80
+320;Model;80
+278;Model;78
+169;Model;75
+354;Origin;Japan
+394;Origin;Japan
+242;Origin;US
+100;Origin;US
+249;Origin;Japan
+328;Origin;Japan
+320;Origin;Japan
+163;Origin;US
+296;Origin;US
+3;Origin;US
+46;Origin;US
+346;Origin;US
+157;Origin;Japan
+268;Origin;US
+224;Origin;Japan
+97;Origin;US
+367;Origin;Europe
+372;Origin;US
+190;Origin;Europe
+223;Origin;US
+101;Origin;US
+208;Origin;US
+122;Origin;Europe
+279;Origin;US
+16;Origin;US
+92;Origin;Japan
+326;Origin;Japan
+275;Origin;Japan
+384;Origin;Europe
+363;Origin;Japan
+160;Origin;US
+405;Origin;US
+127;Origin;Europe
+56;Origin;US
+238;Origin;US
+378;Origin;US
+18;Origin;US
+19;Origin;US
