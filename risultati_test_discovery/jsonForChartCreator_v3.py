@@ -70,6 +70,7 @@ def create_json(oracle, rfdsfile, nomedataset,versione,iteration, tipologia):
     print(f"file da valutare: {rfdsfile}")
 
     stampe_per_plot = {}
+    stampe_per_metriche = {}
     gendiverse = []
     specdiverse = []
     originaliTrovate = 0
@@ -1769,11 +1770,13 @@ def create_json(oracle, rfdsfile, nomedataset,versione,iteration, tipologia):
     if(lenResult == 0):
         percent = 0.00
         stampe_per_plot.update({"new": percent})
+        stampe_per_metriche.update({"new": countcompleto})
 
     else:
         percent = (countcompleto *100)/lenResult
         percent = round(percent, 2)
         stampe_per_plot.update({"new": percent})
+        stampe_per_metriche.update({"new": countcompleto})
 
         #print(percent)
     parola = newRFDMap2["name"]
@@ -1824,6 +1827,7 @@ def create_json(oracle, rfdsfile, nomedataset,versione,iteration, tipologia):
     percent = (countcompleto *100)/lenFull
     percent = round(percent, 2)
     stampe_per_plot.update({"Found": percent})
+    stampe_per_metriche.update({"Found": countcompleto})
 
     #print(percent)
     parola = RFDfoundMap2["name"]
@@ -1868,6 +1872,8 @@ def create_json(oracle, rfdsfile, nomedataset,versione,iteration, tipologia):
     percent = (countcompleto *100)/lenFull
     percent = round(percent, 2)
     stampe_per_plot.update({"notFound": percent})
+    stampe_per_metriche.update({"notFound": countcompleto})
+
     #print(percent)
     parola = notFoundMap2["name"]
     parolafinale = parola+": "+str(percent)
@@ -1880,11 +1886,13 @@ def create_json(oracle, rfdsfile, nomedataset,versione,iteration, tipologia):
     percent = round(percent, 2)
     #print('\033[1m'+"\nrfd generalizzate: "+str(percent)+"% ("+str(len(gendiverse))+" dipendenze)"'\033[0m')
     stampe_per_plot.update({"generalized": percent})
+    stampe_per_metriche.update({"generalized": len(gendiverse)})
 
     percent = (len(specdiverse) *100)/lenFull
     percent = round(percent, 2)
     #print('\033[1m'+"\nrfd specializzate: "+str(percent)+"% ("+str(len(specdiverse))+" dipendenze)"'\033[0m')
     stampe_per_plot.update({"specialized": percent})
+    stampe_per_metriche.update({"specialized": len(specdiverse)})
 
     type2 = [specMap2,genMap2,newRFDMap2,RFDfoundMap2,notFoundMap2]
 
@@ -1897,11 +1905,16 @@ def create_json(oracle, rfdsfile, nomedataset,versione,iteration, tipologia):
     #with open(f"./ris_{tipologia}/{nomedataset}/percentages_{nomedataset}_{versione}_{iteration}.json", "w") as outfile:
     #    json.dump(RFDMap2, outfile)
 
-    with open(f"./ris_{tipologia}/{nomedataset}/analisi_{nomedataset}_{versione}_{iteration}.json", "w") as outfile:
-        json.dump(stampe_per_plot, outfile)
+    #with open(f"./ris_{tipologia}/{nomedataset}/analisi_{nomedataset}_{versione}_{iteration}.json", "w") as outfile:
+    #    json.dump(stampe_per_plot, outfile)
 
+    stampe_per_metriche.update({"oracolo": lenFull})
+    stampe_per_metriche.update({"test": lenResult})
+    print(stampe_per_metriche)
+    with open(f"./ris_{tipologia}/{nomedataset}/count_{nomedataset}_{versione}_{iteration}.json", "w") as outfile:
+        json.dump(stampe_per_metriche, outfile)
 
-tipologia = "baseline"
+tipologia = "incremental"
 
 #datasets = ["actorfilms_4000","Boeing_1485","EV_Vehicles_4000","F1_REBUILT_5000","Med_Ch_2500","MotoGP_REBUILT_3000","NBA_3200","superstore_4500","US_Presidents_3754"]
 
