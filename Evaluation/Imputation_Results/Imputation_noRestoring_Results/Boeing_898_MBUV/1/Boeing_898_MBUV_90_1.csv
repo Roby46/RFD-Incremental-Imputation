@@ -1,0 +1,91 @@
+riga;nome attributo;valore da imputare;valore imputato
+667;Country;United Kingdom;United Kingdom
+698;Country;Russian Federation;Russian Federation
+112;Country;United Arab Emirates;?
+107;Country;Venezuela;Venezuela
+817;Country;Israel;?
+133;Country;Philippines;?
+259;Country;United Kingdom;United Kingdom
+458;Country;Canada;Canada
+544;Country;Nigeria;?
+411;Country;USA;?
+251;Country;Angola;?
+14;Country;Venezuela;?
+326;Country;Australia;Australia
+779;Customer_Name;Shanghai Airlines;?
+222;Customer_Name;United States Navy;?
+848;Customer_Name;ANA Holdings Inc.;?
+112;Customer_Name;Dubai Aerospace Enterprise;?
+521;Customer_Name;Dutch Caribbean Airlines;?
+757;Customer_Name;FAUCETT;?
+640;Customer_Name;Reno Air;?
+860;Customer_Name;Noga Export Import;?
+69;Customer_Name;Dubai Air Wing;?
+360;Delivery_Year_;1975;?
+570;Delivery_Year_;2021;?
+863;Delivery_Year_;1990;?
+876;Delivery_Year_;1973;?
+411;Delivery_Year_;1968;?
+719;Delivery_Year_;1965;?
+686;Delivery_Year_;2015;?
+254;Delivery_Year_;1980;?
+102;Delivery_Year_;1981;?
+731;Delivery_Year_;2011;?
+771;Delivery_Year_;1976;?
+565;Delivery_Year_;2021;?
+579;Delivery_Year_;1979;?
+16;Delivery_Year_;1982;1968
+189;Delivery_Year_;2018;?
+22;Delivery_Year_;2020;?
+442;Delivery_Year_;1978;?
+813;Delivery_Year_;2011;?
+27;Engine;GE;?
+718;Engine;PW;?
+607;Engine;RR;?
+552;Engine;PW;?
+385;Engine;PW;?
+872;Engine;CF;?
+893;Engine;CF;?
+888;Engine;RR;?
+665;Engine;CF;?
+530;Model_Series;DC-10;?
+716;Model_Series;DC-10;?
+843;Model_Series;737-800;?
+58;Model_Series;727;?
+260;Model_Series;737-700W;?
+190;Order_Month;Apr;?
+439;Order_Month;Sep;?
+308;Order_Month;Dec;?
+338;Order_Month;Jan;?
+275;Order_Month;Aug;?
+674;Order_Month;Jan;?
+3;Order_Month;Jan;?
+849;Order_Month;Jun;?
+503;Order_Month;Feb;?
+451;Order_Year;1967;1969
+801;Order_Year;1978;?
+240;Order_Year;1968;?
+141;Order_Year;1996;?
+742;Order_Year;1968;?
+718;Order_Year;1973;?
+467;Order_Year;2019;2018
+811;Order_Year;1972;?
+457;Order_Year;1967;?
+618;Order_Year;1967;?
+533;Region;Middle East;Middle East
+831;Region;East Asia;East Asia
+471;Region;Southeast Asia;Southeast Asia
+887;Region;North America;North America
+210;Delivery_Total;1;3
+690;Delivery_Total;2;3
+805;Delivery_Total;4;4
+555;Delivery_Total;2;2
+34;Delivery_Total;2;3
+56;Delivery_Total;2;3
+724;Order_Total;2;1
+652;Order_Total;1;1
+55;Order_Total;1;1
+744;Order_Total;1;1
+278;Order_Total;2;1
+795;Order_Total;4;?
+16;Order_Total;2;3

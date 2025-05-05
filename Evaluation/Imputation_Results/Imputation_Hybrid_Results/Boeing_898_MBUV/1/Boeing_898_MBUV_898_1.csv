@@ -1,0 +1,899 @@
+riga;nome attributo;valore da imputare;valore imputato
+433;Country;Japan;?
+326;Country;Australia;Australia
+711;Country;USA;?
+787;Country;China;China
+259;Country;United Kingdom;United Kingdom
+613;Country;USA;USA
+62;Country;USA;USA
+493;Country;USA;?
+152;Country;United Kingdom;?
+616;Country;Mexico;?
+94;Country;Switzerland;?
+325;Country;Netherlands;Netherlands
+671;Country;Taiwan;?
+764;Country;USA;USA
+367;Country;Fiji;Fiji
+599;Country;Taiwan;Taiwan
+826;Country;Kenya;?
+521;Country;Netherlands;?
+553;Country;USA;?
+494;Country;Jordan;?
+9;Country;USA;?
+288;Country;China;?
+734;Country;United Kingdom;United Kingdom
+425;Country;Venezuela;Venezuela
+665;Country;USA;?
+382;Country;New Zealand;New Zealand
+554;Country;Zimbabwe;Zimbabwe
+184;Country;USA;USA
+119;Country;Italy;Italy
+726;Country;Bangladesh;?
+175;Country;China;China
+157;Country;USA;?
+149;Country;Thailand;Thailand
+39;Country;Germany;Czech Republic
+777;Country;Kuwait;?
+407;Country;Lebanon;?
+182;Country;Nepal;Nepal
+563;Country;Spain;Spain
+235;Country;USA;USA
+653;Country;United Kingdom;United Kingdom
+203;Country;Romania;?
+700;Country;Tanzania United Republic of;Tanzania United Republic of
+792;Country;Spain;?
+860;Country;Switzerland;?
+581;Country;Russian Federation;Russian Federation
+104;Country;Australia;?
+525;Country;Canada;?
+588;Country;Japan;Japan
+49;Country;Japan;Japan
+523;Country;Japan;?
+761;Country;USA;?
+739;Country;USA;?
+47;Country;USA;USA
+91;Country;USA;?
+858;Country;USA;USA
+659;Country;USA;USA
+266;Country;USA;?
+594;Country;Japan;Japan
+884;Country;Ireland;?
+68;Country;Algeria;?
+760;Country;USA;?
+80;Country;Saudi Arabia;?
+608;Country;Bolivia;Ecuador
+50;Country;Saudi Arabia;?
+704;Country;Italy;Italy
+108;Country;United Arab Emirates;United Arab Emirates
+234;Country;Brazil;Brazil
+875;Country;South Korea;?
+63;Country;Germany;Czech Republic
+735;Country;Azerbaijan;Azerbaijan
+798;Country;USA;USA
+571;Country;Algeria;?
+790;Country;China;?
+324;Country;Netherlands;Netherlands
+257;Country;Sweden;Sweden
+491;Country;Unidentified;?
+77;Country;South Korea;?
+66;Country;USA;USA
+167;Country;Germany;Czech Republic
+660;Country;Belgium;Belgium
+667;Country;United Kingdom;United Kingdom
+843;Country;Turkey;Turkey
+590;Country;France;France
+461;Country;Bangladesh;?
+606;Country;Cayman Islands;?
+807;Country;Nigeria;Nigeria
+829;Customer_Name;Mitsui & Co.;?
+443;Customer_Name;AirCal;?
+586;Customer_Name;Transair Sweden;?
+624;Customer_Name;Saudi Arabian Airlines;?
+98;Customer_Name;FUERZA AEREA DEL PERU;?
+176;Customer_Name;Oak Hill;Oak Hill
+800;Customer_Name;UNI Airways;?
+35;Customer_Name;World Airways Inc.;?
+423;Customer_Name;AIR ITALY S.p.A.;?
+884;Customer_Name;Timaero Ireland Limited;?
+773;Customer_Name;Swiss International Air Lines;?
+661;Customer_Name;Pro Air;?
+77;Customer_Name;Government of Korea;?
+524;Customer_Name;Laker Airways (Bahamas);?
+714;Customer_Name;ARAMCO Associated Company;?
+670;Customer_Name;Itel Air;?
+261;Customer_Name;Royal Moroccan Air Force;?
+12;Customer_Name;Pegasus Airlines;?
+376;Customer_Name;AVIACO;?
+826;Customer_Name;East African Airways;?
+558;Customer_Name;Pacific Southwest Airlines;?
+241;Customer_Name;Nippon Cargo Airlines;?
+638;Customer_Name;Texas Air Corporation;?
+827;Customer_Name;Avianca Costa Rica;?
+553;Customer_Name;Transamerica Airlines;?
+647;Customer_Name;Jade Cargo International;?
+404;Customer_Name;Voyager Aviation Aircraft Leas;?
+454;Customer_Name;Ansett Worldwide Av. Equipment;?
+437;Customer_Name;Estado Nacional Argentino ENA;?
+155;Customer_Name;PACE Airlines;Air Florida
+122;Customer_Name;Frontier Airlines;Air Florida
+814;Customer_Name;Iraqi Airways;?
+401;Customer_Name;EVA Air;?
+410;Customer_Name;VivaAerobus;?
+743;Customer_Name;Comair Limited;?
+281;Customer_Name;Air Madagascar;?
+737;Customer_Name;CDB Financial Leasing;?
+117;Customer_Name;Jet America Airlines;?
+405;Customer_Name;buzz;?
+482;Customer_Name;Boullioun Aviation Services;?
+422;Customer_Name;Nauru Airlines;?
+514;Customer_Name;Aloha Airlines;?
+217;Customer_Name;Lufthansa;?
+193;Customer_Name;Delta Air Lines;?
+485;Customer_Name;CES Leasing Corporation;?
+683;Customer_Name;Japan Asia Airways;?
+148;Customer_Name;Kenya Airways;?
+799;Customer_Name;Itel Air;?
+618;Customer_Name;Eastern Air Lines;?
+803;Customer_Name;Air Tahiti Nui;?
+844;Customer_Name;Union Aeromaritime Transport;?
+627;Customer_Name;China Cargo;?
+630;Customer_Name;Austrian Airlines;?
+666;Customer_Name;China Xinhua Airlines;?
+303;Customer_Name;GPA Group;?
+838;Customer_Name;Syrianair;?
+841;Customer_Name;Aeroflot - Russian Airlines;?
+116;Customer_Name;Novus Aviation Capital;Novus Aviation Capital
+204;Customer_Name;Jetstar - Duplicated (See JSA);?
+384;Customer_Name;Midwest Airlines Inc.;?
+595;Customer_Name;Tigerair;?
+294;Customer_Name;Donghai Airlines;?
+561;Customer_Name;Samoa Airways;?
+637;Customer_Name;Quebecair;?
+893;Customer_Name;EgyptAir;?
+711;Customer_Name;Polaris Aircraft Leasing;?
+145;Customer_Name;Socialist Republic of Romania;?
+887;Customer_Name;Canadian Air Force;?
+622;Customer_Name;Kuwait Air Force;?
+654;Customer_Name;Nauru Airlines;?
+687;Customer_Name;Aviation Service & Support;?
+847;Customer_Name;America West Airlines;?
+677;Customer_Name;International Lease Finance Co;?
+274;Customer_Name;Panagra Cargo;?
+229;Customer_Name;Bank of Communications Leasing;?
+775;Customer_Name;Swiss International Air Lines;?
+516;Customer_Name;ICBC Leasing;?
+819;Customer_Name;Business Jet / VIP Customer(s);?
+834;Customer_Name;BDS U.S. Navy (P-8A Poseidon);?
+526;Customer_Name;Aer Lingus;?
+264;Customer_Name;Air Austral;?
+790;Customer_Name;Xiamen Airlines;?
+489;Delivery_Year_;1979;?
+682;Delivery_Year_;1971;?
+211;Delivery_Year_;2018;?
+639;Delivery_Year_;1979;?
+598;Delivery_Year_;1997;?
+498;Delivery_Year_;1974;?
+57;Delivery_Year_;2012;?
+736;Delivery_Year_;1999;?
+739;Delivery_Year_;1997;?
+432;Delivery_Year_;1975;?
+302;Delivery_Year_;2014;2011
+883;Delivery_Year_;1966;?
+392;Delivery_Year_;1961;?
+77;Delivery_Year_;2022;?
+794;Delivery_Year_;2008;?
+327;Delivery_Year_;1982;1983
+573;Delivery_Year_;2018;?
+94;Delivery_Year_;1981;1983
+757;Delivery_Year_;1968;?
+22;Delivery_Year_;2020;?
+698;Delivery_Year_;2019;2018
+519;Delivery_Year_;1998;?
+676;Delivery_Year_;1985;1985
+580;Delivery_Year_;2009;?
+389;Delivery_Year_;1968;?
+687;Delivery_Year_;1975;?
+329;Delivery_Year_;2014;?
+334;Delivery_Year_;1987;?
+411;Delivery_Year_;1968;?
+227;Delivery_Year_;2018;2017
+311;Delivery_Year_;2017;2016
+609;Delivery_Year_;1980;?
+457;Delivery_Year_;1968;?
+134;Delivery_Year_;1992;1985
+251;Delivery_Year_;2007;?
+179;Delivery_Year_;1995;?
+220;Delivery_Year_;2013;?
+165;Delivery_Year_;2015;2016
+247;Delivery_Year_;2006;2007
+657;Delivery_Year_;2002;?
+121;Delivery_Year_;1965;1964
+393;Delivery_Year_;1990;1989
+261;Delivery_Year_;1982;?
+39;Delivery_Year_;1998;1997
+898;Delivery_Year_;1967;?
+854;Delivery_Year_;2006;2007
+864;Delivery_Year_;1976;?
+152;Delivery_Year_;1988;?
+774;Delivery_Year_;1983;?
+846;Delivery_Year_;1983;?
+235;Delivery_Year_;1967;1968
+605;Delivery_Year_;2019;?
+446;Delivery_Year_;2017;?
+561;Delivery_Year_;1981;?
+317;Delivery_Year_;1968;?
+845;Delivery_Year_;1989;1991
+814;Delivery_Year_;1976;?
+60;Delivery_Year_;2015;?
+320;Delivery_Year_;1993;?
+764;Delivery_Year_;1970;?
+885;Delivery_Year_;1966;?
+798;Delivery_Year_;1967;1968
+507;Delivery_Year_;2000;?
+283;Delivery_Year_;2010;2007
+476;Delivery_Year_;2010;2009
+412;Delivery_Year_;1969;?
+491;Delivery_Year_;2021;?
+63;Delivery_Year_;1987;1989
+588;Delivery_Year_;1996;1997
+388;Delivery_Year_;1988;?
+880;Delivery_Year_;1999;?
+840;Delivery_Year_;2015;2014
+859;Delivery_Year_;1997;?
+391;Delivery_Year_;1992;1993
+782;Delivery_Year_;1991;1992
+756;Delivery_Year_;1978;?
+511;Delivery_Year_;1983;?
+462;Delivery_Year_;2008;?
+613;Delivery_Year_;1982;?
+678;Delivery_Year_;1970;?
+518;Delivery_Year_;1992;?
+534;Delivery_Year_;1976;?
+563;Delivery_Year_;1973;?
+65;Delivery_Year_;2018;2016
+891;Delivery_Year_;2015;?
+348;Delivery_Year_;2004;?
+487;Delivery_Year_;1999;?
+695;Delivery_Year_;1976;?
+73;Delivery_Year_;1970;1971
+896;Delivery_Year_;1973;?
+70;Delivery_Year_;1991;1991
+836;Delivery_Year_;2011;?
+544;Delivery_Year_;1990;?
+337;Delivery_Year_;1988;1991
+732;Delivery_Year_;1980;?
+364;Delivery_Year_;1987;?
+197;Delivery_Year_;1982;1978
+716;Delivery_Year_;1977;?
+713;Delivery_Year_;2019;2020
+879;Delivery_Year_;1968;?
+339;Delivery_Year_;1962;1964
+332;Delivery_Year_;2005;?
+443;Delivery_Year_;1971;?
+356;Engine;PW;PW
+555;Engine;CF;?
+705;Engine;CF;CF
+599;Engine;PW;?
+531;Engine;CF;?
+354;Engine;PW;?
+592;Engine;PW;RR
+503;Engine;PW;PW
+180;Engine;PW;PW
+330;Engine;GE;?
+218;Engine;CF;CF
+138;Engine;CF;?
+250;Engine;CF;?
+620;Engine;PW;?
+469;Engine;CF;?
+60;Engine;CF;?
+333;Engine;PW;PW
+866;Engine;CF;?
+76;Engine;RR;GE
+814;Engine;PW;?
+296;Engine;PW;?
+298;Engine;PW;?
+795;Engine;PW;?
+507;Engine;CF;CF
+230;Engine;PW;?
+120;Engine;PW;PW
+538;Engine;PW;PW
+62;Engine;PW;GE
+743;Engine;CF;?
+559;Engine;PW;PW
+845;Engine;GE;?
+142;Engine;CF;CF
+278;Engine;CF;CF
+349;Engine;PW;PW
+238;Engine;PW;GE
+88;Engine;CF;CF
+316;Engine;GE;?
+782;Engine;RR;RR
+851;Engine;RR;?
+568;Engine;CF;CF
+541;Engine;CF;GE
+477;Engine;PW;?
+811;Engine;PW;?
+291;Engine;GE;?
+421;Engine;CF;CF
+891;Engine;RR;?
+600;Engine;CF;CF
+344;Engine;CF;?
+271;Engine;GE;?
+464;Engine;GE;?
+127;Engine;GE;?
+393;Engine;RR;?
+757;Engine;PW;?
+688;Engine;GE;GE
+414;Engine;CF;?
+107;Engine;PW;GE
+229;Engine;GE;?
+801;Engine;PW;?
+880;Engine;PW;?
+346;Engine;CF;CF
+16;Engine;PW;GE
+612;Engine;PW;PW
+61;Engine;RR;RR
+274;Engine;PW;PW
+586;Engine;PW;?
+73;Engine;PW;?
+719;Engine;PW;PW
+260;Engine;CF;CF
+671;Engine;GE;?
+98;Engine;CF;CF
+727;Engine;PW;?
+140;Engine;CF;?
+164;Engine;CF;GE
+552;Engine;PW;PW
+488;Engine;PW;PW
+778;Engine;CF;?
+111;Engine;PW;PW
+148;Engine;CF;CF
+206;Engine;CF;RR
+751;Engine;PW;PW
+777;Engine;PW;?
+86;Engine;PW;?
+590;Engine;PW;PW
+331;Engine;CF;CF
+606;Engine;CF;?
+42;Engine;GE;GE
+550;Engine;PW;GE
+155;Engine;PW;PW
+675;Model_Series;727;?
+329;Model_Series;737-800;?
+246;Model_Series;727;737-200
+226;Model_Series;747-400F;747-400F
+72;Model_Series;DC-8;?
+186;Model_Series;737-200;727
+451;Model_Series;737-200;707/720
+571;Model_Series;727;?
+135;Model_Series;777-300ER;?
+86;Model_Series;767-300ER;?
+482;Model_Series;737-400;?
+474;Model_Series;737-800;?
+361;Model_Series;MD-90;?
+421;Model_Series;737-800;?
+582;Model_Series;767-300ER;?
+36;Model_Series;787-8;767-300F
+136;Model_Series;DC-9;?
+178;Model_Series;787-9;?
+530;Model_Series;DC-10;?
+605;Model_Series;787-9;?
+765;Model_Series;737-200;?
+517;Model_Series;737-500;?
+546;Model_Series;707/720;?
+809;Model_Series;DC-10;?
+592;Model_Series;767-200ER;?
+407;Model_Series;747-200;?
+188;Model_Series;737-100;737-200
+883;Model_Series;727;?
+882;Model_Series;737-800;?
+462;Model_Series;737-800;?
+584;Model_Series;MD-80;?
+183;Model_Series;737-300;?
+658;Model_Series;767-2C;?
+108;Model_Series;777-300ER;?
+508;Model_Series;727;?
+212;Model_Series;747-400F;?
+727;Model_Series;737-200;?
+405;Model_Series;737-400;?
+860;Model_Series;737-200;?
+845;Model_Series;747-400M;?
+394;Model_Series;DC-9;?
+532;Model_Series;747-300;?
+844;Model_Series;DC-8;?
+880;Model_Series;747-400M;?
+518;Model_Series;737-400;?
+558;Model_Series;727;?
+497;Model_Series;DC-9;?
+574;Model_Series;737-300;?
+119;Model_Series;767-200ER;767-200ER
+740;Model_Series;737-200;?
+478;Model_Series;757-200;?
+533;Model_Series;787-8;?
+222;Model_Series;737-800A;?
+237;Model_Series;737-200;?
+787;Model_Series;737-700;?
+20;Model_Series;707/720;?
+241;Model_Series;747-400F;?
+75;Model_Series;737-400;?
+509;Model_Series;737-800;?
+354;Model_Series;707/720;?
+283;Model_Series;777-200ER;?
+163;Model_Series;737-200;737-200
+710;Model_Series;737-800;?
+669;Model_Series;737-700W;?
+341;Model_Series;737 MAX;737-800
+52;Model_Series;737-200;727
+819;Model_Series;BBJ;?
+13;Model_Series;737-300;?
+77;Model_Series;737-800A;?
+273;Model_Series;737-200;?
+139;Model_Series;MD-11;?
+553;Model_Series;DC-8;?
+334;Model_Series;MD-80;MD-80
+666;Model_Series;737-300;?
+89;Model_Series;737-700;?
+601;Model_Series;DC-8;?
+99;Model_Series;757-200;757-200
+783;Model_Series;DC-10;?
+685;Model_Series;737-200;?
+709;Model_Series;737-800;?
+599;Model_Series;MD-80;?
+502;Model_Series;MD-80;?
+536;Model_Series;737-200;?
+293;Model_Series;737-800;?
+778;Model_Series;737-800;?
+688;Model_Series;777-300ER;?
+847;Model_Series;737-300;?
+110;Model_Series;MD-80;DC-9
+545;Model_Series;DC-8;?
+851;Model_Series;787-8;?
+94;Model_Series;737-200;?
+774;Model_Series;737-200;?
+668;Model_Series;767-200ER;?
+692;Model_Series;DC-8;?
+475;Model_Series;707/720;?
+886;Model_Series;737-800;?
+808;Model_Series;737-300;?
+738;Order_Month;Jan;?
+229;Order_Month;Apr;?
+238;Order_Month;Feb;?
+664;Order_Month;Aug;?
+695;Order_Month;Feb;?
+137;Order_Month;Jan;?
+22;Order_Month;Dec;?
+584;Order_Month;Mar;?
+432;Order_Month;Mar;?
+144;Order_Month;Jan;Dec
+896;Order_Month;Feb;?
+254;Order_Month;Sep;?
+822;Order_Month;Feb;?
+223;Order_Month;Feb;?
+326;Order_Month;Jan;Jan
+574;Order_Month;Apr;?
+506;Order_Month;Jan;?
+130;Order_Month;Nov;Nov
+487;Order_Month;Nov;?
+812;Order_Month;Nov;?
+126;Order_Month;Mar;?
+644;Order_Month;Jan;?
+240;Order_Month;Jan;?
+719;Order_Month;Jan;?
+864;Order_Month;Jun;?
+62;Order_Month;Feb;?
+607;Order_Month;Jan;?
+649;Order_Month;Mar;?
+493;Order_Month;Mar;?
+380;Order_Month;Jan;?
+244;Order_Month;Jan;Jan
+855;Order_Month;Feb;?
+356;Order_Month;Dec;?
+168;Order_Month;May;?
+479;Order_Month;Mar;?
+739;Order_Month;Oct;?
+406;Order_Month;Aug;?
+520;Order_Month;Apr;?
+335;Order_Month;Sep;?
+525;Order_Month;Jan;?
+297;Order_Month;May;?
+620;Order_Month;Nov;?
+97;Order_Month;Apr;?
+489;Order_Month;Jan;?
+839;Order_Month;May;?
+410;Order_Month;Sep;?
+40;Order_Month;Dec;?
+624;Order_Month;Feb;?
+729;Order_Month;Jul;?
+821;Order_Month;May;?
+819;Order_Month;Jan;?
+580;Order_Month;Sep;?
+512;Order_Month;Feb;?
+25;Order_Month;Sep;Sep
+353;Order_Month;Dec;?
+784;Order_Month;Apr;?
+585;Order_Month;Feb;?
+671;Order_Month;Feb;?
+305;Order_Month;Nov;?
+485;Order_Month;May;?
+570;Order_Month;Apr;?
+605;Order_Month;Feb;?
+530;Order_Month;Jan;?
+467;Order_Month;Jan;?
+174;Order_Month;Jan;Dec
+623;Order_Month;Oct;?
+237;Order_Month;Dec;?
+780;Order_Month;Apr;?
+201;Order_Month;Mar;?
+731;Order_Month;Mar;?
+291;Order_Month;Mar;?
+363;Order_Month;Jan;?
+345;Order_Month;Jan;Mar
+186;Order_Month;May;?
+648;Order_Month;Dec;?
+646;Order_Month;Mar;?
+405;Order_Month;Apr;?
+361;Order_Month;Jun;?
+601;Order_Month;Jun;?
+516;Order_Month;May;?
+775;Order_Month;Apr;?
+267;Order_Month;Nov;?
+1;Order_Month;May;Apr
+536;Order_Month;Mar;?
+500;Order_Month;Aug;?
+880;Order_Month;Jan;?
+180;Order_Month;Jan;?
+577;Order_Month;Jan;?
+829;Order_Month;Dec;?
+330;Order_Month;Dec;?
+542;Order_Month;Mar;?
+89;Order_Month;Jun;?
+284;Order_Month;Aug;?
+384;Order_Month;Apr;?
+597;Order_Month;May;?
+188;Order_Month;Mar;?
+575;Order_Month;Jan;?
+448;Order_Month;Jan;?
+176;Order_Month;Apr;Apr
+486;Order_Month;Nov;?
+91;Order_Year;2000;2000
+827;Order_Year;1978;?
+57;Order_Year;2007;?
+425;Order_Year;1965;?
+167;Order_Year;1986;1987
+269;Order_Year;1998;?
+514;Order_Year;1968;?
+319;Order_Year;1966;1966
+426;Order_Year;1983;1983
+320;Order_Year;1991;?
+540;Order_Year;1966;?
+60;Order_Year;2012;?
+270;Order_Year;2018;2018
+266;Order_Year;1999;?
+525;Order_Year;1973;?
+756;Order_Year;1978;?
+88;Order_Year;2017;2017
+42;Order_Year;2010;2010
+272;Order_Year;1999;1999
+663;Order_Year;2010;?
+548;Order_Year;1989;?
+771;Order_Year;1974;?
+689;Order_Year;1988;?
+196;Order_Year;1989;1987
+606;Order_Year;2021;?
+184;Order_Year;1981;?
+116;Order_Year;2018;2021
+238;Order_Year;1973;1973
+538;Order_Year;1994;?
+35;Order_Year;1965;?
+329;Order_Year;2012;?
+732;Order_Year;1979;?
+226;Order_Year;1999;2000
+92;Order_Year;1966;1966
+435;Order_Year;2018;?
+513;Order_Year;2008;2008
+379;Order_Year;1996;?
+217;Order_Year;1968;1968
+87;Order_Year;1999;1997
+563;Order_Year;1972;?
+140;Order_Year;2006;2005
+455;Order_Year;2014;2014
+129;Order_Year;1971;?
+254;Order_Year;1980;?
+171;Order_Year;2008;2007
+259;Order_Year;2000;2000
+582;Order_Year;1994;1996
+723;Order_Year;1982;?
+657;Order_Year;2000;?
+197;Order_Year;1982;1978
+349;Order_Year;1987;1988
+162;Order_Year;1967;1967
+310;Order_Year;1998;?
+324;Order_Year;2014;2011
+550;Order_Year;1979;1982
+688;Order_Year;2007;2007
+623;Order_Year;1997;?
+189;Order_Year;2017;2017
+236;Order_Year;1966;1967
+758;Order_Year;1976;?
+248;Order_Year;1966;1968
+158;Order_Year;1993;1993
+511;Order_Year;1981;?
+154;Order_Year;1997;?
+298;Order_Year;1955;?
+847;Order_Year;1986;?
+639;Order_Year;1978;?
+745;Order_Year;1989;1989
+288;Order_Year;1992;?
+655;Order_Year;1980;?
+699;Order_Year;2000;?
+838;Order_Year;1974;?
+471;Order_Year;1981;1981
+174;Order_Year;2001;2000
+652;Order_Year;1970;?
+428;Order_Year;2011;?
+743;Order_Year;2010;?
+589;Order_Year;1969;?
+26;Order_Year;1979;1982
+323;Order_Year;1968;1966
+678;Region;Europe;Europe
+226;Region;North America;North America
+139;Region;Europe;Europe
+611;Region;Africa;Africa
+134;Region;Europe;Europe
+34;Region;Central America and Mexico;Central America and Mexico
+757;Region;South America;South America
+889;Region;Europe;Europe
+564;Region;Europe;Europe
+698;Region;Europe;Europe
+405;Region;Europe;Europe
+241;Region;East Asia;East Asia
+187;Region;Africa;Africa
+543;Region;North America;North America
+594;Region;East Asia;East Asia
+263;Region;Oceania;Oceania
+843;Region;Europe;Europe
+540;Region;Africa;Africa
+229;Region;East Asia;East Asia
+570;Region;Middle East;Middle East
+722;Region;Central America and Mexico;Central America and Mexico
+738;Region;Europe;Europe
+208;Region;Europe;Europe
+471;Region;Southeast Asia;Southeast Asia
+724;Region;North America;North America
+176;Region;North America;North America
+86;Region;Europe;Europe
+109;Region;Europe;Europe
+601;Region;Africa;Africa
+138;Region;North America;North America
+196;Region;Africa;Africa
+411;Region;North America;North America
+396;Region;North America;North America
+91;Region;North America;North America
+538;Region;Europe;Europe
+649;Region;Europe;Europe
+862;Region;East Asia;East Asia
+216;Region;Europe;Europe
+688;Region;Oceania;Oceania
+198;Region;North America;North America
+677;Region;North America;North America
+231;Region;North America;North America
+550;Region;Europe;Europe
+725;Region;Europe;Europe
+281;Region;Africa;Africa
+269;Region;Middle East;Middle East
+553;Region;North America;?
+156;Region;Europe;Europe
+613;Region;North America;North America
+110;Region;East Asia;East Asia
+304;Region;Africa;?
+576;Region;East Asia;East Asia
+55;Region;South America;South America
+699;Region;Europe;Europe
+84;Region;North America;North America
+209;Region;Oceania;Oceania
+398;Region;Europe;Europe
+734;Region;Europe;Europe
+83;Region;Africa;Africa
+150;Region;North America;North America
+719;Region;Europe;Europe
+848;Region;East Asia;East Asia
+700;Region;Africa;Africa
+285;Region;Europe;Europe
+895;Region;Central Asia;Central Asia
+671;Region;Southeast Asia;?
+597;Region;Europe;Europe
+517;Region;Europe;Europe
+818;Region;Europe;Europe
+888;Region;Central America and Mexico;Central America and Mexico
+707;Region;South Asia;South Asia
+802;Region;Africa;Africa
+207;Region;Middle East;Middle East
+546;Region;Europe;Europe
+236;Region;South America;South America
+831;Region;East Asia;East Asia
+572;Region;Europe;Europe
+22;Region;Europe;Europe
+384;Region;North America;North America
+511;Delivery_Total;2;1
+386;Delivery_Total;1;1
+332;Delivery_Total;2;?
+310;Delivery_Total;4;4
+547;Delivery_Total;1;1
+801;Delivery_Total;3;3
+392;Delivery_Total;2;1
+697;Delivery_Total;2;?
+842;Delivery_Total;5;?
+862;Delivery_Total;1;?
+382;Delivery_Total;2;1
+695;Delivery_Total;1;1
+385;Delivery_Total;1;1
+182;Delivery_Total;1;1
+765;Delivery_Total;2;1
+60;Delivery_Total;6;6
+747;Delivery_Total;3;3
+563;Delivery_Total;3;3
+456;Delivery_Total;8;?
+29;Delivery_Total;1;9
+485;Delivery_Total;1;1
+559;Delivery_Total;2;?
+739;Delivery_Total;4;4
+602;Delivery_Total;1;?
+514;Delivery_Total;1;1
+21;Delivery_Total;4;5
+669;Delivery_Total;1;1
+634;Delivery_Total;1;1
+51;Delivery_Total;3;3
+670;Delivery_Total;1;1
+570;Delivery_Total;4;4
+37;Delivery_Total;1;9
+822;Delivery_Total;2;1
+688;Delivery_Total;3;3
+713;Delivery_Total;1;1
+393;Delivery_Total;1;1
+102;Delivery_Total;1;1
+190;Delivery_Total;1;1
+880;Delivery_Total;1;1
+250;Delivery_Total;2;1
+150;Delivery_Total;1;1
+43;Delivery_Total;1;9
+700;Delivery_Total;1;1
+83;Delivery_Total;1;1
+351;Delivery_Total;1;1
+510;Delivery_Total;3;3
+408;Delivery_Total;4;4
+496;Delivery_Total;5;?
+362;Delivery_Total;3;3
+265;Delivery_Total;1;1
+45;Delivery_Total;1;1
+57;Delivery_Total;2;2
+223;Delivery_Total;1;1
+234;Delivery_Total;3;2
+833;Delivery_Total;1;?
+381;Delivery_Total;4;4
+436;Delivery_Total;1;1
+885;Delivery_Total;1;1
+246;Delivery_Total;1;1
+847;Delivery_Total;5;?
+350;Delivery_Total;1;1
+452;Delivery_Total;3;1
+699;Delivery_Total;3;3
+575;Delivery_Total;9;?
+683;Delivery_Total;1;1
+15;Delivery_Total;1;3
+430;Delivery_Total;1;1
+662;Delivery_Total;1;?
+339;Delivery_Total;2;1
+2;Delivery_Total;2;3
+169;Delivery_Total;2;1
+686;Delivery_Total;2;1
+599;Delivery_Total;2;1
+198;Delivery_Total;3;3
+469;Delivery_Total;1;1
+744;Delivery_Total;1;1
+363;Delivery_Total;1;1
+804;Delivery_Total;1;1
+145;Delivery_Total;1;1
+9;Delivery_Total;2;1
+598;Delivery_Total;2;?
+527;Delivery_Total;6;?
+440;Delivery_Total;1;1
+503;Delivery_Total;1;1
+724;Delivery_Total;2;1
+379;Delivery_Total;1;1
+159;Delivery_Total;1;2
+568;Delivery_Total;4;?
+275;Delivery_Total;1;1
+210;Delivery_Total;1;1
+871;Delivery_Total;1;?
+410;Delivery_Total;2;1
+628;Delivery_Total;1;1
+342;Order_Total;1;?
+66;Order_Total;8;9
+529;Order_Total;1;?
+585;Order_Total;1;?
+618;Order_Total;5;5
+259;Order_Total;4;?
+399;Order_Total;1;?
+603;Order_Total;5;5
+173;Order_Total;2;?
+7;Order_Total;3;3
+332;Order_Total;2;?
+5;Order_Total;3;3
+364;Order_Total;1;?
+832;Order_Total;3;?
+110;Order_Total;2;?
+301;Order_Total;1;?
+278;Order_Total;2;?
+745;Order_Total;1;?
+758;Order_Total;2;?
+44;Order_Total;2;?
+476;Order_Total;4;?
+444;Order_Total;1;?
+57;Order_Total;2;?
+67;Order_Total;9;9
+777;Order_Total;1;?
+722;Order_Total;3;?
+687;Order_Total;1;?
+234;Order_Total;3;?
+85;Order_Total;4;5
+177;Order_Total;1;?
+309;Order_Total;2;?
+200;Order_Total;6;6
+207;Order_Total;3;?
+698;Order_Total;6;6
+864;Order_Total;1;?
+159;Order_Total;1;?
+825;Order_Total;2;?
+831;Order_Total;4;?
+573;Order_Total;1;?
+780;Order_Total;3;?
+367;Order_Total;3;?
+495;Order_Total;2;?
+124;Order_Total;1;?
+94;Order_Total;1;?
+522;Order_Total;1;?
+99;Order_Total;2;?
+41;Order_Total;1;?
+95;Order_Total;2;?
+609;Order_Total;1;?
+867;Order_Total;1;?
+251;Order_Total;1;?
+886;Order_Total;1;?
+474;Order_Total;2;?
+280;Order_Total;1;?
+717;Order_Total;2;?
+422;Order_Total;2;?
+718;Order_Total;1;?
+376;Order_Total;4;?
+817;Order_Total;2;?
+602;Order_Total;1;?
+871;Order_Total;1;?
+812;Order_Total;1;?
+222;Order_Total;2;?
+148;Order_Total;1;?
+404;Order_Total;2;?
+828;Order_Total;4;?
+249;Order_Total;2;?
+276;Order_Total;4;?
+35;Order_Total;1;?
+833;Order_Total;1;?
+439;Order_Total;1;?
+508;Order_Total;1;?
+117;Order_Total;2;?
+697;Order_Total;2;?
+454;Order_Total;1;?
+452;Order_Total;3;?
+232;Order_Total;5;5
+355;Order_Total;1;?
+742;Order_Total;1;?
+884;Order_Total;4;?
+15;Order_Total;1;9
+100;Order_Total;3;?
+559;Order_Total;2;?
+598;Order_Total;2;?
+662;Order_Total;1;?
+489;Order_Total;1;?
+326;Order_Total;2;?
+870;Order_Total;5;5
+97;Order_Total;1;?
+140;Order_Total;1;?

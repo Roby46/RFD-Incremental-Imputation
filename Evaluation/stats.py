@@ -56,6 +56,6 @@ def analizza_risultati(file_input, selected_datasets):
 selected_datasets = ['Boeing_898', 'actorfilms_4000', 'restaurant', 'NBA_3200', 'EV_Vehicles_4000',
                      'US_Presidents_3754', 'cars', "superstore_4500", "police", "IoT_Telemetry3000", "F1_REBUILT_5000",
                      "MotoGP_REBUILT_3000", "Med_Ch_2500", "restaurant_MNAR", "cars_MNAR",
-                     "Boeing_898_MNAR", "cars_MBUV"]
+                     "Boeing_898_MNAR", "cars_MBUV", "Boeing_898_MBUV"]
 
 analizza_risultati('ALL_Results_v3.csv', selected_datasets)

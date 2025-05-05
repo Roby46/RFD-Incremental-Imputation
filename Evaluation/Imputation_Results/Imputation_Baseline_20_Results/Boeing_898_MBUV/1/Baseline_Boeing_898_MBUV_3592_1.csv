@@ -1,0 +1,69 @@
+riga;nome attributo;valore da imputare;valore imputato
+17;Country;Turkey;?
+8;Country;China;?
+15;Country;USA;?
+1;Country;USA;?
+13;Country;Netherlands;?
+5;Country;Russian Federation;?
+2;Country;Ireland;?
+9;Country;USA;?
+11;Country;United Kingdom;?
+1;Customer_Name;Southern Airways - USA (Inacti;?
+16;Customer_Name;Bavaria;?
+14;Customer_Name;Aeropostal;?
+12;Customer_Name;Pegasus Airlines;?
+15;Customer_Name;U.S. Air Force;?
+11;Customer_Name;Air Europe;?
+13;Customer_Name;ITOCHU AirLease B.V.;?
+5;Delivery_Year_;2012;?
+17;Delivery_Year_;2005;?
+4;Delivery_Year_;2010;?
+16;Delivery_Year_;1982;?
+13;Delivery_Year_;1993;?
+2;Delivery_Year_;2002;?
+13;Engine;CF;?
+14;Engine;PW;?
+8;Engine;RR;?
+9;Engine;RR;?
+4;Model_Series;777F;MD-80
+3;Model_Series;747-300;?
+7;Model_Series;DC-9;707/720
+8;Model_Series;757-200;757-200
+11;Model_Series;757-200;?
+10;Model_Series;MD-80;747-8F
+1;Model_Series;DC-9;MD-80
+17;Model_Series;737-700W;?
+9;Order_Month;Jan;Jan
+8;Order_Month;Mar;Feb
+7;Order_Month;Feb;May
+5;Order_Month;Nov;Jan
+4;Order_Month;Apr;May
+16;Order_Month;Jan;May
+15;Order_Year;1973;?
+9;Order_Year;2000;?
+8;Order_Year;2000;?
+12;Order_Year;2006;?
+11;Region;Europe;?
+16;Region;Europe;?
+17;Region;Europe;?
+9;Region;North America;?
+7;Region;Southeast Asia;?
+8;Region;East Asia;?
+2;Region;Europe;?
+16;Delivery_Total;2;3
+3;Delivery_Total;1;3
+17;Delivery_Total;1;2
+8;Delivery_Total;1;3
+10;Delivery_Total;2;3
+14;Delivery_Total;1;3
+9;Delivery_Total;2;2
+5;Delivery_Total;3;3
+10;Order_Total;2;2
+13;Order_Total;1;2
+14;Order_Total;1;2
+9;Order_Total;2;2
+17;Order_Total;1;2
+11;Order_Total;2;2
+4;Order_Total;2;2
+7;Order_Total;3;2
+1;Order_Total;3;2
