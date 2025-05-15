@@ -1,0 +1,208 @@
+riga;nome attributo;valore da imputare;valore imputato
+13;name;citrus;?
+96;name;mesa grill;?
+183;name;restaurant  ritz-carlton  atlanta;?
+498;name;bertolini's;?
+15;name;fenix;?
+191;name;aqua;?
+699;name;poquito mas;?
+729;name;joe's shanghai;?
+403;name;le marais;?
+475;name;trattoria dell'arte;?
+175;name;nikolai's roof;?
+254;name;jackson's farm;?
+396;name;lattanzi ristorante;?
+570;name;bistro roti;?
+127;name;tavern on the green;?
+440;name;persepolis;?
+70;name;four seasons;?
+237;name;cha cha cha;?
+427;name;newsbar;?
+499;name;bistango;?
+686;name;mani's bakery & espresso bar;?
+628;name;stars cafe;?
+864;name;wa-ha-ka oaxaca mexican grill;?
+553;name;golden nugget hotel;?
+652;name;bistro 45;?
+586;name;grand cafe hotel monaco;?
+682;name;la serenata de garibaldi;?
+268;name;pinot hollywood;?
+252;name;il fornaio cucina italiana;?
+135;name;chin's;?
+349;name;f. ille ponte ristorante;?
+697;addr;642 broadway;?
+478;addr;154 e. 79th st.  between lexington and 3rd aves.;?
+281;addr;3835 cross creek rd.;?
+704;addr;1198 pch;?
+633;addr;3235 sacramento st.;?
+562;addr;3570 las vegas blvd. s;?
+649;addr;9882 little santa monica blvd.;?
+564;addr;6182 w. flamingo rd.;?
+598;addr;615 sacramento st.;?
+620;addr;631 b kearny st.;?
+130;addr;747 ninth ave.;?
+519;addr;1402 n. highland ave.;?
+840;addr;3221 mission st.;?
+836;addr;240 columbus ave.;?
+577;addr;1600 powell st.;?
+464;addr;62 spring st. at lafayette st.;?
+340;addr;341 w. broadway  near grand st.;?
+803;addr;1655 mclendon ave.;?
+376;addr;20 cornelia st.  between bleecker and w. 4th st.;?
+580;addr;500 jackson st.;?
+385;addr;68 w. 58th st.;?
+674;addr;4017 s. sepulveda blvd.;?
+412;addr;800 9th ave. at 53rd st.;?
+622;addr;1 tillman pl.;?
+247;addr;1121 s. western ave.;?
+154;addr;3130 piedmont rd. ne;?
+512;addr;192 peachtree center ave.  at international blvd.;?
+50;addr;13 w. 54th st.;?
+474;addr;2420 broadway at 89th st.;?
+268;addr;1448 n. gower st.;?
+668;city;la;?
+537;city;las vegas;?
+353;city;new york;?
+272;city;santa monica;new york
+296;city;new york;?
+506;city;atlanta;?
+311;city;new york;new york
+1;city;los angeles;?
+414;city;new york;?
+156;city;atlanta;?
+620;city;san francisco;?
+385;city;new york;?
+335;city;new york;?
+670;city;santa monica;?
+575;city;san francisco;?
+369;city;new york;?
+328;city;new york;?
+633;city;san francisco;?
+96;city;new york city;?
+605;city;san francisco;?
+247;city;los angeles;?
+439;city;new york;?
+85;city;new york;?
+390;city;new york;?
+345;city;new york;?
+104;city;new york city;?
+664;city;westwood;?
+94;city;new york city;?
+98;city;new york city;new york
+440;city;new york;?
+511;city;atlanta;?
+220;city;san francisco;?
+540;city;las vegas;?
+389;city;new york;new york
+488;city;new york;?
+87;city;new york;new york
+686;city;la;?
+110;city;new york city;new york
+217;phone;415/563-4755;?
+558;phone;702/454-8073;?
+709;phone;310-207-7782;?
+358;phone;212/355-2020;?
+334;phone;212/794-0205;?
+229;phone;310/451-1655;?
+530;phone;404/873-7358;?
+66;phone;212-355-7555;?
+339;phone;212/254-8776;?
+177;phone;404/261-3662;?
+647;phone;310-479-2231;?
+551;phone;702/731-7888;?
+622;phone;415/421-2300;?
+723;phone;212-840-5000;?
+144;phone;702-385-6277;?
+810;phone;404-876-6161;?
+813;phone;404-303-8201;?
+353;phone;212/ 262-2525;?
+149;phone;404/261-8186;?
+787;phone;404-233-5993;?
+165;phone;404/233-7673;?
+765;phone;212-753-0444;?
+661;phone;310-854-1111;?
+327;phone;212/697-9538;?
+508;phone;404/607-1622;?
+684;phone;818-706-7706;?
+98;phone;212-627-8273;?
+513;phone;404/351-0870;?
+432;phone;212/941-4168;?
+476;phone;212/472-4488;?
+624;phone;415/395-8555;?
+181;phone;404/237-2700;?
+326;phone;212/966-4900;?
+414;phone;212/777-6314;?
+24;phone;310-652-9770;?
+739;phone;212-247-1585;?
+416;phone;212/229-9313;?
+322;phone;212/475-9557;?
+122;type;chinese;?
+430;type;italian;?
+58;type;italian;?
+561;type;coffee shops/diners;?
+694;type;seafood;?
+758;type;chinese;?
+204;type;french bistro;?
+729;type;chinese;?
+242;type;italian;?
+63;type;french;?
+353;type;american;?
+554;type;steak houses;?
+79;type;french;?
+658;type;pacific new wave;?
+648;type;mexican;?
+161;type;american;?
+723;type;diners;?
+265;type;cajun;?
+206;type;californian;?
+332;type;american;?
+70;type;american (new);?
+405;type;american;?
+688;type;american;?
+495;type;american;?
+731;type;pan-asian;?
+340;type;italian;?
+806;type;bbq;?
+782;type;californian;?
+720;type;seafood;?
+657;type;american;?
+467;type;asian;?
+455;type;italian;?
+518;type;continental;?
+115;type;italian;?
+14;type;californian;?
+358;type;coffee bar;?
+630;type;asian;?
+571;type;american;?
+421;class;308;?
+818;class;706;123
+436;class;323;16
+844;class;732;?
+431;class;318;?
+239;class;126;?
+324;class;211;?
+22;class;10;10
+59;class;29;29
+731;class;619;?
+747;class;635;?
+193;class;96;96
+425;class;312;?
+655;class;543;?
+450;class;337;?
+212;class;105;105
+393;class;280;?
+359;class;246;?
+160;class;79;79
+292;class;179;?
+850;class;738;?
+686;class;574;?
+322;class;209;?
+99;class;49;49
+270;class;157;129
+245;class;132;?
+187;class;93;93
+254;class;141;?
+379;class;266;?
+90;class;44;44
+782;class;670;?
+442;class;329;?

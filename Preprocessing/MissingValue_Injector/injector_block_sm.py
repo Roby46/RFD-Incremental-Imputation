@@ -49,12 +49,12 @@ def write_row_to_csv(file_path, row_data):
         writer.writerow(row_data)
 
 
-percentages = [30]
+percentages = [1,2,3,4,5,10,20,30,40,50]
 column_types = [""]
-dataset = "Boeing_898_MNAR"
+dataset = "police_MBUV"
 delimiter = ';'
 path_file = f'../../Datasets/Preprocessed_Datasets/{dataset}.csv'
-iterations = [1]
+iterations = [1,2,3,4,5]
 null_value = '?'
 n_inviolable_rows = 4  # Number of rows to remain complete in each half
 

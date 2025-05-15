@@ -1,0 +1,519 @@
+riga;nome attributo;valore da imputare;valore imputato
+25;name;le chardonnay;l'orangerie
+240;name;dining room;?
+507;name;dante's down the hatch;?
+612;name;north india;?
+364;name;frico bar;?
+52;name;aureole;?
+676;name;johnny rockets (la);?
+527;name;rib ranch;?
+130;name;uncle nick's;?
+838;name;doidge's;?
+534;name;taste of new orleans;?
+37;name;pinot bistro;?
+113;name;river cafe;?
+775;name;mayflower cuisinier;?
+147;name;tillerman;?
+575;name;cafe marimba;?
+683;name;langer's;?
+772;name;fiore rotisserie & grille;?
+151;name;bacchanalia;?
+861;name;trio cafe;?
+720;name;cucina di pesce;?
+799;name;chops;?
+116;name;san domenico;san domenico
+190;name;alain rondelli;?
+836;name;campo santo;?
+513;name;imperial fez;?
+506;name;dante's down the hatch  buckhead;?
+100;name;montrachet;?
+228;name;bistro garden;?
+581;name;des alpes;?
+689;name;michael's (los angeles);?
+825;name;silver skillet  the;?
+761;name;thailand restaurant;?
+392;name;l'auberge du midi;?
+442;name;pomaire;?
+619;name;perry's;?
+134;name;virgil's real bbq;?
+852;name;mo's burgers;?
+840;name;dusit thai;?
+569;name;betelnut;?
+505;name;colonnade restaurant;?
+22;name;katsu;?
+391;name;l'auberge;?
+299;name;barbetta;?
+257;name;le colonial;?
+61;name;chanterelle;?
+524;name;pleasant peasant;?
+284;name;west beach cafe;?
+237;name;cha cha cha;?
+488;name;west;?
+562;name;the bacchanal;?
+713;name;zankou chicken;?
+542;name;bistro;?
+208;name;khan toke thai house;?
+192;name;aqua;?
+118;name;second avenue deli;?
+794;name;brookhaven cafe;?
+91;name;manhattan ocean club;?
+346;name;empire korea;?
+343;name;duane park cafe;?
+724;name;elias corner;?
+440;name;persepolis;?
+594;name;hong kong villa;?
+24;name;l'orangerie;?
+670;name;jiraffe;?
+167;name;heera of india;?
+829;name;van gogh's restaurant & bar;?
+509;name;french quarter food shop;?
+559;name;mikado;?
+97;name;mi cocina;mi cocina
+826;name;soto;?
+473;name;the coffee pot;?
+156;name;brasserie le coze;?
+470;name;tapika;?
+161;name;delectables;?
+389;name;judson grill;?
+165;name;hedgerose heights inn;?
+60;name;carnegie deli;?
+366;name;gabriela's;?
+665;addr;1949 westwood blvd.;?
+574;addr;3347 fillmore st.;?
+462;addr;57 w. 48th st.;?
+120;addr;11 e. 53rd st.;?
+856;addr;1328 18th st.;?
+285;addr;20 mott st.  between bowery and pell st.;?
+459;addr;3 225 e. 60th st.;?
+494;addr;3195 roswell rd.;?
+585;addr;ghirardelli sq.;?
+242;addr;2628 wilshire blvd.;?
+300;addr;123 w. 52nd st.;?
+677;addr;4000 colfax ave.;?
+652;addr;45 s. mentor ave.;?
+226;addr;9570 wilshire blvd.;?
+538;addr;4850 flamingo rd.;?
+717;addr;424 amsterdam ave.;?
+579;addr;4th and howard sts.;?
+328;addr;150 wooster st.  between houston and prince sts.;?
+371;addr;18 e. broadway at catherine st.;?
+488;addr;63rd street steakhouse 44 w. 63rd st.;?
+707;addr;11288 ventura blvd.;?
+504;addr;40  buckhead crossing mall on the sidney marcus blvd.;?
+43;addr;3115 pico blvd.;?
+630;addr;3300 geary blvd.;?
+12;addr;2709 main st.;2709 main st.
+511;addr;4320 powers ferry rd.;?
+23;addr;903 n. la cienega blvd.;?
+210;addr;2316 polk st.;?
+690;addr;8474 w. third st.;?
+667;addr;6145 franklin ave.;?
+360;addr;6 w. 24th st.;?
+777;addr;3145 las vegas blvd. s.;?
+208;addr;5937 geary blvd.;?
+752;addr;1295 madison ave.;?
+850;addr;2225 irving st.;?
+124;addr;1110 third ave.;?
+430;addr;142 w. 44th st.;?
+812;addr;1248 clairmont rd.;?
+857;addr;584 valencia st.;?
+773;addr;202 e. fremont st.;?
+756;addr;328 lenox ave.;?
+104;addr;100 e. 63rd st.;?
+249;addr;4 fish 17300 pacific coast hwy. at sunset blvd.;?
+803;addr;1655 mclendon ave.;?
+166;addr;490 e. paces ferry rd. ne;?
+700;addr;923 e. third st.;?
+842;addr;1550 california st.;?
+552;addr;2411 w. sahara ave.;?
+820;addr;4330 peachtree rd.;?
+334;addr;23 e. 74th st.;?
+173;addr;224 ponce de leon ave.;?
+604;addr;453 bush st.;?
+374;addr;221 w. 57th st.;?
+212;addr;816 folsom st.;?
+698;addr;709 n. la brea ave.;?
+475;addr;900 7th ave.  between 56th and 57th sts.;?
+570;addr;155 steuart st.;?
+281;addr;3835 cross creek rd.;?
+533;addr;2165 cheshire bridge rd.;?
+852;addr;1322 grant st.;?
+278;addr;7371 melrose ave.;?
+46;addr;67 n. raymond ave.;?
+414;addr;325 e. 14th st.  between 1st and 2nd aves.;?
+841;addr;1283 ninth ave.;?
+200;addr;804 north point st.;?
+123;addr;1110 3rd ave. at 65th st.;?
+382;addr;430 lafayette st.  between 4th st. and astor pl.;?
+141;addr;3570 las vegas blvd. s;?
+112;addr;30 rockefeller plaza;?
+149;addr;2355 peachtree rd.  peachtree battle shopping center;?
+395;addr;168 1st ave.  between 10th and 11th sts.;?
+346;addr;6 e. 32nd st.;?
+660;addr;1716 pch;?
+63;addr;20 e. 76th st.;?
+423;addr;551 5th ave. at 45th st.;?
+769;addr;3300 las vegas blvd. s.;?
+590;addr;161 steuart st.;?
+41;addr;1114 horn ave.;?
+182;addr;3434 peachtree rd. ne;?
+299;addr;321 w. 46th st.;?
+276;addr;3rd st.;?
+135;city;las vegas;las vegas
+86;city;new york city;new york
+50;city;new york city;new york
+634;city;san francisco;?
+498;city;atlanta;las vegas
+48;city;new york city;new york
+287;city;new york;?
+508;city;atlanta;?
+666;city;la;?
+779;city;las vegas;?
+145;city;las vegas;las vegas
+398;city;new york;?
+390;city;new york;?
+536;city;las vegas;las vegas
+501;city;atlanta;?
+457;city;new york;?
+281;city;los angeles;?
+840;city;san francisco;?
+46;city;pasadena;?
+775;city;las vegas;?
+552;city;las vegas;?
+85;city;new york;new york
+837;city;san francisco;?
+164;city;atlanta;atlanta
+1;city;los angeles;los angeles
+45;city;los angeles;?
+774;city;las vegas;?
+847;city;san francisco;?
+833;city;san francisco;?
+612;city;san francisco;?
+375;city;new york;?
+734;city;new york city;?
+66;city;new york city;new york
+342;city;new york;?
+168;city;atlanta;atlanta
+694;city;monterey park;?
+489;city;new york;?
+224;city;san francisco;san francisco
+725;city;new york city;?
+172;city;atlanta;atlanta
+801;city;atlanta;?
+449;city;new york;?
+746;city;new york city;new york city
+31;city;los angeles;?
+397;city;new york;?
+308;city;new york;?
+529;city;atlanta;?
+678;city;la;?
+469;city;new york;?
+696;city;pasadena;?
+364;city;new york;?
+799;city;atlanta;?
+598;city;san francisco;?
+188;city;atlanta;atlanta
+180;city;atlanta;atlanta
+785;city;las vegas;?
+530;city;atlanta;?
+618;city;san francisco;?
+851;city;san francisco;?
+538;city;las vegas;?
+190;city;san francisco;san francisco
+742;city;brooklyn;?
+305;city;new york;?
+439;city;new york;?
+855;city;san francisco;?
+330;city;new york;?
+331;city;new york;?
+4;city;studio city;studio city
+506;city;atlanta;?
+728;city;queens;?
+430;city;new york;?
+198;city;san francisco;san francisco
+12;city;santa monica;santa monica
+454;city;new york;?
+758;city;new york city;?
+772;city;las vegas;?
+127;city;new york;new york city
+220;city;san francisco;san francisco
+247;city;los angeles;?
+358;city;new york;?
+240;city;los angeles;?
+386;city;new york;?
+631;city;san francisco;?
+835;city;san francisco;?
+555;city;las vegas;las vegas
+376;city;new york;new york
+614;city;san francisco;?
+834;city;san francisco;?
+37;city;los angeles;studio city
+513;city;atlanta;?
+80;city;new york city;new york
+96;city;new york city;new york
+807;city;atlanta;?
+522;city;atlanta;?
+435;city;new york;?
+108;city;new york city;new york
+642;city;san francisco;?
+570;city;san francisco;?
+29;city;beverly hills;beverly hills
+725;phone;212-496-0163;?
+205;phone;415/777-9779;?
+139;phone;702/732-5111;?
+564;phone;702/871-8826;?
+621;phone;415/434-4100;?
+57;phone;212/362-2200;212-362-2200
+56;phone;212-877-3500;212/877-3500
+844;phone;415-626-1985;?
+31;phone;310/550-8811;?
+412;phone;212/956-3976;?
+11;phone;310/392-9025;310-392-9025
+644;phone;415/346-0800;?
+30;phone;310-659-9639;310/659-9639
+199;phone;415/775-7036;?
+65;phone;212/355-7555;212-355-7555
+701;phone;310-828-7937;?
+684;phone;818-706-7706;?
+178;phone;404-261-3662;?
+7;phone;818/788-3536;818-788-3536
+322;phone;212/475-9557;?
+348;phone;212/744-3266;?
+67;phone;212/758-1479;212-758-1479
+270;phone;310/277-7346;?
+499;phone;404/724-0901;?
+102;phone;212-759-5941;212/759-5941
+87;phone;212/339-6719;?
+861;phone;415-563-2248;?
+534;phone;404/874-5535;?
+764;phone;212-524-7000;?
+703;phone;818-796-7829;?
+793;phone;404-261-7015;?
+243;phone;310/358-8585;?
+761;phone;212-349-3132;?
+320;phone;212/645-4431;?
+91;phone;212/ 371-7777;?
+414;phone;212/777-6314;?
+222;phone;415-296-7465;?
+106;phone;212-245-2214;212/245-2214
+813;phone;404-303-8201;?
+859;phone;415-431-2526;?
+296;phone;212/677-3820;?
+46;phone;818-585-0855;?
+620;phone;415/982-7877;?
+774;phone;702-894-7111;?
+347;phone;212/496-1588;?
+195;phone;415/392-3505;?
+595;phone;415/441-7778;?
+740;phone;212-989-1367;?
+156;phone;404-266-1440;?
+109;phone;212/260-6660;212-260-6660
+217;phone;415/563-4755;?
+853;phone;415-775-5979;?
+616;phone;415/395-9800;?
+591;phone;415/863-5545;?
+665;phone;310-475-0400;?
+639;phone;415/563-9727;?
+651;phone;213-612-1580;?
+318;phone;212/924-7653;?
+25;phone;213/655-8880;213-655-8880
+148;phone;702-731-4036;?
+572;phone;415/543-2222;?
+268;phone;213/461-8800;?
+152;phone;404-365-0410;?
+182;phone;404-237-2700;?
+330;phone;212/505-0727;?
+306;phone;212/758-0323;?
+565;phone;702/794-0700;?
+229;phone;310/451-1655;?
+752;phone;212-410-7335;?
+490;phone;212/614-9291;?
+531;phone;404/325-6963;?
+642;phone;415/566-6966;?
+440;phone;212/535-1100;?
+479;phone;212/688-5447;?
+266;phone;213/483-6000;?
+343;phone;212/732-5555;?
+850;phone;415-665-9500;?
+723;phone;212-840-5000;?
+810;phone;404-876-6161;?
+542;phone;702/791-7111;?
+660;phone;310-540-1222;?
+201;phone;415/673-7779;?
+90;phone;212-752-2225;212/752-2225
+788;phone;404-724-0444;?
+570;phone;415/495-6500;?
+608;phone;415/362-8286;?
+326;phone;212/966-4900;?
+430;phone;212/944-3643;?
+644;type;mexican/latin american/spanish;?
+510;type;barbecue;?
+851;type;hamburgers;?
+308;type;italian;?
+562;type;only in las vegas;?
+164;type;southwestern;?
+402;type;italian;?
+218;type;american (new);?
+824;type;mediterranean;?
+78;type;french bistro;?
+12;type;pacific new wave;french
+67;type;italian;?
+300;type;american;?
+475;type;italian;?
+636;type;mediterranean;?
+413;type;american;?
+37;type;french;?
+820;type;american;?
+404;type;french;?
+17;type;californian;californian
+830;type;vegetarian;?
+337;type;coffee bar;?
+566;type;american;?
+426;type;asian;?
+565;type;steak houses;?
+607;type;asian;?
+228;type;californian;?
+438;type;american;?
+270;type;italian;?
+10;type;californian;american
+435;type;italian;?
+415;type;french;?
+597;type;steak houses;?
+560;type;continental;?
+654;type;coffee shops;?
+666;type;cajun/creole;?
+431;type;asian;?
+783;type;steakhouses;?
+99;type;french;?
+696;type;californian;?
+344;type;mexican;?
+559;type;asian;?
+342;type;seafood;?
+234;type;californian;?
+778;type;chinese;?
+647;type;noodle shops;?
+459;type;american;?
+844;type;hamburgers;?
+551;type;asian;?
+709;type;noodle shops;?
+363;type;coffee bar;?
+341;type;french;?
+699;type;mexican;?
+525;type;italian;?
+24;type;french (classic);?
+609;type;seafood;?
+242;type;italian;?
+695;type;diners;?
+291;type;american;?
+272;type;italian;?
+77;type;american;?
+493;type;barbecue;?
+105;type;french;?
+553;type;buffets;?
+366;type;mexican;?
+394;type;french;?
+648;type;mexican;?
+593;type;asian;?
+692;type;pizza;?
+736;type;thai;?
+22;type;japanese;?
+854;type;mexican;?
+299;type;italian;?
+375;type;american;?
+262;type;american;?
+352;type;american;?
+137;type;southwestern;?
+789;type;cajun/creole;?
+764;type;eclectic;?
+226;type;american;?
+422;type;asian;?
+93;type;american;?
+345;type;american;?
+442;type;latin american;?
+790;type;bbq;?
+458;type;seafood;?
+843;class;731;?
+369;class;256;?
+453;class;340;?
+154;class;76;76
+491;class;378;?
+213;class;106;106
+551;class;438;?
+817;class;705;?
+205;class;102;102
+237;class;124;?
+381;class;268;?
+392;class;279;?
+851;class;739;?
+353;class;240;?
+563;class;450;?
+161;class;80;80
+166;class;82;82
+334;class;221;?
+688;class;576;?
+106;class;52;52
+736;class;624;?
+342;class;229;?
+53;class;26;26
+596;class;483;?
+208;class;103;103
+813;class;701;?
+288;class;175;208
+749;class;637;?
+444;class;331;?
+535;class;422;?
+300;class;187;?
+642;class;529;?
+499;class;386;?
+474;class;361;?
+400;class;287;?
+19;class;9;9
+174;class;86;?
+439;class;326;?
+769;class;657;?
+496;class;383;?
+199;class;99;99
+641;class;528;?
+129;class;64;?
+442;class;329;?
+715;class;603;?
+296;class;183;?
+310;class;197;?
+858;class;746;?
+116;class;57;57
+758;class;646;?
+302;class;189;?
+17;class;8;8
+36;class;17;17
+383;class;270;?
+561;class;448;?
+83;class;41;41
+809;class;697;?
+311;class;198;220
+443;class;330;?
+11;class;5;5
+407;class;294;?
+792;class;680;?
+233;class;120;?
+226;class;113;?
+173;class;86;?
+682;class;570;?
+147;class;73;?
+464;class;351;?
+652;class;540;?
+376;class;263;?
+772;class;660;?
+835;class;723;?
+841;class;729;?
+707;class;595;?
+685;class;573;?
+5;class;2;2
+256;class;143;?
+826;class;714;?
+650;class;538;?
+382;class;269;?
+234;class;121;?
+198;class;98;98
+742;class;630;?
+408;class;295;?
+716;class;604;?
