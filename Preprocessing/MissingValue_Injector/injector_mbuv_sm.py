@@ -59,7 +59,7 @@ def generate_inviolable_indices(df_length, n):
 
 # Configuration parameters:
 percentages = [1, 2, 3, 4, 5, 10, 20, 30, 40, 50]
-dataset = "restaurant_MBUV"
+dataset = "police_MBUV"
 delimiter = ';'
 path_file = f'../../Datasets/Preprocessed_Datasets/{dataset}.csv'
 iterations = [1, 2, 3, 4, 5]

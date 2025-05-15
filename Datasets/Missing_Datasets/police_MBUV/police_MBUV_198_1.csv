@@ -7,8 +7,8 @@ Matthew Hoffman;Male;White;San Francisco;CA;Gunshot;San Francisco Police Departm
 Kenneth Buck;Male;Hispanic/Latino;Chandler;AZ;Gunshot;Chandler Police Department;Firearm;maricopa
 Michael Rodriguez;Male;Hispanic/Latino;Evans;CO;Gunshot;Evans Police Department;Other;weld
 Patrick Wetter;Male;White;Stockton;CA;Gunshot;Stockton Police Department;Knife;san joaquin
-Brian Pickett;?;Black;Los Angeles;CA;Taser;Los Angeles County Sheriffs Department;No;los angeles
-Autumn Steele;Female;White;Burlington;IA;Gunshot;Burlington Police Department;No;des moines
+Brian Pickett;Male;Black;Los Angeles;CA;Taser;Los Angeles County Sheriffs Department;No;los angeles
+Autumn Steele;Female;White;?;IA;Gunshot;Burlington Police Department;No;des moines
 Brock Nichols;Male;White;Assaria;KS;Gunshot;Saline County Sheriffs Office;Firearm;saline
 Leslie Sapp III;Male;Black;Pittsburgh;PA;Gunshot;US Marshals Service Pennsylvania State Police Allegheny County Sheriffs Office;Non-lethal firearm;allegheny
 Nicholas Brickman;Male;White;Des Moines;IA;Gunshot;Des Moines Police Department;Firearm;polk
@@ -17,20 +17,20 @@ Andre Murphy Sr;Male;Black;Norfolk;NE;Death in custody;Norfolk Police Division;N
 Loren Simpson;Male;White;Huntley;MT;Gunshot;Yellowstone County Sheriffs Office;No;yellowstone
 James Barker;Male;White;Salt Lake City;UT;Gunshot;Salt Lake City Police Department;Other;salt lake
 Thomas Hamby;Male;White;Syracuse;UT;Gunshot;Syracuse Police Department Davis County Sheriffs Office;Firearm;davis
-Andy Martinez;Male;Hispanic/Latino;El Paso;TX;Gunshot;El Paso Police Department;Firearm;el paso
-Jimmy Foreman;Male;White;England;AR;Gunshot;?;Firearm;lonoke
-Brian Barbosa;Male;Hispanic/Latino;South Gate;CA;Gunshot;?;Firearm;los angeles
-Tommy Smith;Male;White;Arcola;IL;Gunshot;?;Firearm;douglas
-John OKeefe;Male;White;Albuquerque;NM;Gunshot;?;Firearm;bernalillo
+Andy Martinez;?;Hispanic/Latino;El Paso;TX;Gunshot;El Paso Police Department;Firearm;el paso
+Jimmy Foreman;Male;White;?;AR;Gunshot;England Police Department;Firearm;lonoke
+Brian Barbosa;Male;Hispanic/Latino;South Gate;CA;Gunshot;South Gate Police Department;Firearm;los angeles
+Tommy Smith;Male;White;Arcola;IL;Gunshot;Arcola Police Department Tuscola Police Department;Firearm;douglas
+John OKeefe;Male;White;Albuquerque;NM;Gunshot;Albuquerque Police Department;Firearm;bernalillo
 Richard McClendon;Male;White;Jourdanton;TX;Gunshot;Jourdanton Police Department;Knife;atascosa
 Marcus Golden;Male;Black;St Paul;MN;Gunshot;St Paul Police Department;Vehicle;ramsey
 Michael Goebel;Male;White;Robertsville;MO;Gunshot;St Louis County Police Department Jefferson County Sheriffs Office Franklin County Sheriffs Office;Vehicle;franklin
 Jeffrey Nielson;Male;White;Draper;UT;Gunshot;West Valley City Police Department;Knife;salt lake
 Robert Edwards;Male;White;Lake Jackson;TX;Gunshot;Lake Jackson Police Department;Firearm;brazoria
-Talbot Schroeder;Male;White;Old Bridge Township;NJ;Gunshot;Old Bridge Police Department;Knife;middlesex
+Talbot Schroeder;Male;White;Old Bridge Township;NJ;?;Old Bridge Police Department;Knife;middlesex
 Louis Becker;Male;White;Catskill;NY;Struck by vehicle;New York State Police;No;greene
-Quincy Reindl;Male;White;Bloomington;MN;Gunshot;Bloomington Police Department;Firearm;hennepin
-Donte Sowell;Male;Black;Indianapolis;IN;Gunshot;Indianapolis Metropolitan Police Department;Firearm;marion
+Quincy Reindl;Male;White;?;MN;Gunshot;Bloomington Police Department;Firearm;hennepin
+Donte Sowell;Male;Black;Indianapolis;IN;Gunshot;?;Firearm;marion
 Nathan Massey;Male;White;Ville Platte;LA;Gunshot;Louisiana State Police;Firearm;evangeline
 Mario Jordan;Male;Black;Chesapeake;VA;Gunshot;Chesapeake Police Department;Firearm;chesapeake
 Jose Ceja;Male;Hispanic/Latino;Fairfield;CA;Gunshot;Fairfield Police Department;Knife;solano
@@ -39,8 +39,8 @@ Rodney Walker;Male;Black;Tulsa;OK;Gunshot;Department of Veteran Affairs;Firearm;
 Kavonda Payton;Male;Black;Aurora;CO;Gunshot;Aurora Police Department;Firearm;arapahoe
 Zaki Shinwary;Male;Unknown;Fremont;CA;Gunshot;Fremont Police Department;Knife;alameda
 Sinthanouxay Khottavongsa;Male;Asian/Pacific Islander;Minneapolis;MN;Taser;Brooklyn Center Police Department;Other;hennepin
-Howard Robbins;Male;White;Stanford;KY;Struck by vehicle;Stanford Police Department;No;lincoln
-Phillip Garcia;Male;Hispanic/Latino;Houston;TX;Gunshot;Houston Police Department;Firearm;harris
+Howard Robbins;?;White;Stanford;KY;Struck by vehicle;Stanford Police Department;No;lincoln
+Phillip Garcia;Male;?;Houston;TX;Gunshot;Houston Police Department;Firearm;harris
 Scott Hall;Male;White;Mabank;TX;Gunshot;Texas Rangers ATF;Firearm;van zandt
 Pablo Meza;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles Police Department;Firearm;los angeles
 Daniel Brumley;Male;Hispanic/Latino;Fort Worth;TX;Gunshot;Fort Worth Police Department;Knife;tarrant
@@ -68,48 +68,48 @@ Jermonte Fletcher;Male;Black;Columbus;OH;Gunshot;Columbus Division of Police Ohi
 Cody Karasek;Male;White;Rosenberg;TX;Gunshot;Rosenberg Police Department;Firearm;fort bend
 Matautu Nuu;Male;Asian/Pacific Islander;Stockton;CA;Gunshot;Stockton Police Department;Other;san joaquin
 Alan Alverson;Male;White;Sunset;TX;Gunshot;Wise County Sheriffs Department and Texas DPS;Firearm;montague
-Wendell King;Male;White;Forth Worth;TX;Gunshot;Fort Worth Police Department;Firearm;tarrant
+Wendell King;Male;?;Forth Worth;TX;Gunshot;Fort Worth Police Department;Firearm;tarrant
 Ralph Willis;Male;White;Stillwater;OK;Gunshot;Stillwater Police Department;No;payne
 Tiffany Terry;Female;White;Omaha;NE;Gunshot;Omaha Police Department;Knife;douglas
 Victor Reyes;Male;Hispanic/Latino;Houston;TX;Gunshot;Houston County Sheriffs Department;Firearm;harris
 Edward Bright Sr;Male;Black;Randallstown;MD;Gunshot;Baltimore County Police Department;Knife;baltimore
-Hung Trieu;Male;Asian/Pacific Islander;Houston;TX;Gunshot;Harris County Attorneys Department;Firearm;harris
+Hung Trieu;?;Asian/Pacific Islander;Houston;TX;Gunshot;Harris County Attorneys Department;Firearm;harris
 Francis Rose III;Male;White;Apple Valley;CA;Gunshot;San Bernardino County Sheriffs Department;Firearm;san bernardino
-David Kassick;Male;White;Hanover;PA;Gunshot;Hummelstown Police Department;No;?
-Kenneth Brown;Male;White;Guthrie;OK;Gunshot;Oklahoma State Police;Firearm;?
-Ledarius Williams;Male;Black;St Louis;MO;Gunshot;St Louis Metropolitan Police Department;Firearm;?
+David Kassick;Male;White;Hanover;PA;Gunshot;Hummelstown Police Department;No;dauphin
+Kenneth Brown;Male;White;Guthrie;OK;Gunshot;Oklahoma State Police;Firearm;logan
+Ledarius Williams;Male;Black;St Louis;MO;Gunshot;St Louis Metropolitan Police Department;Firearm;st louis
 Dewayne Ward Jr;Male;Black;Antioch;CA;Gunshot;Contra Costa Sheriffs Office;Knife;contra costa
-Yuvette Henderson;Female;Black;Oakland;CA;Gunshot;Emeryville Police Department;Firearm;alameda
+Yuvette Henderson;Female;Black;Oakland;CA;Gunshot;Emeryville Police Department;?;alameda
 Anthony Purvis;Male;White;Douglas;GA;Gunshot;Douglas Police Department;Firearm;coffee
-Salvador Muna;Male;Hispanic/Latino;Phoenix;AZ;Gunshot;Tempe Chandler and Mesa Police Departments [US Marshals Service Task Force];Firearm;maricopa
+Salvador Muna;Male;Hispanic/Latino;?;AZ;Gunshot;Tempe Chandler and Mesa Police Departments [US Marshals Service Task Force];Firearm;maricopa
 Joaquin Hernandez;Male;Hispanic/Latino;Phoenix;AZ;Gunshot;Tempe Chandler and Mesa Police Departments [US Marshals Service Task Force];No;maricopa
 Markell Atkins;Male;Black;Memphis;TN;Gunshot;Shelby County Sheriffs Department [US Marshals Service Task Force];Knife;shelby
 Izzy Colon;Male;Hispanic/Latino;Orlando;FL;Gunshot;Orlando Police Department;Firearm;orange
 Jimmy Robinson Jr;Male;Black;Waco;TX;Gunshot;Waco Police Department McLennan County Sheriffs Office;Firearm;mclennan
 Paul Johnson;Male;White;Chino;CA;Gunshot;Corona Police Department California Highway Patrol;Non-lethal firearm;san bernardino
-Jeremy Lett;Male;Black;Tallahassee;FL;Gunshot;Tallahassee Police Department;No;leon
+Jeremy Lett;Male;Black;Tallahassee;FL;Gunshot;Tallahassee Police Department;No;?
 Wilber Castillo-Gongora;Male;Hispanic/Latino;Electra;TX;Taser;Wichita County Sheriffs Office;No;wichita
 Herbert Hill;Male;Black;Oklahoma City;OK;Gunshot;Oklahoma City Police Department;Firearm;oklahoma
 Alan James;Male;White;Wyoming;MI;Gunshot;Kentwood Police Department and Wyoming DPS;Firearm;kent
-James Allen;Male;Black;Gastonia;NC;Gunshot;Gastonia Police Department;Firearm;?
+James Allen;Male;Black;Gastonia;NC;Gunshot;Gastonia Police Department;Firearm;gaston
 Sawyer Flache;Male;White;Austin;TX;Gunshot;Austin Police Department;Firearm;travis
 Natasha McKenna;Female;Black;Fairfax;VA;Taser;Fairfax County Sheriffs Office;No;fairfax
-Joseph Paffen;Male;White;Orlando;FL;Gunshot;Orange County Sheriffs Office;Firearm;orange
+Joseph Paffen;?;White;Orlando;FL;Gunshot;Orange County Sheriffs Office;Firearm;orange
 Larry Hostetter;Male;White;Nocona;TX;Gunshot;Nocona Police Department;Firearm;montague
 Desmond Luster;Male;Black;Dallas;TX;Gunshot;Dallas Police Department;Firearm;dallas
-Vincent Cordaro;Male;White;New City;NY;Gunshot;Clarkstown Police Department;Firearm;rockland
+Vincent Cordaro;Male;White;New City;NY;Gunshot;?;Firearm;rockland
 John Whittaker;Male;Hispanic/Latino;Anchorage;AK;Gunshot;Anchorage Police Department;Firearm;anchorage
 Antonio Zambrano-Montes;Male;Hispanic/Latino;Pasco;WA;Gunshot;Pasco Police Department;Other;franklin
 Brian Fritze;Male;White;Glenwood Springs;CO;Gunshot;Garfield County Sheriffs Office;Firearm;garfield
 Anthony Bess;Male;Black;Memphis;TN;Gunshot;Memphis Police Department;Firearm;shelby
-Kenneth Kreyssig;Male;White;Smyrna;ME;Gunshot;Maine State Troopers and Aroostook County Sheriffs Department;Firearm;aroostook
+Kenneth Kreyssig;Male;White;Smyrna;ME;Gunshot;Maine State Troopers and Aroostook County Sheriffs Department;Firearm;?
 Phillip Watkins;Male;Black;San Jose;CA;Gunshot;San Jose Police Department;Knife;santa clara
 Fletcher Stewart;Male;White;Dadeville;AL;Gunshot;Tallapoosa County Sheriffs Department;Firearm;tallapoosa
 Andres Lara-Rodriguez;Male;Hispanic/Latino;Kansas City;KS;Gunshot;Kansas City KS Police Department and Kansas Highway Patrol;Firearm;wyandotte
 Jonathan Harden;Male;White;San Bernadino;CA;Gunshot;San Bernardino Police Department;Vehicle;san bernardino
-Matthew Belk;Male;White;?;TN;Gunshot;Carroll County Sheriffs Office;Firearm;carroll
+Matthew Belk;Male;White;Huntingdon;TN;Gunshot;Carroll County Sheriffs Office;Firearm;carroll
 Richard Carlin;Male;White;Reading;PA;Gunshot;Pennsylvania State Police;Unknown;berks
-Roy Day;Male;White;Laredo;TX;Gunshot;Laredo Police Department;Firearm;webb
+Roy Day;Male;White;Laredo;TX;Gunshot;?;Firearm;webb
 Cody Evans;Male;White;Provo;UT;Gunshot;Provo Police Department;Non-lethal firearm;utah
 Lavall Hall;Male;Black;Miami Gardens;FL;Gunshot;Miami Gardens Police Department;Other;miami dade
 Bruce Steward;Male;White;Colton;OR;Gunshot;Clackamas County Sheriffs Office;Knife;clackamas
@@ -120,10 +120,10 @@ Michael Casper;Male;White;Boise;ID;Gunshot;Boise Police Department;Firearm;ada
 Daniel Caldwell;Male;White;Marana;AZ;Gunshot;Marana Police Department;Firearm;pima
 Doug Sparks;Male;White;Tewksbury;MA;Gunshot;Tewksbury Police Department;Non-lethal firearm;middlesex
 Matthew Lundy;Male;White;Eaton Rapids Township;MI;Gunshot;Eaton County Sheriffs Office;Firearm;eaton
-Betty Sexton;Female;White;Gastonia;NC;Gunshot;?;Firearm;gaston
-Pedro Pete Juan Saldivar;Male;Hispanic/Latino;Del Rio;TX;Gunshot;?;Other;val verde
-Michael Ireland;Male;White;Springfield;MO;Gunshot;?;No;greene
-Janisha Fonville;Female;Black;Charlotte;NC;Gunshot;?;Knife;mecklenburg
+Betty Sexton;Female;White;?;NC;Gunshot;Gastonia Police Department;Firearm;gaston
+Pedro Pete Juan Saldivar;Male;Hispanic/Latino;Del Rio;TX;Gunshot;Del Rio Police Department and Val Verde County Sheriffs Office;Other;val verde
+Michael Ireland;Male;White;Springfield;MO;?;Springfield Police Department;No;greene
+Janisha Fonville;Female;Black;Charlotte;NC;Gunshot;Charlotte-Mecklenburg Police Department;Knife;mecklenburg
 Chance Thompson;Male;White;Marysville;CA;Taser;Yuba County Sheriffs Office;No;yuba
 Rub_n Garc_a Villalpando;Male;Hispanic/Latino;Euless;TX;Gunshot;Grapevine Police Department;No;tarrant
 Stanley Grant;Male;Black;Birmingham;AL;Gunshot;Homewood Police Department;Firearm;jefferson
@@ -133,20 +133,20 @@ Terry Price;Male;Black;Tulsa;OK;Taser;Osage Nation Police Department Osage Count
 Kent Norman;Male;White;Indianapolis;IN;Gunshot;Indianapolis Metropolitan Police Department;Knife;marion
 Anthony Giaquinta;Male;Hispanic/Latino;Clarkesville;GA;Gunshot;Habersham County Sheriffs Office;Firearm;habersham
 Bradford Leonard;Male;White;Palm Bay;FL;Gunshot;Palm Bay Police Department;Firearm;brevard
-Adonte Washington;Male;Black;Millbrook;AL;Gunshot;Millbrook Police Department;Firearm;elmore
+Adonte Washington;Male;?;Millbrook;AL;Gunshot;Millbrook Police Department;Firearm;elmore
 Michael Smashey;Male;White;Powder Springs;GA;Gunshot;Cobb County Sheriffs Office;Knife;cobb
 Jerome Nichols;Male;White;Allentown;PA;Gunshot;Catasauqua Police Department;Knife;lehigh
 Robert Kohl;Male;White;Denham Springs;LA;Gunshot;Denham Springs Police Department;Firearm;livingston
-Joseph Biegert;Male;White;Green Bay;WI;Gunshot;Green Bay Police Department;Knife;brown
+Joseph Biegert;Male;White;?;WI;Gunshot;Green Bay Police Department;Knife;brown
 Daniel Elrod;Male;White;Omaha;NE;Gunshot;Omaha Police Department;No;douglas
 Alexander Long;Male;White;Terre Haute;IN;Gunshot;Terre Haute Police Department;No;vigo
 Glenn Lewis;Male;Black;Oklahoma City;OK;Gunshot;Oklahoma City Police Department;Vehicle;oklahoma
 Francis Spivey;Male;White;Las Vegas;NV;Gunshot;Las Vegas Metro Police (Swat);Firearm;clark
-Amilcar Perez-Lopez;Male;Hispanic/Latino;San Francisco;CA;Gunshot;San Francisco Police Department;Knife;san francisco
+Amilcar Perez-Lopez;Male;Hispanic/Latino;San Francisco;CA;Gunshot;San Francisco Police Department;Knife;?
 Crystal Miley;Female;White;Moultrie;GA;Gunshot;Worth County Sheriffs Office;Firearm;colquitt
-David Cuevas;Male;Hispanic/Latino;Lakeland;FL;Gunshot;Lakeland Police Department;Firearm;polk
+David Cuevas;?;Hispanic/Latino;Lakeland;FL;Gunshot;Lakeland Police Department;Firearm;polk
 Rodney Biggs;Male;White;Gulfport;MS;Gunshot;Gulfport Police Department;Firearm;harrison
-Chazsten Freeman;Male;White;Peltzer;SC;Gunshot;Greenville County Sheriffs Office;Firearm;greenville
+Chazsten Freeman;Male;?;Peltzer;SC;Gunshot;Greenville County Sheriffs Office;Firearm;greenville
 Ernesto Javier Canepa Diaz;Male;Hispanic/Latino;Santa Ana;CA;Gunshot;Santa Ana Police Department;No;orange
 Russell Sharrer;Male;White;Pasco;WA;Death in custody;Franklin County Corrections Division;No;franklin
 Stephanie Hill;Female;White;La Paz County;AZ;Gunshot;Riverside County Sheriffs Department;Firearm;la paz
@@ -170,9 +170,9 @@ Tony Ross;Male;White;Sulphur Springs;TX;Taser;Sulphur Springs Police Department;
 Naeschylus Vinzant;Male;Black;Aurora;CO;Gunshot;Aurora Police Department;No;arapahoe
 Andrew Williams;Male;Black;Putnam Hall;FL;Gunshot;Putnam County Sheriffs Office;Vehicle;clay
 Bernard Moore;Male;Black;Atlanta;GA;Struck by vehicle;Atlanta Police Department;No;fulton
-Adam Reinhart;Male;White;Phoenix;AZ;Gunshot;?;Firearm;maricopa
-Michael McKillop;Male;White;Claymont;DE;Gunshot;?;No;delaware
-Aurelio Duarte;Male;Hispanic/Latino;Oklahoma City;OK;Gunshot;?;Firearm;oklahoma
+Adam Reinhart;Male;White;Phoenix;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
+Michael McKillop;Male;White;Claymont;DE;Gunshot;Delaware State Police;No;delaware
+Aurelio Duarte;Male;Hispanic/Latino;Oklahoma City;OK;?;?;Firearm;oklahoma
 Monique Deckard;Female;Black;Anaheim;CA;Gunshot;Anaheim Police Department;Knife;orange
 James Damon;Male;White;Craig;CO;Gunshot;Moffat County Sheriffs Office and Colorado Parks and Wildlife Law Enforcement;Firearm;moffat
 Lester Brown;Male;White;Penrose;NC;Gunshot;North Carolina Alcohol Law Enforcement Transylvania County Sheriffs Office Homeland Security;Firearm;transylvania
@@ -191,18 +191,18 @@ Benito Osorio;Male;Hispanic/Latino;Santa Ana;CA;Gunshot;Santa Ana Police Departm
 Gilbert Fleury;Male;White;Bay Minette;AL;Gunshot;Baldwin County Sheriffs Office;Firearm;baldwin
 Antonio Perez;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles County Sheriffs Department;No;los angeles
 Bobby Gross;Male;Black;Washington;DC;Gunshot;Washington DC Metro Transit Police;Other;district of columbia
-Jonathan Paul;Male;Black;Arlington;TX;Death in custody;Arlington Police Department;No;tarrant
+?;Male;Black;Arlington;TX;Death in custody;Arlington Police Department;No;tarrant
 Salome Rodriguez Jr;Male;Hispanic/Latino;Pomona;CA;Gunshot;Los Angeles Police Department;No;los angeles
 Andrew Driver;Male;White;Fontana;CA;Gunshot;Fontana Police Department;Knife;san bernardino
 Fred Liggett Jr;Male;White;Kansas City;MO;Gunshot;US Marshals Service;Unknown;jackson
 Aaron Siler;Male;White;Kenosha;WI;Gunshot;Kenosha Police Department;No;kenosha
-Richard Castilleja;Male;Hispanic/Latino;San Antonio;TX;Gunshot;San Antonio Police Department;Firearm;bexar
+Richard Castilleja;Male;Hispanic/Latino;San Antonio;TX;Gunshot;?;Firearm;bexar
 David Werblow;Male;White;Branford;CT;Taser;Branford Police Department;No;new haven
 Justin Tolkinen;Male;White;St Paul;MN;Gunshot;St Paul Police Department;Firearm;ramsey
-Sheldon Haleck;?;Asian/Pacific Islander;Honolulu;HI;Taser;Honolulu Police Department;No;honolulu
-William Poole;?;White;Gaston;NC;Gunshot;Gaston County Police Department;Firearm;gaston
-Eugene Smith II;?;White;Onalaska;TX;Gunshot;Onalaska Police Department;Firearm;polk
-Roberto Leon;?;Hispanic/Latino;Rio Linda;CA;Gunshot;California Highway Patrol;No;sacramento
+Sheldon Haleck;Male;Asian/Pacific Islander;Honolulu;HI;Taser;Honolulu Police Department;No;honolulu
+William Poole;Male;White;Gaston;NC;Gunshot;Gaston County Police Department;Firearm;gaston
+Eugene Smith II;Male;White;Onalaska;TX;?;Onalaska Police Department;Firearm;polk
+Roberto Leon;Male;Hispanic/Latino;Rio Linda;CA;Gunshot;California Highway Patrol;No;sacramento
 Declan Owen;Male;White;Dublin;NC;Gunshot;Bladen County Sheriffs Office and Bladenboro Police Department;Firearm;bladen
 Alice Brown;Female;White;San Francisco;CA;Gunshot;San Francisco Police Department;Vehicle;san francisco
 Askari Roberts;Male;Black;Rome;GA;Taser;Floyd County Sheriffs Office;No;floyd
@@ -212,13 +212,13 @@ Kaylene Stone;Female;White;Peoria;AZ;Gunshot;Glendale Police Department;Firearm;
 Garland Wingo;Male;White;Tallahassee;FL;Gunshot;Tallahassee Police Department;Firearm;leon
 Brandon Jones;Male;Black;Cleveland;OH;Gunshot;Cleveland Division of Police;No;cuyahoga
 Justin Fowler;Male;Native American;Lukachukai;AZ;Gunshot;Navajo Police Department;Firearm;apache
-Adam Jovicic;Male;White;Munroe Falls;OH;Gunshot;Kent Police Department;No;summit
+Adam Jovicic;Male;?;Munroe Falls;OH;Gunshot;Kent Police Department;No;summit
 Robert Burdge;Male;White;Bakersfield;CA;Gunshot;Bakersfield Police Department;Firearm;kern
 Shane Watkins;Male;White;Moulton;AL;Gunshot;Lawrence County Sheriffs Office;Knife;lawrence
 Jason Smith;Male;White;Columbus;OH;Gunshot;Columbus Division of Police;Firearm;franklin
 Richard White;Male;Black;Kenner;LA;Gunshot;Jefferson Parish Sheriffs Office;Knife;jefferson
 Enoch Gaver;Male;White;Cottonwood;AZ;Gunshot;Cottonwood Police Department;Firearm;yavapai
-Phillip Conley;Male;White;Vallejo;CA;Gunshot;Vallejo Police Department;Knife;solano
+Phillip Conley;Male;White;?;CA;Gunshot;Vallejo Police Department;Knife;solano
 James Ellis;Male;White;Clarendon;NY;Gunshot;Orleans County Sheriffs Office;Firearm;orleans
 Gary Page;Male;White;Harmony;IN;Gunshot;Clay County Sheriffs Department;Firearm;clay
 Denzel Brown;Male;Black;Bay Shore;NY;Gunshot;Suffolk County Police Department;No;suffolk
@@ -226,7 +226,7 @@ Devin Gates;Male;Black;Santa Clara;CA;Gunshot;Santa Clara Police Department;Fire
 Christopher Healy;Male;White;Portland;OR;Gunshot;Portland Police Bureau;Knife;multnomah
 Jeffrey Jackson;Male;White;Williamsburg;KY;Death in custody;Whitley County Sheriffs Department Kentucky State Police;No;whitley
 Mychael Lynch;Male;White;Vancouver;WA;Death in custody;Clark County Sheriffs Department;No;clark
-Nicholas Thomas;Male;Black;Atlanta;GA;Gunshot;Smyrna Police Department;Vehicle;cobb
+?;Male;Black;Atlanta;GA;Gunshot;Smyrna Police Department;Vehicle;cobb
 Walter Brown III;Male;Black;Portsmouth;VA;Gunshot;Portsmouth Police Department;Firearm;portsmouth
 Steven Snyder;Male;White;Fond du Lac;WI;Gunshot;Wisconsin State Police;Firearm;fond du lac
 Scott Dunham;Male;White;San Jose;CA;Gunshot;San Jose Police Department;Firearm;santa clara
@@ -256,7 +256,7 @@ Shawn Clyde;Male;White;Hamilton Township;NJ;Gunshot;Hamilton Police Department;K
 Robert Washington;Male;Black;Hawthorne;CA;Gunshot;Hawthorne Police Department;Firearm;los angeles
 Aaron Rutledge;Male;White;Pineville;LA;Gunshot;Rapides Parish Sheriffs Office;Firearm;rapides
 Darrin Langford;Male;Black;Rock Island;IL;Gunshot;Rock Island Police Department;Firearm;rock island
-Donald Dontay Ivy;Male;Black;Albany;NY;Taser;City of Albany Police Department;No;albany
+?;Male;Black;Albany;NY;Taser;?;No;albany
 Eric Harris;Male;Black;Tulsa;OK;Gunshot;Tulsa County Sheriffs Office;No;tulsa
 Donald Hicks;Male;White;Metropolis;IL;Gunshot;Metropolis Police Department;Firearm;massac
 David Lynch;Male;White;Muskogee County;OK;Taser;Warner Police Department;No;muskogee
@@ -276,17 +276,17 @@ Joseph Weber;Male;White;Sunnyvale;CA;Gunshot;Sunnyvale Police Department;Knife;s
 Dexter Bethea;Male;Black;Valdosta;GA;Gunshot;Lowndes County Sheriffs Office;Vehicle;lowndes
 Mark Smith;Male;White;Kellyville;OK;Gunshot;Creek County Sheriffs Department and Bristow Police Department;Vehicle;creek
 Michael Le Mon;Male;White;Lake Isabella;CA;Taser;Kern County Sheriffs Office;No;kern
-Douglas Faith;Male;White;San Antonio;TX;Gunshot;San Antonio Police Department;Firearm;bexar
+Douglas Faith;?;White;San Antonio;TX;Gunshot;San Antonio Police Department;Firearm;bexar
 Gordon Kimbrell Jr;Male;White;Navarre;FL;Gunshot;Santa Rosa County Sheriffs Office;Other;santa rosa
 Phillip Burgess;Male;White;Boiling Springs;SC;Gunshot;Spartanburg County Sheriffs Office;Firearm;spartanburg
 Jess Leipold;Male;White;Gettysburg;PA;Gunshot;Pennsylvania State Police;Firearm;adams
-Angel Corona Jr;Male;Hispanic/Latino;Corning;CA;Gunshot;Tehama County Sheriffs Department;Knife;tehama
-Richard Reed;Male;White;Topeka;KS;Gunshot;Topeka Police Department Kansas Highway Patrol;Firearm;shawnee
+Angel Corona Jr;Male;Hispanic/Latino;Corning;CA;Gunshot;Tehama County Sheriffs Department;Knife;?
+Richard Reed;Male;White;Topeka;KS;Gunshot;Topeka Police Department Kansas Highway Patrol;?;shawnee
 Jason Evans;Male;White;Salemburg;NC;Gunshot;Sampson County Sheriffs Office;Firearm;sampson
 Mack Long;Male;Black;Indianapolis;IN;Gunshot;Indianapolis Metropolitan Police Department;Firearm;marion
 Richard Buddy Weaver;Male;White;Newalla;OK;Gunshot;Oklahoma City Police Department;Other;cleveland
 Celin Nunez;Male;Hispanic/Latino;Houston;TX;Gunshot;Houston Police Department;Other;harris
-Isaac Jimenez;Male;Hispanic/Latino;Alton;IL;Gunshot;Alton Police Department;Firearm;madison
+Isaac Jimenez;Male;Hispanic/Latino;Alton;IL;Gunshot;Alton Police Department;?;madison
 Christopher Finley;Male;White;Jonesboro;AR;Gunshot;Jonesboro Police Department;Other;craighead
 Karl Taylor;Male;Black;Fallsburg;NY;Death in custody;New York Department of Corrections and Community Supervision;Other;sullivan
 Tevin Barkley;Male;Black;Miami;FL;Gunshot;Miami-Dade Police Department;Firearm;miami dade
@@ -301,22 +301,22 @@ Jeffery Kemp;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Firearm;coo
 Thaddeus McCarroll;Male;Black;Jennings;MO;Gunshot;St Louis County Police Department;Knife;st louis
 Elias Cavazos;Male;Hispanic/Latino;Hemet;CA;Gunshot;Riverside County Sheriffs Department and California Highway Patrol;Firearm;riverside
 Erik Tellez;Male;White;Phoenix;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
-Grover Sapp Jr;Male;White;Panama City;FL;Gunshot;Panama City Police Department;Firearm;bay
+Grover Sapp Jr;?;White;Panama City;FL;Gunshot;Panama City Police Department;Firearm;bay
 Norman Cooper;Male;Black;San Antonio;TX;Taser;San Antonio Police Department;No;bexar
 Michael Foster;Male;White;Wilmore;KY;Gunshot;Wilmore Police Department;Firearm;jessamine
 Dana Hlavinka;Male;White;Sidney;NE;Gunshot;Sidney Police Department;Knife;cheyenne
 Santos Cuate Cortez Hernandez;Male;Hispanic/Latino;Mission;TX;Gunshot;Hidalgo County Sheriffs Office;Firearm;hidalgo
 Luis Molina Martinez;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles Police Department;Knife;los angeles
 Daniel Wolfe;Male;Black;Union;NJ;Gunshot;New Jersey State Police;Vehicle;essex
-Daniel Covarrubias;Male;Native American;Lakewood;WA;Gunshot;Lakewood Police Department;No;pierce
+Daniel Covarrubias;Male;Native American;?;WA;Gunshot;Lakewood Police Department;No;pierce
 Steven Davenport;Male;White;Meridian;MS;Taser;Lauderdale County Sheriffs Office;No;lauderdale
 Kimber Key;Male;White;Columbia;SC;Gunshot;Lexington County Sheriffs Office;Knife;lexington
 William Chapman II;Male;Black;Portsmouth;VA;Gunshot;Portsmouth Police Department;No;portsmouth
 Jose Herrera;Male;Hispanic/Latino;Delano;CA;Gunshot;California Department of Corrections and Rehabilitation;No;kern
-Jonathan Efraim;Male;White;New York;NY;Gunshot;New York Police Department;?;queens
-Lue Vang;Male;Asian/Pacific Islander;Boulder;CO;Gunshot;Boulder County Sheriffs Office;?;boulder
-Carlos Ramirez;Male;Hispanic/Latino;Bisbee;AZ;Gunshot;Bisbee Police Department;?;cochise
-Hector Morejon;Male;Hispanic/Latino;Long Beach;CA;Gunshot;Long Beach Police Department;?;los angeles
+Jonathan Efraim;Male;White;New York;NY;Gunshot;New York Police Department;Firearm;queens
+?;Male;Asian/Pacific Islander;Boulder;CO;Gunshot;Boulder County Sheriffs Office;Firearm;boulder
+Carlos Ramirez;Male;Hispanic/Latino;Bisbee;AZ;Gunshot;Bisbee Police Department;Knife;cochise
+Hector Morejon;Male;Hispanic/Latino;Long Beach;CA;Gunshot;Long Beach Police Department;No;los angeles
 Andrew Valadez;Male;White;Sylmar;CA;Gunshot;Los Angeles Police Department;Firearm;los angeles
 Karen Janks;Female;White;Sebastopol;CA;Gunshot;Sonoma County Sheriffs Office;Vehicle;sonoma
 Todd Dye;Male;Black;Trinidad;CO;Gunshot;Trinidad Police Department;Firearm;las animas
@@ -331,15 +331,15 @@ Albert Hanson Jr;Male;White;Hanford;CA;Gunshot;Kings County Sheriffs Office;Fire
 Terrance Kellom;Male;Black;Detroit;MI;Gunshot;Immigration and Customs Enforcement;Other;wayne
 Jared Johnson;Male;Black;New Orleans;LA;Gunshot;New Orleans Police Department;Firearm;orleans
 Joshua Green;Male;White;Marion;IL;Gunshot;Marion Police Department Illinois State Police and Williamson County Sheriffs Department;Firearm;williamson
-David Parker;Male;White;Mansfield;OH;Gunshot;Mansfield Police Department;Firearm;richland
+David Parker;Male;White;Mansfield;OH;?;Mansfield Police Department;Firearm;richland
 Andrew Jackson;Male;White;Chickasha;OK;Gunshot;Chickasha Police Department;Knife;grady
 Luis Chavez-Diaz;Male;Hispanic/Latino;Elk Grove;CA;Gunshot;California Department of Fish and Wildlife;Firearm;sacramento
-Joshua Deysie;Male;Native American;Mesa;AZ;Gunshot;Mesa Police Department;Firearm;maricopa
+Joshua Deysie;Male;Native American;Mesa;AZ;Gunshot;?;Firearm;maricopa
 Erick Sanchez;Male;Hispanic/Latino;El Paso;TX;Gunshot;El Paso Police Department;Other;el paso
 Alexia Christian;Female;Black;Atlanta;GA;Gunshot;Atlanta Police Department;Firearm;fulton
 Fridoon Rawshannehad;Male;White;San Diego;CA;Gunshot;San Diego Police Department;No;san diego
 John Acree;Male;White;Nashville;TN;Gunshot;Nashville Metropolitan Police Department;Firearm;davidson
-Jeffery Adkins;Male;Black;Emporia;VA;Gunshot;Greensville County Sheriffs Office and Virginia State Police;Firearm;greensville
+Jeffery Adkins;Male;Black;Emporia;VA;?;Greensville County Sheriffs Office and Virginia State Police;Firearm;greensville
 Kenneth Mathena;Male;White;Smyrna;DE;Gunshot;Smyrna Police Department;Firearm;kent
 Elton Simpson;Male;Black;Garland;TX;Gunshot;Garland Police Department;Firearm;dallas
 Nadir Soofi;Male;Asian/Pacific Islander;Garland;TX;Gunshot;Garland Police Department;Firearm;dallas
@@ -348,7 +348,7 @@ Billy Grimm;Male;White;Albuquerque;NM;Gunshot;Bernalillo County Sheriffs Departm
 Roark Cook;Male;White;Kennewick;WA;Gunshot;Benton County Sheriffs Office Richland Police Department;Non-lethal firearm;benton
 Michael Asher;Male;White;Chavies;KY;Gunshot;Kentucky State Police;Firearm;perry
 Thong Kien Ma;Male;Asian/Pacific Islander;South El Monte;CA;Gunshot;Los Angeles County Sheriffs Department;Knife;los angeles
-Robert Frost;Male;White;Pulaski;VA;Gunshot;Pulaski Police Department;Firearm;pulaski
+?;Male;White;Pulaski;VA;Gunshot;Pulaski Police Department;Firearm;pulaski
 Brendon Glenn;Male;Black;Los Angeles;CA;Gunshot;Los Angeles Police Department;No;los angeles
 Nuwnah Laroche;Female;Black;Ridgefield Park;NJ;Struck by vehicle;New Jersey State Police;No;bergen
 Jason Champion;Male;Black;Ridgefield Park;NJ;Struck by vehicle;New Jersey State Police;No;bergen
@@ -364,10 +364,10 @@ Lionel Young;Male;Black;Landover;MD;Gunshot;Prince Georges County Sheriffs Offic
 Michael Gallagher;Male;White;Enfield;NC;Taser;Enfield Police Department;No;halifax
 Justin Way;Male;White;St Augustine;FL;Gunshot;St Johns County Sheriffs Office;Knife;st johns
 Kelvin Goldston;Male;Black;Fort Worth;TX;Gunshot;Fort Worth Police Department;Vehicle;tarrant
-Stephen Cunningham;Male;White;Tacoma;WA;Gunshot;Tacoma Police Department;Firearm;pierce
+Stephen Cunningham;Male;White;Tacoma;WA;Gunshot;?;Firearm;pierce
 DAngelo Stallworth;Male;Black;Jacksonville;FL;Gunshot;Jacksonville Sheriffs Office;Firearm;duval
 Alec Ouzounian;Male;White;Rancho Santa Margarita;CA;Gunshot;Orange County Sheriffs Department;Knife;orange
-Bruce Zalonka;Male;Asian/Pacific Islander;Honolulu;HI;Gunshot;US Marshals Service;Firearm;honolulu
+Bruce Zalonka;?;Asian/Pacific Islander;Honolulu;HI;Gunshot;US Marshals Service;Firearm;honolulu
 Lorenzo Hayes;Male;Black;Spokane;WA;Death in custody;Spokane Police Department;No;spokane
 Sean Pelletier;Male;White;Portage;MI;Gunshot;Michigan State Police Kalamazoo County Sheriffs Office and Portage Police Department;Firearm;kalamazoo
 Denis Reyes;Male;Hispanic/Latino;New York;NY;Death in custody;New York Police Department;No;bronx
@@ -377,7 +377,7 @@ Austin Goodner;Male;White;St Petersburg;FL;Gunshot;St Petersburg Police Departme
 Dennis Fiel;Male;White;San Diego;CA;Gunshot;San Diego Police Department;Firearm;san diego
 Timothy Jones;Male;White;Ruidoso;NM;Gunshot;Ruidoso Police Department;Other;lincoln
 Ronell Wade;Male;Black;Harvey;IL;Gunshot;Harvey Police Department;Firearm;cook
-Calvon Reid;Male;Black;Coconut Creek;FL;Taser;Coconut Creek Police Department;No;broward
+Calvon Reid;Male;Black;Coconut Creek;FL;?;Coconut Creek Police Department;No;broward
 Jeremy Anderson;Male;White;Tampa Bay;FL;Gunshot;Tampa Bay Police Department [US Marshals Service Task Force];Firearm;hillsborough
 Anthony Hill;Male;Black;Chamblee;GA;Gunshot;DeKalb County Police Department;No;dekalb
 Mark Adair;Male;White;Columbia;MO;Gunshot;Columbia Police Department and University of Missouri Police;Firearm;boone
@@ -388,12 +388,12 @@ Hashim Abdul-Rasheed;Male;Black;Columbus;OH;Gunshot;Columbus Police Department;K
 Joshua Garcia;Male;Hispanic/Latino;Tahoka;TX;Gunshot;Lynn County Sheriffs Office;No;lynn
 Alfredo Rials-Torres;Male;Hispanic/Latino;Arlington;VA;Gunshot;Arlington Police Department;Knife;arlington
 Anthony Gomez Jr;Male;Black;Lancaster;PA;Gunshot;Lancaster Police Department;Firearm;lancaster
-David Gaines;Male;White;Grand Junction;CO;Gunshot;Grand Junction Police Department;Firearm;mesa
+David Gaines;Male;White;Grand Junction;CO;Gunshot;?;Firearm;mesa
 Jonathan McIntosh;Male;White;Cabot;AR;Gunshot;Lonoke County Sheriffs Office Arkansas Department of Community Correction;Firearm;lonoke
 Jonathan Colley;Male;White;Green;OH;Gunshot;Summit County Sheriffs Office;Knife;summit
 Marcus Wheeler;Male;Black;Omaha;NE;Gunshot;Omaha Police Department;Firearm;douglas
-James Cooper;Male;White;Charleston;SC;Gunshot;North Charleston Police Department;Knife;charleston
-Nikki Burtsfield;Female;White;Gillette;WY;Gunshot;Campbell County Sheriffs Office;Knife;campbell
+James Cooper;Male;White;Charleston;SC;?;North Charleston Police Department;Knife;charleston
+Nikki Burtsfield;Female;White;Gillette;WY;Gunshot;Campbell County Sheriffs Office;?;campbell
 Chrislon Talbott;Male;Black;Owensboro;KY;Gunshot;Owensboro Police Department and Kentucky State Police;Firearm;daviess
 Jerome Caldwell;Male;Black;Charleston;SC;Gunshot;South Carolina State Law Enforcement Division;Firearm;charleston
 Elvin Diaz;Male;Hispanic/Latino;Hackensack;NJ;Gunshot;Hackensack Police Department;Knife;bergen
@@ -413,8 +413,8 @@ Garrett Sandeno;Male;White;Edmond;OK;Gunshot;Edmond Police Department;Non-lethal
 Jessie Williams;Male;White;Bossier City;LA;Gunshot;FBI;Unknown;bossier
 Simon Hubble;Male;White;Alpine;CA;Gunshot;San Diego County Sheriffs Department;Other;san diego
 Harry Davis;Male;White;Eatonton;GA;Gunshot;Putnam County Sheriffs Department;Knife;putnam
-James Strong;Male;Black;Northglenn;CO;?;Northglenn Police Department and Thornton Police Department;Firearm;adams
-Feras Morad;Male;Arab-American;Long Beach;CA;?;Long Beach Police Department;No;los angeles
+James Strong;Male;Black;Northglenn;CO;Gunshot;Northglenn Police Department and Thornton Police Department;Firearm;adams
+Feras Morad;Male;Arab-American;Long Beach;CA;Gunshot;Long Beach Police Department;No;los angeles
 Darrell Morgan;Male;White;Lancaster;SC;Gunshot;Lancaster County Sheriffs Department;Firearm;lancaster
 Kenneth Dothard;Male;Black;Carrollton;GA;Gunshot;Carrolton Police Department;Firearm;carroll
 Kyle Baker;Male;White;Trenton;MI;Gunshot;Trenton Police Department;Other;wayne
@@ -427,7 +427,7 @@ Richard Davis;Male;Black;Rochester;NY;Taser;Rochester Police Department;No;monro
 James Bushey;Male;White;Palestine;TX;Gunshot;Palestine Police Department;Non-lethal firearm;anderson
 Joseph Ladd;Male;White;Rochester;NY;Gunshot;Greece Police Department;Firearm;monroe
 James Morris;Male;White;Medford;OR;Gunshot;Medford Police Department;Firearm;jackson
-Usaama Rahim;Male;Black;Roslindale;MA;Gunshot;Boston Police Department and FBI;Knife;suffolk
+?;Male;Black;Roslindale;MA;Gunshot;Boston Police Department and FBI;Knife;suffolk
 Billy Collins;Male;White;Louisa;KY;Taser;Louisa Police Department;No;wayne
 Kamal Dajani;Male;Arab-American;Azle;TX;Gunshot;Tarrant County Sheriffs Office;Knife;tarrant
 Edelmiro Hernandez;Male;Hispanic/Latino;Houston;TX;Gunshot;Houston Police Department;Knife;harris
@@ -444,17 +444,17 @@ Joe Nevels;Male;White;Midland;TX;Gunshot;Midland Police Department;Knife;midland
 Christie Cathers;Female;White;Morgantown;WV;Gunshot;Monongalia County Sheriff_s Department;Vehicle;monongalia
 James Smillie;Male;White;North Port;FL;Gunshot;North Port Police Department;Firearm;sarasota
 Donald Allen;Male;White;Sand Springs;OK;Gunshot;Sand Springs Police Department;Firearm;tulsa
-Gene Marshall;Male;White;Woodland;WA;Gunshot;Woodland Police Department;Firearm;cowlitz
+Gene Marshall;?;White;Woodland;WA;Gunshot;Woodland Police Department;Firearm;cowlitz
 Matthew McDaniel;Male;White;Melbourne;FL;Gunshot;Melbourne Police Department;Firearm;brevard
 James Johnson;Male;White;Beech Grove;IN;Gunshot;Beech Grove Police Department;Firearm;marion
 Rene Garcia;Male;Hispanic/Latino;Anaheim;CA;Gunshot;Anaheim Police Department;Knife;orange
 Ross Anthony;Male;Black;Dallas;TX;Taser;Dallas Police Department;No;dallas
-Mario Ocasio;Male;Hispanic/Latino;New York;?;Taser;New York Police Department;Other;bronx
-Jeremy Linhart;Male;White;Findlay;?;Gunshot;Findlay Police Department;No;hancock
+Mario Ocasio;Male;Hispanic/Latino;New York;NY;Taser;New York Police Department;Other;bronx
+Jeremy Linhart;Male;White;Findlay;OH;Gunshot;Findlay Police Department;No;hancock
 Richard Warolf;Male;White;Sun City;AZ;Gunshot;Maricopa County Sheriffs Office;Firearm;maricopa
 Colby Robinson;Male;Black;Dallas;TX;Gunshot;DeSoto Police Department;Unknown;dallas
 Gregory Hartley;Male;White;Tomball;TX;Gunshot;Montgomery County Sheriffs Office Tomball Police Department;Firearm;harris
-Quandavier Hicks;Male;Black;Cincinnati;OH;Gunshot;Cincinnati Police Department;Firearm;hamilton
+Quandavier Hicks;Male;Black;Cincinnati;OH;Gunshot;Cincinnati Police Department;?;hamilton
 Isiah Hampton;Male;Black;New York;NY;Gunshot;New York Police Department;Firearm;bronx
 Charles Ziegler;Male;Black;Pompano Beach;FL;Gunshot;Broward Sheriffs Office;Firearm;broward
 Fritz Severe;Male;Black;Miami;FL;Gunshot;Miami Police Department;Other;miami dade
@@ -463,18 +463,18 @@ Raymond Peralta-Lantigua;Male;Hispanic/Latino;Hackensack;NJ;Gunshot;Hackensack P
 Mark Flores Jr;Male;Hispanic/Latino;San Antonio;TX;Gunshot;Bexar County Sheriffs Office;Firearm;bexar
 Shelly Lynn Haendiges;Female;White;Kokomo;IN;Gunshot;Kokomo Police Department;Non-lethal firearm;howard
 James Boulware;Male;White;Hutchins;TX;Gunshot;Dallas Police Department;Firearm;dallas
-David Munday;Male;White;Mt Olive;WV;Death in custody;?;No;fayette
-Deng Manyoun;?;Black;Louisville;KY;Gunshot;?;Other;ballard
-Anthony Hodge;?;White;Fort Wayne;IN;Gunshot;Fort Wayne Police Department;Firearm;allen
-Candace Blakley;?;White;North Augusta;SC;Gunshot;Aiken County Sheriffs Office;Unknown;aiken
+David Munday;Male;White;Mt Olive;WV;Death in custody;West Virginia Division of Corrections;No;fayette
+Deng Manyoun;Male;Black;Louisville;KY;Gunshot;Louisville Metro Police Department;Other;ballard
+Anthony Hodge;Male;White;Fort Wayne;IN;Gunshot;Fort Wayne Police Department;Firearm;allen
+Candace Blakley;Female;White;North Augusta;SC;Gunshot;Aiken County Sheriffs Office;Unknown;aiken
 Kenneth Garcia;Male;Hispanic/Latino;Stockton;CA;Gunshot;Stockton Police Department;Vehicle;san joaquin
 Kris Jackson;Male;Black;South Lake Tahoe;CA;Gunshot;South Lake Tahoe Police Department;No;el dorado
 Tamara Seidle;Female;White;Asbury Park;NJ;Gunshot;Neptune Police Department;No;monmouth
 Christopher DeLeon;Male;White;Visalia;CA;Gunshot;Visalia Police Department;Firearm;tulare
-Alan Williams;Male;Black;Greenville;SC;?;Greenville County Sheriffs Office;No;greenville
-Jermaine Benjamin;Male;Black;Vero Beach;FL;?;Indian River County Sheriffs Office;No;indian river
-Wendy Chappell;Female;White;Clanton;AL;?;Alabama Law Enforcement Agency;Firearm;chilton
-Oleg Tcherniak;Male;White;New York;NY;?;New York Police Department;Knife;kings
+Alan Williams;Male;Black;Greenville;SC;Struck by vehicle;Greenville County Sheriffs Office;?;greenville
+Jermaine Benjamin;Male;Black;Vero Beach;FL;Death in custody;Indian River County Sheriffs Office;No;indian river
+Wendy Chappell;Female;White;Clanton;AL;Gunshot;Alabama Law Enforcement Agency;Firearm;chilton
+Oleg Tcherniak;Male;White;New York;NY;Gunshot;New York Police Department;Knife;kings
 Kenneth Lanphier;Male;White;Hobbs;NM;Gunshot;Hobbs Police Department;Firearm;lea
 Trepierre Hummons;Male;Black;Cincinnati;OH;Gunshot;Cincinnati Police Department;Firearm;hamilton
 Louis Atencio;Male;Hispanic/Latino;Greeley;CO;Gunshot;Greeley Police Department;Firearm;weld
@@ -485,13 +485,13 @@ James Barrett;Male;White;Jonesville;NC;Gunshot;Wilkes County Sheriffs Office;Fir
 Tyrone Harris;Male;Black;Pittsburgh;PA;Gunshot;Pittsburgh Police Department;Firearm;allegheny
 Tyler Wicks;Male;White;Augusta;GA;Gunshot;Richmond County Sheriffs Office;Firearm;richmond
 Eduardo Reyes;Male;Hispanic/Latino;Citrus Heights;CA;Gunshot;Citrus Heights Police Department;Firearm;sacramento
-Jonathan Wilson;Male;White;Hutchinson;?;Gunshot;Hutchinson Police Department;Knife;reno
-Joshua Dyer;Male;White;Indianapolis;?;Gunshot;Indianapolis Metropolitan Police Department;No;marion
-Randall Waddel;Male;White;Weatherford;?;Gunshot;Weatherford Police Department;Knife;parker
-Damien Harrell;Male;Black;Yorktown;?;Gunshot;York-Poquoson Sheriff_s Office;Firearm;york
+Jonathan Wilson;Male;White;Hutchinson;KS;Gunshot;Hutchinson Police Department;Knife;reno
+Joshua Dyer;Male;?;Indianapolis;IN;Gunshot;Indianapolis Metropolitan Police Department;No;marion
+Randall Waddel;Male;White;Weatherford;TX;Gunshot;Weatherford Police Department;Knife;parker
+Damien Harrell;Male;Black;Yorktown;VA;Gunshot;York-Poquoson Sheriff_s Office;Firearm;york
 Spencer McCain;Male;Black;Owings Mills;MD;Gunshot;Baltimore County Police Department;No;baltimore
 Allen Hernandez;Male;Hispanic/Latino;Homedale;ID;Death in custody;Owyhee County Sheriffs Office Homedale Police Department Owyhee County Posse;No;owyhee
-Gilbert Vanderburgh;Male;White;Friant;CA;Gunshot;Fresno County Sheriffs Office;Firearm;madera
+Gilbert Vanderburgh;Male;?;Friant;CA;Gunshot;Fresno County Sheriffs Office;Firearm;madera
 Richard Matt;Male;White;Malone;NY;Gunshot;Federal law enforcement agents;Firearm;franklin
 Alfontish Cockerham;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Firearm;new york
 Joe Cisneros;Male;Hispanic/Latino;San Antonio;TX;Gunshot;San Antonio Police Department;Firearm;bexar
@@ -502,12 +502,12 @@ Cesar Enriquez;Male;Hispanic/Latino;Mesa;AZ;Gunshot;Mesa Police Department;Firea
 Clay Lickteig;Male;White;Franklin;NC;Gunshot;Franklin Police Department;Firearm;macon
 James Payne Jr;Male;White;Clayton;OH;Struck by vehicle;Clayton Police Department;No;montgomery
 Kevin Judson;Male;Black;McMinnville;OR;Gunshot;Yamhill County Sheriffs Office;No;yamhill
-Douglas Buckley;Male;White;Brockton;MA;Gunshot;Brockton Police Department;Non-lethal firearm;plymouth
+?;Male;White;Brockton;MA;Gunshot;Brockton Police Department;Non-lethal firearm;plymouth
 Alan Dunnagan;Male;White;Winston-Salem;NC;Struck by vehicle;Winston Salem Police Department;No;forsyth
 Keaton Farris;Male;White;Coupeville;WA;Death in custody;Island County Sheriffs Office;No;island
 Julian Joseph;Male;White;Miami Beach;FL;Gunshot;Miami Beach Police Department;Firearm;miami dade
 Victor Larosa III;Male;Black;Jacksonville;FL;Gunshot;Jacksonville Sheriffs Office;Unknown;duval
-Ton Nguyen;Male;Asian/Pacific Islander;San Diego;CA;Gunshot;San Diego Police Department;Knife;san diego
+Ton Nguyen;Male;Asian/Pacific Islander;San Diego;?;Gunshot;San Diego Police Department;Knife;san diego
 Kawanza Beaty;Male;Black;Newport News;VA;Gunshot;Newport News Police Department;Firearm;newport news
 Oscar Camacho;Male;Hispanic/Latino;Camden;NJ;Gunshot;Camden County Police Department;Firearm;camden
 Arturo Lopez;Male;Hispanic/Latino;Lancaster;CA;Gunshot;Los Angeles County Sheriffs Department;Firearm;los angeles
@@ -520,8 +520,8 @@ Michael Holt;Male;White;Austin;TX;Gunshot;Austin Police Department;Firearm;travi
 Richard Munroe;Male;White;Austin;TX;Gunshot;Austin Police Department;Non-lethal firearm;travis
 Neil Van De Putte;Male;White;Lacey Township;NJ;Struck by vehicle;Lacey Township Police Department;No;ocean
 John Deming Jr;Male;White;Pleasanton;CA;Gunshot;Pleasanton Police Department;No;alameda
-Johnny Ray Anderson;Male;Hispanic/Latino;Hawaiian Gardens;CA;Gunshot;Los Angeles County Sheriffs Department;No;los angeles
-Tyler Rogers;Male;White;Oklahoma City;OK;Gunshot;Oklahoma City Police Department;Firearm;oklahoma
+Johnny Ray Anderson;Male;Hispanic/Latino;Hawaiian Gardens;CA;Gunshot;Los Angeles County Sheriffs Department;No;?
+Tyler Rogers;Male;White;?;OK;Gunshot;Oklahoma City Police Department;Firearm;oklahoma
 Adam Dujanovic;Male;White;Mesa;AZ;Gunshot;Mesa Police Department;Other;maricopa
 Marcellus Burley;Male;Black;Missouri City;TX;Gunshot;Houston Police Department;Firearm;fort bend
 Maximo Rabasa;Male;Black;Miami;FL;Taser;Miami Police Department;Knife;miami dade
@@ -529,16 +529,16 @@ Jason Hendley;Male;Black;Los Angeles;CA;Gunshot;Los Angeles Police Department;Kn
 John Berry;Male;White;Lakewood;CA;Gunshot;Los Angeles County Sheriffs Department;Vehicle;los angeles
 Joe Cody;Male;White;Dallas;TX;Gunshot;Dallas Police Department;Firearm;dallas
 Hagen Esty-Lennon;Male;White;Bath;NH;Gunshot;Haverhill Police Department;Knife;grafton
-Daniel Hernandez Jr;Male;Hispanic/Latino;?;CA;Gunshot;Bakersfield Police Department;Firearm;kern
+Daniel Hernandez Jr;Male;Hispanic/Latino;Bakersfield;CA;Gunshot;Bakersfield Police Department;Firearm;kern
 Joshua Blough;Male;White;Elizabethtown;KY;Gunshot;Elizabethtown Police Depatment;Knife;hardin
 Tremaine Dantzler;Male;Black;Atlantic City;NJ;Gunshot;Atlantic City Police Department;Knife;atlantic
 Jose Lopez;Male;Hispanic/Latino;Edinburg;TX;Gunshot;Hidalgo County Sheriff_s Office;Firearm;hidalgo
 Michael Westrich;Male;White;Beaverton;OR;Gunshot;Beaverton Police Department;Firearm;washington
 Nicholas Booth;Male;White;Sugar Creek;MO;Gunshot;Independence Police Department;Firearm;jackson
-David Sarabia;Male;Hispanic/Latino;?;CA;Gunshot;Atwater Police Department;Knife;merced
-Dallas Shatley;Male;White;?;NC;Gunshot;Ashe County Sheriffs Office;Vehicle;ashe
-Robert Hammonds;Male;White;?;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
-William McIntire;Male;White;?;FL;Struck by vehicle;Tampa Police Department;No;hillsborough
+David Sarabia;Male;Hispanic/Latino;Atwater;CA;Gunshot;Atwater Police Department;Knife;merced
+Dallas Shatley;Male;White;Crumpler;NC;Gunshot;Ashe County Sheriffs Office;Vehicle;ashe
+Robert Hammonds;Male;White;Phoenix;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
+William McIntire;Male;White;Tampa;FL;Struck by vehicle;Tampa Police Department;No;hillsborough
 Martice Milliner;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Firearm;cook
 Rocco Palmisano III;Male;White;Parowan;UT;Gunshot;Parowan Police Department;Firearm;iron
 Cyrus Hurtado;Male;White;Boulder Creek;CA;Gunshot;Santa Cruz County Sheriffs Office;Firearm;santa cruz
@@ -552,11 +552,11 @@ Billy Maine;Male;White;Olivehurst;CA;Gunshot;Yuba County Sheriffs Department;Fir
 Paul Castaway;Male;Native American;Denver;CO;Gunshot;Denver Police Department;Knife;jefferson
 Salvado Ellswood;Male;Black;Plantation;FL;Gunshot;Plantation Police Department;No;broward
 Freddie Blue;Male;Black;Covington;GA;Gunshot;Newton County Sheriff_s Office;Unknown;newton
-Matthew Watson;Male;White;River Forest;IL;Gunshot;River Forest Police Department;Firearm;cook
+Matthew Watson;Male;White;?;IL;Gunshot;River Forest Police Department;Firearm;cook
 Nyal Brown;Male;White;Columbus;OH;Struck by vehicle;Franklin County Sheriffs Office;No;franklin
 Christopher Benton;Male;White;Casper;WY;Gunshot;Casper Police Department;Unknown;natrona
 Matthew Graham;Male;White;Dunsmuir;CA;Gunshot;Shasta County Sheriffs Office California Highway Patrol;Firearm;siskiyou
-Shane Gormley;Male;White;Ogden;UT;Taser;Utah State Highway Patrol;No;weber
+Shane Gormley;Male;White;Ogden;UT;Taser;Utah State Highway Patrol;No;?
 Rafael Suazo;Male;Hispanic/Latino;Lynn;MA;Gunshot;Lynn Police Department;Vehicle;essex
 Chacarion Avant;Male;Black;Mascotte;FL;Gunshot;Lake County Sheriffs Office;Firearm;lake
 Bruce Stafford;Male;White;Hendersonville;NC;Death in custody;Henderson County Sheriffs Office;No;henderson
@@ -572,11 +572,11 @@ Mohammad Abdulazeez;Male;Arab-American;Chattanooga;TN;Gunshot;Chattanooga Police
 Samuel Smith;Male;White;Seattle;WA;Gunshot;Seattle Police Department;Knife;king
 Albert Davis;Male;Black;Orlando;FL;Gunshot;Orlando Police Department;No;orange
 David Wheat Jr;Male;White;Fort Collins;CO;Gunshot;Fort Collins Police Department;Knife;larimer
-Kevin Snyder;Male;White;Phoenix;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
+Kevin Snyder;Male;White;?;AZ;Gunshot;Phoenix Police Department;?;maricopa
 Darrius Stewart;Male;Black;Memphis;TN;Gunshot;Memphis Police Department;No;shelby
 Jose Rodriguez;Male;Hispanic/Latino;Brownsville;TX;Gunshot;Brownsville Police Department;Unknown;matamoros tamaulipas
 Estevan Gomez;Male;Hispanic/Latino;Farmersville;CA;Gunshot;Farmersville Police Department;No;tulare
-Samuel DuBose;Male;Black;Cincinnati;OH;Gunshot;University of Cincinnati Police Department;No;hamilton
+Samuel DuBose;Male;Black;Cincinnati;OH;Gunshot;University of Cincinnati Police Department;?;hamilton
 Jackie Brand;Male;White;Needles;CA;Gunshot;San Bernardino Sheriffs Department;Firearm;san bernardino
 Charles Dewey;Male;White;Colby;KS;Gunshot;Colby Police Department Thomas County Sheriffs Office;Firearm;thomas
 Troy Goode;Male;White;Olive Branch;MS;Death in custody;Southaven Police Department;No;desoto
@@ -589,21 +589,21 @@ William Jeffries;Male;White;Weston;WV;Death in custody;Weston Police Department;
 Joseph Fuller;Male;White;Oakland Park;FL;Gunshot;Broward Sheriffs Office;Firearm;broward
 Pierre Koellner;Male;White;Opp;AL;Gunshot;Opp Police Department;Firearm;covington
 Darren Wilson;Male;White;NE White;GA;Gunshot;Bartow County Sheriffs Office;Other;bartow
-Bryan Overstreet;Male;Black;Sylvester;GA;Struck by vehicle;Worth County Sheriffs Department;No;worth
+Bryan Overstreet;Male;Black;Sylvester;GA;?;Worth County Sheriffs Department;No;worth
 Samuel Primeno-Nunez;Male;Hispanic/Latino;Monroe;WI;Gunshot;Green County Sheriffs Department;Firearm;green
 Dontae Martin;Male;Black;Dayton;OH;Gunshot;Montgomery County Sheriff_s Office;Firearm;montgomery
 Andre Williams;Male;Black;Oklahoma City;OK;Gunshot;Oklahoma City Police Department;Knife;oklahoma
 Robbie Edison;Male;White;Douglas;WY;Gunshot;Converse County Sheriffs Office;Non-lethal firearm;converse
 Derek Wolfsteller;Male;White;Plymouth;MN;Gunshot;Plymouth Police Department;No;hennepin
 Brian Stortzum;Male;White;Myrtle Beach;SC;Gunshot;Horry County Police Department;Firearm;horry
-Tamala Satre;Female;White;Meadow Vista;CA;Gunshot;Placer County Sheriffs Office;Firearm;placer
+Tamala Satre;Female;?;Meadow Vista;CA;Gunshot;Placer County Sheriffs Office;Firearm;placer
 Seth Raines;Male;White;Studio City;CA;Gunshot;Los Angeles Police Department;Firearm;los angeles
 Christopher Olmstead;Male;White;New Orleans;LA;Gunshot;New Orleans Police Department;Unknown;orleans
 Lee Gerston;Male;White;Pinnacle;NC;Gunshot;Stokes County Sheriffs Department;Knife;stokes
-Roger Braswell;Male;White;Brinson;GA;Gunshot;Decatur County Sheriff_s Office;?;decatur
+Roger Braswell;Male;White;Brinson;GA;Gunshot;Decatur County Sheriff_s Office;Firearm;decatur
 Bryan Day;Male;Black;Las Vegas;NV;Gunshot;Las Vegas Metropolitan Police Department;Non-lethal firearm;clark
-Khari Westly;Male;Black;Shreveport;LA;?;Shreveport Police Department;Firearm;caddo
-Zachary Hammond;Male;White;Seneca;SC;?;Seneca Police Department;No;oconee
+Khari Westly;Male;Black;?;LA;Gunshot;Shreveport Police Department;Firearm;caddo
+Zachary Hammond;?;White;Seneca;SC;Gunshot;Seneca Police Department;No;oconee
 Jean Paul Falgout;Male;White;Houma;LA;Gunshot;Terrebonne Parish Sheriffs Office Houma Police Department Louisiana State Police;Non-lethal firearm;terrebonne
 Earl Jackson;Male;Black;Micanopy;FL;Gunshot;Florida Highway Patrol;Firearm;alachua
 Timothy Milliken;Male;White;Columbia;SC;Gunshot;Lexington County Sheriffs Department;Knife;lexington
@@ -619,18 +619,18 @@ Ryan Vrenon;Male;White;Mt Shasta;CA;Gunshot;California Highway Patrol;Firearm;si
 Mark Perkins;Male;White;Gardnerville;NV;Gunshot;Douglas County Sheriffs Office;Firearm;douglas
 Philip Vallejo;Male;Hispanic/Latino;Fort Worth;TX;Gunshot;Fort Worth Police Department;Firearm;tarrant
 Rafael Molina;Male;Hispanic/Latino;Albuquerque;NM;Gunshot;Albuquerque Police Department;Firearm;bernalillo
-Jeremy Hatch;Male;White;Roswell;NM;Gunshot;Roswell Police Department and Chaves County Sheriffs Office;Firearm;chaves
+Jeremy Hatch;Male;?;Roswell;NM;Gunshot;Roswell Police Department and Chaves County Sheriffs Office;Firearm;chaves
 Virgil Reynolds;Male;White;Houston;TX;Gunshot;Houston Police Department;Vehicle;harris
 Armando Serrano Jr;Male;Unknown;Tucson;AZ;Gunshot;Tuscon Police Department;Firearm;pima
 James Bush;Male;White;St Clair Shores;MI;Struck by vehicle;St Clair Shores Police Department;No;macomb
 Joseph Hutcheson;Male;White;Dallas;TX;Death in custody;Dallas County Sheriffs Office;No;dallas
 Antonio Clements;Male;Black;Oakland;CA;Gunshot;Oakland Police Department;Firearm;alameda
-Joshua Malave;Male;White;Palmyra;PA;?;South Londonderry Police Department;Firearm;lebanon
-Shawn Ruble;Male;White;Muncie;IN;?;Muncie Police Department;Non-lethal firearm;delaware
+Joshua Malave;Male;White;Palmyra;PA;Gunshot;South Londonderry Police Department;Firearm;lebanon
+Shawn Ruble;Male;White;Muncie;IN;Gunshot;Muncie Police Department;Non-lethal firearm;delaware
 Franklin Short;Male;White;Powhatan;VA;Gunshot;Powhatan County Sheriff_s Office;Firearm;powhatan
 Daniel Avila;Male;Hispanic/Latino;Oceanside;CA;Gunshot;Orange County Sheriffs Department and US Border Patrol;No;san diego
 Vincente Montano;Male;Hispanic/Latino;Antioch;TN;Gunshot;Metropolitan Nashville Police Department;Non-lethal firearm;davidson
-Keshawn Hargrove;Male;Black;Richmond;VA;Gunshot;Richmond Police Department;Firearm;richmond
+Keshawn Hargrove;Male;Black;Richmond;VA;Gunshot;Richmond Police Department;?;richmond
 John Dieringer;Male;White;Greenfield;WI;Gunshot;Greenfield Police Department;Knife;milwaukee
 Jason Galaviz;Male;White;Tacoma;WA;Gunshot;Tacoma Police Department;Firearm;pierce
 Raymond Hodge;Male;Black;Kahului;HI;Gunshot;Maui Police Department;Firearm;maui
@@ -641,10 +641,10 @@ Gustavo Ponce-Galon;Male;Hispanic/Latino;Elsmere;KY;Gunshot;Elsmere Police Depar
 Aaron Marchese;Male;White;Fresno;CA;Gunshot;Fresno Police Department;Non-lethal firearm;fresno
 Christian Taylor;Male;Black;Arlington;TX;Gunshot;Arlington Police Department;No;tarrant
 Derrick Hunt;Male;Black;Long Beach;CA;Gunshot;Long Beach Police Department;Knife;los angeles
-Shamir Palmer;Male;Black;?;SC;Gunshot;Dorchester County Sheriffs Office;Firearm;dorchester
-Matthew Russo;Male;White;?;CT;Death in custody;Hartford Police Department;No;hartford
-Mark Keckhafer;Male;White;?;MT;Gunshot;Mineral County Sheriffs Department;Vehicle;mineral
-Roderick Burr;Male;Unknown;?;TX;Gunshot;Brookshire Police Department;Firearm;waller
+Shamir Palmer;Male;Black;Summerville;SC;Gunshot;Dorchester County Sheriffs Office;Firearm;dorchester
+Matthew Russo;Male;White;Hartford;CT;Death in custody;Hartford Police Department;No;hartford
+Mark Keckhafer;Male;White;Superior;MT;Gunshot;Mineral County Sheriffs Department;Vehicle;mineral
+Roderick Burr;Male;Unknown;Brookshire;TX;Gunshot;Brookshire Police Department;Firearm;waller
 Jeffrey Wilkes;Male;White;Gastonia;NC;Gunshot;Gaston County Police Department;Firearm;gaston
 Kevin McDaniel;Male;White;Spokane;WA;Gunshot;Spokane Police Department;Firearm;spokane
 Tsombe Clark;Male;Black;Greenville;NC;Gunshot;Greenville Police Department;Firearm;pitt
@@ -657,7 +657,7 @@ Randall Hughes;Male;White;Waco;TX;Gunshot;Waco Police Department;Knife;mclennan
 Nathaniel Wilks;Male;Black;Oakland;CA;Gunshot;Oakland Police Department;Firearm;alameda
 Redel Jones;Female;Black;Los Angeles;CA;Gunshot;Los Angeles Police Department;Knife;los angeles
 Roger Shull Jr;Male;White;Odessa;TX;Gunshot;Texas Department of Public Safety;Firearm;ector
-William Smith;Male;White;Hobbs;NM;Gunshot;Lea County Sheriffs Department and Hobbs Police Department;Unknown;lea
+William Smith;Male;?;Hobbs;NM;Gunshot;Lea County Sheriffs Department and Hobbs Police Department;Unknown;lea
 Reginald Marshall;Male;Black;Toledo;OH;Gunshot;Toledo Police Department;Firearm;lucas
 Garland Tyree;Male;Black;New York;NY;Gunshot;New York Police Department;Firearm;richmond
 Hector Gonzalez;Male;Hispanic/Latino;Boerne;TX;Gunshot;Boerne Police Department;Firearm;kendall
@@ -678,14 +678,14 @@ Jason Hale;Male;White;Hunters;WA;Gunshot;Stevens County Sheriffs Office;Firearm;
 Deviere Ransom;Male;Black;Bloomfield Township;MI;Gunshot;Bloomfield Hills Public Safety Department Warren Police Department;Firearm;oakland
 Jonathan Velarde;Male;Hispanic/Latino;Susanville;CA;Gunshot;California Department of Corrections and Rehabilitation;Unknown;lassen
 Wade Baker;Male;White;Waynesville;NC;Gunshot;Maggie Valley Police Department Haywood County Sheriffs Office and Waynesville Police Department;Firearm;haywood
-Jeffory Tevis;Male;White;Tuscaloosa;AL;Gunshot;Tuscaloosa Police Department;No;tuscaloosa
+Jeffory Tevis;Male;White;?;AL;Gunshot;Tuscaloosa Police Department;No;tuscaloosa
 Raul Herrera III;Male;Hispanic/Latino;Ontario;CA;Gunshot;Ontario Police Department;Firearm;san bernardino
 Timmy Walling;Male;White;Grapeview;WA;Gunshot;Mason County Sheriffs Office;Unknown;mason
 Alan Rushton;Male;White;Wake Forest;NC;Gunshot;Wake Forest Police Department;Knife;franklin
 Adam Schneider;Male;White;Cohasset;MN;Gunshot;Itasca County Sheriffs office;Firearm;itasca
 Marc Kaplan;Male;White;Scottsdale;AZ;Taser;Scottsdale Police Department Phoenix Police Department;No;pipestone
 Thaddeus Faison;Male;Black;Troy;NY;Gunshot;Troy Police Department;Firearm;cabell
-Jason Alderman;Male;White;Bakersfield;CA;Gunshot;Bakersfield Police Department;Other;kern
+Jason Alderman;Male;White;Bakersfield;?;Gunshot;Bakersfield Police Department;Other;kern
 Nicholas Garner;Male;White;Wichita;KS;Gunshot;Wichita Police Department;Vehicle;sedgwick
 Christopher Tompkins;Male;White;Arab;AL;Gunshot;Arab Police Department;Unknown;cullman
 Julian Hoffman;Male;White;Brick;NJ;Gunshot;Brick Township Police Department;Non-lethal firearm;ocean
@@ -705,7 +705,7 @@ Manuel Soriano;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles Police De
 Robert Hober;Male;White;San Diego;CA;Gunshot;San Diego Police Department;Knife;san diego
 Thomas Ramey;Male;White;Luray;VA;Struck by vehicle;Virginia State Police;No;page
 Barbara Ramey;Female;White;Luray;VA;Struck by vehicle;Virginia State Police;No;page
-William Evans;Male;White;Spanish Fork;UT;Gunshot;Spanish Fork Police Department;Firearm;utah
+?;Male;White;Spanish Fork;UT;Gunshot;Spanish Fork Police Department;Firearm;utah
 Gilbert Flores;Male;Hispanic/Latino;San Antonio;TX;Gunshot;Bexar County Sheriffs Office;Disputed;bexar
 Felix Kumi;Male;Black;Mount Vernon;NY;Gunshot;New York Police Department;No;westchester
 James Brown III;Male;Black;North Las Vegas;NV;Gunshot;Las Vegas Metropolitan Police Department;Firearm;clark
@@ -715,13 +715,13 @@ Shawn Hall;Male;White;Cushing;OK;Gunshot;Cushing Police Department;Firearm;payne
 David Leon;Male;Hispanic/Latino;Tucson;AZ;Gunshot;Tucson Police Department;Firearm;pima
 William Rippley;Male;White;Loveland;CO;Gunshot;Loveland Police Department;Knife;larimer
 Devin Dial;Male;White;Longview;TX;Gunshot;Longview Police Department;Firearm;gregg
-James Carney III;Male;Black;Cincinnati;OH;Taser;Cincinnati Police Department;No;hamilton
+James Carney III;?;Black;Cincinnati;OH;Taser;Cincinnati Police Department;No;hamilton
 Cedric Williams;Male;Black;Bluefield;WV;Gunshot;Bluefield Police Department;Firearm;mercer
 Tyree Crawford;Male;Black;Newark;NJ;Struck by vehicle;Newark Police Department;Unknown;essex
 Nicholas Dyksma;Male;White;Hamilton;GA;Taser;Harris County Sheriffs Office;No;harris
 Michael Evans;Male;White;Artesia;NM;Gunshot;Carlsbad Police Department Lake Arthur Police Department;Firearm;eddy
 Charles Shaw;Male;White;Twinsburg;OH;Gunshot;Twinsburg Police Department;Firearm;summit
-Michael Tyree;Male;White;San Jose;CA;Death in custody;Santa Clara County Sheriffs Office;No;santa clara
+Michael Tyree;?;White;San Jose;CA;Death in custody;Santa Clara County Sheriffs Office;No;santa clara
 Arthur Bates;Male;White;Prescott;AZ;Gunshot;Yavapai County Sheriffs Office;Firearm;yavapai
 Curtis Meyer;Male;White;Mitchell;SD;Gunshot;Mitchell Police Division;Firearm;davison
 Sully Lanier;Male;White;Springtown;TX;Gunshot;Parker County Sheriffs Department;Firearm;parker
@@ -740,17 +740,17 @@ Wayne Wheeler;Male;Black;Detroit;MI;Other;Lathrup Village Police Department;No;w
 Casimero Shane Casillas;Male;Hispanic/Latino;Fresno;CA;Gunshot;Fresno Police Department;Other;fresno
 William Verrett;Male;White;Hobbs;NM;Gunshot;Hobbs Police Department;Firearm;lea
 Curtis Jordan;Male;Black;Huntsville;AL;Death in custody;Huntsville Police Department;No;madison
-Tyrone Holman;Male;Black;Kansas City;MO;Gunshot;?;Other;jackson
-Vincent Perdue;Male;Native American;North Pole;AK;Gunshot;Alaska State Troopers and Fairbanks Police Department;Firearm;fairbanks north star
+Tyrone Holman;Male;Black;Kansas City;MO;Gunshot;Kansas City Police Department;Other;jackson
+Vincent Perdue;Male;Native American;North Pole;?;Gunshot;Alaska State Troopers and Fairbanks Police Department;Firearm;fairbanks north star
 Brandon Foy;Male;Black;Indianapolis;IN;Gunshot;Indiana State Police;Firearm;marion
 Austin Reid;Male;White;Lodi;CA;Gunshot;Lodi Police Department;Firearm;san joaquin
 Santino Burce;Male;Hispanic/Latino;Fontana;CA;Gunshot;Fontana Police Department;Knife;san bernardino
 Eddie Tapia;Male;Hispanic/Latino;Downey;CA;Gunshot;Los Angeles County Sheriffs Department;Firearm;los angeles
 Robert Edwards;Male;Unknown;Chester;PA;Gunshot;Federal Bureau of Investigation;Unknown;delaware
 Jennifer Lobato;Female;Hispanic/Latino;Golden;CO;Death in custody;Jefferson County Sheriffs Office;No;jefferson
-Tian Ma;Male;Asian/Pacific Islander;Potsdam;NY;Gunshot;Potsdam Police Department;?;st lawrence
-Heriberto Godinez Jr;Male;Hispanic/Latino;Chicago;IL;Death in custody;Chicago Police Department;?;cook
-Derek Davis;Male;White;Sylacauga;AL;Gunshot;Talladega County Sheriffs Office;?;talladega
+Tian Ma;Male;Asian/Pacific Islander;Potsdam;NY;Gunshot;Potsdam Police Department;Knife;st lawrence
+Heriberto Godinez Jr;Male;Hispanic/Latino;Chicago;IL;Death in custody;?;No;cook
+Derek Davis;Male;White;Sylacauga;AL;Gunshot;Talladega County Sheriffs Office;Unknown;talladega
 Martin Hammen;Male;White;Wellman;IA;Gunshot;Washington County Sheriffs Office;Firearm;washington
 Jack Stevens Jr;Male;White;Knoxville;TN;Gunshot;Knox County Sheriffs Office Swat team;Firearm;knox
 Clifford Butler Jr;Male;Black;Pond Creek;OK;Gunshot;Grant County Sheriffs Office;Firearm;grant
@@ -766,7 +766,7 @@ Bobby Anderson;Male;Black;Alexandria;LA;Gunshot;US Marshals violent offender tas
 Mark Gary;Male;White;Beaverton;MI;Gunshot;Michigan State Police;Firearm;gladwin
 Anthony Camacho;Male;Hispanic/Latino;Rialto;CA;Struck by vehicle;Rialto Police Department;No;san bernardino
 Carlos Wilhelm;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles Police Department;Firearm;los angeles
-Lawrence Price;Male;White;Brodhead;KY;Gunshot;Kentucky State Police Rockcastle County Sheriffs Department;Firearm;rockcastle
+Lawrence Price;Male;White;Brodhead;KY;Gunshot;?;Firearm;rockcastle
 William Chau;Male;Asian/Pacific Islander;El Monte;CA;Gunshot;El Monte Police Department;Knife;los angeles
 Gregory Herrell;Male;White;Cumberland Furnace;TN;Gunshot;Dickson County Sheriffs Office;Unknown;montgomery
 Nicholas Johnson;Male;White;San Bernardino;CA;Gunshot;San Bernardino County Sheriffs Department;No;san bernardino
@@ -779,7 +779,7 @@ Gerardo Ramirez;Male;Hispanic/Latino;Dallas;TX;Gunshot;Dallas Police Department;
 Kimberly Bedford;Female;White;Benton Harbor;MI;Struck by vehicle;Benton Charter Township Police Department;No;berrien
 Dante Osborne;Male;Black;San Leandro;CA;Gunshot;Alameda County Sheriffs Office;Firearm;alameda
 Francisco Benitez-Santiago;Male;Hispanic/Latino;Monroe;WI;Gunshot;Green Lake County Sheriffs Office;Firearm;green
-William Spaits;Male;White;Sand City;CA;Gunshot;Sand City Police Department;Firearm;monterey
+William Spaits;?;White;Sand City;CA;Gunshot;Sand City Police Department;Firearm;monterey
 Tina Money;Female;White;Sand City;CA;Gunshot;Sand City Police Department;Firearm;monterey
 Steven McKenney;Male;White;Paris;TX;Gunshot;Texas Department of Public Safety;Unknown;lamar
 Timothy Wagner;Male;White;Barberville;FL;Gunshot;Volusia County Sheriffs Office;Firearm;volusia
@@ -787,13 +787,13 @@ Dominic Fuller;Male;Hispanic/Latino;Auburndale;FL;Gunshot;Polk County Sheriffs O
 Donaven Anderson;Male;White;North Las Vegas;NV;Gunshot;North Las Vegas Police Department;Firearm;clark
 Tim Torngren;Male;White;Anderson;CA;Gunshot;Shasta County Sheriffs Office;Firearm;shasta
 Joel Smith;Male;White;Niceville;FL;Gunshot;Okaloosa County Sheriffs Office;Firearm;okaloosa
-?;Male;Black;Salt Lake City;UT;Gunshot;Salt Lake City Police Department;Knife;salt lake
-?;Male;Black;Wilmington;DE;Gunshot;Wilmington Police Department;?;new castle
-?;Male;Black;Reisterstown;MD;Gunshot;Baltimore County Police Department;?;baltimore
-?;Male;White;McKinney;TX;Gunshot;McKinney Police Department;?;collin
+Robert Berger;Male;Black;Salt Lake City;UT;Gunshot;Salt Lake City Police Department;Knife;salt lake
+Jeremy McDole;Male;Black;Wilmington;DE;Gunshot;Wilmington Police Department;Firearm;new castle
+Keith McLeod;Male;Black;Reisterstown;MD;Gunshot;Baltimore County Police Department;No;baltimore
+Joseph Khammash;Male;White;McKinney;TX;Gunshot;McKinney Police Department;Firearm;collin
 Ernesto Lopez;Male;Black;Miami;FL;Gunshot;Miami-Dade Police Department;Knife;miami dade
 Kenneth Pinter Jr;Male;White;Troutdale;VA;Gunshot;Grayson County Sheriffs Office;Firearm;grayson
-Patrick OGrady;Male;White;Fountain;CO;Gunshot;Fountain Police Department;Firearm;el paso
+Patrick OGrady;Male;White;Fountain;CO;Gunshot;Fountain Police Department;Firearm;?
 Philip Quinn;Male;Native American;St Paul;MN;Gunshot;St Paul Police Department;Other;ramsey
 William Lemmon;Male;White;Akron;OH;Gunshot;Akron Police Department;No;summit
 James Anderson;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Knife;cook
@@ -806,7 +806,7 @@ Alberto Hernandez;Male;Hispanic/Latino;San Diego;CA;Gunshot;San Diego Police Dep
 Victor Coronado-Martinez;Male;Hispanic/Latino;Ponder;TX;Gunshot;Ponder Police Department;Firearm;denton
 Ronny Bowling;Male;White;Indianapolis;IN;Struck by vehicle;Indianapolis Metropolitan Police Department;No;marion
 Brandon Johnson;Male;Black;Beckley;WV;Gunshot;West Virginia State Police;Firearm;raleigh
-Patrick Lundstrom;Male;Native American;Rapid City;SD;Gunshot;Rapid City Police Department;Other;pennington
+Patrick Lundstrom;Male;Native American;Rapid City;SD;Gunshot;Rapid City Police Department;?;pennington
 Freddy Centeno;Male;Hispanic/Latino;Fresno;CA;Gunshot;Fresno Police Department;Non-lethal firearm;fresno
 Christian Pena;Male;Hispanic/Latino;Rialto;CA;Gunshot;Rialto Police Department;Knife;san bernardino
 Phyllis Jepsen;Female;White;Aloha;OR;Gunshot;Washington County Sheriffs Office;Knife;washington
@@ -814,8 +814,8 @@ James Byrd;Male;White;Los Angeles;CA;Gunshot;Los Angeles Police Department;No;lo
 Jeffery McCallum;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Firearm;cook
 David Diaz;Male;Hispanic/Latino;Sierra Vista;AZ;Gunshot;Cochise County Sheriff_s Office;Firearm;cochise
 Kylie Lindsey;Female;White;Carrollton;GA;Struck by vehicle;Georgia State Patrol;No;carroll
-Isabella Chinchilla;Female;White;Carrollton;GA;Struck by vehicle;Georgia State Patrol;No;carroll
-?;Male;White;Muscle Shoals;AL;Gunshot;Muscle Shoals Police Department Sheffield Police Department;Firearm;colbert
+Isabella Chinchilla;Female;White;Carrollton;GA;Struck by vehicle;Georgia State Patrol;?;carroll
+Eric Edgell;Male;White;Muscle Shoals;AL;Gunshot;Muscle Shoals Police Department Sheffield Police Department;Firearm;colbert
 Matthew Dobbins;Male;White;Amarillo;TX;Gunshot;Randall County Sheriffs Office;Unknown;randall
 Rodney Jencsik;Male;White;Woodbridge Township;NJ;Gunshot;Woodbridge Police Department;Firearm;middlesex
 Donald Miller II;Male;White;Monterey;CA;Gunshot;Monterey Police Department;Firearm;monterey
@@ -840,11 +840,11 @@ Leslie Portis Jr;Male;Black;Evergreen;AL;Gunshot;Conecuh County Sheriffs Office 
 Samuel Villarreal;Male;Hispanic/Latino;Indio;CA;Gunshot;Indio Police Department;Vehicle;riverside
 Michael Clark;Male;Unknown;Seaside;CA;Gunshot;Seaside Police Department;Firearm;monterey
 Herbert Benitez;Male;Hispanic/Latino;San Francisco;CA;Gunshot;San Francisco Police Department;Firearm;san francisco
-Michael Brennan;Male;White;Cleveland;OH;Gunshot;Parma Police Deparment Parma Heighs Police Department Brooklyn Police Department;Non-lethal firearm;cuyahoga
+Michael Brennan;Male;White;Cleveland;?;Gunshot;Parma Police Deparment Parma Heighs Police Department Brooklyn Police Department;Non-lethal firearm;cuyahoga
 Martin Ryans;Male;Black;Houston;TX;Gunshot;Houston Police Department;Firearm;harris
 Robert Burgess Jr;Male;White;Kirkland;WA;Gunshot;Kirkland Police Department;Firearm;king
 Johnny Rangel;Male;Hispanic/Latino;La Puente;CA;Gunshot;Los Angeles County Sheriffs Department;No;los angeles
-Jeffery Womack;Male;White;Houston;TX;Gunshot;Houston Police Department;Firearm;harris
+?;Male;White;Houston;TX;Gunshot;Houston Police Department;Firearm;harris
 Margaret Wagner;Female;White;Aguanga;CA;Gunshot;Riverside County Sheriffs Department;Firearm;riverside
 Ricky Ball;Male;Black;Columbus;MS;Gunshot;Columbus Police Department;Disputed;lowndes
 Gino Paredes;Male;Hispanic/Latino;Modesto;CA;Gunshot;Modesto Police Department;Non-lethal firearm;stanislaus
@@ -855,14 +855,14 @@ Krikor Ekizian;Male;White;Fresno;CA;Gunshot;Fresno Police Department;Unknown;fre
 Jonathan Pe_a;Male;Hispanic/Latino;West Hollywood;CA;Struck by vehicle;Los Angeles County Sheriffs Department;No;los angeles
 Michelle Burg;Female;White;Naples;FL;Gunshot;Collier County Sheriffs Office;Firearm;collier
 Dion Ramirez;Male;Black;Los Angeles;CA;Gunshot;Los Angeles County Sheriffs Department;Vehicle;los angeles
-?;Male;White;Louisville;KY;Gunshot;Jeffersontown Police Department;Non-lethal firearm;jefferson
-?;Male;Black;San Diego;CA;Gunshot;San Diego Police Department;Non-lethal firearm;san diego
-?;Male;White;Mandeville;LA;Gunshot;St Tammany Parish Sheriffs Office;Knife;st tammany
+Roger Hall;Male;White;Louisville;KY;Gunshot;Jeffersontown Police Department;Non-lethal firearm;jefferson
+Lamontez Jones;Male;Black;San Diego;CA;Gunshot;San Diego Police Department;Non-lethal firearm;san diego
+Darien Greenwood;Male;White;Mandeville;LA;Gunshot;St Tammany Parish Sheriffs Office;Knife;st tammany
 Jonathan Gossman;Male;White;Cedar Rapids;IA;Gunshot;Cedar Rapids Police Department;Firearm;linn
 Miguel Galena;Male;Hispanic/Latino;Calexico;CA;Gunshot;US Customs and Border Protection;Knife;mexicali baja california
 Joel Lopes;Male;White;Truth or Consequences;NM;Gunshot;Sierra County Sheriffs Office;Firearm;sierra
 Ryan Rodriguez;Male;Hispanic/Latino;Visalia;CA;Gunshot;Tulare County Sheriffs Department;No;tulare
-Timothy Arnold;Male;White;Kentwood;MI;Gunshot;Kentwood Police Department;Firearm;kent
+?;Male;White;Kentwood;MI;Gunshot;Kentwood Police Department;Firearm;kent
 Lawrence Green;Male;Black;Shreveport;LA;Gunshot;Shreveport Police Department;Knife;caddo
 Adriene Ludd;Male;Black;Carmichael;CA;Gunshot;Sacramento County Sheriffs Department;Firearm;sacramento
 Rolly Thomas;Male;Black;Cape Coral;FL;Gunshot;Cape Coral Police Department;Firearm;lee
@@ -884,8 +884,8 @@ Kevin Bajoie;Male;Black;Baton Rouge;LA;Taser;Baton Rouge Police Department;No;ea
 Mario Perdigone;Male;Hispanic/Latino;Corpus Christi;TX;Taser;Corpus Christi Police Department;No;nueces
 Kenneth Schick;Male;White;Wakarusa;KS;Taser;Osage County Sheriffs Office;No;osage
 Andrew Dehart;Male;White;Forest Grove;OR;Gunshot;Unknown;Firearm;washington
-Jerry Graham Jr;Male;Black;Jacksonville;?;Gunshot;Jacksonville Sheriffs Office;Firearm;duval
-Mario Martinez;Male;Hispanic/Latino;Mesquite;?;Gunshot;Mesquite Police Department Texas Department of Public Safety;Firearm;dallas
+Jerry Graham Jr;Male;Black;Jacksonville;FL;Gunshot;Jacksonville Sheriffs Office;Firearm;duval
+Mario Martinez;Male;Hispanic/Latino;Mesquite;TX;Gunshot;Mesquite Police Department Texas Department of Public Safety;Firearm;dallas
 Floyd Cook;Male;White;Burkesville;KY;Gunshot;Kentucky State Police United States Marshals Service;Firearm;cumberland
 Deaunte Bell;Male;Black;Columbus;OH;Gunshot;Columbus Division of Police;Firearm;franklin
 Tony Berry;Male;Black;Houston;TX;Gunshot;Houston Police Department;Firearm;harris
@@ -899,7 +899,7 @@ Jack Yantis;Male;White;Council;ID;Gunshot;Adams County Sheriffs Office;Firearm;a
 James Covington Jr;Male;Black;Washington;DC;Gunshot;Prince Georges County Police Department Forest Heights Police Department;Firearm;district of columbia
 Joseph Tyndall;Male;White;Springfield;MO;Gunshot;Springfield Police Department;Firearm;greene
 John Allen;Male;Black;Houston;TX;Gunshot;Houston Police Department;Firearm;harris
-Faisal Mohammad;Male;Arab-American;Merced;?;Gunshot;University of California Police Department;Unknown;merced
+Faisal Mohammad;Male;Arab-American;Merced;CA;Gunshot;University of California Police Department;Unknown;merced
 Timothy Smith;Male;White;San Diego;CA;Gunshot;San Diego Police Department;No;san diego
 Jacob Hohman;Male;White;Lakeshire;MO;Gunshot;Lakeshire Police Department St Louis County Police Department;Other;st louis
 Laura Lemieux;Female;White;Goose Creek;SC;Gunshot;Berkeley County Sheriffs Office;Firearm;berkeley
@@ -911,12 +911,12 @@ James Smyth;Male;White;Las Vegas;NV;Gunshot;Clark County School District Police 
 Raymond Davis;Male;White;Deltona;FL;Gunshot;DeLand Police Department;No;volusia
 Alonzo Smith;Male;Black;Washington;DC;Death in custody;Special police Washington DC;Unknown;district of columbia
 Matthew Colligan;Male;White;Klamath Falls;OR;Struck by vehicle;Klamath County Sheriffs Office;No;klamath
-Bendetta Lynn Miller;Female;White;Uniontown;?;Struck by vehicle;Pennsylvania State Police;No;fayette
-Cesar Cuellar Jr;Male;Hispanic/Latino;Laredo;?;Gunshot;Laredo Police Department;Firearm;webb
-Delvin Simmons;Male;Black;Spartanburg;SC;Gunshot;Spartanburg Methodist College Campus Safety Department;Vehicle;spartanburg
+Bendetta Lynn Miller;Female;White;Uniontown;PA;Struck by vehicle;?;No;fayette
+Cesar Cuellar Jr;Male;Hispanic/Latino;Laredo;TX;Gunshot;Laredo Police Department;Firearm;webb
+Delvin Simmons;?;Black;Spartanburg;SC;Gunshot;Spartanburg Methodist College Campus Safety Department;Vehicle;spartanburg
 Kim Long;Male;White;Wadesboro;NC;Gunshot;Anson County Sheriffs Office;Unknown;anson
-Miguel Cano;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles Police Department;Unknown;los angeles
-Dale Hudson;Male;White;Orlando;WV;Gunshot;West Virginia State Police US Marshals;?;braxton
+Miguel Cano;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;?;Unknown;los angeles
+Dale Hudson;Male;White;Orlando;WV;Gunshot;West Virginia State Police US Marshals;Firearm;braxton
 Joseph Jaramillo;Male;Hispanic/Latino;Albuquerque;NM;Gunshot;Bernalillo County Sheriffs Department;Vehicle;bernalillo
 Jason Mesaros;Male;White;Brighton;CO;Gunshot;Colorado State Patrol Longmont Police Department Adams County Sheriffs Office;Firearm;adams
 Eddie Sanchez;Male;Hispanic/Latino;Chico;CA;Gunshot;Chico Police Department;Firearm;butte
@@ -935,8 +935,8 @@ Ernesto Gamino;Male;Hispanic/Latino;Jurupa Valley;CA;Gunshot;Riverside County Sh
 Ramon Salazar;Male;Hispanic/Latino;Riverside;CA;Gunshot;Riverside County Sheriffs Department;Other;riverside
 John Livingston;Male;White;Spring Lake;NC;Gunshot;Harnett County Sheriffs Office;Other;harnett
 Richard Perkins;Male;Black;Oakland;CA;Gunshot;Oakland Police Department;Non-lethal firearm;alameda
-?;Male;Black;Philadelphia;PA;Gunshot;Philadelphia Housing Authority Police Department;Firearm;philadelphia
-?;Male;White;Dalton;GA;Gunshot;Whitfield County Sheriffs Office;Vehicle;whitfield
+Shane Whitehead;Male;Black;Philadelphia;PA;Gunshot;Philadelphia Housing Authority Police Department;Firearm;philadelphia
+Brett Noblitt;Male;White;Dalton;GA;Gunshot;Whitfield County Sheriffs Office;Vehicle;whitfield
 Andrew Blake;Male;White;Dillon;MT;Gunshot;Beaverhead County Sheriffs Office;Firearm;beaverhead
 Jamar Clark;Male;Black;Minneapolis;MN;Gunshot;Minneapolis Police Department;No;hennepin
 Michael Tindall;Male;White;Weatherford;TX;Gunshot;Weatherford Police Department;No;parker
@@ -969,7 +969,7 @@ Somer Speer;Female;White;Ozark;MO;Gunshot;Christian County Sheriffs Department N
 Douglas Slade;Male;White;Eagar;AZ;Gunshot;Eagar Police Department;Unknown;apache
 Rick Gullickson;Male;White;Lampe;MO;Gunshot;Stone County Sheriffs Office;Firearm;stone
 Kevin Close;Male;White;Seagoville;TX;Gunshot;Seagoville Police Department;Other;dallas
-Hugo Celio;Male;Hispanic/Latino;Bakersfield;CA;Gunshot;Bakersfield Police Department;Firearm;kern
+Hugo Celio;Male;Hispanic/Latino;Bakersfield;CA;Gunshot;Bakersfield Police Department;?;kern
 Justin McHenry;Male;White;Celina;OH;Gunshot;Ohio State Highway Patrol;Firearm;mercer
 Lionel Kerns;Male;White;Stewartsville;MO;Gunshot;Dekalb County Sheriffs Department Missouri State Highway Patrol;Firearm;dekalb
 Ralph Aguilar;Male;Hispanic/Latino;Sun City;AZ;Gunshot;Maricopa County Sheriffs Office;Firearm;maricopa
@@ -988,14 +988,14 @@ Allen Pacheco;Male;Hispanic/Latino;San Antonio;TX;Gunshot;Texas Department of Pu
 David Winesett;Male;White;Miami Beach;FL;Gunshot;Miami Beach Police Department;Other;miami dade
 Florencio Lucero;Male;Hispanic/Latino;Deming;NM;Gunshot;Deming Police Department;Firearm;luna
 Sheilah Huck;Female;White;Florissant;MO;Gunshot;St Louis County Police Department;Firearm;st louis
-Raymond Azevedo;Male;White;Seattle;WA;Gunshot;Seattle Police Department;Firearm;king
-Colten Marcellus;?;White;Irving;TX;Gunshot;Irving Police Department;Firearm;dallas
+Raymond Azevedo;Male;White;Seattle;WA;?;Seattle Police Department;Firearm;king
+Colten Marcellus;Male;White;Irving;TX;Gunshot;Irving Police Department;Firearm;dallas
 Michael Funk;Male;White;Neenah;WI;Gunshot;Neenah Police Department;Firearm;winnebago
 John Britton;Male;White;Laramie;WY;Gunshot;Albany County Sheriffs Office;Knife;albany
 Dimitrie Penny;Male;Black;Tallahassee;FL;Gunshot;Tallahassee Police Department;Firearm;leon
 Miguel Espinal;Male;Black;Yonkers;NY;Gunshot;New York Police Department;No;westchester
 Nicholas Gilbert;Male;White;St Louis;MO;Death in custody;St Louis Metropolitan Police Department;No;st louis
-Sammy Echols Jr;Male;White;Sportsmen Acres;OK;Gunshot;Sportsmen Acres Police Department;Firearm;mayes
+Sammy Echols Jr;Male;White;?;OK;Gunshot;Sportsmen Acres Police Department;Firearm;mayes
 Charles Rosemond Sr;Male;Black;Taylors;SC;Gunshot;Greenville County Sheriffs Office;Firearm;greenville
 Christopher Higdon;Male;White;Leitchfield;KY;Gunshot;Grayson County Sheriffs Office;Firearm;grayson
 Thomas Gendreau Jr;Male;White;Marina;CA;Gunshot;Marina Police Department;Knife;monterey
@@ -1010,21 +1010,21 @@ Ryan McMillan;Male;White;Denton;TX;Gunshot;University of North Texas Police Depa
 Efrain Villanueva;Male;Unknown;Aurora;CO;Gunshot;Aurora Police Department;Knife;arapahoe
 Roy Carreon;Male;Hispanic/Latino;San Bernardino;CA;Gunshot;San Bernardino Police Department;Knife;san bernardino
 Javario Eagle;Male;Black;Chattanooga;TN;Gunshot;Chattanooga Police Department;Firearm;hamilton
-Enrique Gonzalez;Male;Hispanic/Latino;Denver;CO;Gunshot;Mountain View Police Department;Firearm;jefferson
+?;Male;Hispanic/Latino;Denver;CO;Gunshot;Mountain View Police Department;Firearm;jefferson
 Shirley Weis;Female;White;Arlington;TX;Gunshot;Arlington Police Department;Firearm;tarrant
 Calvin McKinnis;Male;Black;New Orleans;LA;Gunshot;New Orleans Police Department;Firearm;orleans
-Michael Thomason;Male;White;Milan;TN;Gunshot;?;Firearm;gibson
-Jason Brady;Male;White;Waverly;OH;Gunshot;?;No;pike
-Jeffrey Evans;Male;White;Middle River;MD;Gunshot;?;Knife;baltimore
-Feagaiga Leiataua;Male;Asian/Pacific Islander;Olympia;WA;Gunshot;?;Knife;thurston
+Michael Thomason;Male;White;Milan;TN;Gunshot;Milan Police Department Gibson County Sheriffs Office;Firearm;gibson
+Jason Brady;Male;White;Waverly;OH;Gunshot;Pike County Sheriffs Department;No;pike
+Jeffrey Evans;Male;White;Middle River;MD;Gunshot;Baltimore County Police Department;Knife;baltimore
+Feagaiga Leiataua;Male;Asian/Pacific Islander;Olympia;WA;Gunshot;Thurston County Sheriffs Office;Knife;thurston
 Roberto Sanchez;Male;Hispanic/Latino;Las Vegas;NV;Gunshot;Las Vegas Metropolitan Police Department;Firearm;clark
 Hector Alvarez;Male;Hispanic/Latino;Gilroy;CA;Gunshot;Gilroy Police Department;No;santa clara
 Mharloun Saycon;Male;Asian/Pacific Islander;Long Beach;CA;Gunshot;Long Beach Police Department;Knife;los angeles
 Mark Toney;Male;White;Mt Hope;WV;Gunshot;Mount Hope Police Department;Firearm;fayette
 Bryant Duncan;Male;White;Camarillo;CA;Gunshot;Ventura County Sheriffs Office;Knife;ventura
-Douglas Yon;Male;?;Kent;OH;Gunshot;Kent Police Department;Other;portage
-Ronnie Carr;Male;?;Dallas;NC;Gunshot;Dallas Police Department;Vehicle;gaston
-Christopher Fletcher;Male;?;Modesto;CA;Gunshot;Modesto Police Department;Firearm;stanislaus
+Douglas Yon;Male;White;Kent;OH;Gunshot;Kent Police Department;Other;portage
+Ronnie Carr;Male;Black;Dallas;NC;Gunshot;Dallas Police Department;Vehicle;gaston
+Christopher Fletcher;Male;White;Modesto;CA;Gunshot;Modesto Police Department;Firearm;stanislaus
 Amos Frerichs;Male;?;Knoxville;TN;Gunshot;Knox County Sheriffs Office;Vehicle;knox
 Andrew Thomas;Male;White;Paradise;CA;Gunshot;Paradise Police Department;No;butte
 Leroy Browning;Male;Black;Palmdale;CA;Gunshot;Los Angeles County Sheriffs Department;No;los angeles
@@ -1032,27 +1032,27 @@ Guadalupe Quiroz;Male;Hispanic/Latino;Hemet;CA;Gunshot;Hemet Police Department;F
 Mark Ramirez;Male;Hispanic/Latino;Amarillo;TX;Gunshot;Amarillo Police Department;Firearm;potter
 Robert Teter;Male;White;Deltona;FL;Gunshot;Volusia County Sheriffs Office;Firearm;volusia
 Michael Noel;Male;Black;St Martinville;LA;Gunshot;St Martin Parish Sheriffs Office;No;st martin
-Bobby Daniels;Male;Black;Douglasville;GA;Gunshot;Douglas County Sheriffs Office;Disputed;douglas
+?;Male;Black;Douglasville;GA;Gunshot;Douglas County Sheriffs Office;Disputed;douglas
 Chan Lieth;Male;Black;Denver;CO;Gunshot;Aurora Police Department;Vehicle;denver
 Charles Reynolds;Male;Unknown;Ludlow;KY;Gunshot;Ludlow Police Department;Firearm;kenton
-Derek DeGroat;Male;White;Waymart;PA;Gunshot;Pennsylvania State Police;Firearm;wayne
+Derek DeGroat;Male;White;?;PA;Gunshot;Pennsylvania State Police;Firearm;wayne
 Michael Hilber;Male;White;Brooksville;FL;Gunshot;Hernando County Sheriffs Office;Firearm;hernando
 Jose Rodriguez;Male;Hispanic/Latino;Albuquerque;NM;Gunshot;Albuquerque Police Department;Firearm;bernalillo
-Kenneth Stephens;Male;White;Burlington;VT;Gunshot;Vermont State Police Drug Enforcement Administration;Firearm;chittenden
+Kenneth Stephens;?;White;Burlington;VT;Gunshot;Vermont State Police Drug Enforcement Administration;?;chittenden
 Rashad Bugg-Bey;Male;Black;Washington;DC;Gunshot;Baltimore County Police Department;Knife;district of columbia
-Kevin Matthews;Male;Black;?;MI;Gunshot;Dearborn Police Department;No;wayne
+Kevin Matthews;Male;Black;Detroit;MI;Gunshot;Dearborn Police Department;No;wayne
 Brandon Barsnick;Male;White;Smartsville;CA;Gunshot;Unknown;Firearm;yuba
 Daquan Westbrook;Male;Black;Charlotte;NC;Gunshot;Charlotte-Mecklenburg Police Department;Firearm;mecklenburg
-Schuylar Gunning;Male;White;Winnsboro;LA;Gunshot;?;No;franklin
-Gregory Sanders;Male;Unknown;Pride;LA;Gunshot;?;Firearm;east baton rouge
-Omar Ventura;Male;Hispanic/Latino;Porterville;CA;Gunshot;?;Knife;tulare
+Schuylar Gunning;Male;White;Winnsboro;LA;Gunshot;Franklin Parish Sheriffs Office;No;franklin
+Gregory Sanders;Male;Unknown;Pride;LA;Gunshot;East Baton Rouge Sheriffs Office;Firearm;east baton rouge
+Omar Ventura;Male;Hispanic/Latino;Porterville;CA;Gunshot;Porterville Police Department;Knife;tulare
 Terrozza Griffin;Male;Black;Lansing;MI;Gunshot;Lansing Police Department;Firearm;ingham
 William Raff;Male;White;Palo Alto;CA;Gunshot;Palo Alto Police Department;Knife;san mateo
 Bettie Jones;Female;Black;Chicago;IL;Gunshot;Chicago Police Department;No;cook
-Quintonio LeGrier;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Other;cook
+Quintonio LeGrier;Male;Black;?;IL;Gunshot;Chicago Police Department;Other;cook
 Lonnie Niesen;Male;White;Phoenix;AZ;Gunshot;Phoenix Police Department;Other;maricopa
 Michael Parker;Male;White;Lucedale;MS;Gunshot;George County Sheriffs Office;Unknown;george
-Sean Mould;Male;White;Tempe;AZ;Gunshot;Tempe Police Dpeartment;Knife;maricopa
+Sean Mould;Male;White;?;AZ;Gunshot;Tempe Police Dpeartment;Knife;maricopa
 Corey Achstein;Male;White;Suffolk;VA;Gunshot;Suffolk Police Department;Non-lethal firearm;suffolk
 Brian Crawford;Male;Black;Houston;TX;Gunshot;Houston Police Department;Firearm;harris
 Jason Foreman;Male;Unknown;Winder;GA;Gunshot;Hall County Sheriffs Department;Firearm;barrow
@@ -1061,14 +1061,14 @@ Shun Ma;Male;Unknown;Seattle;WA;Death in custody;Seattle Police Department;No;ki
 Paul Testa;Male;White;Jacksonville;FL;Taser;Jacksonville Sheriffs Office;No;duval
 Tien Hua;Male;Asian/Pacific Islander;Rosemead;CA;Gunshot;Los Angeles Police Department;Unknown;los angeles
 Fred Perez;Male;Hispanic/Latino;Fresno;CA;Gunshot;Fresno Police Department;Knife;fresno
-Jose Mercado-Nova;?;Hispanic/Latino;Greeley;CO;Struck by vehicle;Weld County Sheriffs Office;No;weld
-Keith Childress Jr;?;Black;Las Vegas;NV;Gunshot;Las Vegas Metropolitan Police Department;No;clark
-John Veach;?;White;Rawlins;WY;Gunshot;Rawlins Police Department;Unknown;carbon
-Eugene McSwain;Male;Black;Chicago;?;Gunshot;Chicago Police Department;Firearm;cook
+Jose Mercado-Nova;Male;Hispanic/Latino;Greeley;CO;Struck by vehicle;Weld County Sheriffs Office;No;weld
+Keith Childress Jr;Male;Black;Las Vegas;NV;Gunshot;Las Vegas Metropolitan Police Department;No;clark
+John Veach;Male;White;Rawlins;WY;Gunshot;Rawlins Police Department;Unknown;carbon
+Eugene McSwain;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Firearm;cook
 Gilbert Heredia;Male;Hispanic/Latino;Homedale;ID;Gunshot;Homedale Police Department Owyhee County Sheriffs Office;Firearm;canyon
 Raymone Davis;Male;Black;Pittsburgh;PA;Gunshot;Pittsburgh Bureau of Police;Firearm;allegheny
 Lionel Waters;Male;Black;Harrington;DE;Taser;Delaware State Police;Firearm;kent
-Larry Maharrey;Male;White;Bakersfield;CA;Struck by vehicle;Kern County Sheriffs Office;No;kern
+Larry Maharrey;Male;?;Bakersfield;CA;?;Kern County Sheriffs Office;No;kern
 Dana Ott;Male;White;Colorado Springs;CO;Gunshot;Colorado Springs Police Department;Non-lethal firearm;el paso
 Cameron Long;Male;White;Centerville;TX;Gunshot;Leon County Sheriffs Office Texas Department of Public Safety;Vehicle;leon
 Fernando Sauceda;Male;Hispanic/Latino;Wink;TX;Gunshot;Jal Police Department;Unknown;winkler
@@ -1082,9 +1082,9 @@ Anthony Marino;Male;White;Victorville;CA;Death in custody;Victor Valley College 
 Joseph Seguin;Male;White;Mahopac;NY;Taser;Carmel Police Department;No;putnam
 Joshua Sisson;Male;White;San Diego;CA;Gunshot;San Diego Police Department;Knife;san diego
 Germonta Wallace;Male;Black;Charlotte;NC;Gunshot;Charlotte-Mecklenburg Police Department;Firearm;mecklenburg
-Sean OBrien;Male;White;Livingston;MT;Gunshot;Livingston Police Department;Knife;park
+?;Male;White;Livingston;MT;Gunshot;Livingston Police Department;Knife;park
 Rodney Turner;Male;Black;Oklahoma City;OK;Gunshot;Oklahoma City Police Department;Firearm;oklahoma
-Eric Senegal;Male;Black;Ragley;?;Gunshot;Beauregard Parish Sheriffs Office;Unknown;beauregard
+Eric Senegal;Male;Black;Ragley;LA;Gunshot;Beauregard Parish Sheriffs Office;Unknown;beauregard
 David Zollo;Male;White;Clifton Heights;PA;Gunshot;Upper Darby Police Department;Knife;delaware
 Joel Nelson;Male;White;Olympia;WA;Gunshot;Thurston County Sheriffs Office;No;thurston
 Stephen Bukwich;Male;White;Redding;CA;Gunshot;Redding Police Department;Firearm;shasta
@@ -1095,14 +1095,14 @@ Alan Franco-Armenta;Male;Hispanic/Latino;Carrizozo;NM;Gunshot;New Mexico State P
 Kenneth Clay;Male;White;Owensboro;KY;Gunshot;Owensboro Police Department;Firearm;daviess
 David Kent;Male;White;Kelso;WA;Gunshot;Cowlitz County Sheriffs Office Kelso Police Department;Other;cowlitz
 Christine Lucas;Female;White;Rising Sun;MD;Gunshot;Maryland State Police;Non-lethal firearm;chester
-Andrew Abernathy;?;White;Acworth;GA;Gunshot;Bartow County Sheriffs Office;Firearm;bartow
-Eric Olsen;?;White;Lake Geneva;WI;Gunshot;Town of Geneva Police Department;Knife;walworth
-Robert Tenbrink;?;White;Cincinnati;OH;Gunshot;Cincinnati Police Department;Non-lethal firearm;hamilton
-Ramone Lonergan;?;White;Denver;CO;Gunshot;Denver Police Department;Firearm;denver
+Andrew Abernathy;Male;White;Acworth;GA;Gunshot;Bartow County Sheriffs Office;Firearm;bartow
+Eric Olsen;Male;White;Lake Geneva;WI;Gunshot;Town of Geneva Police Department;Knife;walworth
+Robert Tenbrink;Male;White;Cincinnati;OH;Gunshot;Cincinnati Police Department;Non-lethal firearm;hamilton
+Ramone Lonergan;Male;White;Denver;CO;Gunshot;Denver Police Department;Firearm;denver
 Alan Bartley;Male;White;San Fernando;CA;Gunshot;San Fernando Police Department;No;los angeles
 Ciara Meyer;Female;White;Duncannon;PA;Gunshot;Pennsylvania state constable;No;perry
 Herman Bean Jr;Male;Native American;Anchorage;AK;Gunshot;Anchorage Police Department;Knife;anchorage
-Keith Richardson;Male;White;Norfolk;VA;Gunshot;Norfolk Police Department;Firearm;norfolk
+Keith Richardson;?;White;Norfolk;VA;Gunshot;Norfolk Police Department;Firearm;norfolk
 Timothy Meehan;Male;White;Cle Elum;WA;Gunshot;Cle Elum-Roslyn-South Cle Elum Police Department;Firearm;kittitas
 Miguel Hernandez;Male;Hispanic/Latino;Santa Clarita;CA;Gunshot;Los Angeles County Sheriffs Department;Knife;los angeles
 Kelsey Hauser;Female;White;El Cajon;CA;Gunshot;El Cajon Police Department;No;san diego
@@ -1116,19 +1116,19 @@ Joshua Fielding;Male;White;Rainbow City;AL;Gunshot;Rainbow City Police Departmen
 Crayton West;Male;Black;St Louis;MO;Gunshot;St Louis Metropolitan Police Department;Firearm;st louis
 Ashton Morris;Male;White;San Antonio;TX;Gunshot;San Antonio Police Department;Firearm;bexar
 Jordan Szymanski;Male;White;Tucson;AZ;Gunshot;Tucson Police Department;Firearm;pima
-Clarence Layfield Jr;Male;White;Petroleum;WV;Gunshot;West Virginia State Police;?;ritchie
-Cory Henderson;Male;White;Holladay;UT;Gunshot;Unified Police Department;?;salt lake
-Daniel Shaver;Male;White;Mesa;AZ;Gunshot;Mesa Police Department;?;maricopa
-Vasilios Katsouras;Male;White;Union City;CA;Gunshot;Union City Police Department;Other;alameda
+Clarence Layfield Jr;Male;White;Petroleum;WV;Gunshot;West Virginia State Police;Vehicle;ritchie
+Cory Henderson;Male;White;Holladay;UT;Gunshot;Unified Police Department;Firearm;salt lake
+Daniel Shaver;Male;White;Mesa;AZ;Gunshot;Mesa Police Department;No;maricopa
+Vasilios Katsouras;?;White;Union City;CA;Gunshot;Union City Police Department;Other;alameda
 Levi Wilson;Male;White;Phoenix;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
 Samuel Grady;Male;White;Statesville;NC;Gunshot;Iredell County Sheriffs Office;Knife;iredell
 Gary Jones;Male;White;Dallas;TX;Gunshot;Forney Police Department Mesquite Police Department;Firearm;dallas
 Eric Provost;Male;White;Orlando;FL;Gunshot;Orlando Police Department;Non-lethal firearm;orange
-Brandon Bearden;Male;White;Sevierville;TN;Gunshot;Sevier County Sheriffs Office;Firearm;sevier
+Brandon Bearden;Male;White;Sevierville;?;Gunshot;Sevier County Sheriffs Office;Firearm;sevier
 Jim Redmond;Male;White;Valdosta;GA;Gunshot;Lowndes County Sheriff_s Office;Firearm;lowndes
 Randy Sanders Jr;Male;White;Meridianville;AL;Gunshot;Madison County Sheriffs Office;Firearm;madison
 Michael Lynch;Male;White;Harper;TX;Gunshot;Kerrville Police Department;Knife;gillespie
-Rakeem Bentley;Male;Black;Southfield;MI;Gunshot;Michigan State Police FBI;Firearm;oakland
+Rakeem Bentley;Male;Black;Southfield;MI;?;Michigan State Police FBI;Firearm;oakland
 Cedric Norris;Male;Black;Eufaula;OK;Gunshot;Eufaula Police Department McIntosh County Sheriffs Office Oklahoma Highway Patrol;Firearm;mcintosh
 Lance Light;Male;White;Sweetwater;TX;Gunshot;Sweetwater Police Department;Firearm;nolan
 Lonnie Powers Jr;Male;White;Sioux Falls;SD;Gunshot;United States Marshal Service;Firearm;minnehaha
@@ -1137,13 +1137,13 @@ Sharon Mitterling;Female;White;Warsaw;IN;Struck by vehicle;Winona Lake Police De
 Michael Robinson;Male;White;Clanton;AL;Gunshot;Clanton Police Department Chilton County Sheriffs Office;Non-lethal firearm;chilton
 Sergio Alvarado-Morales;Male;Hispanic/Latino;Reno;NV;Gunshot;Reno Police Department;Knife;washoe
 Filberto Valencia;Male;Hispanic/Latino;Stockton;CA;Death in custody;Stockton Police Department;No;san joaquin
-Robert LaVoy Finicum;Male;?;Burns;OR;Gunshot;Oregon State Police FBI;Firearm;harney
-Janet Wilson;Female;?;Dearborn;MI;Gunshot;Dearborn Police Department;Vehicle;wayne
-Jonathan Bratcher;Male;?;Memphis;TN;Gunshot;Memphis Police Department;Firearm;shelby
-Nathan Bailey;Male;White;Alvarado;TX;Gunshot;Johnson County Sheriffs Office Texas Department of Public Safety;Firearm;johnson
+Robert LaVoy Finicum;Male;White;Burns;OR;Gunshot;Oregon State Police FBI;Firearm;harney
+Janet Wilson;Female;Black;Dearborn;MI;Gunshot;Dearborn Police Department;Vehicle;wayne
+Jonathan Bratcher;Male;Black;Memphis;TN;Gunshot;Memphis Police Department;Firearm;shelby
+Nathan Bailey;Male;White;Alvarado;TX;Gunshot;Johnson County Sheriffs Office Texas Department of Public Safety;?;johnson
 Scott Scanlon;Male;White;Jessieville;AR;Gunshot;Mountain Pine Police Department;Firearm;garland
 John Smith;Male;White;Latta;SC;Gunshot;Dillon County Sheriffs Department;Knife;dillon
-Herman Flores;Male;Hispanic/Latino;Santa Fe;NM;Gunshot;Santa Fe Police Department;Firearm;santa fe
+Herman Flores;Male;Hispanic/Latino;Santa Fe;?;Gunshot;Santa Fe Police Department;Firearm;santa fe
 Thongsavanh Vandarack;Male;Asian/Pacific Islander;Lenoir City;TN;Gunshot;Loudon County Sheriffs Office;Non-lethal firearm;loudon
 William Adams;Male;White;Omaha;NE;Gunshot;Omaha Police Department;Firearm;douglas
 Jacqueline Salyers;Female;Native American;Tacoma;WA;Gunshot;Tacoma Police Department;Vehicle;pierce
@@ -1152,12 +1152,12 @@ Christopher Dew;Male;Black;Irving;TX;Gunshot;Irving Police Department;Firearm;da
 Philip Salazar;Male;Hispanic/Latino;Fort Collins;CO;Gunshot;Larimer County Sheriffs Office;Other;larimer
 Jose Alegre;Male;Hispanic/Latino;Rossville;GA;Gunshot;Walker County Sheriffs Office Catoosa County Sheriffs Office;Firearm;hamilton
 Michael Brown;Male;White;Saginaw;TX;Gunshot;Saginaw Police Department;No;tarrant
-Bruce Kelley Jr;Male;Black;Pittsburgh;PA;Gunshot;Port Authority Police Department;Knife;allegheny
+Bruce Kelley Jr;Male;Black;Pittsburgh;PA;Gunshot;?;Knife;allegheny
 Charles Smith;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Firearm;cook
 Peter John;Male;Black;Washington;DC;Gunshot;Washington Metropolitan Police Department;Non-lethal firearm;district of columbia
 Jeremy Sinclair;Male;White;Sugar Creek;MO;Gunshot;Missouri State Highway Patrol Jackson County Sheriffs Office;Firearm;jackson
 Juan Ruiz;Male;Hispanic/Latino;Immokalee;FL;Gunshot;Collier County Sheriffs Office;Knife;collier
-Jeffry Graves;Male;White;Newark;CA;Gunshot;Newark Police Department;Firearm;alameda
+Jeffry Graves;Male;White;Newark;CA;Gunshot;Newark Police Department;Firearm;?
 Edgar Alvarado;Male;Hispanic/Latino;Albuquerque;NM;Gunshot;Albuquerque Police Department Bernalillo County Sheriff_s Department;Firearm;bernalillo
 Justin Prescott;Male;White;Rancho Cordova;CA;Gunshot;Rancho Cordova Police Department;Knife;sacramento
 John Neuman;Male;White;Okmulgee County;OK;Gunshot;Okmulgee County Sheriffs Office;Firearm;okmulgee
@@ -1173,31 +1173,31 @@ Joshua Bispo;Male;White;Bakersfield;CA;Gunshot;California Highway Patrol;Firearm
 Blake Fitzgerald;Male;White;Milton;FL;Gunshot;Escambia County Sheriffs Office;Firearm;santa rosa
 Hector Leroy;Male;Hispanic/Latino;El Paso;TX;Gunshot;US Border Patrol;Firearm;juarez chihuahua
 Phillip Ferry;Male;White;Seaside;OR;Gunshot;Seaside Police Department;Firearm;clatsop
-Michael Laniado;Male;White;Manchester Township;NJ;Gunshot;Unknown;Knife;ocean
+?;Male;White;Manchester Township;NJ;Gunshot;Unknown;Knife;ocean
 Jose Mendez;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles Police Department;Firearm;los angeles
 Marese Collins;Male;Black;Columbus;OH;Gunshot;Columbus Division of Police;Firearm;franklin
-Shalamar Longer;Male;Black;Chester;PA;Gunshot;Chester Police Department;Firearm;delaware
+Shalamar Longer;Male;Black;Chester;PA;Gunshot;Chester Police Department;Firearm;?
 David Joseph;Male;Black;Austin;TX;Gunshot;Austin Police Department;No;travis
 Vinson Strickland;Male;White;Union Grove;NC;Gunshot;Iredell County Sheriffs Office;Firearm;iredell
 Eric Harris;Male;Black;New Orleans;LA;Gunshot;Jefferson Parish Sheriffs Office;Vehicle;orleans
 Gustavo Najera;Male;Hispanic/Latino;Anaheim;CA;Gunshot;Anaheim Police Department;No;orange
 David Evans;Male;White;Abingdon;MD;Gunshot;Harford County Sheriff_s Office;Firearm;harford
-Timothy Vessels;Male;White;Louisville;KY;?;United States Marshals Service;Firearm;jefferson
-John Birkeland;Male;White;Roseville;MN;?;Roseville Police Department;Knife;ramsey
-Vincent Nageak III;Male;Native American;Barrow;AK;?;North Slope Borough Police Department;Firearm;north slope
-Matthew Quinn;Male;White;Lancaster;CA;?;Los Angeles County Sheriffs Department;Other;los angeles
+Timothy Vessels;Male;White;Louisville;KY;Gunshot;United States Marshals Service;Firearm;jefferson
+John Birkeland;Male;White;Roseville;MN;Gunshot;Roseville Police Department;Knife;ramsey
+Vincent Nageak III;Male;Native American;Barrow;AK;Gunshot;North Slope Borough Police Department;Firearm;north slope
+Matthew Quinn;Male;White;Lancaster;CA;Gunshot;Los Angeles County Sheriffs Department;Other;los angeles
 Mohamed Barry;Male;Black;Columbus;OH;Gunshot;Columbus Division of Police;Other;franklin
 Alijah Jackson;Male;White;Maiden;NC;Gunshot;Maiden Police Department;Knife;lincoln
 Peter Fanfan;Male;Black;Boston;MA;Gunshot;Boston Police Department;Firearm;suffolk
 Sahlah Ridgeway;Female;Black;Syracuse;NY;Gunshot;Syracuse Police Department;Firearm;onondaga
 David Watson;Male;White;Fort Worth;TX;Gunshot;Fort Worth Police Department;Firearm;tarrant
-Calin Roquemore;Male;Black;Beckville;TX;Gunshot;Texas Department of Public Safety;No;panola
+?;Male;Black;Beckville;TX;Gunshot;Texas Department of Public Safety;No;panola
 Calvin Smith;Male;Black;Baton Rouge;LA;Gunshot;Baton Rouge Police Department;Firearm;east baton rouge
 Dyzhawn Perkins;Male;Black;Arvonia;VA;Gunshot;Buckingham County Sheriffs Department;No;buckingham
-Ali Yahia;Male;?;Urbandale;IA;Gunshot;Urbandale Police Department;Firearm;polk
-Rammy Jaradat;Male;?;Los Angeles;CA;Gunshot;Los Angeles Police Department;Knife;los angeles
-Eduardo Rodriguez;Male;?;East Los Angeles;CA;Gunshot;Los Angeles County Sheriffs Department;Firearm;los angeles
-Marc Stoddart;Male;?;Bradenton;FL;Gunshot;Manatee County Sheriffs Office;Knife;manatee
+Ali Yahia;Male;Black;Urbandale;IA;Gunshot;Urbandale Police Department;Firearm;polk
+Rammy Jaradat;Male;Arab-American;Los Angeles;CA;Gunshot;Los Angeles Police Department;Knife;los angeles
+Eduardo Rodriguez;Male;Hispanic/Latino;East Los Angeles;CA;Gunshot;Los Angeles County Sheriffs Department;Firearm;los angeles
+?;Male;White;Bradenton;FL;Gunshot;Manatee County Sheriffs Office;Knife;manatee
 Brandon Witt;Male;White;Yorba Linda;CA;Gunshot;Orange County Sheriffs Department;Unknown;orange
 Christopher Andrews;Male;White;Fairfield;CT;Gunshot;Fairfield Police Department;Knife;fairfield
 Destry Meikle;Male;White;Republic;MO;Gunshot;Republic Police Department;Vehicle;greene
@@ -1207,30 +1207,30 @@ Talmadge King;Male;White;Jacksonville;FL;Gunshot;Department of Homeland Security
 Paul Gaston;Male;Black;Cheviot;OH;Gunshot;Cincinnati Police Department;Non-lethal firearm;hamilton
 Joseph Noel;Male;White;Commerce;GA;Gunshot;Commerce Police Department;Unknown;jackson
 Oscar Reyes;Male;Hispanic/Latino;Santa Ana;CA;Gunshot;Santa Ana Police Department;Unknown;orange
-Jose Quintanilla;Male;Hispanic/Latino;Santa Ana;CA;?;Santa Ana Police Department;Unknown;orange
-Ronnie Padron;Male;Hispanic/Latino;Reno;TX;?;Parker County Sheriffs Office;Firearm;parker
-Justin Moses;Male;White;Ogden;UT;?;Ogden Police Department;Knife;weber
+Jose Quintanilla;Male;Hispanic/Latino;Santa Ana;CA;Gunshot;Santa Ana Police Department;Unknown;orange
+Ronnie Padron;Male;Hispanic/Latino;Reno;TX;Gunshot;Parker County Sheriffs Office;Firearm;parker
+Justin Moses;Male;White;Ogden;UT;Gunshot;Ogden Police Department;Knife;weber
 Marcos Perea;Male;Hispanic/Latino;Lakewood;WA;Gunshot;Lakewood Police Department Pierce County Sheriffs Department Steilacoom Department of Public Safety;Firearm;pierce
 Charles Lambert;Male;White;Iuka;MS;Gunshot;Mississippi Bureau of Narcotics Mississippi Highway Patrol;Firearm;tishomingo
 Edgar Camacho-Alvarado;Male;Hispanic/Latino;Albuquerque;NM;Gunshot;United States Marshals Service;Firearm;bernalillo
 Danny Rendon;Male;Hispanic/Latino;Anaheim;CA;Gunshot;Anaheim Police Department;Firearm;orange
-Kisha Michael;Female;Black;Inglewood;CA;Gunshot;Inglewood Police Department;Firearm;los angeles
+Kisha Michael;Female;Black;Inglewood;CA;Gunshot;Inglewood Police Department;?;los angeles
 Marquintan Sandlin;Male;Black;Inglewood;CA;Gunshot;Inglewood Police Department;Unknown;los angeles
 Che Taylor;Male;Black;Seattle;WA;Gunshot;Seattle Police Department;Firearm;king
 Sherrisa Homer;Female;Native American;Phoenix;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
 Patricia Kruger;Female;Native American;Houston;AK;Gunshot;Alaska Department of Public Safety;Firearm;matanuska susitna
-Jamie Long;Male;White;Bakersfield;CA;?;Bakersfield Police Department;Knife;kern
-David Green;Male;White;Mission;TX;?;Mission Police Department;Vehicle;hidalgo
-Gerardino Cayetano-Gonzalez;Male;Hispanic/Latino;Denver;CO;?;Denver Police Department;Firearm;denver
-Rouven Loch;Male;White;Fairborn;OH;Gunshot;Fairborn Police Department;Non-lethal firearm;greene
+Jamie Long;Male;White;Bakersfield;CA;Gunshot;Bakersfield Police Department;Knife;kern
+David Green;Male;White;Mission;TX;Gunshot;Mission Police Department;Vehicle;hidalgo
+Gerardino Cayetano-Gonzalez;Male;Hispanic/Latino;Denver;CO;Gunshot;Denver Police Department;Firearm;denver
+Rouven Loch;Male;White;Fairborn;OH;?;Fairborn Police Department;Non-lethal firearm;greene
 Baltazar Ramos;Male;Hispanic/Latino;Houston;TX;Gunshot;Harris County Constables Office;Other;harris
 Curtis Dugger;Male;White;Elizabethton;TN;Gunshot;Elizabethton Police Department;Firearm;carter
 Alex Buckner;Male;Asian/Pacific Islander;Glendale;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
 Angel Gleason;Male;White;Ripon;CA;Gunshot;Manteca Police Department Stockton Police Department;Firearm;san joaquin
 Travis Stevenson;Male;Black;Baton Rouge;LA;Gunshot;East Baton Rouge Parish Sheriffs Office;Vehicle;east baton rouge
 Robert Keil;Male;White;Blue Springs;MO;Gunshot;Blue Springs Police Department;Knife;jackson
-Martin Wirth;Male;White;Bailey;CO;Gunshot;Park County Sheriffs Office;?;park
-Victor Rivera;Male;Hispanic/Latino;Phoenix;AZ;Gunshot;Phoenix Police Department;?;maricopa
+Martin Wirth;Male;White;Bailey;CO;Gunshot;Park County Sheriffs Office;Firearm;park
+Victor Rivera;Male;Hispanic/Latino;Phoenix;AZ;Gunshot;Phoenix Police Department;Vehicle;maricopa
 Francisco Garcia;Male;Hispanic/Latino;Norwalk;CA;Gunshot;Los Angeles County Sheriffs Department;Vehicle;los angeles
 Luke Miller;Male;White;Evans;CO;Gunshot;Greeley Police Department LaSalle Police Department;Firearm;weld
 Greg Gunn;Male;Black;Montgomery;AL;Gunshot;Montgomery Police Department;Disputed;montgomery
@@ -1243,7 +1243,7 @@ Earl Hicks II;Male;White;Rapid City;SD;Gunshot;Rapid City Police Department;Fire
 Akiel Denkins;Male;Black;Raleigh;NC;Gunshot;Raleigh Police Department;Firearm;wake
 Dimitri Corcino;Male;Hispanic/Latino;Palm Bay;FL;Gunshot;Palm Bay Police Department;Firearm;brevard
 Jorge Gonzalez;Male;Hispanic/Latino;Euless;TX;Gunshot;Euless Police Department;Firearm;tarrant
-Mickey Sweatt;Male;White;Gautier;?;Gunshot;Gautier Police Department;Firearm;jackson
+Mickey Sweatt;Male;White;Gautier;MS;Gunshot;Gautier Police Department;Firearm;jackson
 Travis Bradley;Male;White;Bel Air;MD;Gunshot;Harford County Sheriffs Office;No;harford
 Sergio Ochoa;Male;Hispanic/Latino;Gilbert;AZ;Gunshot;Mesa Police Department;Knife;maricopa
 Christopher Kalonji;Male;Black;Oak Grove;OR;Gunshot;Clackamas County Sheriffs Office;Firearm;clackamas
@@ -1270,7 +1270,7 @@ Tyre Privott;Male;Black;Norfolk;VA;Gunshot;Norfolk Police Department;Firearm;nor
 Manford Butch Moore Jr;Male;White;Rosalia;KS;Gunshot;Butler County Sheriffs Office;Firearm;butler
 Teodoro Valencia;Male;Hispanic/Latino;Newark;CA;Gunshot;Newark (CA) Police Department;Firearm;alameda
 Peter Gaines;Male;Black;Houston;TX;Gunshot;Houston Police Department;No;harris
-Keith Montgomery Jr;Male;Black;Chester;PA;Gunshot;Chester Police Department;Firearm;delaware
+Keith Montgomery Jr;Male;Black;Chester;PA;Gunshot;Chester Police Department;?;delaware
 Marco Loud;Male;Black;Houston;TX;Gunshot;Harris County Sheriffs Office;No;harris
 Wesley Chad Deerman;Male;White;Piedmont;AL;Gunshot;Piedmont Police Department;Firearm;calhoun
 Gevork Alachadzhyan;Male;White;Glendale;CA;Gunshot;West Covina Police Department;Unknown;los angeles
@@ -1280,7 +1280,7 @@ Jose Cruz;Male;Hispanic/Latino;Addison;TX;Gunshot;Farmers Branch Police Departme
 Jacai Colson;Male;Black;Landover;MD;Gunshot;Prince Georges County Police Department;Firearm;prince georges
 Lamar Harris;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Firearm;cook
 Joseph Harris;Male;White;Russellville;KY;Gunshot;Russellville Police Department;Firearm;logan
-Cristian Medina;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles County Sheriffs Department;No;los angeles
+Cristian Medina;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles County Sheriffs Department;No;?
 Vincent Avila;Male;Hispanic/Latino;Apple Valley;CA;Gunshot;Fontana Police Department;Unknown;san bernardino
 Eric Hernandez;Male;Hispanic/Latino;San Antonio;TX;Gunshot;San Antonio Police Department;Firearm;bexar
 Dennis Penny;Male;White;Rockingham;NC;Gunshot;Anson County Sheriffs Office;Firearm;richmond
@@ -1290,11 +1290,11 @@ Carlton Murphy Jr;Male;Black;Charlotte;NC;Gunshot;Charlotte-Mecklenburg Police D
 Michael Mallett;Male;Unknown;Byron;CA;Gunshot;Contra Costa County Sheriffs Office;Firearm;contra costa
 India Beaty;Female;Black;Norfolk;VA;Gunshot;Norfolk Police Department;Non-lethal firearm;norfolk
 Thurman Reynolds;Male;Black;Park Forest;IL;Gunshot;Park Forest Police Department;Firearm;cook
-Dylan Whitaker;?;White;Nortonville;KY;Gunshot;Kentucky State Police;Firearm;hopkins
-Joshua Douglas;?;White;Covington;LA;Gunshot;St Tammany Parish Sheriffs Office;No;st tammany
-Boyd Ballard;Male;White;Hopewell;VA;Gunshot;Hopewell Police Department;Knife;hopewell
+Dylan Whitaker;Male;White;Nortonville;KY;Gunshot;Kentucky State Police;Firearm;hopkins
+Joshua Douglas;Male;White;Covington;LA;Gunshot;St Tammany Parish Sheriffs Office;No;st tammany
+Boyd Ballard;Male;White;Hopewell;VA;Gunshot;?;Knife;hopewell
 Abraham Martinez;Male;Hispanic/Latino;Fort Wayne;IN;Gunshot;Fort Wayne Police Department Indiana State Police;Firearm;allen
-Robert Dentmond;Male;Black;Gainesville;FL;Gunshot;Alachua County Sheriffs Office Gainesville Police Department;Non-lethal firearm;alachua
+Robert Dentmond;Male;Black;?;FL;Gunshot;Alachua County Sheriffs Office Gainesville Police Department;Non-lethal firearm;alachua
 Clarence Briggs;Male;White;Fort Littleton;PA;Gunshot;Pennsylvania State Police;Firearm;fulton
 Ralph Phil Grenon;Male;White;Burlington;VT;Gunshot;Burlington Police Department;Knife;chittenden
 Edward Gorinski;Male;White;Greensburg;PA;Gunshot;Pennsylvania State Police;Firearm;westmoreland
@@ -1317,19 +1317,19 @@ Robert Guerin;Male;White;Roswell;NM;Gunshot;Roswell Police Department;Firearm;ch
 Deriante Miller;Male;Black;Kinston;NC;Gunshot;North Carolina State Highway Patrol;Firearm;lenoir
 Loreal Tsingine;Female;Native American;Winslow;AZ;Gunshot;Winslow Police Department;Other;navajo
 Jeffrey Lanahan;Male;White;Lees Summit;MO;Gunshot;Lees Summit Police Department;Knife;jackson
-Joseph Melvin;Male;White;Clearlake;CA;Gunshot;Clearlake Police Department;Other;lake
+Joseph Melvin;?;White;Clearlake;CA;Gunshot;Clearlake Police Department;Other;lake
 Robert Garrison Jr;Male;White;Piedmont;SC;Gunshot;Greenville County Sheriffs Office;Firearm;greenville
 Denise Fairchild;Female;White;Aitkin;MN;Gunshot;Aitkin County Sheriffs Office;Firearm;aitkin
 Angel Montion;Male;Hispanic/Latino;East Los Angeles;CA;Gunshot;Los Angeles County Sheriffs Department;Firearm;los angeles
 James Brown III;Male;Black;Richmond;VA;Gunshot;Virginia State Police;Firearm;richmond
-Matthew Wood Jr;Male;Black;Baltimore;MD;Gunshot;Baltimore Police Department;Firearm;baltimore
+Matthew Wood Jr;?;Black;Baltimore;MD;Gunshot;Baltimore Police Department;Firearm;baltimore
 Kimani Johnson;Male;Black;Baltimore;MD;Gunshot;Baltimore Police Department;Firearm;baltimore
 Jesse Juarez;Male;Hispanic/Latino;Lockhart;TX;Gunshot;Caldwell County Sheriff_s Office;Other;caldwell
 Joel Fabela;Male;Hispanic/Latino;Odessa;TX;Gunshot;Odessa Police Department;Firearm;ector
-Cameron Glover;Male;Black;Indianapolis;IN;Gunshot;Indianapolis Metropolitan Police Department;Firearm;marion
+Cameron Glover;Male;Black;Indianapolis;?;Gunshot;Indianapolis Metropolitan Police Department;Firearm;marion
 David Mack;Male;White;Eau Claire;WI;Gunshot;Eau Claire County Sheriffs Office;Other;eau claire
-Darrin Martin;Male;White;Austin;TX;Gunshot;?;Firearm;travis
-Melissa Boarts;Female;White;Notasulga;AL;Gunshot;?;Knife;macon
+Darrin Martin;Male;White;Austin;TX;Gunshot;Austin Police Department;Firearm;travis
+Melissa Boarts;Female;White;Notasulga;AL;Gunshot;Auburn Police Department;Knife;macon
 Raul Marquez-Heraldes;Male;Hispanic/Latino;Minneapolis;MN;Gunshot;Minneapolis Police Department;Knife;hennepin
 Kevin Hicks;Male;Black;Indianapolis;IN;Gunshot;Indianapolis Metropolitan Police Department;No;marion
 Peter Doherty;Male;White;West Springfield;MA;Gunshot;West Springfield Police Department;Knife;hampden
@@ -1343,7 +1343,7 @@ Christopher Wilson;Male;White;Gould;AR;Gunshot;Arkansas Department of Correction
 Dazion Jerome Flenaugh;Male;Black;Sacramento;CA;Gunshot;Sacramento Police Department;Knife;sacramento
 Lamont Gulley;Male;Black;Kentwood;MI;Gunshot;Kentwood Police Department;Knife;kent
 Melissa Abbott;Female;White;Lake Hallie;WI;Gunshot;Lake Hallie Police Department;Other;chippewa
-Diahlo Grant;Male;Black;New Brunswick;NJ;Gunshot;Franklin Township Police Department;?;somerset
+Diahlo Grant;Male;Black;New Brunswick;NJ;Gunshot;Franklin Township Police Department;Firearm;somerset
 Lonnie Ball;Male;White;Modesto;CA;Gunshot;Modesto Police Department;Firearm;stanislaus
 Arturo Yobani-Torrez Valdez;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles Police Department;Knife;los angeles
 Quron Williams;Male;Black;Philadelphia;PA;Gunshot;Philadelphia Police Department;Firearm;philadelphia
@@ -1352,22 +1352,22 @@ Pierre Loury;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Firearm;coo
 Efren Trujillo-Soriano;Male;Hispanic/Latino;Las Vegas;NV;Gunshot;Las Vegas Metropolitan Police Department;Firearm;clark
 Dion Damon;Male;White;Denver;CO;Gunshot;Denver Police Department;No;denver
 Rodney Watts;Male;Black;Stockton;CA;Gunshot;Stockton Police Department;Unknown;san joaquin
-Joshua Moreno;Male;Hispanic/Latino;Benton;IL;Gunshot;Franklin County Sheriffs Department;Firearm;franklin
+Joshua Moreno;Male;Hispanic/Latino;Benton;IL;Gunshot;Franklin County Sheriffs Department;Firearm;?
 Jeffrey Wise;Male;White;Llano;TX;Gunshot;Texas Department of Public Safety Llano County Sheriffs Office;Firearm;llano
 Koltlee Whitson;Male;White;Sparta;TN;Gunshot;White County Sheriffs Office;Firearm;white
 Luis Soto;Male;Hispanic/Latino;Memphis;TN;Gunshot;Memphis Police Department;Firearm;shelby
-Jeff Robertson;Male;White;McPherson;KS;Gunshot;?;No;mcpherson
-Allen Storm Smith;Male;White;Muncie;IN;Gunshot;?;Unknown;delaware
-David Swatsky;Male;White;Cache;OK;Gunshot;?;Firearm;comanche
+Jeff Robertson;Male;White;McPherson;KS;Gunshot;McPherson County Sheriffs Department;No;mcpherson
+Allen Storm Smith;Male;White;Muncie;IN;Gunshot;Muncie Police Department;Unknown;delaware
+David Swatsky;Male;White;Cache;OK;Gunshot;Comanche County Sheriffs Office;Firearm;comanche
 Clemente Najera;Male;Hispanic/Latino;Lake Elsinore;CA;Gunshot;Lake Elsinore Police Department;Other;riverside
 Gerald Boyes;Male;White;Antioch;IL;Gunshot;Lake County Sheriffs Office McHenry County Sheriffs Office;Firearm;lake
 Kisha Arrone;Female;Black;Dayton;OH;Gunshot;Dayton Police Department;Firearm;montgomery
-George Tillman;Male;Black;South Ozone Park;NY;Gunshot;New York Police Department;Firearm;queens
+George Tillman;Male;Black;South Ozone Park;NY;?;New York Police Department;Firearm;queens
 Richard Bard Jr;Male;Black;Vineland;NJ;Gunshot;Vineland Police Department;Firearm;cumberland
 Edson Thevenin;Male;Black;Troy;NY;Gunshot;Troy Police Department;Vehicle;rensselaer
 Eric Wilson;Male;White;El Paso;TX;Gunshot;El Paso Police Department;No;el paso
 Jorevis Scruggs;Male;Black;St Louis;MO;Gunshot;St Louis Metropolitan Police Department;Firearm;st louis
-Sylasone Ackhavong;Male;?;Charlotte;NC;Gunshot;Charlotte-Mecklenburg Police Department;Firearm;mecklenburg
+Sylasone Ackhavong;Male;Asian/Pacific Islander;Charlotte;NC;Gunshot;Charlotte-Mecklenburg Police Department;Firearm;mecklenburg
 Rico Johnson;Male;Black;Greenbelt;MD;Gunshot;Greenbelt Police Department;Firearm;prince georges
 Demetrius Dorsey;Male;Black;Mableton;GA;Gunshot;Cobb County Police Department;Firearm;cobb
 Robert Howard;Male;Black;Baltimore;MD;Gunshot;Baltimore Police Department;Non-lethal firearm;baltimore
@@ -1379,20 +1379,20 @@ Christopher Tokazowski;Male;White;Greensboro;NC;Gunshot;Greensboro Police Depart
 Tyler Hunkin;Male;White;Austin;TX;Gunshot;Austin Police Department;Knife;travis
 Carl Baranishyn;Male;White;Berne;NY;Gunshot;New York State Police;Knife;albany
 Mitchell Oakley;Male;White;Chandler;AZ;Gunshot;Chandler Police Department;Firearm;maricopa
-Jakob Wagner;Male;White;Antigo;WI;Gunshot;Antigo Police Department;Firearm;langlade
+Jakob Wagner;Male;White;Antigo;WI;?;Antigo Police Department;Firearm;langlade
 Demarcus Semer;Male;Black;Fort Pierce;FL;Gunshot;Fort Pierce Police Department;No;st lucie
 Eric Wakup;Male;White;Norfolk;VA;Gunshot;Norfolk Police Department;Firearm;norfolk
 Bradford Macomber;Male;White;Gulfport;MS;Taser;Gulfport Police Department;No;harrison
 Kay Campbell;Female;White;East Flat Rock;NC;Gunshot;Henderson County Sheriffs Office;Firearm;henderson
 Jacquelyn Burke;Female;White;Albuquerque;NM;Gunshot;Bernalillo County Sheriffs Department;Firearm;bernalillo
-Joshua Brooks;Male;Black;?;VA;Gunshot;Chesapeake Police Department;Firearm;chesapeake
-Robin Barber;Male;White;?;CO;Gunshot;Lakewood Police Department;Firearm;jefferson
+Joshua Brooks;Male;Black;Chesapeake;VA;Gunshot;Chesapeake Police Department;Firearm;chesapeake
+Robin Barber;Male;White;Lakewood;CO;Gunshot;Lakewood Police Department;Firearm;jefferson
 Darrel Machemehl;Male;White;Kingsbury;TX;Gunshot;Seguin Police Department;Firearm;guadalupe
 Damon Blair;Male;White;Westminster;CO;Gunshot;Westminster Police Department;Firearm;jefferson
 Cin Mung;Male;Asian/Pacific Islander;Atlanta;GA;Gunshot;DeKalb County Police Department;Other;dekalb
-Kendar del Rosario;Male;Hispanic/Latino;Miami;FL;Gunshot;Miami Police Department;Knife;?
-Ashtian Barnes;Male;Black;Houston;TX;Gunshot;Harris County Constable Precinct 5;No;?
-Michael Kurtz;Male;White;Spokane;WA;Gunshot;Spokane Police Department;Knife;?
+Kendar del Rosario;Male;Hispanic/Latino;Miami;FL;Gunshot;Miami Police Department;Knife;miami dade
+Ashtian Barnes;Male;Black;Houston;TX;Gunshot;Harris County Constable Precinct 5;No;harris
+Michael Kurtz;Male;White;Spokane;WA;Gunshot;Spokane Police Department;Knife;spokane
 Lee Easter;Male;White;Boise;ID;Gunshot;Ada County Sheriffs Office;Firearm;ada
 Jeffrey Hobbs;Male;White;Jackson;MO;Gunshot;Missouri State Highway Patrol;No;cape girardeau
 Mark Bess;Male;White;Spanish Fork;UT;Gunshot;Utah County Sheriffs Office;Knife;utah
@@ -1415,9 +1415,9 @@ Corey DiGiovanni;Male;White;Gretna;LA;Gunshot;Gretna Police Department;Unknown;o
 Ronald Williams Jr;Male;Black;Weirton;WV;Gunshot;Weirton Police Department;Firearm;hancock
 Alton Witchard;Male;Black;St Petersburg;FL;Gunshot;Pinellas County Sheriffs Office;Firearm;pinellas
 Nathan Cates;Male;White;Lake Stevens;WA;Gunshot;Snohomish County Sheriffs Office Everett Police Department;Firearm;snohomish
-Lionel Gibson;Male;Black;Long Beach;CA;?;Long Beach Police Department;Non-lethal firearm;los angeles
-Jaffort Smith;Male;Black;St Paul;MN;?;Saint Paul Police Department;Firearm;ramsey
-Christian Bowman;Male;White;St Martin;MS;?;Jackson County Sheriffs Office;No;jackson
+Lionel Gibson;Male;Black;Long Beach;CA;Gunshot;Long Beach Police Department;Non-lethal firearm;los angeles
+Jaffort Smith;Male;Black;St Paul;MN;Gunshot;Saint Paul Police Department;Firearm;ramsey
+Christian Bowman;Male;White;St Martin;MS;Gunshot;Jackson County Sheriffs Office;No;jackson
 Michael Johnson;Male;White;Chicago;IL;Gunshot;Chicago Police Department;Firearm;cook
 Willie Tillman;Male;Black;Fayetteville;AR;Gunshot;Fayetteville Police Department;No;washington
 Derek Sam;Male;White;Presque Isle;ME;Gunshot;Presque Isle Police Department;Knife;aroostook
@@ -1425,11 +1425,11 @@ Jamie Stotts;Male;White;Nacogdoches;TX;Gunshot;Nacogdoches County Sheriffs Offic
 Stephen Schuster;Male;White;Aurora;CO;Gunshot;Aurora Police Department;Firearm;arapahoe
 Arthur DaRosa;Male;Black;Taunton;MA;Gunshot;Plymouth County Sheriffs Department;Knife;bristol
 Stephen Godfrey;Male;White;Byng;OK;Gunshot;Pontotoc County Sheriffs Office;Firearm;pontotoc
-Ryan Johnson;Male;White;Stockbridge;GA;Gunshot;?;Unknown;henry
-Francis Clark;Male;Native American;Phoenix;AZ;Gunshot;?;Firearm;maricopa
-James Simpson;Male;Black;Las Vegas;NV;Gunshot;?;Firearm;clark
-Michael Gaffney;Male;White;Union;NJ;Gunshot;?;Unknown;union
-Cody Marsh;Male;White;Jacksonville;FL;Gunshot;?;Knife;duval
+Ryan Johnson;Male;White;Stockbridge;GA;Gunshot;Henry County Police Department;Unknown;henry
+Francis Clark;Male;Native American;Phoenix;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
+James Simpson;Male;Black;Las Vegas;NV;Gunshot;Las Vegas Metropolitan Police Department;Firearm;clark
+Michael Gaffney;Male;White;Union;NJ;Gunshot;Newark Police Department;Unknown;union
+Cody Marsh;Male;White;Jacksonville;FL;Gunshot;Jacksonville Sheriffs Office;Knife;duval
 Scott Macomber;Male;White;Fall River;MA;Taser;Fall River Police Department;No;bristol
 Jabril Robinson;Male;Black;Riverdale;GA;Gunshot;Clayton County Police Department;Firearm;clayton
 Garry Conrad;Male;White;New York;NY;Gunshot;New York City Police Department;Knife;new york
@@ -1449,7 +1449,7 @@ Jorge Zambrano;Male;Hispanic/Latino;Oxford;MA;Gunshot;Massachusetts State Police
 Bryson Fischer;Male;White;Boulder;CO;Gunshot;Boulder Police Department;Firearm;boulder
 Verl Bedonie;Male;Native American;Flagstaff;AZ;Gunshot;Flagstaff Police Department Northern Arizona University Police Department;Firearm;coconino
 Vernell Bing Jr;Male;Black;Jacksonville;FL;Gunshot;Jacksonville Sheriffs Office;No;duval
-Bodhi Phelps;Male;White;Gresham;OR;Gunshot;Gresham Police Department;Knife;multnomah
+?;Male;White;Gresham;OR;Gunshot;Gresham Police Department;Knife;multnomah
 Leslie Goletz;Male;Unknown;Peculiar;MO;Gunshot;Cass County Sheriff_s Office;Unknown;cass
 Mario Montoya;Male;Hispanic/Latino;Albuquerque;NM;Gunshot;US Marshals;Firearm;bernalillo
 Derek Prophet;Male;White;Oklahoma City;OK;Gunshot;Oklahoma City Police Department;Knife;oklahoma
@@ -1470,10 +1470,10 @@ Robert Wickizer;Male;White;Tualatin;OR;Gunshot;Tualatin Police Department Beaver
 Dennis Hudson;Male;Black;Eastaboga;AL;Gunshot;Lincoln Police Department;Unknown;calhoun
 Dionisio Garza III;Male;Hispanic/Latino;Houston;TX;Gunshot;Houston Police Department;Firearm;harris
 Donald Brown III;Male;White;DeLand;FL;Gunshot;Volusia County Sheriffs Office;Knife;volusia
-Doll Pierre-Louis;Male;Black;Miami Gardens;FL;Gunshot;Florida Highway Patrol;No;?
+Doll Pierre-Louis;Male;Black;Miami Gardens;FL;Gunshot;Florida Highway Patrol;No;miami dade
 Justin Addler;Male;White;Pendleton;IN;Death in custody;Indiana Department of Correction;Other;madison
 Robert Diaz;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles Police Department;Firearm;los angeles
-Alexander Larmon;Male;White;Okemah;OK;Struck by vehicle;Oklahoma Highway Patrol;No;okfuskee
+Alexander Larmon;?;White;Okemah;OK;Struck by vehicle;Oklahoma Highway Patrol;No;okfuskee
 Nicholas Berger;Male;White;Bend;OR;Gunshot;Oregon State Police;Knife;deschutes
 Unknown;Male;Unknown;Phoenix;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
 Ernesto Carraman;Male;Hispanic/Latino;San Antonio;TX;Death in custody;San Antonio Police Department;No;bexar
@@ -1492,13 +1492,13 @@ Jonathan Fowler;Male;White;College Park;GA;Struck by vehicle;Fulton County Sheri
 Willie Meek James;Male;Black;Norfolk;VA;Gunshot;Norfolk Police Department;Disputed;norfolk
 Rodney Smith;Male;Black;Charlotte;NC;Gunshot;Charlotte-Mecklenburg Police Department;Firearm;mecklenburg
 Daniel Shaham;Male;Unknown;Montague;CA;Gunshot;California Highway Patrol;Unknown;siskiyou
-Larry Stepp;Male;White;Muncie;IN;Gunshot;Muncie Police Department;Knife;delaware
+?;Male;White;Muncie;IN;Gunshot;Muncie Police Department;Knife;delaware
 Joshua Smith;Male;White;Palmer;AK;Gunshot;Alaska State Troopers;Knife;matanuska susitna
-Christopher Moran;Male;White;Cape Coral;FL;Gunshot;Cape Coral Police Department;Unknown;lee
-Demarco Rhymes;?;Black;Eufaula;AL;Gunshot;Eufaula Police Department;Firearm;barbour
-Nancy Friedrich;?;White;Fort Worth;TX;Taser;Tarrant County Sheriffs Department;Other;tarrant
-Kalyp Rapoza;?;Asian/Pacific Islander;Hilo;HI;Gunshot;Hawaii Police Department;Knife;hawaii
-Henry Green;?;Black;Columbus;OH;Gunshot;Columbus Division of Police;Firearm;franklin
+Christopher Moran;Male;White;?;FL;?;Cape Coral Police Department;Unknown;lee
+Demarco Rhymes;Male;Black;Eufaula;AL;Gunshot;Eufaula Police Department;Firearm;barbour
+Nancy Friedrich;Female;White;Fort Worth;TX;Taser;Tarrant County Sheriffs Department;Other;tarrant
+Kalyp Rapoza;Male;Asian/Pacific Islander;Hilo;?;Gunshot;Hawaii Police Department;Knife;hawaii
+Henry Green;Male;Black;Columbus;OH;Gunshot;?;Firearm;franklin
 Andrew Henson;Male;White;Wagoner;OK;Gunshot;Wagoner Police Department;No;wagoner
 Travis Wood;Male;White;Westminster;CO;Struck by vehicle;Westminster Police Department;No;adams
 Willis Walker Jr;Male;Black;Culpeper;VA;Gunshot;Culpeper County Sheriffs Office;Firearm;culpeper
@@ -1510,7 +1510,7 @@ Omar Villagomez;Male;Hispanic/Latino;Turlock;CA;Gunshot;Modesto Police Departmen
 Weston Sites;Male;White;Orland;CA;Struck by vehicle;California Highway Patrol;No;glenn
 Carlos Garcia;Male;Unknown;Kansas City;MO;Gunshot;Unknown;Firearm;jackson
 Hope Elferdink;Female;White;Battle Creek;MI;Gunshot;Calhoun County Sheriffs Office;No;calhoun
-James Nickol;Male;White;York;PA;Gunshot;York County Sheriffs Office;?;york
+James Nickol;Male;White;York;PA;Gunshot;York County Sheriffs Office;Firearm;york
 Clifford Tucker;Male;White;Ishpeming;MI;Gunshot;Marquette County Sheriffs Office;Firearm;marquette
 William David Powell;Male;White;Stockbridge;GA;Gunshot;Henry County Police Department;Firearm;henry
 William Hollis;Male;White;Birmingham;AL;Gunshot;Irondale Police Department;Firearm;jefferson
@@ -1521,23 +1521,23 @@ Unknown;Male;Hispanic/Latino;Somerton;AZ;Gunshot;US Customs and Border Protectio
 Clayton Millsaps;Male;White;Statesville;NC;Gunshot;Iredell County Sheriffs Office;Other;iredell
 Jesus Duran;Male;Hispanic/Latino;Maywood;CA;Gunshot;Los Angeles County Sheriffs Department;Other;los angeles
 Omar Mateen;Male;Asian/Pacific Islander;Orlando;FL;Gunshot;Orlando Police Department Orange County Sheriffs Office;Firearm;orange
-Daniel Edwards;Male;White;Eagle Mountain;UT;Gunshot;Utah County Sheriffs Office;Knife;utah
+Daniel Edwards;Male;White;Eagle Mountain;UT;Gunshot;Utah County Sheriffs Office;?;utah
 Lyndarius Witherspoon;Male;Black;Tupelo;MS;Gunshot;Tupelo Police Department;Firearm;lee
 John Williams;Male;Black;Glasgow;KY;Gunshot;Barren County Sheriffs Department;Firearm;barren
 Michael Moore;Male;Black;Mobile;AL;Gunshot;Mobile Police Department;Firearm;mobile
 Joshua Sciscm;Male;White;Schenectady;NY;Gunshot;Schenectady Police Department;Firearm;schenectady
 Edward Acquisto;Male;Hispanic/Latino;Tiverton;RI;Gunshot;Tiverton Police Department Fall River Police Department;Firearm;newport
 Noel Rodriguez;Male;Hispanic/Latino;Boise;ID;Gunshot;Boise Police Department;Vehicle;ada
-Charles Todero;Male;White;Greenwood;IN;Taser;?;No;johnson
-Mohammad Moghaddam;Male;Arab-American;Amarillo;TX;Gunshot;?;Firearm;randall
-Kenneth Pointer;Male;White;Ridgefield;WA;Gunshot;?;Unknown;clark
+Charles Todero;Male;White;Greenwood;IN;Taser;Greenwood Police Department;No;johnson
+Mohammad Moghaddam;Male;Arab-American;Amarillo;TX;Gunshot;Amarillo Police Department;Firearm;randall
+Kenneth Pointer;Male;White;Ridgefield;WA;Gunshot;Clark County Sheriffs Office;Unknown;clark
 Nicholas Ferro;Male;White;Odessa;MO;Gunshot;Lafayette County Sheriffs Office;Firearm;lafayette
 Fernando Geovanni LLanez;Male;Hispanic/Latino;Chula Vista;CA;Gunshot;US Homeland Security;Unknown;san diego
 Russell Rosser;Male;White;Tulsa;OK;Gunshot;Tulsa Police Department;Vehicle;tulsa
 Ronald Delfino;Male;Hispanic/Latino;Albuquerque;NM;Gunshot;Albuquerque Police Department;Firearm;bernalillo
 Michael Rasmussen;Male;White;Pembine;WI;Gunshot;Marinette County Sheriffs Office;Firearm;marinette
 Nicholas Damon;Male;Hispanic/Latino;Arvada;CO;Gunshot;Westminster Police Department;Vehicle;jefferson
-John Anderson;Male;White;Montpelier;OH;Gunshot;Williams County Sheriffs office;Firearm;williams
+John Anderson;Male;White;Montpelier;?;Gunshot;Williams County Sheriffs office;Firearm;williams
 William Hennessey;Male;White;Huntsville;AL;Gunshot;Huntsville Police Department;Non-lethal firearm;madison
 Sergey Makarenko;Male;White;Carmichael;CA;Gunshot;Sacramento County Sheriffs Department;Unknown;sacramento
 Antwun Shumpert;Male;Black;Tupelo;MS;Gunshot;Tupelo Police Department;No;lee
@@ -1552,15 +1552,15 @@ Jeffrey Hyde;Male;White;Casper;WY;Gunshot;Mills Police Department;Firearm;natron
 Isaiah Core III;Male;Black;Birmingham;AL;Gunshot;Shelby County Sheriffs Office;Vehicle;jefferson
 Roger Ponce;Male;Hispanic/Latino;Wellington;FL;Gunshot;Palm Beach County Sheriffs Office;Knife;palm beach
 Josiah Williams;Male;White;Colorado Springs;CO;Gunshot;Colorado Springs Police;Firearm;el paso
-Deravis Caine Rogers;Male;Black;Atlanta;GA;Gunshot;Atlanta Police Department;No;fulton
-Jay Anderson;Male;Black;Wauwatosa;WI;Gunshot;Wauwatosa Police Department;Firearm;milwaukee
+Deravis Caine Rogers;Male;Black;?;GA;Gunshot;Atlanta Police Department;No;fulton
+Jay Anderson;Male;?;Wauwatosa;WI;Gunshot;Wauwatosa Police Department;Firearm;milwaukee
 Quencezola Splunge;Male;Black;Walls;MS;Gunshot;DeSoto County Sheriffs Office;Firearm;desoto
 Antonio Richardson;Male;Black;Flint;MI;Taser;Flint Police Department Michigan State Police;Knife;genesee
 Shaun Walke;Male;White;Bellville;TX;Gunshot;Austin County Sheriffs Office Bellville Police Department;Firearm;austin
 Angelo Brown;Male;Black;Belleville;IL;Gunshot;Belleville Police Department;Firearm;st clair
 Ismael Miranda;Male;Black;Paterson;NJ;Gunshot;Paterson Police Department;Firearm;passaic
 Joshua Herrera;Male;Hispanic/Latino;Hanover;NM;Gunshot;New Mexico State Police;Firearm;grant
-Rodrigo Guardiola;Male;Hispanic/Latino;Gainesville;GA;Gunshot;Georgia State Patrol;No;hall
+?;Male;Hispanic/Latino;Gainesville;GA;Gunshot;Georgia State Patrol;No;hall
 Waldemar Bogusiewicz;Male;White;Pinellas Park;FL;Gunshot;Pinellas Park Police Department;Firearm;pinellas
 Dylan Noble;Male;White;Fresno;CA;Gunshot;Fresno Police Department;No;fresno
 Christy Sheats;Female;White;Katy;TX;Gunshot;Fulshear Police Department;Firearm;fort bend
@@ -1577,12 +1577,12 @@ Sherman Evans;Male;Black;Washington;DC;Gunshot;Washington Metropolitan Police De
 Walden Dang;Male;Unknown;Honolulu;HI;Gunshot;Honolulu Police Department;Knife;honolulu
 Barry Prak;Male;Asian/Pacific Islander;Long Beach;CA;Gunshot;Unknown;Knife;los angeles
 Tyrone Reado;Male;Black;Monroe;LA;Gunshot;Ouachita Parish Sheriffs Office;Unknown;ouachita
-Jasen Ramirez;Male;Unknown;Douglas;WY;Gunshot;United States Marshals Service;No;converse
+Jasen Ramirez;Male;?;Douglas;WY;Gunshot;United States Marshals Service;No;converse
 Kawme Patrick;Male;Black;Columbus;OH;Gunshot;Columbus Division of Police;Firearm;franklin
 Michael Schumacher;Male;White;Madison;WI;Gunshot;Madison Police Department;Other;dane
-Tristan Vilters;Male;White;Guffey;CO;Gunshot;Park County Sheriffs Office;Firearm;park
-?;Male;White;Cartersville;GA;Gunshot;Cartersville Police Department and Bartow County Sheriffs Office;Firearm;bartow
-?;Male;White;Landrum;SC;Gunshot;Spartanburg County Sheriffs Office;Unknown;spartanburg
+Tristan Vilters;Male;White;Guffey;CO;Gunshot;Park County Sheriffs Office;Firearm;?
+Steven McQueen;Male;White;Cartersville;GA;Gunshot;Cartersville Police Department and Bartow County Sheriffs Office;Firearm;bartow
+Alexis Mishtowt;Male;White;Landrum;SC;Gunshot;Spartanburg County Sheriffs Office;Unknown;spartanburg
 Helmut Wihowski;Male;Unknown;Jackson;WI;Gunshot;Jackson Police Department;Knife;washington
 Jonathan Justice;Male;White;Bristol;TN;Gunshot;Bristol Police Department;Firearm;sullivan
 Jai Williams;Male;Black;Asheville;NC;Gunshot;Asheville Police Department;Firearm;buncombe
@@ -1590,7 +1590,7 @@ Lafayette Evans;Male;Black;Fort Madison;IA;Gunshot;Fort Madison Police Departmen
 Keith Bursey;Male;Black;Los Angeles;CA;Gunshot;Los Angeles Police Department;Firearm;los angeles
 Jamie Lee Brave Heart;Male;Native American;Pine Ridge;SD;Gunshot;Oglala Sioux Tribe Offices Department of Public Safety;Knife;shannon
 Brian Steen;Male;White;Phoenix;AZ;Death in custody;Phoenix Police Department;No;maricopa
-Mylynda Martinez;Female;Hispanic/Latino;Mascotte;FL;Struck by vehicle;Lake County Sheriffs Department;No;lake
+Mylynda Martinez;Female;Hispanic/Latino;Mascotte;FL;Struck by vehicle;Lake County Sheriffs Department;?;lake
 Kimberly King;Female;White;Mascotte;FL;Struck by vehicle;Lake County Sheriffs Department;No;lake
 David Anderson;Male;White;Murray;UT;Gunshot;Salt Lake County Unified Police Department;Firearm;salt lake
 Shannon Labit;Male;White;New Iberia;LA;Gunshot;Iberia Parish Sheriff_s Office;Knife;iberia
@@ -1600,7 +1600,7 @@ Anthony Nunez;Male;Hispanic/Latino;San Jose;CA;Gunshot;San Jose Police Departmen
 Delrawn Small;Male;Black;Brooklyn;NY;Gunshot;New York Police Department;No;kings
 Unknown;Male;Black;Scurry;TX;Gunshot;Kaufman County Sheriffs Office;Unknown;kaufman
 STOP + ATTACK;Male;Black;Washington;DC;Gunshot;Metro Transit Police Department;Firearm;district of columbia
-Alton Sterling;Male;Black;Baton Rouge;LA;Gunshot;Baton Rouge Police Department;Disputed;east baton rouge
+Alton Sterling;Male;Black;Baton Rouge;LA;?;Baton Rouge Police Department;Disputed;east baton rouge
 William Patterson;Male;White;North Charleston;SC;Gunshot;North Charleston Police Department;Firearm;charleston
 Sam Newby;Male;White;Temecula;CA;Gunshot;Temecula Police Department;Unknown;riverside
 Philando Castile;Male;Black;Falcon Heights;MN;Gunshot;St Anthony Police Department;Disputed;ramsey
@@ -1620,7 +1620,7 @@ Joseph Mann;Male;Black;Sacramento;CA;Gunshot;Sacramento Police Department;Knife;
 Orville Edwards;Male;Black;Brooklyn;NY;Gunshot;New York Police Department;Firearm;kings
 Jason Brooks;Male;Black;East St Louis;IL;Gunshot;Washington Park Police Department East St Louis Police Department;Firearm;st clair
 Pablo Medina;Male;Hispanic/Latino;Romulus;MI;Gunshot;Romulus Police Department;Firearm;wayne
-Larry Gordon;Male;White;St Joseph;MI;Gunshot;Berrien County Courthouse;Firearm;berrien
+Larry Gordon;Male;White;St Joseph;MI;?;Berrien County Courthouse;Firearm;berrien
 Fermin Valenzuela;Male;Hispanic/Latino;Anaheim;CA;Death in custody;Anaheim Police Department;No;orange
 Mary Len_ Pettiet;Female;White;Canton;TX;Struck by vehicle;Van Zandt County Sheriffs Office;No;van zandt
 Gary Porter;Male;Black;Syracuse;NY;Gunshot;Syracuse Police Department;Firearm;onondaga
@@ -1637,7 +1637,7 @@ Jermaine Johnson;Male;Unknown;Brooklyn;NY;Gunshot;New York Police Department;Fir
 Kevin Higgins;Male;White;Sheboygan;WI;Gunshot;Sheboygan Police Department;Firearm;sheboygan
 Michael Ramsey Jr;Male;White;Tulsa;OK;Gunshot;Tulsa Police Department;Knife;tulsa
 Gavin Long;Male;Black;Baton Rouge;LA;Gunshot;Unknown;Firearm;east baton rouge
-Andrew Esquivel;Male;Unknown;Brooklyn;NY;Struck by vehicle;New York Police Department;No;queens
+Andrew Esquivel;Male;Unknown;Brooklyn;NY;Struck by vehicle;New York Police Department;?;queens
 Patrick Fennell;Male;White;Little Egg Harbor Township;NJ;Gunshot;Unknown;Firearm;ocean
 Jerry Brimer;Male;White;Tulsa;OK;Gunshot;Tulsa Police Department;Other;tulsa
 Patrick ORourke;Male;Unknown;Port Vincent;LA;Taser;Louisiana State Police;Other;ascension
@@ -1654,13 +1654,13 @@ Jamil Valladares;Male;Unknown;Riverview;FL;Gunshot;Hillsborough County Sheriffs 
 Jeffrey Tyson;Male;Black;Indianapolis;IN;Gunshot;Indianapolis Metropolitan Police Department;Firearm;marion
 Richard Risher Jr;Male;Black;Los Angeles;CA;Gunshot;Los Angeles Police Department;Firearm;los angeles
 Scot Minard;Male;White;Merrill;WI;Gunshot;Lincoln County Sheriffs Department Langlade County Sheriffs Department Antigo Police Department;Firearm;lincoln
-Juan Duran;Male;Hispanic/Latino;Artesia;NM;Gunshot;Artesia Police Department;Firearm;eddy
+Juan Duran;Male;Hispanic/Latino;Artesia;NM;Gunshot;Artesia Police Department;Firearm;?
 Devon Martes;Male;Black;Metairie;LA;Gunshot;Jefferson Parish Sheriffs Office;Firearm;jefferson
 Dalvin Hollins;Male;Black;Tempe;AZ;Gunshot;Tempe Police Department;No;maricopa
-Ambrose Mecklenburg;Male;White;Malta;MT;Gunshot;Phillips County Sheriffs Office;Knife;phillips
+?;Male;White;Malta;MT;Gunshot;Phillips County Sheriffs Office;Knife;phillips
 Michael Adams;Male;White;Estill Springs;TN;Gunshot;Franklin County Sheriffs Office;Knife;franklin
 Saddam Trejeda-Campos;Male;Hispanic/Latino;San Bernardino;CA;Gunshot;San Bernardino Police Department;Knife;san bernardino
-Humberto Martinez;Male;Hispanic/Latino;Pittsburg;CA;Death in custody;Pittsburg Police Department;No;contra costa
+Humberto Martinez;Male;?;Pittsburg;CA;Death in custody;Pittsburg Police Department;No;contra costa
 Jesus Rael;Male;Hispanic/Latino;Tucson;AZ;Gunshot;Tucson Police Department;Firearm;pima
 Paul ONeal;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;No;cook
 Jorge Moreno-Aguirre;Male;Hispanic/Latino;Sparks;NV;Gunshot;Sparks Police Department;Firearm;washoe
@@ -1671,13 +1671,13 @@ Amanda Bivens;Female;White;Homewood;AL;Gunshot;Homewood Police Department;Firear
 Melvin Faison;Male;White;Pleasant Hill;NC;Gunshot;Northampton County Sheriffs Office;Firearm;northampton
 Limichael Shine;Male;Unknown;Manchester Township;NJ;Gunshot;Manchester Township Division of Police;Knife;ocean
 John Casey;Male;White;Phelps;KY;Gunshot;Kentucky State Police;No;pike
-Mario Torres;Male;Hispanic/Latino;Wapato;WA;Gunshot;Wapato Police Department;Unknown;yakima
+Mario Torres;Male;?;Wapato;WA;Gunshot;Wapato Police Department;Unknown;yakima
 Bryan Byrd;Male;White;Lexington;SC;Gunshot;Lexington County Sheriffs Department;Vehicle;lexington
 Kenneth Bonanno;Male;White;Fredericksburg;VA;Gunshot;Stafford County Sheriffs Office;Firearm;stafford
 Korryn Gaines;Female;Black;Randallstown;MD;Gunshot;Baltimore County Police Department;Firearm;baltimore
 Richard London;Male;White;Lake City;SC;Gunshot;Lake City Police Department;Firearm;florence
 Preston Perez;Male;White;Raceland;LA;Gunshot;Louisiana State Police;Unknown;lafourche
-Matthew Conrad;Male;White;Hammett;ID;Gunshot;Elmore County Sheriffs Office;Firearm;elmore
+Matthew Conrad;Male;White;Hammett;ID;?;?;Firearm;elmore
 Adam Klimek;Male;White;Alexandria;MN;Gunshot;Minnesota Bureau of Criminal Apprehension;Knife;douglas
 Demarco Newman;Male;Black;Palm Bay;FL;Gunshot;Palm Bay Police Department;Firearm;brevard
 William Bowers;Male;White;Castaic;CA;Gunshot;Los Angeles County Sheriffs Department;No;los angeles
@@ -1686,7 +1686,7 @@ Bradley Carey;Male;White;Detroit;MI;Gunshot;West Bloomfield Police Department Mi
 E.J. Walters Jr;Male;White;Gate City;VA;Gunshot;Hawkins County Sheriff_s Office;Firearm;scott
 Jamarion Robinson;Male;Black;East Point;GA;Gunshot;United States Marshals Service;Firearm;fulton
 James Quealy;Male;White;Beaver Dam;WI;Gunshot;Dodge County Sheriffs Office;Firearm;dodge
-Jawari Porter;Male;Black;Cincinnati;?;Gunshot;Cincinnati Police Department;Knife;campbell
+Jawari Porter;Male;Black;Cincinnati;OH;Gunshot;Cincinnati Police Department;Knife;campbell
 Earl Shaleek Pinckney;Male;Black;Harrisburg;PA;Gunshot;Harrisburg Police Department;Knife;dauphin
 Darnell Wicker;Male;Black;Louisville;KY;Gunshot;Louisville Metro Police Department;Knife;jefferson
 Juan Godines;Male;Hispanic/Latino;Georgetown;KY;Gunshot;Kentucky State Police;Unknown;woodford
@@ -1707,15 +1707,15 @@ Sylville Smith;Male;Black;Milwaukee;WI;Gunshot;Milwaukee Police Department;Firea
 Perry Heitman;Male;White;Lakewood;CO;Gunshot;Unknown;Firearm;jefferson
 Kendrick Brown;Male;Unknown;Monticello;AR;Taser;Monticello Police Department;No;drew
 Fred Barlow;Male;Black;Fairfield;CA;Death in custody;Fairfield Police Department Solano County Sheriffs Office;No;solano
-Sergio Weick;Male;Hispanic/Latino;Vista;CA;Gunshot;San Diego County Sheriffs Department;Unknown;san diego
-Jovany Martinez;Male;Hispanic/Latino;Annandale;VA;Gunshot;Fairfax County Sheriffs Office;Other;fairfax
+Sergio Weick;Male;Hispanic/Latino;Vista;CA;?;San Diego County Sheriffs Department;Unknown;san diego
+Jovany Martinez;?;Hispanic/Latino;Annandale;VA;Gunshot;Fairfax County Sheriffs Office;Other;fairfax
 Danny Pirtle;Male;White;Counce;TN;Gunshot;United States Marshals Service;Firearm;hardin
 Michael Martin;Male;White;Rome;OH;Gunshot;Ashtabula County Sheriffs Office;Firearm;ashtabula
 Carl Nivins;Male;White;Lenoir;NC;Gunshot;Lenoir Police Department;Firearm;caldwell
 Kenney Watkins;Male;Black;Los Angeles;CA;Gunshot;Los Angeles Police Department;Unknown;los angeles
 Colby Friday;Male;Black;Stockton;CA;Gunshot;Stockton Police Department;Firearm;san joaquin
 Larry Kurtley Jr;Male;White;Apache Junction;AZ;Gunshot;Maricopa County Sheriffs Office;Non-lethal firearm;pinal
-John OHandley;Male;White;Augusta;WV;Gunshot;Hampshire County Sheriffs Office;No;hampshire
+John OHandley;?;White;Augusta;WV;Gunshot;Hampshire County Sheriffs Office;No;hampshire
 Omer Ismail Ali;Male;Black;Kelso;WA;Gunshot;Kelso Police Department;Other;cowlitz
 Marcos Gastelum;Male;Hispanic/Latino;Tucson;AZ;Gunshot;Pima County Sheriffs Department;No;pima
 Francisco Villarreal;Male;Hispanic/Latino;Bakersfield;CA;Gunshot;Bakersfield Police Department;Firearm;kern
@@ -1730,8 +1730,8 @@ Kole Knight;Male;White;New London;WI;Gunshot;New London Police Department;Non-le
 Kyle Zimbelman;Male;White;Reno;NV;Gunshot;Washoe County Sheriffs Office;Unknown;washoe
 David Klassen;Male;White;Ruidoso;NM;Gunshot;Ruidoso Police Department;Firearm;lincoln
 Todd Browning;Male;White;Chattanooga;TN;Gunshot;East Ridge Police Department;Knife;hamilton
-Brandon Coles;Male;Black;Dinwiddie;VA;Gunshot;Dinwiddie County Sheriffs Office;Firearm;?
-Pedro Montanez;Male;Hispanic/Latino;Indio;CA;Gunshot;Indio Police Department;Knife;?
+Brandon Coles;Male;Black;Dinwiddie;VA;Gunshot;Dinwiddie County Sheriffs Office;Firearm;dinwiddie
+Pedro Montanez;Male;Hispanic/Latino;Indio;CA;Gunshot;Indio Police Department;Knife;riverside
 Juan Torres;Male;Hispanic/Latino;Las Cruces;NM;Gunshot;Las Cruces Police Department;Knife;dona ana
 Kelley Forte;Male;Black;Hamilton;OH;Gunshot;Hamilton Police Department;Knife;butler
 Silivenusi Ravono;Male;Asian/Pacific Islander;Greenbrae;CA;Death in custody;Marin County Sheriff_s Office Central Marin Police Authority;No;marin
@@ -1747,15 +1747,15 @@ Terry Salazar;Male;Unknown;Denver;CO;Gunshot;Denver Police Department;Knife;denv
 Matthew Gibbon;Male;White;Las Vegas;NV;Gunshot;Nevada Highway Patrol;Firearm;clark
 Darrel Hetrick;Male;White;Morgantown;WV;Gunshot;Monongalia County Sheriffs Office;Firearm;monongalia
 Jaqwan Terry;Male;Black;Raleigh;NC;Gunshot;Raleigh Police Department;Firearm;wake
-Michael Peacor;Male;White;San Bernardino;CA;Gunshot;San Bernardino Police Department;Knife;san bernardino
-Alfred Toe;Male;Black;Trenton;NJ;Gunshot;Trenton Police Department;No;mercer
+Michael Peacor;?;White;San Bernardino;CA;Gunshot;San Bernardino Police Department;Knife;san bernardino
+Alfred Toe;Male;Black;?;NJ;Gunshot;Trenton Police Department;No;mercer
 Michael Gaskill;Male;White;Redmond;OR;Struck by vehicle;Redmond Police Department;Firearm;deschutes
 Paula Phillips;Female;White;Kingman;AZ;Gunshot;City of Kingman Police Department;Firearm;mohave
 Justin Baker;Male;Unknown;Graham;WA;Gunshot;Pierce County Sheriffs Department;Other;pierce
-Levonia Riggins;Male;Black;Tampa;FL;Gunshot;Hillsborough County Sheriffs Office;No;hillsborough
+Levonia Riggins;Male;Black;Tampa;FL;?;Hillsborough County Sheriffs Office;No;hillsborough
 Lyle Blanchard;Male;White;Harker Heights;TX;Gunshot;Bell County Sheriffs Department;Unknown;bell
 James Richards;Male;Native American;Fairbanks;AK;Gunshot;Fairbanks Police Department;Firearm;fairbanks north star
-Gregory Mathis;Male;White;Weatherford;TX;Gunshot;Weatherford Police Department;Knife;parker
+Gregory Mathis;Male;White;Weatherford;TX;Gunshot;?;Knife;parker
 Michael Ferguson;Male;White;Denver;CO;Gunshot;Denver Police Department;No;denver
 Ed Holup;Male;White;Toledo;OH;Gunshot;Sylvania Township Police Department;Vehicle;lucas
 David Moya;Male;Unknown;Santee;CA;Gunshot;San Diego County Sheriffs Department;Other;san diego
@@ -1765,7 +1765,7 @@ Kaylee Sawyer;Female;White;Bend;OR;Struck by vehicle;Central Oregon Community Co
 Manuel De La Cruz;Male;Hispanic/Latino;Port Arthur;TX;Death in custody;Port Arthur Police Department;No;jefferson
 Caleb Douglas;Male;White;Wichita;KS;Gunshot;Sedgwick County Sheriffs Office;Firearm;sedgwick
 Joshua Quintero;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles County Sheriffs Department;Firearm;los angeles
-Unknown;Male;Hispanic/Latino;Huntington Park;CA;Gunshot;Huntington Park Police Department;Other;los angeles
+Unknown;Male;Hispanic/Latino;?;CA;Gunshot;Huntington Park Police Department;Other;los angeles
 Richard Swihart;Male;Unknown;Santa Ana;CA;Gunshot;Santa Ana Police Department;No;orange
 Joseph Moreno;Male;Hispanic/Latino;Alamogordo;NM;Gunshot;Alamogordo Police Department;Firearm;otero
 Randall Rodick;Male;Unknown;Parker;CO;Gunshot;Parker Police Department;Firearm;douglas
@@ -1774,16 +1774,16 @@ Michael Musson;Male;White;Round Lake;IL;Gunshot;Round Lake Police Department;Oth
 Cameron Ayers;Male;White;East Wenatchee;WA;Gunshot;East Wenatchee Police Department;Unknown;chelan
 Jerome Damon;Male;Black;Atlantic City;NJ;Gunshot;Atlantic City Police Department;Firearm;atlantic
 Jeremiah Ramirez;Male;Hispanic/Latino;Temple;TX;Gunshot;Temple Police Department;Firearm;sarpy
-Simon Gomez;Male;Hispanic/Latino;Grand Junction;CO;Gunshot;Grand Junction Police Department;Knife;mesa
+Simon Gomez;Male;?;Grand Junction;CO;Gunshot;Grand Junction Police Department;Knife;mesa
 Jose Romero;Male;Hispanic/Latino;Long Beach;CA;Gunshot;Long Beach Police Department;Knife;los angeles
 Cesar Garcia;Male;Hispanic/Latino;Austin;TX;Gunshot;Austin Police Department;Firearm;travis
 Moses Ruben;Male;Black;Ennis;TX;Gunshot;Ennis Police Department;Vehicle;ellis
 David Anderson;Male;White;Omaha;NE;Gunshot;Douglas County Sheriffs Office;Unknown;douglas
-Bernard Cottrell;Male;Unknown;Spencer;WV;Gunshot;Unknown;?;roane
+Bernard Cottrell;Male;Unknown;Spencer;WV;Gunshot;Unknown;Firearm;roane
 Larry Whitehead;Male;White;Gray;TN;Gunshot;Washington County Sheriffs Office;Firearm;washington
 Dylan Papa;Male;Unknown;Phoenix;AZ;Gunshot;Phoenix Police Department;Knife;maricopa
 Jesse Joynt;Male;White;Titusville;FL;Gunshot;Titusville Police Department;Firearm;brevard
-Robert Brown;Male;Black;Albany;GA;Gunshot;Albany Police Department;Unknown;dougherty
+Robert Brown;?;Black;Albany;GA;Gunshot;Albany Police Department;Unknown;dougherty
 Thomas Sekscinski;Male;White;Verona;MO;Gunshot;Aurora Police Department;Vehicle;barry
 Sadiq Idris;Male;Black;Wyoming;MI;Gunshot;Wyoming Police Department;Firearm;kent
 Francis Perry;Male;White;Lakeland;FL;Gunshot;Polk County Sheriffs Office Lake Wales Police Department Haines City Police Department Winter Haven Police Department;Firearm;polk
@@ -1798,17 +1798,17 @@ Eugene Craig;Male;Unknown;Saratoga;CA;Gunshot;Santa Clara County Sheriffs Office
 Christian Vargas;Male;Hispanic/Latino;Colton;CA;Gunshot;Colton Police Department;Unknown;san bernardino
 Tyre King;Male;Black;Columbus;OH;Gunshot;Columbus Division of Police;Non-lethal firearm;franklin
 Morgan Crocker;Male;White;Austin;TX;Gunshot;Austin Police Department;Firearm;travis
-Robert Carrillo;Male;Hispanic/Latino;Phoenix;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
+Robert Carrillo;?;Hispanic/Latino;Phoenix;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
 Terrill Thomas;Male;Black;Milwaukee;WI;Death in custody;Milwaukee County Sheriffs Office;No;milwaukee
 Cody Franklin;Male;White;Ozark;AR;Death in custody;Franklin County Sheriffs Office;No;franklin
 Nikki Bascom;Female;White;Silver City;NM;Gunshot;Silver City Police Department;No;grant
 Donald Degraw;Male;White;Oldsmar;FL;Taser;Pinellas County Sheriffs Office;No;pinellas
 Timothy McMillan;Male;White;San Gabriel;CA;Death in custody;Los Angeles County Sheriffs Department;No;los angeles
 Dustin Jones;Male;White;Okaloosa Island;FL;Gunshot;Escambia County Sheriffs Office;No;okaloosa
-Joseph Schlosser;Male;White;Weeki Wachee;FL;?;Hernando County Sheriffs Office;Unknown;hernando
-Thomas Mone III;Male;White;Hollister;MO;?;Missouri State Highway Patrol Taney County Sheriffs Office;Firearm;taney
-Jesse Beshaw;Male;Native American;Winooski;VT;?;Franklin County Sheriff_s Department;No;chittenden
-Nicholas Glenn;Male;Black;Philadelphia;PA;?;Philadelphia Police Department;Firearm;philadelphia
+Joseph Schlosser;Male;White;Weeki Wachee;FL;Gunshot;Hernando County Sheriffs Office;Unknown;hernando
+Thomas Mone III;Male;White;Hollister;MO;Gunshot;Missouri State Highway Patrol Taney County Sheriffs Office;Firearm;taney
+Jesse Beshaw;Male;Native American;Winooski;VT;Gunshot;Franklin County Sheriff_s Department;No;chittenden
+Nicholas Glenn;Male;Black;?;PA;Gunshot;Philadelphia Police Department;Firearm;philadelphia
 Terence Crutcher;Male;Black;Tulsa;OK;Gunshot;Tulsa Police Department;No;tulsa
 Robert Young;Male;White;Huntsville;AL;Gunshot;Huntsville Police Department;Non-lethal firearm;madison
 William Ryan;Male;White;Rutherfordton;NC;Gunshot;Rutherfordton Police Department Rutherford County Sheriffs Department;Firearm;rutherford
@@ -1819,7 +1819,7 @@ Adrian Shaffer;Male;White;Longmont;CO;Gunshot;Boulder County Sheriffs Office;Fir
 Philip Hasan;Male;Unknown;Akron;OH;Gunshot;Akron Police Department;Firearm;summit
 Tommy Seneca;Male;White;Plaquemine;LA;Gunshot;Iberville Parish Sheriffs Office;Firearm;iberville
 Jeremy Swenson;Male;White;Logan;UT;Gunshot;Cache County Sheriffs Office;Other;cache
-Michelle Miller;Female;White;Spring;TX;Gunshot;Harris County Precinct 4 Constables Office;Firearm;harris
+Michelle Miller;?;White;Spring;TX;Gunshot;Harris County Precinct 4 Constables Office;Firearm;harris
 Joshua Scott;Male;White;Port St Lucie;FL;Gunshot;St Lucie County Sheriffs Office;Firearm;martin
 Charles Dove;Male;White;Decaturville;TN;Gunshot;Decatur County Sheriffs Office;Unknown;decatur
 Michael Goodale;Male;White;Mashantucket;CT;Gunshot;Mashantucket Pequot Tribal Police Department;Firearm;new london
@@ -1829,25 +1829,25 @@ Thomas Tucker Jr;Male;White;Westminster;CO;Gunshot;Westminster Police Department
 Austin Baier;Male;White;Louisville;NE;Gunshot;Cass County Sheriffs Office;Unknown;cass
 Jesse Attaway;Male;White;Fair Oaks;CA;Gunshot;Sacramento County Sheriffs Department;No;sacramento
 Oddis Colvin Jr;Male;Black;Pikesville;MD;Gunshot;Baltimore County Police Department;Unknown;baltimore
-Christopher Contreras;Male;Hispanic/Latino;San Antonio;TX;Gunshot;San Antonio Police Department;Firearm;bexar
+Christopher Contreras;Male;Hispanic/Latino;San Antonio;TX;?;San Antonio Police Department;Firearm;bexar
 Cody Lafont;Male;White;Claremont;NH;Gunshot;Claremont Police Department;Firearm;sullivan
 Leeland White;Male;White;Little Rock;AR;Gunshot;Pulaski County Sheriff_s Office;Firearm;pulaski
-Anthony Bauer;Male;White;Garden City;ID;Gunshot;Garden City Police Department Boise Police Department;Firearm;?
-Nathan DeSai;Male;White;Houston;TX;Gunshot;Houston Police Department;Firearm;?
-Jamie Lewis;Male;Unknown;Burnsville;MN;Gunshot;Burnsville Police Department;Firearm;?
+Anthony Bauer;Male;White;Garden City;ID;Gunshot;Garden City Police Department Boise Police Department;Firearm;ada
+Nathan DeSai;Male;White;Houston;TX;Gunshot;Houston Police Department;Firearm;harris
+Jamie Lewis;Male;Unknown;Burnsville;MN;Gunshot;Burnsville Police Department;Firearm;dakota
 Tawon Boyd;Male;Black;Middle River;MD;Death in custody;Baltimore County Police Department;No;baltimore
 Alfred Olango;Male;Black;El Cajon;CA;Gunshot;El Cajon Police Department;No;san diego
 Gary Lafon;Male;White;Hawkins;TX;Gunshot;Wood County Sheriffs Office;Firearm;wood
 Christopher Sowell;Male;Black;Philadelphia;PA;Gunshot;Philadelphia Police Department;Unknown;delaware
-Johnathan Lozano-Murillo;Male;Hispanic/Latino;Valdosta;GA;Gunshot;Valdosta Police Department;Knife;lowndes
+Johnathan Lozano-Murillo;?;Hispanic/Latino;Valdosta;GA;Gunshot;Valdosta Police Department;Knife;lowndes
 Jeffrey Cave;Male;White;Kingman;AZ;Gunshot;Kingman Police Department;Firearm;mohave
 Jacquarius Robinson;Male;Black;Columbus;OH;Gunshot;Columbus Division of Police;Firearm;franklin
 Najier Salaam;Male;Black;Newark;NJ;Gunshot;Newark Police Department;Unknown;essex
 George Richards-Meyers;Male;Black;Newark;NJ;Gunshot;Newark Police Department;Unknown;essex
-Richard Parent;?;White;Belleville;MI;?;Michigan State Police;Firearm;wayne
-Douglas Rainey;Male;Black;Campobello;SC;?;Greenville County Sheriffs Office;Firearm;spartanburg
-Clayton Baker;Male;?;Groveton;TX;Gunshot;Trinity County Sheriffs Office;Unknown;trinity
-Joshua Perry;Male;?;Hometown;WV;Gunshot;Putnam County Sheriffs Department;Firearm;putnam
+Richard Parent;Male;White;Belleville;MI;Gunshot;Michigan State Police;Firearm;wayne
+Douglas Rainey;?;Black;Campobello;SC;Gunshot;Greenville County Sheriffs Office;Firearm;spartanburg
+Clayton Baker;Male;White;Groveton;TX;Gunshot;Trinity County Sheriffs Office;Unknown;trinity
+Joshua Perry;Male;White;Hometown;WV;Gunshot;Putnam County Sheriffs Department;Firearm;putnam
 Carnell Snell Jr;Male;Black;Los Angeles;CA;Gunshot;Los Angeles Police Department;Firearm;los angeles
 Donte Jones;Male;Black;Markham;IL;Gunshot;Markham Police Department;Unknown;cook
 Daniel Perez;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles Police Department;Non-lethal firearm;los angeles
@@ -1855,8 +1855,8 @@ Robert Dapkus;Male;White;Lynn;MA;Gunshot;Lynn Police Department;Firearm;essex
 John Fetter;Male;White;Ventnor City;NJ;Gunshot;Unknown;Firearm;atlantic
 Isaias Salgado;Male;Hispanic/Latino;Riverview;FL;Gunshot;Hillsborough County Sheriffs Office;Other;hillsborough
 Zachary Sutton;Male;White;Springdale;AR;Gunshot;Springdale Police Department;Firearm;washington
-Dean Bruning;?;White;Hessel;MI;Gunshot;Mackinac County Sheriffs Office Michigan State Police;Firearm;mackinac
-John Carpentier;?;White;Phoenix;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
+Dean Bruning;Male;White;Hessel;MI;Gunshot;Mackinac County Sheriffs Office Michigan State Police;Firearm;mackinac
+John Carpentier;Male;White;Phoenix;AZ;Gunshot;Phoenix Police Department;Firearm;maricopa
 Lucas Felkel;Male;White;Moncks Corner;SC;Gunshot;Berkeley County Sheriffs Office;Firearm;berkeley
 Reginald Thomas;Male;Black;Pasadena;CA;Death in custody;Pasadena Police Department;Knife;los angeles
 Jose Viloria;Male;Hispanic/Latino;Bakersfield;CA;Death in custody;Bakersfield Police Department;Unknown;kern
@@ -1870,8 +1870,8 @@ Charles Antrup;Male;White;Fort Wayne;IN;Gunshot;Fort Wayne Police Department;Kni
 Deric Brown;Male;Black;Syracuse;NY;Gunshot;Syracuse Police Department;Firearm;onondaga
 Devan Desnoyers;Male;White;Westlake;OH;Gunshot;Westlake Police Department;Non-lethal firearm;cuyahoga
 Kheyanev Littledog;Male;Native American;Midland;TX;Gunshot;Midland Police Department;Firearm;midland
-Thomas Burns;Male;White;Benton;AR;Gunshot;Benton Police Department;Non-lethal firearm;saline
-Mauricio Barron;Male;Hispanic/Latino;Irvine;CA;Gunshot;California Highway Patrol;Unknown;orange
+Thomas Burns;Male;White;Benton;AR;Gunshot;Benton Police Department;?;saline
+Mauricio Barron;Male;Hispanic/Latino;?;CA;Gunshot;California Highway Patrol;Unknown;orange
 Dennis Hunt;Male;Native American;Lumberton;NC;Gunshot;North Carolina State Highway Patrol;Firearm;robeson
 Michael Taylor;Male;Asian/Pacific Islander;Seattle;WA;Gunshot;Seattle Police Department;Knife;king
 Dominick Musulman;Male;White;Concord;CA;Gunshot;Concord Police Department;Other;contra costa
@@ -1889,7 +1889,7 @@ Daniel Murphy;Male;White;Phenix City;AL;Gunshot;Lee County Sheriffs Office;Firea
 Micah Jester;Female;White;Austin;TX;Gunshot;Austin Police Department;Non-lethal firearm;travis
 Nicholas McWherter;Male;White;San Francisco;CA;Gunshot;San Francisco Police Department;Firearm;san francisco
 Eric St Germain;Male;White;Holiday;FL;Gunshot;Pasco County Sheriffs Office;Knife;pasco
-Rolando Delgado;Male;Unknown;Miami;FL;Gunshot;Miami-Dade Police Department;Other;miami dade
+Rolando Delgado;Male;Unknown;Miami;FL;Gunshot;Miami-Dade Police Department;Other;?
 Darius Wimberly;Male;Black;Benton Harbor;MI;Gunshot;Benton Harbor Department of Public Safety;Firearm;berrien
 Keagan Schweikle;Male;White;Benton;AR;Gunshot;Benton Police Department;Firearm;saline
 Salvador Reyes;Male;Hispanic/Latino;Tulsa;OK;Gunshot;Tulsa Police Department;Firearm;tulsa
@@ -1897,9 +1897,9 @@ Deborah Danner;Female;Black;Bronx;NY;Gunshot;New York Police Department;Other;br
 Anthony Garcia;Male;Hispanic/Latino;Dallas;TX;Gunshot;Dallas Police Department;Firearm;dallas
 Frank Sandor;Male;White;Willoughby;OH;Gunshot;Willoughby Police Department;Unknown;lake
 Jacob DePetris;Male;White;Jacksonville;FL;Gunshot;Jacksonville Sheriffs Office;Firearm;duval
-Ricky Hall;Male;White;Houston;TX;Gunshot;Harris County Sheriffs Office;Other;harris
+Ricky Hall;Male;White;Houston;TX;Gunshot;Harris County Sheriffs Office;Other;?
 Javier Munoz;Male;Hispanic/Latino;Henderson;NV;Gunshot;Nevada Highway Patrol;No;clark
-William Frost Jr;Male;White;Tulsa;OK;Gunshot;Tulsa Police Department;Knife;tulsa
+William Frost Jr;Male;White;Tulsa;?;Gunshot;Tulsa Police Department;Knife;tulsa
 Renee Davis;Female;Native American;Auburn;WA;Gunshot;Kings County Sheriffs Office;Firearm;king
 Unknown;Male;Unknown;Lake Elsinore;CA;Gunshot;Murrieta Police Department;Vehicle;riverside
 Nathaniel Dorough;Male;White;Sterrett;AL;Gunshot;Shelby County Sheriffs Office;Unknown;shelby
@@ -1919,12 +1919,12 @@ Jason King;Male;Black;Sacramento;CA;Gunshot;California Highway Patrol;Firearm;sa
 Jay Holmgren;Male;White;Isle;MN;Gunshot;Stevens County Sheriffs Office;Firearm;mille lacs
 Kenneth Kennedy;Male;White;Kingman;AZ;Gunshot;Mohave County Sheriff_s Office;Vehicle;mohave
 Jun Wang;Male;Asian/Pacific Islander;North Royalton;OH;Gunshot;North Royalton Police Department;Knife;cuyahoga
-Terrence Coleman;Male;Black;?;MA;Gunshot;Boston Police Department;Disputed;suffolk
+Terrence Coleman;Male;Black;Boston;MA;Gunshot;Boston Police Department;Disputed;suffolk
 Jordan Gonzales;Male;Hispanic/Latino;Corpus Christi;TX;Gunshot;Corpus Christi Police Department;Firearm;nueces
 Michael Vance Jr;Male;Native American;Hammon;OK;Gunshot;Oklahoma Highway Patrol;Firearm;roger mills
-Jose Cueva;Male;?;Chatsworth;CA;Gunshot;Los Angeles County Sheriffs Department;Knife;los angeles
-Michelle Shirley;Female;?;Torrance;CA;Gunshot;Torrance Police Department;Vehicle;los angeles
-Rod Lucas;Male;?;Fresno;CA;Gunshot;Fresno County Sheriffs Office;Unknown;fresno
+Jose Cueva;Male;Hispanic/Latino;Chatsworth;CA;Gunshot;Los Angeles County Sheriffs Department;Knife;los angeles
+Michelle Shirley;Female;Black;Torrance;CA;Gunshot;Torrance Police Department;Vehicle;los angeles
+Rod Lucas;Male;White;Fresno;CA;Gunshot;Fresno County Sheriffs Office;Unknown;fresno
 Henry Simpson;Male;White;Carson City;NV;Gunshot;Nevada Highway Patrol;Firearm;carson city
 Jesse Taylor;Male;White;West Jordan;UT;Gunshot;West Jordan Police Department;Unknown;salt lake
 Ferguson Laurent;Male;Black;Salisbury;NC;Gunshot;Salisbury Police Department;Firearm;rowan
@@ -1932,29 +1932,29 @@ Dennis Kirk;Male;Unknown;Chambersburg;PA;Gunshot;Chambersburg Police Department;
 Rita King;Female;White;Loganville;GA;Gunshot;Walton County Sheriffs Office;Firearm;gwinnett
 Manuel Rosales;Male;Unknown;Bronx;NY;Gunshot;New York Police Department;Firearm;bronx
 Abraham Ortiz;Male;Hispanic/Latino;Palm Springs;CA;Gunshot;Palm Springs Police Department;Unknown;riverside
-Edward Hills;Male;Unknown;?;WA;Gunshot;Forks Police Department Clallam County Sheriffs Office;Firearm;clallam
-Patrick Wise;Male;White;?;TX;Gunshot;Gladewater Police Department;Unknown;gregg
-James Coale;Male;White;?;OK;Gunshot;Okfuskee County Sheriffs Office;Vehicle;okfuskee
-Joshua Beal;Male;Black;?;IL;Gunshot;Chicago Police Department;Firearm;cook
+Edward Hills;Male;Unknown;Beaver;WA;Gunshot;Forks Police Department Clallam County Sheriffs Office;Firearm;clallam
+Patrick Wise;Male;White;Gladewater;TX;Gunshot;Gladewater Police Department;Unknown;gregg
+James Coale;Male;White;Okemah;OK;Gunshot;Okfuskee County Sheriffs Office;Vehicle;okfuskee
+Joshua Beal;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Firearm;cook
 Russell Elswick;Male;White;Clendenin;WV;Gunshot;Kanawha County Sheriffs Office;Firearm;kanawha
 Randy Clark Jr;Male;White;Morgantown;KY;Gunshot;Butler County Sheriffs Office;Unknown;butler
 Christian Redwine;Male;White;Phenix City;AL;Gunshot;Columbus Police Department;Unknown;lee
-?;Male;White;Leesburg;NJ;Gunshot;New Jersey State Police;Other;cumberland
-?;Male;White;Beech Island;SC;Gunshot;Aiken County Sheriffs Office;Firearm;aiken
-?;Male;Hispanic/Latino;Santa Ana;CA;Gunshot;Santa Ana Police Department;Unknown;orange
-?;Male;Unknown;Hensley;WV;Gunshot;West Virginia State Police;Other;mcdowell
+Jimmy Testa;Male;White;Leesburg;NJ;Gunshot;New Jersey State Police;Other;cumberland
+Joel Keenan;Male;White;Beech Island;SC;Gunshot;Aiken County Sheriffs Office;Firearm;aiken
+David Contreras Jr;Male;Hispanic/Latino;Santa Ana;CA;Gunshot;Santa Ana Police Department;Unknown;orange
+Joseph Newcomb;Male;Unknown;Hensley;WV;Gunshot;West Virginia State Police;Other;mcdowell
 Darryl Chisholm;Male;Black;Philadelphia;PA;Gunshot;Philadelphia Police Department;Firearm;philadelphia
-Kenton Kobza;Male;White;Buckeye;KS;Gunshot;Ellis County Sheriffs Office;No;dewey
+Kenton Kobza;Male;White;Buckeye;KS;Gunshot;Ellis County Sheriffs Office;?;dewey
 Juan Ramos;Male;Unknown;Denver;CO;Gunshot;Denver Police Department Aurora Police Department;Firearm;denver
 Carlos Mendez;Male;Hispanic/Latino;Azusa;CA;Gunshot;Azusa Police Department;Firearm;los angeles
 Evan Cox;Male;White;Ashtabula;OH;Gunshot;Unknown;No;ashtabula
 Daniel Erickson;Male;White;Lakeside;AZ;Gunshot;Arizona Department of Public Safety;Firearm;navajo
-George Delacruz Jr;Male;Hispanic/Latino;San Angelo;TX;Gunshot;San Angelo Police Department;Firearm;tom green
+George Delacruz Jr;?;Hispanic/Latino;San Angelo;TX;Gunshot;San Angelo Police Department;Firearm;tom green
 Brian Gaither;Male;White;Grand Junction;CO;Gunshot;Grand Junction Police Department;Unknown;mesa
 Unknown;Male;Unknown;East Point;GA;Gunshot;East Point Police Department;Unknown;dekalb
 John Pacuicrk;Male;White;Lakeland;FL;Gunshot;Polk County Sheriffs Office;Firearm;polk
 William Score Jr;Male;Unknown;Montrose County;CO;Gunshot;Montrose County Sheriffs Office;Unknown;montrose
-James Ritchie;Male;White;Anchorage;AK;Gunshot;Anchorage Police Department;Firearm;anchorage
+James Ritchie;Male;White;Anchorage;AK;Gunshot;Anchorage Police Department;Firearm;?
 Daniel Laguna;Male;Hispanic/Latino;Oklahoma City;OK;Gunshot;Oklahoma City Police Department;Firearm;cleveland
 Richard Herrera Jr;Male;Hispanic/Latino;Sahuarita;AZ;Gunshot;Sahuarita Police Department;Firearm;pima
 Juan Fernandez;Male;Hispanic/Latino;San Diego;CA;Gunshot;San Diego Police Department;Firearm;san diego
@@ -1971,7 +1971,7 @@ Samson Fleurant;Male;Black;Port St Lucie;FL;Gunshot;Port St Lucie Police Departm
 Gabriel Parker;Male;Unknown;Casa Grande;AZ;Gunshot;Casa Grande Police Department;Other;pinal
 Darius Jones;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Firearm;cook
 Steve Vananda;Male;Unknown;Chickasha;OK;Gunshot;Chickasha Police Department;Firearm;grady
-Luke Smith;Male;Asian/Pacific Islander;Watsonville;CA;Gunshot;Santa Cruz County Sheriffs Office;Knife;santa cruz
+Luke Smith;?;Asian/Pacific Islander;?;CA;Gunshot;Santa Cruz County Sheriffs Office;Knife;santa cruz
 Erickson Brito;Male;Black;Brooklyn;NY;Gunshot;New York Police Department;Other;kings
 Adalid Flores;Male;Hispanic/Latino;Anaheim;CA;Gunshot;Anaheim Police Department;Unknown;orange
 Unknown;Male;Hispanic/Latino;San Antonio;TX;Gunshot;San Antonio Police Department;Firearm;bexar
@@ -1980,7 +1980,7 @@ Michael Giles;Male;White;Lompoc;CA;Gunshot;Lompoc Police Department;Knife;santa 
 Ivory Pantallion III;Male;Black;Baytown;TX;Gunshot;Jefferson County Sheriffs Office;Firearm;harris
 Mark Sly;Male;Hispanic/Latino;La Mirada;CA;Gunshot;Los Angeles County Sheriffs Department;Firearm;los angeles
 Frank Clark;Male;Black;Durham;NC;Gunshot;Durham Police Department;Unknown;durham
-Talif Scudder;Male;Unknown;Newark;NJ;Gunshot;Newark Police Department;Firearm;essex
+Talif Scudder;Male;Unknown;Newark;NJ;Gunshot;Newark Police Department;Firearm;?
 Rebecka Pearce;Female;White;Fuquay Varina;NC;Gunshot;Granville County Sheriffs Office;No;wake
 Marco Romero;Male;Hispanic/Latino;Boise;ID;Gunshot;Boise Police Department;Firearm;ada
 William Beavers;Male;White;St Petersburg;FL;Gunshot;Pinellas County Sheriffs Office;Knife;pinellas
@@ -1989,7 +1989,7 @@ Kajuan Raye;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;No;cook
 Don White;Male;Unknown;Jackson;TN;Gunshot;Jackson Police Department;Knife;madison
 Cloetha Mitchell;Male;Black;Chicago;IL;Gunshot;Chicago Police Department;Firearm;cook
 Carlos Valencia;Male;Unknown;Tucson;AZ;Gunshot;South Tucson Police Department;Unknown;pima
-Jerome Harmon;Male;Unknown;Hattiesburg;MS;Gunshot;Hattiesburg Police Department;Firearm;forrest
+Jerome Harmon;Male;Unknown;Hattiesburg;MS;Gunshot;?;Firearm;forrest
 Derek Adame;Male;Hispanic/Latino;Surprise;AZ;Gunshot;Surprise Police Department;Unknown;maricopa
 Norman Strobel;Male;White;Naples;ME;Gunshot;Cumberland County Sheriffs Office;Firearm;cumberland
 Terrell Walker;Male;Black;Baton Rouge;LA;Gunshot;Unknown;Firearm;east baton rouge
@@ -2015,7 +2015,7 @@ Dylan Dalzell;Male;White;Simpsonville;KY;Gunshot;Shelby County Sheriffs Office;O
 DeAngelo Webb;Male;Black;Oklahoma City;OK;Death in custody;Oklahoma City Police Department;Other;oklahoma
 Josh Dunne;Male;White;Las Cruces;NM;Gunshot;Las Cruces Police Department;Unknown;dona ana
 Isreal Flores;Male;Hispanic/Latino;Metairie;LA;Gunshot;Jefferson Parish Sheriffs Office;Firearm;jefferson
-Norman Gary;Male;Black;Elkhart;IN;Gunshot;Elkhart Police Department;Unknown;elkhart
+?;Male;Black;Elkhart;IN;Gunshot;Elkhart Police Department;Unknown;elkhart
 Saif Alameri;Male;Arab-American;Hudson;OH;Gunshot;Hudson Police Department;Unknown;summit
 Westley Daum;Male;White;Orange City;FL;Gunshot;Orange City Police Department;Firearm;volusia
 Steven Liffel;Male;White;Portland;OR;Gunshot;Portland Police Bureau;Firearm;multnomah
@@ -2024,7 +2024,7 @@ Wayne Dorsey;Male;White;Fruitland Park;FL;Gunshot;Lake County Sheriffs Office;Ot
 Eddie Collins;Male;White;Killen;AL;Gunshot;Florence Police Department;Firearm;lauderdale
 Ashley Sides;Female;White;Brookville;OH;Gunshot;Brookville Police Department;Unknown;montgomery
 Unknown;Male;Unknown;Houston;TX;Gunshot;Houston Police Department;Firearm;harris
-Keelan Murray;Male;White;Dallas;TX;Gunshot;Duncanville Police Department;Unknown;dallas
+Keelan Murray;Male;White;Dallas;TX;?;Duncanville Police Department;Unknown;dallas
 Mark Hicks;Male;Black;Fayetteville;NC;Gunshot;Fayetteville Police Department;Knife;cumberland
 Jason Stringer;Male;Unknown;Cahokia;IL;Gunshot;Washington Park Police Department;Vehicle;st clair
 Joseph Turner Jr;Male;White;Benton;AR;Gunshot;Benton Police Department;Firearm;saline
@@ -2042,12 +2042,12 @@ Stephen Whitney;Male;Asian/Pacific Islander;Keaau;HI;Gunshot;Hawaii Police Depar
 Samson Varner;Male;White;Greenwood;IN;Gunshot;Greenwood Police Department;Knife;johnson
 Waltki Williams;Male;Black;Sumter;SC;Gunshot;Sumter Police Department;Firearm;sumter
 Timothy Case;Male;Unknown;York;NE;Gunshot;York Police Department;Knife;york
-?;Male;White;Fairmont;WV;Gunshot;Unknown;Vehicle;marion
-?;Male;Hispanic/Latino;Bakersfield;CA;Gunshot;Bakersfield Police Department;No;kern
-?;Male;White;Culloden;GA;Gunshot;Byron Police Department Peach County Drug Taskforce;Firearm;monroe
+Randy Cumberledge;Male;White;Fairmont;WV;Gunshot;Unknown;Vehicle;marion
+Francisco Serna;Male;Hispanic/Latino;Bakersfield;CA;Gunshot;Bakersfield Police Department;No;kern
+Rainer Smith;Male;White;Culloden;GA;Gunshot;?;Firearm;monroe
 Kenneth Robledo;Male;Unknown;Philadelphia;PA;Gunshot;United States Marshals Service;Firearm;philadelphia
 Gary Herd Jr;Male;Unknown;Medicine Lodge;KS;Gunshot;Medicine Lodge Police Department;Firearm;barber
-Amber Lewis;Female;Unknown;Bullhead City;AZ;Gunshot;Bullhead City Police Department;Non-lethal firearm;mohave
+Amber Lewis;Female;?;Bullhead City;AZ;Gunshot;Bullhead City Police Department;Non-lethal firearm;mohave
 Jose Vallarta;Male;Hispanic/Latino;Laredo;TX;Gunshot;Laredo Police Department;Knife;webb
 Unknown;Male;Unknown;Hampton;GA;Gunshot;Henry County Police Department;Firearm;henry
 Lavar Douglas;Male;Black;Baltimore;MD;Gunshot;Coppin State Police Department;Firearm;baltimore
@@ -2055,19 +2055,19 @@ Unknown;Male;Unknown;Hacienda Heights;CA;Gunshot;Los Angeles County Sheriffs Dep
 Jeremiah Anderson;Male;White;Dallas;OR;Gunshot;Dallas Police Department;Firearm;polk
 Unknown;Unknown;Unknown;Everett;WA;Gunshot;Lynnwood Police Department;Unknown;snohomish
 Jimmy Lawson;Male;White;Arlington;TN;Gunshot;Shelby County Sheriffs Office;Knife;shelby
-Ronald Massengale;Male;Unknown;Tulsa;OK;Gunshot;Tulsa Police Department;Firearm;tulsa
+Ronald Massengale;Male;Unknown;Tulsa;OK;Gunshot;Tulsa Police Department;?;tulsa
 Unknown;Male;Unknown;Ridgefield;WA;Gunshot;Clark County Sheriffs Office;Firearm;clark
 Unknown;Male;Unknown;Los Angeles;CA;Gunshot;Los Angeles Police Department;Unknown;los angeles
 Roy Minton;Male;Unknown;Granite Falls;NC;Gunshot;Caldwell County Sheriffs Office;Unknown;caldwell
-Unknown;Male;Unknown;Brawley;CA;Gunshot;Brawley Police Department;Knife;imperial
+Unknown;Male;Unknown;Brawley;CA;Gunshot;Brawley Police Department;Knife;?
 Antonio Gonzalez;Male;Hispanic/Latino;Lawrence;MA;Gunshot;Larwrence Police Department;Firearm;essex
 Edmund Studdard;Male;White;Cordova;TN;Gunshot;Shelby County Sheriffs Office;Knife;shelby
 Unknown;Male;Unknown;Ponca City;OK;Gunshot;Ponca City Police Department;Other;kay
-Unknown;Male;Unknown;Burns Flat;OK;Gunshot;Elk City Police Department;Firearm;washita
+?;Male;Unknown;Burns Flat;OK;Gunshot;Elk City Police Department;Firearm;washita
 Joseph Caffarello;Male;White;Rosemont;IL;Gunshot;Rosemont Police Department;Vehicle;cook
 Artago Howard;Male;Black;Strong;AR;Gunshot;Union County Sheriffs Office;No;union
 Todd Allen Hodge;Male;White;Hemet;CA;Gunshot;Riverside County Sheriffs Department;Firearm;riverside
-Miguel Anguel de Santos-Rodriguez;Male;Hispanic/Latino;Roma;TX;Gunshot;US Border Patrol;Firearm;starr
+Miguel Anguel de Santos-Rodriguez;Male;Hispanic/Latino;Roma;TX;Gunshot;US Border Patrol;Firearm;?
 Andrew Toto;Male;White;Derry;NH;Gunshot;Derry Police Department;Firearm;rockingham
 Larry Kobuk;Male;Native American;Anchorage;AK;Death in custody;Anchorage Department of Corrections;No;anchorage
 John Sawyer;Male;White;Calimesa;CA;Gunshot;Riverside County Sheriffs Department;Non-lethal firearm;riverside
@@ -2080,19 +2080,19 @@ Jamison Childress;Male;White;Sumas;WA;Gunshot;US Border Patrol;Other;whatcom
 Tyrel Vick;Male;White;Wapanucka;OK;Gunshot;Oklahoma Highway Patrol Tupelo Police Department;Firearm;coal
 John Allen;Male;White;Boulder City;NV;Gunshot;Boulder City Police Department;Firearm;clark
 Roberto Rodriguez;Male;Hispanic/Latino;Los Angeles;CA;Gunshot;Los Angeles Police Department;Firearm;los angeles
-Stanley Watson;Male;White;Ca_on City;CO;Gunshot;Ca_on City Police Department;Firearm;fremont
+Stanley Watson;Male;White;Ca_on City;CO;Gunshot;Ca_on City Police Department;Firearm;?
 Joseph Potts;Male;White;Rufe;OK;Gunshot;Choctaw County Sheriffs Office and Hugo Police Department;Firearm;choctaw
 Don Smith;Male;Black;Monon;IN;Gunshot;Indiana State Police Tippecanoe County Sheriffs Department;Firearm;white
-Cary Martin;Male;White;St Augustine;FL;Gunshot;St Johns County Sheriffs Office;Firearm;?
-Miguel Martinez;Male;Hispanic/Latino;Waxahachie;TX;Gunshot;Ellis County Sheriffs Department and Texas DPS;Firearm;?
-Lorenzo Garza Jr;Male;Hispanic/Latino;Delano;CA;Gunshot;Delano Police Department;Firearm;?
-Ryan Bolinger;Male;White;Des Moines;IA;Gunshot;Des Moines Police Department;No;?
+Cary Martin;Male;White;St Augustine;FL;Gunshot;St Johns County Sheriffs Office;?;st johns
+Miguel Martinez;Male;Hispanic/Latino;Waxahachie;TX;Gunshot;Ellis County Sheriffs Department and Texas DPS;Firearm;ellis
+Lorenzo Garza Jr;Male;Hispanic/Latino;Delano;CA;Gunshot;Delano Police Department;Firearm;kern
+Ryan Bolinger;Male;White;Des Moines;IA;Gunshot;Des Moines Police Department;No;polk
 Zane Terryn;Male;White;Cocoa;FL;Gunshot;Brevard County Sheriffs Office;Firearm;brevard
 Abel Correa;Male;Hispanic/Latino;Las Vegas;NV;Gunshot;Las Vegas Police Department;Other;clark
 Edrian Rivera;Male;Hispanic/Latino;San Jose;CA;Gunshot;San Jose Police Department;Knife;santa clara
 Taylor Culbertson;Male;White;Omaha;NE;Gunshot;Douglas County Sheriffs Office;Firearm;douglas
 Anthony Vallejo;Male;Hispanic/Latino;Hemet;CA;Gunshot;Riverside County Sheriffs Department;Firearm;riverside
-Richard Kelley;Male;White;Hoopa;CA;Gunshot;Hoopa Valley Tribal Police Department;Firearm;humboldt
+Richard Kelley;Male;White;Hoopa;CA;Gunshot;Hoopa Valley Tribal Police Department;?;humboldt
 Ramon Damiani Jr;Male;Hispanic/Latino;French Lick;IN;Gunshot;West Baden Police Department Indiana State Police;Other;orange
 Christopher Shell;Male;White;Rossvile;GA;Gunshot;Walker County Sheriffs Office;Firearm;walker
 Robert Christen;Male;White;Mora;MN;Gunshot;Kanabec County Sheriffs Office;No;kanabec
@@ -2152,23 +2152,23 @@ Cornelius Parker;Male;Black;Columbia;MO;Gunshot;Boone County Sheriffs Department
 Andrew Shipley;Male;White;Medford;OR;Gunshot;Medford Police Department;Firearm;jackson
 Kendre Alston;Male;Black;Jacksonville;FL;Gunshot;Jacksonville Sheriffs Office;Firearm;duval
 Sam Holmes;Male;Black;Fridley;MN;Gunshot;Lino Lakes Police Department;No;anoka
-Damien Ramirez;Male;Hispanic/Latino;Strasburg;CO;Gunshot;Arapahoe County Sheriffs Office;Firearm;arapahoe
+Damien Ramirez;Male;Hispanic/Latino;Strasburg;CO;?;Arapahoe County Sheriffs Office;?;arapahoe
 Joseph Charboneau;Male;Native American;Fort Totten;ND;Gunshot;Spirit Lake Tribal Police Department;Firearm;benson
 Kaleb Landon;Male;White;Wolf Creek;OR;Gunshot;Oregon State Police ATF;Firearm;josephine
 Brian Johnson;Male;Unknown;Meadow Bridge;WV;Gunshot;West Virginia State Police Summers County Sheriffs Department;Other;fayette
 Jonathan Sanders;Male;Black;Stonewall;MS;Death in custody;Stonewall Police Department;No;clarke
 Juan Ibarra;Male;Hispanic/Latino;Houston;TX;Gunshot;Harris County Sheriffs Office;Firearm;harris
-David Cook;Male;Unknown;Nitro;WV;Gunshot;Nitro Police Department;Firearm;putnam
+David Cook;Male;Unknown;?;WV;Gunshot;Nitro Police Department;Firearm;putnam
 Charles Hall;Male;White;North East;MD;Gunshot;Maryland State Police;No;cecil
 Todd Tomlinson;Male;White;Thonotosassa;FL;Gunshot;Hillsborough County Sheriffs Office;Firearm;hillsborough
 Brent Pickard;Male;White;Hixson;TN;Gunshot;Hamilton County Sheriffs Office;Firearm;hamilton
 Dustin Kuik;Male;White;Green Bay;WI;Gunshot;Ashwaubenon Department of Public Safety;Firearm;brown
 Jeffrey Brooks;Male;White;Clute;TX;Gunshot;Mineola Police Department;Vehicle;brazoria
 Corey Jones;Male;Black;Palm Beach Gardens;FL;Gunshot;Palm Beach Gardens Police Department;Firearm;palm beach
-Christopher Nichols;Male;White;?;OK;Gunshot;Colbert Police Department;No;bryan
-Jonathan Wardlow;Male;White;?;OK;Gunshot;Healdton Police Department;Other;carter
-Ruben Herrera;Male;?;Torrance;CA;Gunshot;Los Angeles Police Department;No;los angeles
-Israel Rodriguez;Male;?;Marietta;GA;Gunshot;Georgia State Patrol;Firearm;cobb
+Christopher Nichols;Male;White;Colbert;OK;Gunshot;Colbert Police Department;No;bryan
+Jonathan Wardlow;Male;White;Healdton;OK;Gunshot;Healdton Police Department;Other;carter
+Ruben Herrera;Male;Hispanic/Latino;Torrance;CA;Gunshot;Los Angeles Police Department;No;los angeles
+Israel Rodriguez;Male;Hispanic/Latino;Marietta;?;Gunshot;Georgia State Patrol;Firearm;cobb
 Anthony Bertoni;Male;White;Kemp;TX;Gunshot;Texas Department of Public Safety;Firearm;kaufman
 Joshua Grubb;Male;White;Lenoir City;TN;Gunshot;Lenoir City Police Department;No;loudon
 Ed McIver Sr;Male;White;Fort Worth;TX;Gunshot;Fort Worth Police Department;Firearm;tarrant
@@ -2186,13 +2186,13 @@ Jacob Stevens;Male;White;Kansas City;MO;Gunshot;Gladstone Department of Public S
 William Newman;Male;Unknown;Knox;IN;Gunshot;Knox City Police Department Starke County Sheriffs Office;Vehicle;starke
 Benjamin Ortiz;Male;White;Fayetteville;AR;Gunshot;Washington County Sheriffs Office;Firearm;washington
 Matthew Richardson;Male;Unknown;Saraland;AL;Gunshot;Saraland Police Department;Firearm;mobile
-Anthony Eddington;Male;Black;Coalinga;CA;Gunshot;Fresno County Sheriffs Office;Firearm;fresno
+Anthony Eddington;Male;Black;Coalinga;CA;Gunshot;Fresno County Sheriffs Office;?;fresno
 Unknown;Male;Unknown;Stockton;CA;Gunshot;San Joaquin County Sheriffs Office;Knife;san joaquin
 Unknown;Unknown;Unknown;Reno;NV;Gunshot;Reno Police Department;Unknown;washoe
 Terrence Thomas Jr;Male;Black;Capitol Heights;MD;Gunshot;Prince Georges County Police Department;Firearm;district of columbia
 Stanley Eversole;Male;Unknown;Palm Harbor;FL;Gunshot;Pinellas County Sheriffs Office;Other;pinellas
 Unknown;Male;Unknown;El Monte;CA;Gunshot;El Monte Police Department;Vehicle;los angeles
-Michael Jacques;Male;Unknown;Bend;OR;Gunshot;Bend Police Department;Unknown;deschutes
+Michael Jacques;Male;Unknown;Bend;OR;Gunshot;Bend Police Department;Unknown;?
 Unknown;Male;Unknown;Gadsden;AL;Gunshot;Gadsden Police Department;Firearm;etowah
 Miriam Savino;Female;White;Lake Wales;FL;Gunshot;Polk County Sheriffs Office;Knife;polk
 Zhonghua Li;Male;Unknown;Pico Rivera;CA;Gunshot;Los Angeles County Sheriffs Department;Other;los angeles
