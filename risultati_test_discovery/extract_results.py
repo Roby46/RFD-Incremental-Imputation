@@ -715,6 +715,7 @@ def extract_for_metrics():
     for ds in datasets_incremental2.keys():
         count = 1
         for perc in datasets_incremental2[ds].keys():
+            print(perc)
             valori_da_mediare = datasets_incremental2[ds][perc]
             array_medie = []
             array_medie.append(
@@ -734,7 +735,7 @@ def extract_for_metrics():
             dict_finale[str(count)].append(array_medie)
             count += 1
 
-    with open(f"./ris_incremental/_metrics_medie_incremental.json", "w") as outfile:
+    with open(f"./ris_incremental/metrics_medie_incremental.json", "w") as outfile:
         json.dump(dict_finale, outfile)
 
-extract_for_metrics()
+extract_for_metrics()    #ogni key è un missing rate, ed in ognuno di essi ci sono tanti array quanti sono i dataset
