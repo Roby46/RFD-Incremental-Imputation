@@ -34,9 +34,9 @@ def load_rmse_data(filepath, selected_datasets):
 
 def plot_rmse_results(datasets, ncols=2):
     num_datasets = len(datasets)
-    r1 = np.arange(10)  # Indici per le percentuali di valori mancanti
+    r1 = np.arange(10)
 
-    # Calcolo del numero di righe necessarie
+    # Calcolo righe necessarie
     nrows = (num_datasets + ncols - 1) // ncols  # Formula per arrotondare verso l'alto
 
     #fig, axs = plt.subplots(nrows, ncols, figsize=(13, 6), sharey=True, sharex=True)
@@ -44,11 +44,10 @@ def plot_rmse_results(datasets, ncols=2):
     # Modifica degli spazi orizzontali e verticali
     fig.subplots_adjust(hspace=0.20, wspace=0.04)  # Riduci hspace e wspace
 
-    # Appiattire gli assi se nrows > 1
+    # Appiattimento gli assi se nrows > 1
     axs = axs.flatten() if nrows > 1 else axs
 
     for i, (dataset_name, results) in enumerate(datasets.items()):
-        # Plottare RMSE per ogni algoritmo in un singolo grafico
         for algorithm, rmse_means in results.items():
             print(algorithm, rmse_means)
             if 'Pipeline_noRev' in algorithm:
@@ -72,15 +71,13 @@ def plot_rmse_results(datasets, ncols=2):
         axs[i].yaxis.set_minor_locator(MultipleLocator(0.05))
         axs[i].set_yticks([0, 0.2, 0.4, 0.6, 0.8, 1])
 
-        # Imposta l'etichetta RMSE solo per il primo subplot di ogni riga
         if i % ncols == 0:
             axs[i].set_ylabel('RMSE', rotation='vertical')
 
-        # Imposta l'etichetta "Missing Rate" solo per l'ultima riga
         if i >= (nrows - 1) * ncols:
             axs[i].set_xlabel('Missing Rate')
 
-    # Gestire grafici vuoti se non ci sono abbastanza dataset
+    # Gestione grafici vuoti se non ci sono abbastanza dataset
     for j in range(i + 1, nrows * ncols):
         axs[j].axis('off')  # Nascondere gli assi vuoti
 
@@ -97,9 +94,9 @@ def plot_rmse_results(datasets, ncols=2):
     plt.show()
 
 
-# Esempio di utilizzo
-filepath = '../ALL_Results_v3.csv'  # Modifica con il percorso del tuo CSV
-selected_datasets = ['Boeing_898', 'actorfilms_4000', 'restaurant', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', 'cars', "superstore_4500", "police", "IoT_Telemetry3000", "F1_REBUILT_5000", "MotoGP_REBUILT_3000", "Med_Ch_2500", "Air_9000", "restaurant_MNAR", "cars_MNAR", "Boeing_898_MNAR", "cars_MBUV", "Boeing_898_MBUV", "restaurant_MBUV"]  # Aggiungi altri dataset qui
-datasets = load_rmse_data(filepath, selected_datasets)  # Carica i dati RMSE
+filepath = '../ALL_Results_v3.csv'
+selected_datasets = ['actorfilms_4000', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', "superstore_4500", "police", "IoT_Telemetry3000",
+                     "F1_REBUILT_5000", "MotoGP_REBUILT_3000", "Med_Ch_2500", "Air_9000", "cars_MNAR" , "cars_MBUV", 'cars', "Boeing_898_MNAR", "Boeing_898_MBUV", 'Boeing_898', "restaurant_MNAR", "restaurant_MBUV", 'restaurant']  # Aggiungi altri dataset qui
+datasets = load_rmse_data(filepath, selected_datasets)
 print(datasets)
-plot_rmse_results(datasets, ncols=4)  # Mostra i risultati, specificando il numero di colonne
+plot_rmse_results(datasets, ncols=4)

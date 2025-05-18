@@ -46,7 +46,7 @@ for idx, row in df.iterrows():
 new_df = pd.DataFrame(cleaned_rows)
 
 # Crea un nuovo file CSV ripulito
-filename = f"../../Datasets/Preprocessed_Datasets/police_MBUV.csv"
+filename = f"../../Datasets/Preprocessed_Datasets/police_MNAR.csv"
 new_df.to_csv(filename, sep=';', index=False, encoding="ascii")  # Salva in codifica ASCII
 
 print(f"File salvato: {filename}")
