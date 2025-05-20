@@ -19,7 +19,7 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?",10,75,1, 1, 1, 1, 2, 2, 1, 250, 250, 1] #US_Presidents
     #fixed_params = [";", "?", 6, 18, 2.0,8.5,8.5,1.0,1.0,3.5]  # Restaurant
     #fixed_params = [";", "?", 6, 100, 0,0,0,0,0,0]  # Restaurant FD ONLY
-    fixed_params = [";", "?", 9, 44,3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]  # Police
+    #fixed_params = [";", "?", 9, 44,3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]  # Police
     #fixed_params = [";", "?", 9,8,5.0,4.18,0.82,16,10.0,11.3,1.37,1.84,1.0]  # cars
     #fixed_params = [";", "?", 9, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0]  # cars
     #fixed_params = [";", "?", 12, 89, 2, 0, 1, 3, 2, 5, 6, 4, 2, 5, 0, 0]  # MotoGP
@@ -33,7 +33,7 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?", 8, 60,2,2,2,2,0.05,1,5,1]  # iTunes
     #fixed_params = [";", "?", 15,48,1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]  # S4-ADL5
     #fixed_params = [";", "?", 15, 30,1,1,2,1,0.5,0.5,1,0.5,15,2,5,1,50,2,1]  # Pollution_1500
-    #fixed_params = [";", "?", 15, 18, 2, 0.5, 1, 1, 0.5, 0.5, 4, 0.5, 0.5, 0.5, 0.5, 0.5, 1, 0.5, 5] #Student_908
+    fixed_params = [";", "?", 11, 18, 2, 0.5, 0.5, 0.5, 0.5, 4, 0.5, 0.5, 0.5,1,5] #Student_908
 
     command_strings = []
 
@@ -61,15 +61,15 @@ def generate_launch_file(dataset_name, command_string, template, output_dir, ree
     with open(filename, "w") as f:
         f.write(launch_content)
 
-dataset = "police_MNAR"
+dataset = "Student_908"
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
 heap_size_gb=64
 
 #Scelta delle pipeline
-#algoritmo="Pipeline"
+algoritmo="Pipeline"
 #algoritmo="RFD_Generator"
-algoritmo="Baseline"
+#algoritmo="Baseline"
 #algoritmo="baseline2"
 reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
@@ -91,7 +91,7 @@ reevaluation=False #solo per la pipeline. Per i baseline ed il generator non imp
 #missing_values = [275, 550, 825, 1100, 1375, 2750, 5500, 8250, 11000, 13750] # Weather
 #missing_values = [375, 751, 1126, 1502, 1877, 3754, 7508, 11262, 15016, 18770] # US_Presidents
 #missing_values = [52, 104, 156, 207, 259, 518, 1037, 1555, 2074, 2592] # restaurant
-missing_values = [198, 397, 595, 793, 992, 1984, 3967, 5951, 7934, 9918] # police
+#missing_values = [198, 397, 595, 793, 992, 1984, 3967, 5951, 7934, 9918] # police
 #missing_values = [37, 73, 110, 146, 183, 365, 731, 1096, 1462, 1827] # cars
 #missing_values = [532, 1064, 1597, 2129, 2661, 5322, 10644, 15966, 21288, 26610] # MOTOGP 4435
 #missing_values = [240, 480, 720, 960,1200, 2400, 4800, 7200, 9600, 12000] # IoT_Telemetry_3000
@@ -104,7 +104,7 @@ missing_values = [198, 397, 595, 793, 992, 1984, 3967, 5951, 7934, 9918] # polic
 #missing_values = [240, 480, 720, 960,1200, 2400, 4800, 7200, 9600, 12000] # iTunes
 #missing_values = [360, 720, 1080, 1440,1800, 3600, 7200, 10800, 14400, 18000] # S4-ADL5
 #missing_values = [225,450,675,900,1125,2250,4500,6750,9000,11250] #Pollution_1500
-#missing_values = [136 ,272 ,409 ,545 ,681 ,1362,2724,4086,5448,6810] #Student_908
+missing_values = [100 ,200 ,300 ,400 ,499 ,999,1998,2996,3995,4994] #Student_908
 
 
 print(algoritmo)

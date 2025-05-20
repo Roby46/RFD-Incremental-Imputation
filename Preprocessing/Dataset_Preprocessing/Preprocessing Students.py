@@ -5,9 +5,8 @@ df=pd.read_csv("../../Datasets/Original_Datasets/student_habits_performance.csv"
 print(df)
 #Remove the specified columns from the DataFrame
 #List of columns to eliminate
-columns_to_delete = ["student_id"]
+columns_to_delete = ["student_id", "part_time_job", "diet_quality", "internet_quality","extracurricular_participation" ]
 df = df.drop(columns=columns_to_delete, errors="ignore")
-
 
 df=df.dropna()
 df = df.drop(df.index[-1])

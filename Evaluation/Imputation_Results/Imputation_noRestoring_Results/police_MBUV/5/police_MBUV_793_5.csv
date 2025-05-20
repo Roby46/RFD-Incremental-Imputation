@@ -1,0 +1,794 @@
+riga;nome attributo;valore da imputare;valore imputato
+1474;name;Justin Addler;?
+847;name;Jeffery Womack;?
+1941;name;Christian Redwine;?
+1315;name;Jose Perez;?
+1847;name;Richard Parent;?
+492;name;Spencer McCain;?
+621;name;Rafael Molina;?
+371;name;Lorenzo Hayes;?
+920;name;Joseph Jaramillo;?
+1345;name;Melissa Abbott;?
+45;name;Pablo Meza;?
+430;name;Usaama Rahim;?
+1869;name;Charles Antrup;?
+8;name;Michael Rodriguez;?
+1383;name;Demarcus Semer;?
+483;name;Adrian Simental;?
+2166;name;Jeffrey Brooks;?
+840;name;Samuel Villarreal;?
+1332;name;Melissa Boarts;?
+1926;name;Michelle Shirley;?
+256;name;Robert Washington;?
+2195;name;Michael Jacques;?
+953;name;Darick Napper;?
+914;name;Bendetta Lynn Miller;?
+1122;name;Vasilios Katsouras;?
+1605;name;Sam Newby;?
+124;name;Pedro Pete Juan Saldivar;?
+429;name;James Morris;?
+315;name;Jose Herrera;?
+1537;name;Ronald Delfino;?
+1038;name;Derek DeGroat;?
+1882;name;Rex Wilson;?
+627;name;Antonio Clements;?
+1894;name;Keagan Schweikle;?
+1046;name;Schuylar Gunning;?
+580;name;Jackie Brand;?
+1854;name;Robert Dapkus;?
+2045;name;Randy Cumberledge;?
+602;name;Lee Gerston;?
+1273;name;Keith Montgomery Jr;?
+332;name;Jared Johnson;?
+821;name;Donald Miller II;?
+1454;name;Mario Montoya;?
+2107;name;Willie Holderfield;?
+1396;name;Lee Easter;?
+778;name;Gerardo Ramirez;?
+107;name;Fletcher Stewart;?
+790;name;Robert Berger;?
+2050;name;Amber Lewis;?
+1946;name;Darryl Chisholm;?
+538;name;David Sarabia;?
+2159;name;Jonathan Sanders;?
+640;name;Gustavo Ponce-Galon;?
+1023;name;Mark Toney;?
+2025;name;Ashley Sides;?
+550;name;David Lepine;?
+2074;name;Shaquille Barrow;?
+1331;name;Darrin Martin;?
+540;name;Robert Hammonds;?
+1013;name;Enrique Gonzalez;?
+2013;name;Quinton Phillips;?
+555;name;Matthew Watson;?
+632;name;Vincente Montano;?
+1476;name;Alexander Larmon;?
+910;name;James Smyth;?
+1108;name;Kelsey Hauser;?
+459;name;Charles Ziegler;?
+122;name;Matthew Lundy;?
+1271;name;Teodoro Valencia;?
+1828;name;Thomas Tucker Jr;?
+1045;name;Daquan Westbrook;?
+1802;name;Terrill Thomas;?
+1929;name;Jesse Taylor;?
+607;name;Jean Paul Falgout;?
+1046;gender;Male;Male
+1142;gender;Male;Male
+59;gender;Male;Male
+1550;gender;Male;Male
+1298;gender;Male;Male
+717;gender;Male;Male
+564;gender;Male;Male
+1794;gender;Male;Male
+1516;gender;Male;Male
+1260;gender;Male;Male
+6;gender;Male;Male
+1090;gender;Male;Male
+867;gender;Male;Male
+1159;gender;Male;Male
+1068;gender;Male;Male
+1137;gender;Male;Male
+1322;gender;Female;Male
+1672;gender;Male;Male
+1652;gender;Male;Male
+292;gender;Male;Male
+476;gender;Female;Male
+1642;gender;Male;Male
+21;gender;Male;Male
+317;gender;Male;Male
+1476;gender;Male;Male
+1709;gender;Male;Male
+682;gender;Male;Male
+1116;gender;Male;Male
+805;gender;Male;Male
+1716;gender;Male;Male
+1183;gender;Male;Male
+1918;gender;Male;Male
+1363;gender;Male;Male
+1179;gender;Male;Male
+2007;gender;Male;Male
+489;gender;Male;Male
+1349;gender;Male;Male
+1779;gender;Male;Male
+1620;gender;Male;Male
+626;gender;Male;Male
+174;gender;Male;Male
+156;gender;Male;Male
+2132;gender;Male;Male
+869;gender;Male;Male
+35;gender;Male;Male
+1044;gender;Male;Male
+98;gender;Male;Male
+332;gender;Male;Male
+1488;gender;Male;Male
+782;gender;Male;Male
+635;gender;Male;Male
+2175;gender;Male;Male
+369;gender;Male;Male
+480;gender;Male;Male
+623;gender;Male;Male
+1551;gender;Male;Male
+882;gender;Male;Male
+249;gender;Male;Male
+2017;gender;Male;Male
+1226;gender;Male;Male
+127;gender;Male;Male
+700;gender;Male;Male
+2045;gender;Male;Male
+539;gender;Male;Male
+610;gender;Male;Male
+1875;gender;Male;Male
+233;gender;Male;Male
+952;gender;Male;Male
+279;gender;Male;Male
+2001;gender;Male;Male
+582;gender;Male;Male
+1555;gender;Male;Male
+1751;gender;Male;Male
+1505;gender;Male;Male
+413;gender;Male;Male
+1513;gender;Male;Male
+1904;gender;Male;Male
+3;gender;Male;Male
+514;gender;Male;Male
+663;gender;Male;Male
+771;gender;Male;Male
+438;gender;Male;Male
+2086;gender;Male;Male
+1597;gender;Male;Male
+2026;gender;Male;Male
+1761;gender;Male;Male
+739;gender;Male;Male
+1798;gender;Male;Male
+2197;gender;Female;Male
+420;gender;Male;Male
+698;gender;Male;Male
+861;gender;Male;Male
+1560;raceethnicity;Black;?
+2145;raceethnicity;White;?
+915;raceethnicity;Hispanic/Latino;?
+929;raceethnicity;White;?
+139;raceethnicity;White;White
+1737;raceethnicity;Asian/Pacific Islander;?
+742;raceethnicity;Black;?
+1317;raceethnicity;Black;?
+397;raceethnicity;Black;?
+1460;raceethnicity;Black;?
+1046;raceethnicity;White;?
+1694;raceethnicity;White;?
+170;raceethnicity;Black;?
+222;raceethnicity;White;Black
+280;raceethnicity;White;?
+674;raceethnicity;Hispanic/Latino;?
+1947;raceethnicity;White;?
+472;raceethnicity;White;?
+1919;raceethnicity;White;?
+42;raceethnicity;White;?
+1839;raceethnicity;Black;?
+1707;raceethnicity;White;?
+1161;raceethnicity;Hispanic/Latino;?
+888;raceethnicity;Hispanic/Latino;?
+1772;raceethnicity;Black;?
+321;raceethnicity;White;?
+893;raceethnicity;White;?
+1647;raceethnicity;White;?
+147;raceethnicity;Hispanic/Latino;?
+1771;raceethnicity;Unknown;?
+113;raceethnicity;White;?
+1159;raceethnicity;Hispanic/Latino;?
+1646;raceethnicity;Black;?
+2104;raceethnicity;White;?
+1195;raceethnicity;Black;?
+1554;raceethnicity;White;?
+1375;raceethnicity;White;?
+1820;raceethnicity;White;?
+974;raceethnicity;White;?
+504;raceethnicity;Black;?
+1284;raceethnicity;Hispanic/Latino;?
+1484;raceethnicity;White;?
+159;raceethnicity;White;?
+2175;raceethnicity;Black;?
+1343;raceethnicity;Black;?
+106;raceethnicity;Black;?
+208;raceethnicity;Black;?
+552;raceethnicity;Native American;?
+1312;raceethnicity;Hispanic/Latino;?
+436;raceethnicity;Black;?
+900;raceethnicity;White;?
+1186;raceethnicity;White;?
+994;raceethnicity;White;?
+46;raceethnicity;Hispanic/Latino;?
+288;raceethnicity;Hispanic/Latino;?
+891;raceethnicity;Black;?
+1167;raceethnicity;Black;?
+1918;raceethnicity;Black;?
+271;raceethnicity;Black;?
+1074;raceethnicity;Hispanic/Latino;?
+970;raceethnicity;White;?
+333;raceethnicity;White;?
+309;raceethnicity;Hispanic/Latino;?
+2024;raceethnicity;White;?
+323;raceethnicity;White;White
+2016;raceethnicity;White;?
+429;raceethnicity;White;?
+1592;raceethnicity;White;?
+1407;raceethnicity;Black;?
+1753;raceethnicity;White;?
+2075;raceethnicity;Black;?
+32;raceethnicity;White;?
+2131;raceethnicity;White;?
+1090;raceethnicity;White;?
+1345;raceethnicity;White;?
+1261;raceethnicity;White;?
+461;raceethnicity;White;?
+623;raceethnicity;White;?
+1398;raceethnicity;White;?
+1537;raceethnicity;Hispanic/Latino;?
+2010;raceethnicity;Black;?
+1443;raceethnicity;Black;?
+618;raceethnicity;White;?
+806;raceethnicity;Hispanic/Latino;?
+1341;raceethnicity;White;?
+828;raceethnicity;Black;?
+1095;raceethnicity;White;?
+55;raceethnicity;Hispanic/Latino;?
+123;raceethnicity;White;Black
+721;raceethnicity;White;?
+1472;raceethnicity;White;?
+490;raceethnicity;White;?
+418;raceethnicity;White;?
+302;raceethnicity;Hispanic/Latino;?
+502;raceethnicity;White;?
+1169;raceethnicity;White;?
+580;raceethnicity;White;?
+2204;city;Pearland;?
+613;city;Las Cruces;?
+704;city;Los Angeles;?
+851;city;York;?
+1021;city;Gilroy;?
+1140;city;Burns;?
+2084;city;Rufe;?
+809;city;Rapid City;?
+455;city;Dallas;?
+1031;city;Hemet;?
+2022;city;Hutchinson;?
+393;city;Green;?
+1228;city;Glendale;?
+1435;city;New York;?
+1148;city;Omaha;?
+891;city;Houston;?
+1258;city;Topeka;?
+1289;city;Charlotte;?
+152;city;La Paz County;?
+1793;city;Pompano Beach;?
+907;city;Hominy;?
+358;city;Beacon;?
+1198;city;Los Angeles;?
+1785;city;Titusville;?
+1755;city;Tampa;?
+1172;city;Bakersfield;?
+2156;city;Fort Totten;?
+61;city;Denver;?
+74;city;Houston;?
+2184;city;Boulder;?
+1431;city;Union;?
+173;city;Phoenix;Phoenix
+1626;city;Syracuse;?
+1922;city;Boston;?
+255;city;Hamilton Township;?
+1930;city;Salisbury;?
+2057;city;Arlington;?
+433;city;Houston;?
+1355;city;Benton;?
+22;city;South Gate;South Gate
+610;city;Cleveland;?
+2190;city;Stockton;?
+1087;city;Ragley;?
+1829;city;Louisville;?
+2081;city;Boulder City;?
+751;city;Potsdam;?
+1563;city;Gainesville;?
+2042;city;Greenwood;?
+1164;city;Phenix City;?
+1413;city;Milwaukee;?
+1749;city;Raleigh;?
+243;city;Fort Ashby;?
+681;city;Tuscaloosa;?
+2034;city;Shenandoah;?
+604;city;Las Vegas;?
+1601;city;Scurry;?
+171;city;Putnam Hall;?
+1702;city;Harlan;?
+459;city;Pompano Beach;?
+1454;city;Albuquerque;?
+18;city;Salt Lake City;?
+383;city;Columbia;?
+975;city;Sun City;?
+989;city;Deming;?
+1582;city;Madison;?
+1659;city;Tempe;?
+778;city;Dallas;?
+738;city;Merrimack;?
+1822;city;Spring;?
+790;city;Salt Lake City;?
+1209;city;Santa Ana;?
+1088;city;Clifton Heights;?
+2036;city;Hoquiam;?
+1312;city;Albuquerque;?
+900;city;Springfield;?
+1628;city;Birmingham;?
+2043;city;Sumter;?
+1756;city;Harker Heights;?
+996;city;Yonkers;?
+1759;city;Denver;?
+1111;city;Belle Glade;?
+1275;city;Piedmont;?
+1574;city;Laguna;?
+1036;city;Denver;?
+2008;city;Lynn;?
+447;city;Woodland;?
+96;city;Fairfax;?
+690;city;Arab;?
+929;city;Albertville;?
+1775;city;Atlantic City;?
+1876;city;Seattle;?
+1565;city;Fresno;?
+1836;city;Houston;?
+2197;city;Lake Wales;?
+467;city;Louisville;?
+1263;city;Carlsbad;?
+1032;city;Amarillo;?
+398;city;Charleston;?
+482;city;Houston;?
+1606;city;Falcon Heights;?
+1602;state;DC;?
+1050;state;CA;?
+869;state;CA;?
+33;state;IN;AZ
+1207;state;OH;?
+1931;state;PA;?
+146;state;GA;?
+1483;state;CA;?
+2172;state;TX;?
+1590;state;CA;?
+1356;state;TX;?
+487;state;CA;?
+1795;state;DC;?
+531;state;NH;?
+1275;state;AL;?
+951;state;FL;?
+553;state;FL;?
+1078;state;NJ;?
+1978;state;MO;?
+1827;state;TN;?
+1497;state;FL;?
+2021;state;OR;?
+1665;state;IL;?
+786;state;FL;?
+912;state;DC;DC
+1718;state;WV;?
+1513;state;PA;?
+1901;state;NV;?
+549;state;GA;GA
+770;state;CA;?
+124;state;TX;?
+1601;state;TX;?
+558;state;CA;?
+1335;state;MA;?
+665;state;IN;?
+1446;state;OR;?
+935;state;CA;?
+2036;state;WA;?
+1381;state;AZ;?
+782;state;CA;?
+1138;state;NV;?
+3;state;HI;HI
+183;state;CA;?
+1063;state;CA;?
+1814;state;NC;?
+1328;state;TX;?
+1241;state;AL;?
+1008;state;PA;?
+188;state;TN;?
+643;state;CA;?
+1938;state;IL;?
+387;state;OH;?
+403;state;MO;?
+884;state;TX;?
+1391;state;CO;?
+256;state;CA;?
+2169;state;OK;?
+2095;state;CA;?
+1422;state;AR;?
+1466;state;NM;?
+1654;state;IN;?
+2159;state;MS;?
+265;state;IL;?
+1382;state;WI;?
+1330;state;WI;?
+2096;state;IN;?
+1544;state;NY;?
+1580;state;WY;?
+1365;state;NY;?
+1599;state;CA;?
+336;state;CA;?
+171;state;FL;?
+1111;state;FL;?
+625;state;MI;?
+1278;state;IL;?
+414;state;CA;?
+1319;state;MO;?
+341;state;TN;?
+2064;state;TN;?
+664;state;MD;?
+1958;state;OK;?
+1437;state;AZ;?
+1763;state;CT;?
+2039;state;PA;?
+367;state;WA;WA
+118;state;MI;?
+673;state;TX;TX
+1223;state;TX;?
+677;state;WA;?
+1248;classification;Gunshot;?
+1449;classification;Gunshot;?
+424;classification;Gunshot;?
+771;classification;Gunshot;?
+1060;classification;Death in custody;?
+1036;classification;Gunshot;?
+1741;classification;Gunshot;?
+1829;classification;Gunshot;?
+93;classification;Gunshot;?
+299;classification;Gunshot;?
+1474;classification;Death in custody;?
+1911;classification;Gunshot;?
+719;classification;Gunshot;?
+1588;classification;Gunshot;Struck by vehicle
+1448;classification;Gunshot;?
+353;classification;Struck by vehicle;Struck by vehicle
+256;classification;Gunshot;?
+2168;classification;Gunshot;?
+1839;classification;Gunshot;?
+1485;classification;Taser;?
+2021;classification;Gunshot;?
+1344;classification;Gunshot;?
+753;classification;Gunshot;?
+1236;classification;Gunshot;?
+448;classification;Gunshot;?
+191;classification;Gunshot;?
+1460;classification;Gunshot;?
+1415;classification;Gunshot;?
+891;classification;Gunshot;?
+592;classification;Struck by vehicle;?
+1091;classification;Gunshot;?
+383;classification;Gunshot;?
+505;classification;Gunshot;?
+1233;classification;Gunshot;?
+1524;classification;Gunshot;?
+1784;classification;Gunshot;?
+1778;classification;Gunshot;Gunshot
+1648;classification;Gunshot;?
+849;classification;Gunshot;?
+1165;classification;Gunshot;?
+1919;classification;Gunshot;?
+935;classification;Gunshot;?
+1352;classification;Gunshot;?
+892;classification;Gunshot;?
+746;classification;Gunshot;?
+1608;classification;Gunshot;?
+797;classification;Gunshot;?
+1304;classification;Gunshot;?
+2005;classification;Gunshot;?
+1900;classification;Gunshot;?
+677;classification;Gunshot;?
+554;classification;Gunshot;?
+750;classification;Death in custody;?
+1054;classification;Gunshot;?
+1811;classification;Gunshot;?
+1617;classification;Gunshot;?
+641;classification;Gunshot;?
+1137;classification;Gunshot;Gunshot
+1298;classification;Gunshot;?
+404;classification;Gunshot;?
+676;classification;Gunshot;?
+371;classification;Death in custody;?
+720;classification;Struck by vehicle;?
+916;classification;Gunshot;?
+1729;classification;Gunshot;?
+1868;classification;Gunshot;?
+890;classification;Gunshot;?
+1210;classification;Gunshot;?
+1843;classification;Gunshot;?
+920;classification;Gunshot;?
+1738;classification;Gunshot;?
+1870;classification;Gunshot;?
+2018;classification;Gunshot;?
+850;classification;Gunshot;?
+1070;classification;Taser;?
+806;classification;Gunshot;?
+2081;classification;Gunshot;?
+2062;classification;Gunshot;Gunshot
+547;classification;Taser;?
+908;classification;Gunshot;?
+347;classification;Gunshot;?
+1397;classification;Gunshot;?
+1575;classification;Gunshot;?
+433;lawenforcementagency;Houston Police Department;?
+68;lawenforcementagency;Rosenberg Police Department;?
+227;lawenforcementagency;Whitley County Sheriffs Department Kentucky State Police;?
+1210;lawenforcementagency;Santa Ana Police Department;?
+1806;lawenforcementagency;Los Angeles County Sheriffs Department;?
+231;lawenforcementagency;Wisconsin State Police;?
+111;lawenforcementagency;Pennsylvania State Police;?
+443;lawenforcementagency;Midland Police Department;?
+579;lawenforcementagency;University of Cincinnati Police Department;?
+1236;lawenforcementagency;Montgomery Police Department;?
+541;lawenforcementagency;Tampa Police Department;?
+47;lawenforcementagency;Maricopa Police Department;?
+1503;lawenforcementagency;Westminster Police Department;?
+1078;lawenforcementagency;Trenton Police Department;?
+2182;lawenforcementagency;North Carolina State Highway Patrol;?
+949;lawenforcementagency;Harris County Sheriffs Office;?
+939;lawenforcementagency;Whitfield County Sheriffs Office;?
+418;lawenforcementagency;Lancaster County Sheriffs Department;?
+1432;lawenforcementagency;Jacksonville Sheriffs Office;?
+2156;lawenforcementagency;Spirit Lake Tribal Police Department;?
+1786;lawenforcementagency;Albany Police Department;?
+138;lawenforcementagency;Catasauqua Police Department;?
+1324;lawenforcementagency;Virginia State Police;?
+1226;lawenforcementagency;Harris County Constables Office;?
+339;lawenforcementagency;Atlanta Police Department;?
+2068;lawenforcementagency;Union County Sheriffs Office;?
+1826;lawenforcementagency;Charlotte-Mecklenburg Police Department;?
+1149;lawenforcementagency;Tacoma Police Department;?
+846;lawenforcementagency;Los Angeles County Sheriffs Department;?
+1859;lawenforcementagency;Phoenix Police Department;?
+1675;lawenforcementagency;Lexington County Sheriffs Department;?
+958;lawenforcementagency;Fontana Police Department;?
+1079;lawenforcementagency;New Paltz Police Department;?
+1372;lawenforcementagency;Cobb County Police Department;?
+1254;lawenforcementagency;South Gate Police Department;?
+2023;lawenforcementagency;Lake County Sheriffs Office;?
+54;lawenforcementagency;Lauderhill Police Department;?
+868;lawenforcementagency;Cape Coral Police Department;?
+1243;lawenforcementagency;Raleigh Police Department;?
+1694;lawenforcementagency;Pickaway County Sheriffs Office;?
+2100;lawenforcementagency;Columbus Police Department;?
+1194;lawenforcementagency;Texas Department of Public Safety;?
+1747;lawenforcementagency;Nevada Highway Patrol;?
+1752;lawenforcementagency;Redmond Police Department;?
+995;lawenforcementagency;Tallahassee Police Department;?
+2005;lawenforcementagency;Terrebonne Parish Sheriffs Office;?
+1838;lawenforcementagency;Baltimore County Police Department;?
+1325;lawenforcementagency;Baltimore Police Department;?
+1854;lawenforcementagency;Lynn Police Department;?
+1984;lawenforcementagency;Granville County Sheriffs Office;?
+605;lawenforcementagency;Shreveport Police Department;?
+2166;lawenforcementagency;Mineola Police Department;?
+1393;lawenforcementagency;Miami Police Department;?
+462;lawenforcementagency;Hackensack Police Department;?
+1283;lawenforcementagency;Los Angeles County Sheriffs Department;?
+1347;lawenforcementagency;Modesto Police Department;?
+2073;lawenforcementagency;Riverside County Sheriffs Department;?
+924;lawenforcementagency;San Francisco Police Department;?
+1926;lawenforcementagency;Torrance Police Department;?
+73;lawenforcementagency;Omaha Police Department;?
+1338;lawenforcementagency;Sumner County Sheriffs Office;?
+1973;lawenforcementagency;Chickasha Police Department;?
+1573;lawenforcementagency;Bleckley County Sheriffs Office;?
+127;lawenforcementagency;Yuba County Sheriffs Office;?
+277;lawenforcementagency;Creek County Sheriffs Department and Bristow Police Department;?
+1549;lawenforcementagency;Greenfield Police Department;?
+1986;lawenforcementagency;Pinellas County Sheriffs Office;?
+66;lawenforcementagency;Clifton Police Department and Greenlee County Sheriffs Office;?
+1650;lawenforcementagency;San Antonio Police Department;?
+2017;lawenforcementagency;Jefferson Parish Sheriffs Office;?
+777;lawenforcementagency;Harrisonburg Police Department;?
+463;lawenforcementagency;Bexar County Sheriffs Office;?
+34;lawenforcementagency;Louisiana State Police;?
+930;lawenforcementagency;Hohenwald Police Department Lewis County Sheriffs Department;?
+225;armed;Firearm;?
+383;armed;Firearm;?
+1155;armed;Knife;?
+1136;armed;No;?
+2091;armed;Other;?
+972;armed;Firearm;?
+1562;armed;Firearm;?
+958;armed;Knife;?
+808;armed;Firearm;?
+1683;armed;No;?
+1283;armed;No;?
+1916;armed;Firearm;?
+1788;armed;Firearm;?
+1858;armed;Firearm;?
+1685;armed;Knife;?
+953;armed;Knife;?
+724;armed;No;?
+985;armed;Firearm;?
+523;armed;No;?
+1108;armed;No;?
+390;armed;Firearm;?
+1168;armed;Non-lethal firearm;?
+1759;armed;No;?
+1304;armed;Firearm;?
+1919;armed;Firearm;?
+1867;armed;Vehicle;?
+1196;armed;No;?
+1625;armed;No;?
+1818;armed;Firearm;?
+1093;armed;Knife;?
+1603;armed;Disputed;?
+1127;armed;Firearm;?
+1739;armed;Firearm;?
+659;armed;Firearm;?
+2161;armed;Firearm;?
+1580;armed;No;?
+529;armed;Vehicle;?
+1333;armed;Knife;?
+567;armed;Firearm;?
+2037;armed;Unknown;?
+2185;armed;Firearm;?
+1640;armed;No;?
+1993;armed;Unknown;?
+755;armed;Firearm;?
+1102;armed;No;?
+244;armed;Firearm;?
+1535;armed;Unknown;?
+41;armed;Other;?
+2189;armed;Firearm;?
+928;armed;No;?
+6;armed;Non-lethal firearm;?
+185;armed;Firearm;?
+1756;armed;Unknown;?
+1109;armed;Knife;?
+1295;armed;Knife;?
+1467;armed;Firearm;?
+1664;armed;Firearm;?
+341;armed;Firearm;?
+87;armed;Firearm;?
+712;armed;Knife;?
+1486;armed;Unknown;?
+2101;armed;Unknown;?
+1576;armed;Non-lethal firearm;?
+860;armed;Knife;?
+1173;armed;Firearm;?
+268;armed;Firearm;?
+612;armed;Knife;?
+1810;armed;No;?
+770;armed;Knife;?
+828;armed;Firearm;?
+82;armed;Firearm;?
+1459;armed;Firearm;?
+1598;armed;Unknown;?
+1628;armed;No;?
+196;armed;Knife;?
+1823;armed;Firearm;?
+1429;armed;Firearm;?
+205;armed;No;?
+1680;armed;Firearm;?
+856;armed;Firearm;?
+960;armed;Firearm;?
+1218;armed;Unknown;?
+932;armed;Firearm;?
+2104;armed;Firearm;?
+1204;armed;No;?
+65;armed;Vehicle;?
+660;armed;Unknown;?
+2038;armed;Firearm;?
+1765;armed;No;?
+2112;armed;No;?
+1343;armed;Knife;?
+1331;armed;Firearm;?
+1862;armed;Unknown;?
+905;armed;Firearm;?
+195;county;los angeles;los angeles
+1317;county;lenoir;?
+1390;county;guadalupe;?
+888;county;dallas;?
+665;county;jefferson;?
+531;county;grafton;?
+1665;county;cook;?
+972;county;kern;?
+1012;county;hamilton;?
+1521;county;iredell;?
+1064;county;weld;?
+1977;county;bexar;bexar
+387;county;franklin;?
+1786;county;dougherty;?
+60;county;camden;?
+1338;county;sumner;?
+362;county;oswego;?
+754;county;washington;?
+1477;county;deschutes;?
+1275;county;calhoun;?
+833;county;ector;?
+816;county;carroll;?
+1790;county;merced;?
+1062;county;los angeles;?
+821;county;monterey;?
+1299;county;chittenden;?
+1074;county;winkler;?
+602;county;stokes;?
+148;county;harrison;?
+738;county;hillsborough;?
+188;county;shelby;?
+1953;county;mesa;?
+1562;county;grant;?
+1466;county;bernalillo;?
+1171;county;hawaii;?
+291;county;sullivan;?
+632;county;davidson;?
+1781;county;douglas;?
+542;county;cook;?
+1982;county;durham;?
+1278;county;de witt;?
+1999;county;los angeles;?
+960;county;denver;?
+191;county;baldwin;?
+804;county;miami dade;?
+1959;county;pima;?
+484;county;wilkes;?
+923;county;santa clara;?
+1041;county;chittenden;?
+1635;county;san bernardino;?
+1473;county;miami dade;?
+884;county;nueces;?
+1874;county;orange;?
+851;county;york;?
+836;county;bartow;?
+541;county;hillsborough;?
+1110;county;los angeles;?
+1189;county;franklin;?
+739;county;wayne;?
+1792;county;king;?
+2192;county;district of columbia;?
+806;county;denton;?
+371;county;spokane;?
+829;county;essex;?
+865;county;kent;?
+129;county;jefferson;jefferson
+372;county;kalamazoo;?
+1826;county;mecklenburg;?
+1810;county;chittenden;?
+1793;county;broward;?
+830;county;san bernardino;?
+1924;county;roger mills;?
+1381;county;maricopa;?
+1935;county;clallam;?
+121;county;middlesex;?
+401;county;el paso;el paso
+1984;county;wake;?
+1264;county;johnston;?
+1709;county;solano;?
+1374;county;blount;?
+1783;county;washington;?
+1221;county;matanuska susitna;?
+283;county;tehama;?
+1565;county;fresno;?
+870;county;kenosha;?
+828;county;greenville;?
+1342;county;lincoln;?
+1865;county;rapides;?
+947;county;miami dade;?
+159;county;george;?
