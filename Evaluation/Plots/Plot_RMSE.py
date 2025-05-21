@@ -40,7 +40,7 @@ def plot_rmse_results(datasets, ncols=2):
     nrows = (num_datasets + ncols - 1) // ncols  # Formula per arrotondare verso l'alto
 
     #fig, axs = plt.subplots(nrows, ncols, figsize=(13, 6), sharey=True, sharex=True)
-    fig, axs = plt.subplots(nrows, ncols, figsize=(22, 8), sharey=True, sharex=True)
+    fig, axs = plt.subplots(nrows, ncols, figsize=(22, 12), sharey=True, sharex=True)
     # Modifica degli spazi orizzontali e verticali
     fig.subplots_adjust(hspace=0.20, wspace=0.04)  # Riduci hspace e wspace
 
@@ -96,7 +96,7 @@ def plot_rmse_results(datasets, ncols=2):
 
 filepath = '../ALL_Results_v3.csv'
 selected_datasets = ['actorfilms_4000', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', "superstore_4500", "police", "IoT_Telemetry3000",
-                     "F1_REBUILT_5000", "MotoGP_REBUILT_3000", "Med_Ch_2500", "Air_9000", "cars_MNAR" , "cars_MBUV", 'cars', "Boeing_898_MNAR", "Boeing_898_MBUV", 'Boeing_898', "restaurant_MNAR", "restaurant_MBUV", 'restaurant', 'police_MBUV']  # Aggiungi altri dataset qui
+                     "F1_REBUILT_5000", "MotoGP_REBUILT_3000", "Med_Ch_2500", "Air_9000", "cars_MNAR" , "cars_MBUV", 'cars', "Boeing_898_MNAR", "Boeing_898_MBUV", 'Boeing_898', "restaurant_MNAR", "restaurant_MBUV", 'restaurant', 'police_MBUV', 'Cats_1071']  # Aggiungi altri dataset qui
 datasets = load_rmse_data(filepath, selected_datasets)
 print(datasets)
 plot_rmse_results(datasets, ncols=4)

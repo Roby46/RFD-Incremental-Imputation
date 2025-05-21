@@ -80,7 +80,7 @@ reevaluation=False #solo per la pipeline. Per i baseline ed il generator non imp
 #missing_values = [37, 73, 110, 146, 183, 365, 731, 1096, 1462, 1827] # cars
 #missing_values = [52, 104, 156, 207, 259, 518, 1037, 1555, 2074, 2592] # restaurant
 #missing_values = [90, 180, 269, 359, 449, 898, 1796, 2694, 3592, 4490] #Boeing 898
-#missing_values = [100 ,200 ,300 ,400 ,499 ,999,1998,2996,3995,4994] #Student_908
+missing_values = [107, 214 ,321 ,428 ,536 ,1071,2142,3213,4284,5355] #Cats
 #missing_values = [198, 397, 595, 793, 992, 1984, 3967, 5951, 7934, 9918] # police
 #missing_values = [240, 480, 720, 960,1200, 2400, 4800, 7200, 9600, 12000] # IoT_Telemetry_3000
 #missing_values = [280,560,840,1120,1400,2800,5600,8400,11200,14000] #Actors
@@ -93,7 +93,7 @@ reevaluation=False #solo per la pipeline. Per i baseline ed il generator non imp
 #missing_values=  [495,990,1485,1980,2475,4950,9900,14850,19800,24750] #Superstore
 #missing_values = [1170,2340,3510,4680,5850,11700,23400,35100,46800,58500] #Air
 
-
+#missing_values = [100 ,200 ,300 ,400 ,499 ,999,1998,2996,3995,4994] #Student_908
 #missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
 #missing_values = [900, 1800, 2700, 3600, 4500, 9000, 18000, 27000, 36000, 45000] #Olympics_7500
 #missing_values = [82, 165, 247, 329, 412, 823, 1646, 2469, 3292, 4115] #Smartphones
@@ -111,7 +111,6 @@ reevaluation=False #solo per la pipeline. Per i baseline ed il generator non imp
 #missing_values = [360, 720, 1080, 1440,1800, 3600, 7200, 10800, 14400, 18000] # S4-ADL5
 #missing_values = [225,450,675,900,1125,2250,4500,6750,9000,11250] #Pollution_1500
 #missing_values = [385 ,770 ,1155,1540,1925,3850,7700,11550 ,15400 ,19250] #cancer
-missing_values = [107, 214 ,321 ,428 ,536 ,1071,2142,3213,4284,5355] #Cats
 
 print(algoritmo)
 

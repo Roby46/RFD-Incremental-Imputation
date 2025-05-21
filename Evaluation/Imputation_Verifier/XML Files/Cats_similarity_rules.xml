@@ -1,0 +1,15 @@
+<similarity_rules>
+    <attr name="Age_in_years" type="delta">
+        <value>0.2</value>
+    </attr>
+    <attr name="Age_in_months" type="delta">
+        <value>1</value>
+    </attr>
+    <attr name="Body_length" type="delta">
+        <value>2</value>
+    </attr>
+       <attr name="Weight" type="delta">
+        <value>0.2</value>
+    </attr>
+</similarity_rules>
+

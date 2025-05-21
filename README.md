@@ -114,7 +114,6 @@ After the previous steps have been completed, the imputation can be started. To 
 
 #### 2.1 Configuration
 
-
 All the Java executables require the following arguments:
 - Dataset name: the name of the dataset, including the file extension
 - Delimiter: the symbol used as delimiter in the csv file
