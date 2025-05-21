@@ -3,31 +3,49 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MultipleLocator
 
-def load_rmse_data(filepath, selected_datasets):
+def load_rmse_data(filepath, selected_datasets, dataset_name_map):
+    """
+    Carica i dati RMSE da un file CSV, applicando una mappatura ai nomi dei dataset.
+
+    Parameters:
+    - filepath: path al file CSV
+    - selected_datasets: lista dei nomi 'test' dei dataset da includere
+    - dataset_name_map: dizionario che mappa i nomi 'test' a quelli effettivi nel CSV
+
+    Returns:
+    - Dizionario annidato {nome_dataset_mappato: {algoritmo: [rmse_mean_per_mv]}}
+    """
+    import pandas as pd
+
     df = pd.read_csv(filepath, sep=';')
+
+    # Applichiamo la mappatura dei nomi nel DataFrame
+    df['dataset'] = df['dataset'].replace(dataset_name_map)
+
     datasets = {}
 
-    for dataset_name in selected_datasets:
-        if dataset_name in df['dataset'].unique():
-            df_dataset = df[df['dataset'] == dataset_name]
+    for test_name in selected_datasets:
+        mapped_name = dataset_name_map.get(test_name, test_name)  # Usa il nome mappato se esiste
+
+        if mapped_name in df['dataset'].unique():
+            df_dataset = df[df['dataset'] == mapped_name]
             rmse_results = {}
             algorithms = df_dataset['algoritmo'].unique()
 
             for algorithm in algorithms:
                 df_algorithm = df_dataset[df_dataset['algoritmo'] == algorithm]
                 rmse_means = []
-                mv_percentages = df_algorithm['MV'].unique()
+                mv_percentages = sorted(df_algorithm['MV'].unique())
 
-                # Calcolare la media RMSE per ciascuna percentuale di valori mancanti
-                for mv in sorted(mv_percentages):
+                for mv in mv_percentages:
                     rmse_mean = df_algorithm[df_algorithm['MV'] == mv]['rmse'].mean()
                     rmse_means.append(rmse_mean)
 
                 rmse_results[algorithm] = rmse_means
 
-            datasets[dataset_name] = rmse_results
+            datasets[mapped_name] = rmse_results  # Usa il nome 'test' come chiave finale
         else:
-            print(f"Warning: Il dataset '{dataset_name}' non è presente nel file CSV.")
+            print(f"Warning: Il dataset '{test_name}' (mappato in '{mapped_name}') non è presente nel file CSV.")
 
     return datasets
 
@@ -103,6 +121,33 @@ selected_datasets = ['cars', 'restaurant', 'Boeing_898', 'Cats_1071', 'police', 
 
 #selected_datasets = ['cars_MNAR', 'cars_MBUV', 'restaurant_MNAR', 'restaurant_MBUV', 'Boeing_898_MNAR', 'Boeing_898_MBUV', 'police_MNAR', 'police_MBUV']
 
-datasets = load_rmse_data(filepath, selected_datasets)
+dataset_name_map = {
+    'cars': 'Cars',
+    'restaurant': 'Restaurant',
+    'Boeing_898': 'Boeing',
+    'Cats_1071': 'Cats',
+    'police': 'Police',
+    'IoT_Telemetry3000': 'IoT_Telemetry',
+    'actorfilms_4000': 'Actors',
+    'Med_Ch_2500': 'Medical Charges',
+    'F1_REBUILT_5000': 'F1',
+    'MotoGP_REBUILT_3000': 'MotoGP',
+    'US_Presidents_3754': 'US Presidents',
+    'NBA_3200': 'NBA',
+    'EV_Vehicles_4000': 'EV Vehicles',
+    'superstore_4500': 'Superstore',
+    'Air_9000': 'Air Quality',
+    'cars_MNAR': 'Cars_MNAR',
+    'cars_MBUV': 'Cars_MBUV',
+    'restaurant_MNAR': 'restaurant_MNAR',
+    'restaurant_MBUV': 'restaurant_MBUV',
+    'Boeing_898_MNAR': 'Boeing_MNAR',
+    'Boeing_898_MBUV': 'Boeing_MBUV',
+    'police_MNAR': 'police_MNAR',
+    'police_MBUV': 'police_MBUV'
+}
+
+datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)
 print(datasets)
+
 plot_rmse_results(datasets, ncols=5)

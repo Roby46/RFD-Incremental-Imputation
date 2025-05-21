@@ -3,13 +3,18 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MultipleLocator
 
-def load_rmse_data(filepath, selected_datasets):
+def load_rmse_data(filepath, selected_datasets, dataset_name_map):
     df = pd.read_csv(filepath, sep=';')
+    df['dataset'] = df['dataset'].replace(dataset_name_map)
+
+
     datasets = {}
 
     for dataset_name in selected_datasets:
-        if dataset_name in df['dataset'].unique():
-            df_dataset = df[df['dataset'] == dataset_name]
+        mapped_name = dataset_name_map.get(dataset_name, dataset_name)  # Usa il nome mappato se esiste
+
+        if mapped_name in df['dataset'].unique():
+            df_dataset = df[df['dataset'] == mapped_name]
             rmse_results = {}
             algorithms = df_dataset['algoritmo'].unique()
 
@@ -18,7 +23,7 @@ def load_rmse_data(filepath, selected_datasets):
                 rmse_values = df_algorithm['metric1'].tolist()
                 rmse_results[algorithm] = rmse_values
 
-            datasets[dataset_name] = rmse_results
+            datasets[mapped_name] = rmse_results
         else:
             print(f"Warning: Il dataset '{dataset_name}' non è presente nel file CSV.")
 
@@ -86,7 +91,36 @@ def plot_rmse_results(datasets, ncols=2):
 
 # Esempio di utilizzo
 filepath = '../ALL_Results_metric1.csv'  # Modifica con il percorso del tuo CSV
-selected_datasets = ['Boeing_898', 'actorfilms_4000', 'restaurant', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', 'cars', "superstore_4500", "police", "IoT_Telemetry3000", "F1_REBUILT_5000", "MotoGP_REBUILT_3000", "Med_Ch_2500", "Air_9000", "restaurant_MNAR", "cars_MNAR", "Boeing_898_MNAR", "cars_MBUV", "Boeing_898_MBUV", "restaurant_MBUV"]  # Aggiungi altri dataset qui
-datasets = load_rmse_data(filepath, selected_datasets)  # Carica i dati RMSE
+selected_datasets = ['cars', 'restaurant', 'Boeing_898', 'Cats_1071', 'police', 'IoT_Telemetry3000', 'actorfilms_4000', "Med_Ch_2500",  "F1_REBUILT_5000", "MotoGP_REBUILT_3000", 'US_Presidents_3754', 'NBA_3200', 'EV_Vehicles_4000', "superstore_4500","Air_9000"]
+
+
+dataset_name_map = {
+    'cars': 'Cars',
+    'restaurant': 'Restaurant',
+    'Boeing_898': 'Boeing',
+    'Cats_1071': 'Cats',
+    'police': 'Police',
+    'IoT_Telemetry3000': 'IoT_Telemetry',
+    'actorfilms_4000': 'Actors',
+    'Med_Ch_2500': 'Medical Charges',
+    'F1_REBUILT_5000': 'F1',
+    'MotoGP_REBUILT_3000': 'MotoGP',
+    'US_Presidents_3754': 'US Presidents',
+    'NBA_3200': 'NBA',
+    'EV_Vehicles_4000': 'EV Vehicles',
+    'superstore_4500': 'Superstore',
+    'Air_9000': 'Air Quality',
+    'cars_MNAR': 'Cars_MNAR',
+    'cars_MBUV': 'Cars_MBUV',
+    'restaurant_MNAR': 'restaurant_MNAR',
+    'restaurant_MBUV': 'restaurant_MBUV',
+    'Boeing_898_MNAR': 'Boeing_MNAR',
+    'Boeing_898_MBUV': 'Boeing_MBUV',
+    'police_MNAR': 'police_MNAR',
+    'police_MBUV': 'police_MBUV'
+}
+
+
+datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)  # Carica i dati RMSE
 print(datasets)
 plot_rmse_results(datasets, ncols=4)  # Mostra i risultati, specificando il numero di colonne
