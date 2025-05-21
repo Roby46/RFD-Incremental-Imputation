@@ -370,8 +370,7 @@ def checkResults(version, approach, MV,xml_file):
     write_unique_row_to_csv(all_results_path, row_data)
 
 
-approaches=["Pipeline","Baseline20"]#"Pipeline_noRev"] #,"","Hybrid"]
-#approaches=["Baseline20"]
+approaches=["Pipeline_noRev","Hybrid"]
 versions=[1,2,3,4,5]
 MVs =  [107, 214 ,321 ,428 ,536 ,1071,2142,3213,4284,5355]
 for version in versions:
