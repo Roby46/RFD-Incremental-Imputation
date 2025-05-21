@@ -69,9 +69,9 @@ versions = [1, 2, 3, 4, 5]
 heap_size_gb=64
 
 #Scelta delle pipeline
-#algoritmo="Pipeline"
+algoritmo="Pipeline"
 #algoritmo="RFD_Generator"
-algoritmo="Baseline"
+#algoritmo="Baseline"
 #algoritmo="baseline2"
 reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
