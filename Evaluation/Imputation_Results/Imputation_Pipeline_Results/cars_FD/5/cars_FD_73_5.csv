@@ -1,0 +1,74 @@
+riga;nome attributo;valore da imputare;valore imputato
+368;Cylinders;4;4
+384;Horsepower;74.00;?
+75;Displacement;429.0;?
+129;MPG;15.0;?
+367;MPG;28.1;?
+276;Displacement;119.0;?
+404;Model;82;?
+393;MPG;32.0;?
+98;Horsepower;198.0;?
+220;Displacement;350.0;?
+147;Model;74;?
+374;Model;81;?
+43;MPG;17.0;?
+301;Acceleration;14.0;?
+351;Origin;Japan;?
+190;Cylinders;4;?
+359;Car;Ford Escort 4W;?
+309;Cylinders;4;4
+110;Cylinders;4;4
+257;Acceleration;15.5;?
+263;Horsepower;88.00;?
+347;Origin;US;US
+289;Model;79;?
+17;Horsepower;160.0;?
+183;Acceleration;14.0;14.2
+351;Cylinders;4;4
+332;MPG;40.8;?
+175;Origin;Japan;Japan
+403;Weight;2130.;?
+395;Displacement;181.0;?
+318;Cylinders;4;4
+88;Car;Ford Pinto (sw);?
+293;Cylinders;8;8
+198;MPG;14.5;?
+284;Displacement;121.0;?
+245;Weight;2051.;?
+15;Origin;US;US
+159;Origin;Europe;Japan
+187;Cylinders;4;4
+194;Horsepower;83.00;?
+146;Acceleration;13.5;?
+400;Horsepower;84.00;?
+406;MPG;31.0;?
+201;Displacement;200.0;?
+377;MPG;27.0;?
+262;Origin;US;?
+332;Horsepower;65.00;?
+174;Weight;3169.;?
+53;MPG;18.0;?
+170;Horsepower;110.0;?
+61;Displacement;71.00;?
+13;Displacement;351.0;?
+99;Horsepower;150.0;?
+180;Displacement;90.00;?
+107;Origin;US;US
+39;Cylinders;4;?
+318;Weight;1968.;?
+149;Acceleration;16.5;?
+405;Cylinders;4;4
+284;Origin;Europe;?
+15;MPG;0;?
+99;MPG;13.0;?
+132;Acceleration;11.0;?
+385;Car;Mazda GLC Custom l;?
+59;Displacement;79.00;?
+104;Car;AMC Ambassador Brougham;?
+77;Weight;4456.;?
+115;Car;AMC Gremlin;?
+80;Horsepower;150.0;?
+63;Displacement;97.00;?
+230;Origin;US;?
+300;Cylinders;8;8
+298;Horsepower;142.0;?
