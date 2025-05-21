@@ -1,0 +1,26 @@
+<similarity_rules>
+    <attr name="age" type="delta">
+        <value>1</value>
+    </attr>
+    <attr name="study_hours_per_day" type="delta">
+        <value>0.2</value>
+    </attr>
+    <attr name="social_media_hours" type="delta">
+        <value>0.2</value>
+    </attr>
+    <attr name="netflix_hours" type="delta">
+        <value>0.2</value>
+    </attr>
+    <attr name="attendance_percentage" type="delta">
+        <value>4</value>
+    </attr>
+    <attr name="sleep_hours" type="delta">
+        <value>0.2</value>
+    </attr>
+    <attr name="exercise_frequency" type="delta">
+        <value>0.2</value>
+    </attr>
+    <attr name="exam_score" type="delta">
+        <value>5</value>
+    </attr>
+</similarity_rules>

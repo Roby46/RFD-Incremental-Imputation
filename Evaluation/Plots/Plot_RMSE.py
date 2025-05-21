@@ -96,7 +96,7 @@ def plot_rmse_results(datasets, ncols=2):
 
 filepath = '../ALL_Results_v3.csv'
 selected_datasets = ['actorfilms_4000', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', "superstore_4500", "police", "IoT_Telemetry3000",
-                     "F1_REBUILT_5000", "MotoGP_REBUILT_3000", "Med_Ch_2500", "Air_9000", "cars_MNAR" , "cars_MBUV", 'cars', "Boeing_898_MNAR", "Boeing_898_MBUV", 'Boeing_898', "restaurant_MNAR", "restaurant_MBUV", 'restaurant']  # Aggiungi altri dataset qui
+                     "F1_REBUILT_5000", "MotoGP_REBUILT_3000", "Med_Ch_2500", "Air_9000", "cars_MNAR" , "cars_MBUV", 'cars', "Boeing_898_MNAR", "Boeing_898_MBUV", 'Boeing_898', "restaurant_MNAR", "restaurant_MBUV", 'restaurant', 'police_MBUV']  # Aggiungi altri dataset qui
 datasets = load_rmse_data(filepath, selected_datasets)
 print(datasets)
 plot_rmse_results(datasets, ncols=4)

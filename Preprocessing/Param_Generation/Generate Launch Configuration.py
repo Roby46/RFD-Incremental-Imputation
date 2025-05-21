@@ -33,7 +33,9 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?", 8, 60,2,2,2,2,0.05,1,5,1]  # iTunes
     #fixed_params = [";", "?", 15,48,1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]  # S4-ADL5
     #fixed_params = [";", "?", 15, 30,1,1,2,1,0.5,0.5,1,0.5,15,2,5,1,50,2,1]  # Pollution_1500
-    fixed_params = [";", "?", 11, 18, 2, 0.5, 0.5, 0.5, 0.5, 4, 0.5, 0.5, 0.5,1,5] #Student_908
+    #fixed_params = [";", "?", 11, 18, 2, 0.5, 0.5, 0.5, 0.5, 4, 0.5, 0.5, 0.5,1,5] #Student_908
+    #fixed_params = [";", "?", 11, 70, 5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,500,1]  # Cancer_3500
+    fixed_params = [";", "?", 10, 21, 0.5,0.5,2,0,3,0.5,0,0,0,0]  # Cats_1071
 
     command_strings = []
 
@@ -61,51 +63,55 @@ def generate_launch_file(dataset_name, command_string, template, output_dir, ree
     with open(filename, "w") as f:
         f.write(launch_content)
 
-dataset = "Student_908"
+dataset = "Cats_1071"
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
 heap_size_gb=64
 
 #Scelta delle pipeline
-algoritmo="Pipeline"
+#algoritmo="Pipeline"
 #algoritmo="RFD_Generator"
-#algoritmo="Baseline"
+algoritmo="Baseline"
 #algoritmo="baseline2"
 reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
 # Number of missing values
-#missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
+
+#missing_values = [37, 73, 110, 146, 183, 365, 731, 1096, 1462, 1827] # cars
+#missing_values = [52, 104, 156, 207, 259, 518, 1037, 1555, 2074, 2592] # restaurant
+#missing_values = [90, 180, 269, 359, 449, 898, 1796, 2694, 3592, 4490] #Boeing 898
+#missing_values = [100 ,200 ,300 ,400 ,499 ,999,1998,2996,3995,4994] #Student_908
+#missing_values = [198, 397, 595, 793, 992, 1984, 3967, 5951, 7934, 9918] # police
+#missing_values = [240, 480, 720, 960,1200, 2400, 4800, 7200, 9600, 12000] # IoT_Telemetry_3000
+#missing_values = [280,560,840,1120,1400,2800,5600,8400,11200,14000] #Actors
+#missing_values = [300,600,900,1200,1500,3000,6000,9000,12000,15000] #Med_Ch
+#missing_values  = [360,720,1080,1440,1800,3600,7200,10800,14400,18000] #MOTOGP 3000
+#missing_values = [350, 700, 1050, 1400,1750, 3500, 7000, 10500, 14000, 17500] # F1 REBUILT 5000
+#missing_values = [375, 751, 1126, 1502, 1877, 3754, 7508, 11262, 15016, 18770] # US_Presidents
+#missing_values = [384, 768, 1152, 1536, 1920, 3840, 7680, 11520, 15360, 19200] #NBA 3200
 #missing_values = [400, 800, 1200, 1600, 2000, 4000, 8000, 12000, 16000, 20000] #EV_Vehicles
+#missing_values=  [495,990,1485,1980,2475,4950,9900,14850,19800,24750] #Superstore
+#missing_values = [1170,2340,3510,4680,5850,11700,23400,35100,46800,58500] #Air
+
+
+#missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
 #missing_values = [900, 1800, 2700, 3600, 4500, 9000, 18000, 27000, 36000, 45000] #Olympics_7500
 #missing_values = [82, 165, 247, 329, 412, 823, 1646, 2469, 3292, 4115] #Smartphones
 #missing_values = [840, 1680, 2520, 3360, 4200, 8400, 16800, 25200, 33600, 42000] #Actors
 #missing_values = [500, 1000, 1500, 2000, 2500, 5000, 10000, 15000, 20000, 25000] #Chicago
 #missing_values = [940, 1881, 2821, 3761, 4702, 9403, 18806, 28210, 37613, 47016] #NBA
-#missing_values = [384, 768, 1152, 1536, 1920, 3840, 7680, 11520, 15360, 19200] #NBA 3200
 #missing_values = [369, 738, 1107, 1476, 1845, 3690, 7380, 11070, 14760, 18450] #Bikes
-#missing_values = [280,560,840,1120,1400,2800,5600,8400,11200,14000] #Actors
-#missing_values=  [495,990,1485,1980,2475,4950,9900,14850,19800,24750] #Superstore
-#missing_values=  [1064,2129,3193,4258,5322,10644,21288,31932,42576,53220] #MotoGP
+#missing_values = [1064,2129,3193,4258,5322,10644,21288,31932,42576,53220] #MotoGP
 #missing_values = [148, 297, 446, 594, 742, 1485, 2970, 4455, 5940, 7425] #Boeing
-#missing_values = [90, 180, 269, 359, 449, 898, 1796, 2694, 3592, 4490] #Boeing 898
 #missing_values = [275, 550, 825, 1100, 1375, 2750, 5500, 8250, 11000, 13750] # Weather
-#missing_values = [375, 751, 1126, 1502, 1877, 3754, 7508, 11262, 15016, 18770] # US_Presidents
-#missing_values = [52, 104, 156, 207, 259, 518, 1037, 1555, 2074, 2592] # restaurant
-#missing_values = [198, 397, 595, 793, 992, 1984, 3967, 5951, 7934, 9918] # police
-#missing_values = [37, 73, 110, 146, 183, 365, 731, 1096, 1462, 1827] # cars
 #missing_values = [532, 1064, 1597, 2129, 2661, 5322, 10644, 15966, 21288, 26610] # MOTOGP 4435
-#missing_values = [240, 480, 720, 960,1200, 2400, 4800, 7200, 9600, 12000] # IoT_Telemetry_3000
-#missing_values = [350, 700, 1050, 1400,1750, 3500, 7000, 10500, 14000, 17500] # F1 REBUILT 5000
 #missing_values = [42, 83, 125, 166,208, 416, 832, 1247, 1663, 2079] # Cleveland
 #missing_values = [38,76,113,151,189,378,756,1134,1512,1890] # Statlog
-#missing_values  = [360,720,1080,1440,1800,3600,7200,10800,14400,18000] #MOTOGP 3000
-#missing_values = [300,600,900,1200,1500,3000,6000,9000,12000,15000] #Med_Ch
-#missing_values = [1170,2340,3510,4680,5850,11700,23400,35100,46800,58500] #Air
 #missing_values = [240, 480, 720, 960,1200, 2400, 4800, 7200, 9600, 12000] # iTunes
 #missing_values = [360, 720, 1080, 1440,1800, 3600, 7200, 10800, 14400, 18000] # S4-ADL5
 #missing_values = [225,450,675,900,1125,2250,4500,6750,9000,11250] #Pollution_1500
-missing_values = [100 ,200 ,300 ,400 ,499 ,999,1998,2996,3995,4994] #Student_908
-
+#missing_values = [385 ,770 ,1155,1540,1925,3850,7700,11550 ,15400 ,19250] #cancer
+missing_values = [107, 214 ,321 ,428 ,536 ,1071,2142,3213,4284,5355] #Cats
 
 print(algoritmo)
 
