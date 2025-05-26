@@ -1,0 +1,199 @@
+riga;nome attributo;valore da imputare;valore imputato
+1791;state;AR;?
+1792;state;WA;?
+1793;state;FL;FL
+1243;classification;Gunshot;?
+285;city;Salemburg;?
+286;city;Indianapolis;?
+287;city;Newalla;?
+288;city;Houston;?
+1813;gender;Male;Male
+1814;gender;Male;Male
+1815;gender;Male;Male
+1816;gender;Male;Male
+1708;gender;Male;Female
+1709;gender;Male;Male
+1018;city;Middle River;?
+1019;city;Olympia;?
+1020;city;Las Vegas;?
+225;classification;Gunshot;Gunshot
+226;classification;Gunshot;?
+2155;armed;Firearm;Vehicle
+2156;armed;Firearm;?
+2157;armed;Firearm;?
+2158;armed;Other;?
+2033;name;Jackie Weems Jr;?
+2034;name;Elijah Cobb;?
+2035;name;Greta Kurian;?
+2036;name;Sarah Palmer;?
+499;classification;Gunshot;?
+500;classification;Gunshot;?
+501;classification;Gunshot;Gunshot
+502;classification;Gunshot;?
+1342;classification;Gunshot;Gunshot
+483;armed;No;?
+686;raceethnicity;White;?
+687;raceethnicity;Black;?
+688;raceethnicity;White;?
+689;raceethnicity;White;?
+247;state;KY;KY
+248;state;MD;?
+249;state;CA;?
+250;state;VA;VA
+7;city;Chandler;?
+8;city;Evans;?
+9;city;Stockton;?
+10;city;Los Angeles;?
+223;lawenforcementagency;Clay County Sheriffs Department;?
+224;lawenforcementagency;Suffolk County Police Department;?
+225;lawenforcementagency;Santa Clara Police Department;?
+226;lawenforcementagency;Portland Police Bureau;?
+2053;armed;Firearm;?
+2054;armed;Firearm;Firearm
+1343;classification;Gunshot;Gunshot
+1344;classification;Gunshot;?
+1345;classification;Gunshot;?
+322;state;CO;?
+323;state;OR;OR
+324;state;NY;NY
+1171;armed;Vehicle;?
+1172;armed;Firearm;Knife
+1173;armed;Firearm;?
+1174;armed;Firearm;?
+180;county;chatham;?
+181;county;richland;?
+182;county;east baton rouge;?
+183;county;san bernardino;san bernardino
+435;lawenforcementagency;Knox County Sheriffs Office;?
+436;lawenforcementagency;Chester Police Department;?
+437;lawenforcementagency;Valencia County Sheriff_s Department;?
+438;lawenforcementagency;Philadelphia Police Department;?
+372;classification;Gunshot;?
+373;classification;Death in custody;Gunshot
+374;classification;Gunshot;?
+153;county;edgecombe;?
+879;state;GA;GA
+880;state;CA;CA
+881;state;MS;?
+882;state;OK;?
+293;city;Highland;?
+1610;lawenforcementagency;Los Angeles Police Department;?
+1611;lawenforcementagency;Bell Police Department;?
+1149;raceethnicity;Native American;?
+1150;raceethnicity;Black;?
+1151;raceethnicity;Black;?
+1152;raceethnicity;Hispanic/Latino;?
+1604;lawenforcementagency;North Charleston Police Department;?
+1605;lawenforcementagency;Temecula Police Department;?
+1606;lawenforcementagency;St Anthony Police Department;?
+1607;lawenforcementagency;Polk County Sheriffs Office;?
+1985;name;Marco Romero;?
+1986;name;William Beavers;?
+1987;name;David Thelen;?
+1988;name;Kajuan Raye;?
+1242;armed;Firearm;?
+1243;armed;Firearm;?
+1244;armed;Firearm;?
+1476;classification;Struck by vehicle;?
+1477;classification;Gunshot;Gunshot
+1478;classification;Gunshot;Gunshot
+2013;lawenforcementagency;Pope County Sheriffs Office;?
+2014;lawenforcementagency;Shelby County Sheriffs Office;?
+317;classification;Gunshot;Struck by vehicle
+318;classification;Gunshot;?
+319;classification;Gunshot;Gunshot
+615;city;Logan;?
+1080;county;lubbock;?
+1081;county;san bernardino;?
+1402;city;Los Angeles;?
+1403;city;Stockton;?
+1404;city;Kenton;?
+1405;city;East Troy;?
+1358;raceethnicity;Hispanic/Latino;?
+1359;raceethnicity;White;?
+1566;gender;Female;Male
+1567;gender;Male;Male
+1568;gender;Male;Male
+1569;gender;Male;Male
+1936;gender;Male;Male
+1937;gender;Male;Male
+1938;gender;Male;Male
+1939;gender;Male;Male
+1246;armed;Firearm;?
+1247;armed;No;?
+1248;armed;Knife;?
+1051;name;Bettie Jones;?
+1052;name;Quintonio LeGrier;?
+1053;name;Lonnie Niesen;?
+1054;name;Michael Parker;?
+845;state;WA;?
+846;state;CA;?
+847;state;TX;KS
+1776;raceethnicity;Hispanic/Latino;?
+1777;raceethnicity;Hispanic/Latino;?
+1778;raceethnicity;Hispanic/Latino;Hispanic/Latino
+1779;raceethnicity;Hispanic/Latino;?
+503;county;montgomery;?
+504;county;yamhill;?
+505;county;plymouth;?
+145;gender;Male;Male
+146;gender;Female;Male
+147;gender;Male;Male
+815;armed;Firearm;?
+816;armed;No;?
+2062;county;imperial;?
+2063;county;essex;?
+2064;county;shelby;?
+2065;county;kay;?
+1868;name;Ricardo Hernandez;?
+1869;name;Charles Antrup;?
+1870;name;Deric Brown;?
+1871;name;Devan Desnoyers;?
+294;lawenforcementagency;Harris County Sheriffs Office;?
+1143;state;TX;?
+955;gender;Male;Non-conforming
+956;gender;Male;Male
+957;gender;Male;Male
+1119;classification;Gunshot;?
+1120;classification;Gunshot;?
+1121;classification;Gunshot;Gunshot
+415;city;Eatonton;?
+987;gender;Male;Male
+988;gender;Male;Male
+642;city;Arlington;?
+643;city;Long Beach;?
+644;city;Summerville;?
+645;city;Hartford;?
+2185;lawenforcementagency;Gladstone Department of Public Safety;?
+2186;lawenforcementagency;Knox City Police Department Starke County Sheriffs Office;?
+2187;lawenforcementagency;Washington County Sheriffs Office;?
+1935;city;Beaver;?
+1936;city;Gladewater;?
+1937;city;Okemah;?
+262;armed;No;?
+263;armed;Other;?
+1485;name;Torrey Robinson;?
+89;name;Paul Johnson;?
+90;name;Jeremy Lett;?
+91;name;Wilber Castillo-Gongora;?
+715;county;pima;pima
+716;county;larimer;?
+717;county;gregg;gregg
+718;county;hamilton;?
+722;raceethnicity;White;?
+723;raceethnicity;White;?
+724;raceethnicity;White;?
+1880;lawenforcementagency;Boston Police Department;?
+1881;lawenforcementagency;Kentucky State Police;?
+1467;lawenforcementagency;Clinton Police Department North Carolina Highway Patrol;?
+1523;lawenforcementagency;Orlando Police Department Orange County Sheriffs Office;?
+1524;lawenforcementagency;Utah County Sheriffs Office;?
+1525;lawenforcementagency;Tupelo Police Department;?
+1512;name;Hope Elferdink;?
+1513;name;James Nickol;?
+2172;name;Anthony Bertoni;?
+1658;armed;Firearm;Firearm
+1659;armed;No;?
+1660;armed;Knife;?
+1851;gender;Male;Male
+1852;gender;Male;Male

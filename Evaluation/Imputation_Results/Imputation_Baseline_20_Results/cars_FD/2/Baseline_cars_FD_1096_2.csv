@@ -1,0 +1,1097 @@
+riga;nome attributo;valore da imputare;valore imputato
+5;Cylinders;8;8
+80;Weight;3892.;3693.
+394;Cylinders;4;4
+44;Car;Ford Torino 500;Buick Skylark 320
+11;Cylinders;4;8
+274;Car;Chevrolet Chevette;Buick Skylark 320
+26;Weight;1835.;2372.
+268;Car;Dodge Aspen;Buick Skylark 320
+321;Acceleration;16.5;12.0
+99;Origin;US;US
+233;Car;Chevrolet Concours;Buick Skylark 320
+319;Weight;2120.;2372.
+69;MPG;21.0;24.0
+282;Acceleration;15.9;12.5
+365;Horsepower;100.0;95.00
+52;MPG;13.0;15.0
+365;MPG;32.9;24.0
+126;MPG;24.0;24.0
+318;Origin;Japan;Japan
+198;Acceleration;12.8;12.0
+175;MPG;29.0;24.0
+158;Cylinders;4;4
+375;Displacement;225.0;307.0
+376;Horsepower;88.00;130.0
+16;Acceleration;10.0;12.0
+149;Weight;2219.;3090.
+334;Origin;Europe;Japan
+74;Displacement;304.0;307.0
+239;Origin;US;US
+86;Displacement;120.0;307.0
+281;MPG;23.9;24.0
+322;Origin;US;Japan
+19;Weight;3761.;3693.
+326;Horsepower;90.00;95.00
+124;MPG;16.0;15.0
+240;Model;77;70
+12;Displacement;350.0;307.0
+301;Cylinders;4;8
+363;Acceleration;14.4;15.0
+45;Car;AMC Matador;Buick Skylark 320
+330;Displacement;86.00;113.0
+377;Displacement;112.0;307.0
+47;Cylinders;8;8
+227;Model;77;70
+107;Origin;US;US
+182;Acceleration;14.5;12.0
+95;Acceleration;13.0;12.0
+211;Horsepower;71.00;130.0
+67;Horsepower;54.00;130.0
+77;Origin;US;US
+201;MPG;24.0;15.0
+86;Acceleration;19.5;12.0
+279;Displacement;156.0;307.0
+137;Horsepower;67.00;95.00
+378;Acceleration;18.0;15.0
+328;Model;80;70
+17;Car;Plymouth 'Cuda 340;Buick Skylark 320
+403;Weight;2130.;3090.
+269;Horsepower;120.0;130.0
+281;Car;Datsun 200-SX;Toyota Corolla Mark ii
+207;Horsepower;100.0;130.0
+254;Acceleration;19.4;15.0
+148;Model;74;70
+213;Weight;2155.;3693.
+216;MPG;13.0;18.0
+278;MPG;21.1;24.0
+4;Displacement;304.0;307.0
+179;Origin;Japan;Japan
+250;Weight;2600.;3090.
+302;Horsepower;65.00;95.00
+319;MPG;32.1;24.0
+257;Model;78;70
+291;Origin;US;US
+256;Car;Honda Civic CVCC;Buick Skylark 320
+128;Origin;Europe;Japan
+282;Origin;Europe;US
+303;Cylinders;4;8
+271;Origin;US;US
+306;Origin;US;US
+63;Cylinders;4;8
+376;MPG;28.0;15.0
+329;Displacement;108.0;113.0
+177;Cylinders;6;8
+340;Cylinders;4;8
+200;Car;Chevrolet Nova;Buick Skylark 320
+330;Model;80;70
+280;Cylinders;4;8
+257;Car;Oldsmobile Cutlass Salon Brougham;Buick Skylark 320
+88;Cylinders;4;6
+166;Displacement;318.0;307.0
+404;Cylinders;4;8
+114;Model;73;70
+242;Acceleration;16.0;12.0
+189;Acceleration;17.5;15.0
+331;Cylinders;4;8
+19;Car;Chevrolet Monte Carlo;Buick Skylark 320
+145;Acceleration;14.5;12.0
+255;Cylinders;4;4
+274;Model;78;70
+330;Weight;2110.;2372.
+55;Origin;US;US
+45;Horsepower;100.0;130.0
+248;Car;Volkswagen Dasher;Citroen DS-21 Pallas
+152;Weight;1649.;2372.
+220;Horsepower;180.0;130.0
+358;Cylinders;4;4
+61;Horsepower;65.00;95.00
+123;Horsepower;145.0;130.0
+387;Horsepower;63.00;130.0
+282;Displacement;131.0;121.0
+257;Origin;US;US
+116;Acceleration;19.0;15.0
+190;Model;76;70
+28;Horsepower;90.00;130.0
+272;MPG;18.1;15.0
+229;Acceleration;12.5;12.0
+78;Model;72;70
+347;Acceleration;16.4;12.0
+243;Model;77;70
+282;MPG;20.3;15.0
+179;Horsepower;96.00;95.00
+44;Displacement;250.0;307.0
+88;Origin;US;US
+13;Displacement;351.0;307.0
+233;Weight;3520.;3693.
+232;Car;Mercury Cougar Brougham;Buick Skylark 320
+366;Acceleration;18.3;15.0
+370;Weight;2900.;2372.
+321;Cylinders;4;8
+296;Car;Dodge St. Regis;Buick Skylark 320
+43;Acceleration;15.5;12.0
+333;MPG;44.3;0
+214;Origin;US;Japan
+6;Displacement;429.0;307.0
+4;Origin;US;US
+406;Origin;US;Japan
+370;Model;81;70
+155;Cylinders;4;8
+373;Car;Oldsmobile Cutlass LS;Buick Skylark 320
+274;MPG;30.0;15.0
+138;MPG;26.0;24.0
+43;Car;Chevrolet Chevelle Malibu;Buick Skylark 320
+384;Weight;1980.;3090.
+260;Model;78;70
+49;Cylinders;8;8
+36;Weight;2130.;2372.
+138;Acceleration;16.5;15.0
+224;Origin;Japan;Japan
+230;Acceleration;19.0;12.0
+147;Weight;4638.;3693.
+129;Displacement;318.0;307.0
+265;Origin;US;US
+16;Origin;US;US
+131;MPG;20.0;11.0
+379;Displacement;112.0;113.0
+126;Origin;Europe;Japan
+161;Model;75;70
+272;Acceleration;11.2;12.0
+251;Acceleration;13.5;15.0
+225;Cylinders;4;8
+216;Cylinders;8;8
+168;Displacement;231.0;307.0
+367;Car;Peugeot 505s Turbo Diesel;Citroen DS-21 Pallas
+56;Cylinders;6;8
+197;Displacement;304.0;307.0
+20;Displacement;455.0;307.0
+404;Weight;2295.;3693.
+221;Origin;US;US
+295;Origin;US;US
+146;Origin;US;US
+208;Acceleration;21.0;12.0
+126;Horsepower;75.00;95.00
+124;Origin;US;US
+282;Model;78;70
+27;Model;70;70
+29;MPG;25.0;0
+87;Model;72;70
+315;Model;79;70
+103;Displacement;455.0;307.0
+49;Acceleration;13.0;12.0
+223;Origin;US;US
+11;Horsepower;115.0;130.0
+136;Displacement;250.0;307.0
+329;Weight;2265.;2372.
+139;Horsepower;65.00;95.00
+73;Horsepower;153.0;130.0
+326;Car;Toyota Corolla Liftback;Toyota Corolla Mark ii
+227;Weight;2300.;3693.
+302;Acceleration;15.2;15.0
+315;Origin;US;US
+313;Car;Buick Skylark Limited;Toyota Corolla Mark ii
+105;Car;Plymouth Valiant;Buick Skylark 320
+233;Acceleration;16.4;12.0
+399;Horsepower;96.00;95.00
+4;Acceleration;12.0;12.0
+66;Displacement;97.50;307.0
+262;Origin;US;US
+393;Horsepower;67.00;95.00
+327;Origin;Japan;US
+139;Acceleration;21.0;15.0
+121;Weight;2472.;3693.
+25;Car;Datsun PL510;Buick Skylark 320
+283;Origin;Europe;US
+168;Weight;3907.;3693.
+129;Weight;3399.;3693.
+324;Horsepower;90.00;130.0
+164;Acceleration;11.5;12.0
+220;Model;76;70
+46;Horsepower;165.0;130.0
+283;Model;78;70
+205;Acceleration;14.2;12.0
+379;Origin;US;US
+90;Model;72;70
+249;Car;Datsun 810;Toyota Corolla Mark ii
+37;Cylinders;4;8
+50;Model;71;70
+148;Car;AMC Matador (sw);Buick Skylark 320
+10;Model;70;70
+359;Horsepower;65.00;130.0
+334;MPG;43.4;24.0
+54;Acceleration;19.0;12.0
+401;Displacement;151.0;307.0
+374;Displacement;200.0;307.0
+110;Origin;Europe;Japan
+307;Weight;3190.;2372.
+249;Cylinders;6;4
+275;Weight;2560.;2372.
+363;Horsepower;75.00;95.00
+297;Horsepower;155.0;130.0
+45;Model;71;70
+18;Displacement;302.0;307.0
+291;Car;AMC Concord DL 6;Buick Skylark 320
+380;MPG;29.0;21.0
+283;Car;Volvo 264gl;Buick Skylark 320
+343;Car;Triumph TR7 Coupe;Citroen DS-21 Pallas
+76;Origin;US;US
+201;Car;Ford Maverick;Buick Skylark 320
+237;MPG;16.0;14.0
+118;Car;Datsun 610;Toyota Corolla Mark ii
+389;Horsepower;88.00;95.00
+159;Cylinders;4;8
+95;Weight;3988.;3693.
+126;Displacement;116.0;113.0
+9;Displacement;455.0;307.0
+48;Weight;4154.;3693.
+50;Horsepower;180.0;130.0
+13;Car;Ford Torino (sw);Buick Skylark 320
+69;Origin;US;Japan
+170;Weight;3730.;3693.
+41;MPG;19.0;15.0
+397;Acceleration;14.5;12.0
+230;Horsepower;110.0;130.0
+222;MPG;13.0;15.0
+57;Displacement;122.0;307.0
+207;Model;76;70
+192;Cylinders;4;4
+405;Model;82;70
+65;Car;Toyota Corolla Hardtop;Toyota Corolla Mark ii
+236;MPG;18.5;15.0
+313;Origin;US;Japan
+313;Displacement;151.0;113.0
+6;Weight;4341.;3693.
+132;Cylinders;8;8
+93;Weight;4100.;3693.
+190;Weight;2464.;3693.
+171;MPG;18.0;15.0
+138;Car;Ford Pinto;Toyota Corolla Mark ii
+268;Model;78;70
+235;Car;Plymouth Volare Custom;Buick Skylark 320
+364;Model;81;70
+313;Acceleration;16.0;15.0
+206;Cylinders;4;4
+64;Car;Plymouth Cricket;Buick Skylark 320
+35;Origin;US;US
+87;Origin;Europe;US
+99;Cylinders;8;8
+45;Acceleration;15.5;12.0
+372;Displacement;231.0;307.0
+153;Horsepower;61.00;95.00
+36;Acceleration;14.5;15.0
+350;Cylinders;4;8
+229;MPG;17.5;15.0
+372;Horsepower;110.0;130.0
+265;Horsepower;90.00;130.0
+42;Displacement;225.0;307.0
+155;Car;Fiat 128;Citroen DS-21 Pallas
+168;Horsepower;110.0;130.0
+173;Displacement;262.0;307.0
+247;Acceleration;16.4;15.0
+59;Displacement;79.00;133.0
+86;Cylinders;4;8
+8;Acceleration;8.5;12.0
+137;Origin;Japan;Japan
+402;Weight;2790.;3693.
+61;Model;71;70
+355;Model;81;70
+20;Model;70;70
+61;Car;Toyota Corolla 1200;Toyota Corolla Mark ii
+135;MPG;19.0;15.0
+254;Displacement;78.00;113.0
+314;Acceleration;11.3;12.0
+131;Origin;Japan;US
+398;Car;Ford Grenada l;Buick Skylark 320
+2;Displacement;350.0;307.0
+201;Horsepower;81.00;130.0
+3;Weight;3436.;3693.
+30;Car;BMW 2002;Buick Skylark 320
+305;Car;Mercedes Benz 300d;Citroen DS-21 Pallas
+41;Horsepower;100.0;130.0
+213;Cylinders;4;8
+323;Car;AMC Concord;Buick Skylark 320
+106;Cylinders;6;8
+405;Cylinders;4;8
+345;Weight;2290.;2372.
+315;MPG;26.8;15.0
+363;Car;Honda Prelude;Toyota Corolla Mark ii
+339;Weight;2145.;2372.
+246;Weight;2075.;3693.
+296;Cylinders;8;8
+25;Cylinders;4;8
+381;Car;Pontiac Phoenix;Buick Skylark 320
+108;Horsepower;88.00;130.0
+242;MPG;24.5;15.0
+234;MPG;20.5;15.0
+315;Car;Oldsmobile Omega Brougham;Buick Skylark 320
+59;Car;Peugeot 304;Citroen DS-21 Pallas
+63;MPG;27.0;0
+294;Cylinders;8;8
+257;Weight;3365.;3693.
+304;Acceleration;15.0;12.0
+263;Origin;US;Japan
+382;Origin;US;Japan
+196;Cylinders;8;8
+68;Model;72;70
+287;Cylinders;4;4
+13;Horsepower;153.0;130.0
+224;Weight;2045.;2372.
+348;Displacement;156.0;307.0
+242;Car;Pontiac Sunbird Coupe;Buick Skylark 320
+260;Origin;US;US
+29;Model;70;70
+306;Displacement;350.0;307.0
+240;Horsepower;149.0;130.0
+261;Model;78;70
+168;MPG;17.0;15.0
+276;Cylinders;4;4
+8;Origin;US;US
+90;Acceleration;14.5;15.0
+39;Origin;US;US
+52;Weight;5140.;3693.
+358;Horsepower;63.00;95.00
+290;Origin;US;Japan
+354;Weight;2065.;2372.
+222;Displacement;302.0;307.0
+66;Horsepower;80.00;130.0
+391;Displacement;108.0;113.0
+174;Weight;3169.;3693.
+97;Displacement;318.0;307.0
+276;Car;Datsun 510;Toyota Corolla Mark ii
+241;Cylinders;4;8
+326;MPG;29.8;24.0
+400;Displacement;135.0;307.0
+332;Horsepower;65.00;95.00
+211;MPG;29.5;0
+83;Cylinders;8;8
+322;Weight;2870.;2372.
+76;Car;Buick LeSabre Custom;Dodge D200
+142;Weight;3632.;3693.
+344;MPG;23.6;15.0
+311;Cylinders;4;4
+397;Car;Chrysler Lebaron Medallion;Buick Skylark 320
+169;Acceleration;18.5;12.0
+204;Cylinders;4;8
+85;Displacement;121.0;307.0
+385;Origin;Japan;Japan
+88;Model;72;70
+303;Car;Dodge Colt Hatchback Custom;Buick Skylark 320
+400;Weight;2370.;3693.
+336;MPG;30.0;0
+360;Cylinders;4;8
+205;MPG;29.0;0
+217;Cylinders;4;8
+210;Origin;US;Japan
+216;Acceleration;13.2;12.0
+389;Origin;Japan;Japan
+396;Cylinders;6;8
+374;Cylinders;6;8
+396;Displacement;262.0;307.0
+194;Weight;2202.;3090.
+95;Horsepower;145.0;130.0
+132;Origin;US;US
+222;Cylinders;8;8
+256;Model;78;70
+164;Displacement;400.0;307.0
+261;Car;Chevrolet Malibu;Buick Skylark 320
+220;Acceleration;12.1;12.0
+56;Acceleration;14.5;12.0
+248;Acceleration;14.1;12.0
+138;Weight;2451.;2372.
+209;Car;Pontiac Ventura SJ;Buick Skylark 320
+357;Displacement;91.00;113.0
+30;Cylinders;4;8
+88;Weight;2395.;2833.
+72;Cylinders;8;8
+385;Horsepower;68.00;95.00
+233;Model;77;70
+230;MPG;17.0;15.0
+172;Displacement;231.0;307.0
+362;Displacement;100.0;307.0
+107;MPG;18.0;15.0
+1;Weight;3504.;3693.
+109;MPG;23.0;15.0
+380;Displacement;135.0;307.0
+344;Cylinders;4;8
+191;Horsepower;81.00;130.0
+342;Cylinders;3;4
+288;Origin;US;US
+352;Acceleration;16.4;12.0
+93;Acceleration;13.0;12.0
+58;Car;Opel 1900;Citroen DS-21 Pallas
+27;Horsepower;87.00;130.0
+120;Horsepower;85.00;130.0
+38;Car;Toyota Corolla;Toyota Corolla Mark ii
+65;Model;72;70
+81;Displacement;307.0;307.0
+10;Car;AMC Ambassador DPL;Buick Skylark 320
+66;Cylinders;4;8
+139;Weight;1836.;2372.
+102;Origin;US;US
+368;Cylinders;4;8
+254;Horsepower;52.00;95.00
+173;Acceleration;13.5;12.0
+74;Car;AMC Ambassador SST;Buick Skylark 320
+44;Origin;US;US
+105;Horsepower;105.0;130.0
+355;Weight;1975.;2372.
+85;Cylinders;4;8
+8;Model;70;70
+46;Weight;4209.;3693.
+338;Cylinders;4;8
+402;Car;Ford Mustang GL;Buick Skylark 320
+108;Acceleration;16.5;12.0
+22;Acceleration;15.5;12.0
+112;Displacement;400.0;307.0
+68;Car;Chevrolet Vega;Toyota Corolla Mark ii
+141;Horsepower;100.0;130.0
+327;MPG;31.3;0
+25;Weight;2130.;3693.
+17;Displacement;340.0;307.0
+379;Acceleration;16.2;15.0
+27;MPG;25.0;0
+124;Model;73;70
+195;Model;76;70
+98;Origin;US;US
+298;Car;Ford Country Squire (sw);Buick Skylark 320
+292;MPG;20.6;15.0
+273;Car;Dodge Magnum XE;Buick Skylark 320
+51;Acceleration;12.0;12.0
+405;Displacement;120.0;307.0
+251;Horsepower;110.0;95.00
+276;Acceleration;14.7;15.0
+288;MPG;21.5;15.0
+7;Car;Chevrolet Impala;Buick Skylark 320
+375;Horsepower;85.00;130.0
+211;Car;Volkswagen Rabbit;Citroen DS-21 Pallas
+316;Displacement;151.0;307.0
+183;Origin;Europe;US
+190;Cylinders;4;8
+355;Horsepower;65.00;95.00
+161;Horsepower;105.0;130.0
+346;MPG;27.2;15.0
+324;Displacement;225.0;307.0
+1;MPG;18.0;15.0
+319;Origin;US;US
+24;Model;70;70
+79;Displacement;70.00;113.0
+23;Cylinders;6;8
+73;Cylinders;8;8
+134;Origin;US;US
+113;Horsepower;170.0;130.0
+138;Model;74;70
+102;Acceleration;11.0;12.0
+167;Acceleration;13.5;12.0
+90;Horsepower;97.00;95.00
+133;Origin;US;US
+389;Cylinders;4;4
+310;Model;79;70
+287;Weight;2135.;2372.
+192;Origin;US;Japan
+265;Displacement;232.0;307.0
+104;Cylinders;8;8
+57;Cylinders;4;8
+287;Origin;Japan;Japan
+19;Cylinders;8;8
+39;Horsepower;0;95.00
+97;MPG;15.0;15.0
+97;Origin;US;US
+32;MPG;10.0;15.0
+33;Weight;4376.;3693.
+316;Model;79;70
+161;Weight;3459.;3693.
+23;Car;AMC Hornet;Buick Skylark 320
+176;MPG;23.0;15.0
+314;Displacement;173.0;307.0
+256;Cylinders;4;8
+386;Car;Mazda GLC Custom;Toyota Corolla Mark ii
+228;Cylinders;4;4
+33;MPG;10.0;15.0
+170;Model;75;70
+20;Cylinders;8;8
+195;Origin;US;US
+208;Horsepower;78.00;130.0
+40;Model;71;70
+51;Car;Ford Country Squire (sw);Buick Skylark 320
+152;Acceleration;16.5;15.0
+76;Cylinders;8;8
+28;Cylinders;4;8
+79;Weight;2330.;2372.
+190;Acceleration;15.5;12.0
+189;Displacement;91.00;113.0
+248;Horsepower;78.00;130.0
+273;Horsepower;140.0;130.0
+19;Displacement;400.0;307.0
+63;Displacement;97.00;307.0
+212;Origin;Japan;Japan
+351;Acceleration;16.9;15.0
+183;Model;75;70
+78;Horsepower;190.0;130.0
+267;Cylinders;6;8
+132;Acceleration;11.0;12.0
+292;Weight;3360.;3693.
+169;Displacement;250.0;307.0
+240;Weight;4335.;3693.
+303;Model;79;70
+78;Cylinders;8;8
+133;Weight;3102.;3693.
+94;Displacement;304.0;307.0
+10;Weight;3850.;3693.
+112;Cylinders;8;8
+364;Origin;Japan;US
+380;Car;Dodge Aries SE;Ford Maverick
+227;MPG;25.5;15.0
+102;MPG;13.0;15.0
+27;Displacement;110.0;133.0
+26;Horsepower;46.00;95.00
+152;Car;Toyota Corolla;Toyota Corolla Mark ii
+4;Horsepower;150.0;130.0
+382;Horsepower;92.00;95.00
+343;Acceleration;15.1;12.0
+277;Origin;US;Japan
+273;Displacement;318.0;307.0
+62;Displacement;72.00;113.0
+380;Model;82;70
+294;Acceleration;13.4;12.0
+331;Acceleration;14.4;12.0
+53;Weight;2962.;3693.
+343;Model;80;70
+149;Model;74;70
+226;Car;Renault 5 GTL;Citroen DS-21 Pallas
+390;Origin;Japan;Japan
+106;MPG;16.0;15.0
+98;Weight;4952.;3693.
+170;Origin;US;US
+92;Acceleration;16.5;15.0
+229;Car;Chevrolet Caprice Classic;Buick Skylark 320
+357;Car;Mazda GLC 4;Toyota Corolla Mark ii
+272;Car;Ford Futura;Buick Skylark 320
+230;Car;Oldsmobile Cutlass Supreme;Buick Skylark 320
+44;Model;71;70
+33;Origin;US;US
+330;Car;Mazda GLC;Toyota Corolla Mark ii
+289;Cylinders;6;8
+22;Displacement;198.0;307.0
+115;Acceleration;15.0;12.0
+167;Car;Ford LTD;Buick Skylark 320
+319;Model;80;70
+266;Acceleration;15.8;12.0
+71;Displacement;400.0;307.0
+375;Car;Chrysler Lebaron Salon;Buick Skylark 320
+318;Weight;1968.;2372.
+157;Weight;2489.;2372.
+399;Cylinders;4;4
+183;MPG;29.0;24.0
+82;Origin;US;US
+128;Car;Volvo 144ea;Toyota Corolla Mark ii
+74;MPG;17.0;15.0
+159;Displacement;79.00;307.0
+158;Weight;2391.;2372.
+311;Weight;2020.;2372.
+372;Weight;3415.;3693.
+319;Car;Chevrolet Chevette;Toyota Corolla Mark ii
+310;Horsepower;70.00;130.0
+78;Origin;US;US
+241;Weight;1940.;3693.
+358;Weight;2215.;2372.
+344;Model;80;70
+39;Cylinders;4;4
+377;Weight;2640.;3693.
+29;Origin;Europe;US
+383;Model;82;70
+75;MPG;11.0;15.0
+17;Model;70;70
+263;Displacement;140.0;113.0
+356;Car;Toyota Tercel;Toyota Corolla Mark ii
+89;Car;Datsun 510 (sw);Toyota Corolla Mark ii
+236;Displacement;250.0;307.0
+370;Car;Toyota Cressida;Toyota Corolla Mark ii
+352;MPG;39.0;15.0
+186;Car;Peugeot 504;Citroen DS-21 Pallas
+118;MPG;22.0;24.0
+331;MPG;27.9;15.0
+307;Model;79;70
+151;Car;Opel Manta;Citroen DS-21 Pallas
+18;Origin;US;US
+71;Acceleration;12.0;12.0
+160;Weight;3264.;3693.
+72;Weight;4135.;3693.
+64;Cylinders;4;8
+65;Displacement;113.0;113.0
+52;Cylinders;8;8
+46;Origin;US;US
+247;Car;Subaru DL;Toyota Corolla Mark ii
+363;Origin;Japan;Japan
+322;Displacement;140.0;113.0
+89;Cylinders;4;4
+278;Acceleration;14.8;15.0
+42;Cylinders;6;8
+392;Acceleration;15.0;15.0
+243;Car;Toyota Corolla Liftback;Toyota Corolla Mark ii
+36;Model;71;70
+155;Weight;2108.;3693.
+70;Model;72;70
+278;Car;Toyota Celica GT Liftback;Toyota Corolla Mark ii
+228;Acceleration;16.8;15.0
+132;Car;Oldsmobile Omega;Dodge D200
+204;Displacement;98.00;307.0
+175;Model;75;70
+26;Model;70;70
+277;MPG;30.9;24.0
+371;Weight;2930.;2372.
+401;Horsepower;90.00;130.0
+176;Cylinders;4;8
+137;Acceleration;19.0;15.0
+51;Horsepower;170.0;130.0
+273;Model;78;70
+144;Cylinders;8;8
+324;Car;Dodge Aspen;Buick Skylark 320
+134;MPG;21.0;15.0
+74;Cylinders;8;8
+258;Horsepower;140.0;130.0
+187;Weight;2945.;3693.
+106;Displacement;250.0;307.0
+39;Model;71;70
+189;MPG;33.0;24.0
+325;Car;Audi 4000;Citroen DS-21 Pallas
+169;Model;75;70
+125;Displacement;68.00;307.0
+39;Car;Ford Pinto;Toyota Corolla Mark ii
+283;Acceleration;13.6;12.0
+269;Weight;3410.;3693.
+81;Acceleration;14.0;12.0
+295;MPG;16.5;15.0
+22;Car;Plymouth Duster;Buick Skylark 320
+209;MPG;18.5;15.0
+138;Origin;US;US
+136;MPG;15.0;15.0
+362;Weight;2320.;3693.
+25;Acceleration;14.5;12.0
+130;Model;73;70
+171;Acceleration;19.0;12.0
+100;Cylinders;8;8
+185;MPG;23.0;0
+267;Displacement;200.0;307.0
+87;Acceleration;18.0;15.0
+361;Weight;2190.;2372.
+123;Origin;US;US
+84;Model;72;70
+90;Cylinders;4;4
+368;Displacement;121.0;307.0
+284;MPG;21.6;0
+183;Car;Volkswagen Rabbit;Toyota Corolla Mark ii
+134;Weight;2875.;3693.
+264;Cylinders;6;8
+248;MPG;30.5;0
+185;Acceleration;15.0;17.5
+399;Acceleration;13.9;15.0
+133;Horsepower;95.00;130.0
+78;Car;Chrysler Newport Royal;Buick Skylark 320
+57;Acceleration;14.0;12.0
+21;Model;70;70
+379;MPG;31.0;24.0
+318;Acceleration;18.8;15.0
+395;Acceleration;16.4;12.0
+1;Car;Chevrolet Chevelle Malibu;Buick Skylark 320
+402;Acceleration;15.6;12.0
+46;Acceleration;12.0;12.0
+330;Horsepower;65.00;95.00
+158;Horsepower;93.00;95.00
+33;Car;Chevy C20;Buick Skylark 320
+43;Displacement;250.0;307.0
+184;Displacement;232.0;307.0
+199;Cylinders;6;8
+100;Model;73;70
+315;Horsepower;115.0;130.0
+381;Displacement;151.0;307.0
+317;MPG;41.5;0
+299;Horsepower;125.0;130.0
+321;Model;80;70
+64;MPG;26.0;15.0
+387;Model;82;70
+254;Model;78;70
+281;Displacement;119.0;113.0
+9;MPG;14.0;15.0
+173;Car;Chevrolet Monza 2+2;Buick Skylark 320
+142;Displacement;258.0;307.0
+67;Cylinders;4;8
+276;Displacement;119.0;113.0
+332;Model;80;70
+80;Acceleration;12.5;12.0
+181;Model;75;70
+196;Model;76;70
+172;Acceleration;15.0;12.0
+353;Car;Honda Civic 1300;Toyota Corolla Mark ii
+371;Car;Datsun 810 Maxima;Toyota Corolla Mark ii
+370;MPG;25.4;24.0
+42;Acceleration;15.5;12.0
+255;Car;Datsun B210 GX;Toyota Corolla Mark ii
+24;Weight;2587.;3693.
+75;Origin;US;US
+63;Model;71;70
+401;Car;Chevrolet Camaro;Buick Skylark 320
+401;Acceleration;17.3;12.0
+47;Weight;4464.;3693.
+238;MPG;15.5;15.0
+339;Horsepower;67.00;95.00
+119;Displacement;70.00;318.0
+205;Cylinders;4;8
+160;Displacement;225.0;307.0
+252;Weight;1985.;3090.
+320;Displacement;86.00;113.0
+72;Horsepower;150.0;130.0
+287;Displacement;98.00;113.0
+134;Acceleration;17.0;12.0
+128;Weight;2868.;2372.
+161;Acceleration;16.0;12.0
+103;Weight;4951.;3693.
+353;Horsepower;60.00;95.00
+38;Model;71;70
+327;Model;80;70
+112;Weight;4906.;3693.
+309;Acceleration;13.2;12.0
+392;Model;82;70
+386;MPG;31.0;24.0
+388;Displacement;98.00;307.0
+35;Acceleration;18.5;12.0
+333;Cylinders;4;8
+245;Model;77;70
+311;Displacement;85.00;113.0
+244;MPG;25.5;15.0
+310;Car;Plymouth Horizon TC3;Buick Skylark 320
+99;Displacement;400.0;307.0
+233;Displacement;250.0;307.0
+176;Acceleration;17.0;12.0
+371;Acceleration;13.8;15.0
+175;Horsepower;75.00;95.00
+120;MPG;19.0;15.0
+120;Car;Ford Pinto;Buick Skylark 320
+382;Car;Ford Fairmont Futura;Toyota Corolla Mark ii
+216;Origin;US;US
+290;Horsepower;88.00;95.00
+105;Cylinders;6;8
+136;Weight;3336.;3693.
+129;Car;Dodge Dart Custom;Buick Skylark 320
+352;Weight;1875.;3693.
+354;Model;81;70
+195;Displacement;305.0;307.0
+367;Model;81;70
+65;MPG;24.0;24.0
+187;MPG;22.0;0
+168;Acceleration;21.0;12.0
+329;Cylinders;4;4
+256;Horsepower;60.00;130.0
+345;Origin;Japan;Japan
+60;Model;71;70
+104;Horsepower;175.0;130.0
+176;Horsepower;83.00;130.0
+136;Model;74;70
+266;MPG;20.6;15.0
+239;Model;77;70
+305;Horsepower;77.00;130.0
+73;Origin;US;US
+354;Acceleration;17.8;15.0
+68;Origin;US;US
+286;Horsepower;71.00;95.00
+392;Cylinders;4;4
+369;Horsepower;76.00;130.0
+371;Model;81;70
+147;Horsepower;140.0;130.0
+57;Model;71;70
+237;Cylinders;8;8
+257;Displacement;260.0;307.0
+360;Weight;2380.;3693.
+178;Acceleration;18.5;12.0
+146;MPG;14.0;15.0
+358;Origin;US;Japan
+239;Car;Chrysler Cordoba;Buick Skylark 320
+323;MPG;24.3;15.0
+66;MPG;25.0;23.0
+242;Weight;2740.;3693.
+249;MPG;22.0;24.0
+278;Model;78;70
+329;Origin;Japan;Japan
+282;Horsepower;103.0;113.0
+327;Horsepower;75.00;130.0
+305;Cylinders;5;8
+398;Weight;2835;3693.
+114;Car;Oldsmobile Vista Cruiser;Buick Skylark 320
+46;Car;Chevrolet Impala;Buick Skylark 320
+192;Car;Capri ii;Toyota Corolla Mark ii
+387;Cylinders;4;8
+361;Origin;Europe;Japan
+123;Acceleration;13.0;12.0
+296;Weight;3830.;3693.
+231;Weight;4140.;3693.
+70;Horsepower;165.0;130.0
+307;Origin;Europe;US
+318;Displacement;89.00;113.0
+385;Displacement;91.00;113.0
+295;Car;Mercury Grand Marquis;Buick Skylark 320
+143;Horsepower;105.0;150.0
+391;Weight;2245;2372.
+216;Weight;3940.;3693.
+63;Horsepower;60.00;130.0
+309;Horsepower;70.00;130.0
+199;Weight;3233.;3693.
+45;Displacement;232.0;307.0
+28;Weight;2430.;3693.
+150;Horsepower;67.00;130.0
+28;Car;Audi 100 LS;Buick Skylark 320
+139;Model;74;70
+389;Acceleration;14.5;15.0
+353;Origin;Japan;Japan
+22;MPG;22.0;15.0
+38;Cylinders;4;4
+406;Acceleration;19.4;15.0
+185;Car;Audi 100LS;Citroen DS-21 Pallas
+368;Acceleration;15.4;12.0
+179;Car;Toyota Corolla;Toyota Corolla Mark ii
+181;Acceleration;17.0;15.0
+15;Weight;3850.;3693.
+187;Horsepower;98.00;130.0
+132;Horsepower;180.0;130.0
+73;Acceleration;13.0;12.0
+82;Horsepower;140.0;130.0
+37;Displacement;140.0;307.0
+297;Acceleration;14.9;12.0
+163;Horsepower;72.00;130.0
+304;Car;AMC Spirit DL;Buick Skylark 320
+320;Car;Datsun 310;Toyota Corolla Mark ii
+68;Acceleration;19.5;15.0
+203;Car;Chevrolet Chevette;Buick Skylark 320
+92;Weight;2100.;2372.
+240;Displacement;351.0;307.0
+340;Horsepower;62.00;130.0
+222;Origin;US;US
+297;Cylinders;8;8
+168;Cylinders;6;8
+371;Horsepower;120.0;95.00
+320;Origin;Japan;Japan
+165;Weight;4440.;3693.
+289;MPG;19.8;15.0
+116;Model;73;70
+190;Displacement;107.0;307.0
+16;MPG;15.0;15.0
+306;Cylinders;8;8
+66;Origin;US;US
+403;Model;82;70
+337;Acceleration;13.8;15.0
+157;Cylinders;4;4
+263;Horsepower;88.00;95.00
+362;MPG;34.5;0
+85;Car;Volkswagen 411 (sw);Citroen DS-21 Pallas
+376;Cylinders;4;8
+180;MPG;25.0;0
+103;Model;73;70
+347;Cylinders;4;8
+53;MPG;18.0;15.0
+87;Horsepower;69.00;95.00
+215;Displacement;130.0;133.0
+264;Horsepower;100.0;130.0
+353;Displacement;81.00;113.0
+53;Displacement;258.0;307.0
+55;MPG;19.0;24.0
+374;Car;Ford Grenada gl;Buick Skylark 320
+172;Weight;3039.;3693.
+59;MPG;30.0;0
+156;Car;Fiat 124 TC;Citroen DS-21 Pallas
+163;Model;75;70
+206;Model;76;70
+385;Acceleration;18.2;15.0
+201;Weight;3012.;3693.
+206;MPG;33.0;24.0
+96;Acceleration;14.5;12.0
+275;Horsepower;95.00;95.00
+343;Displacement;122.0;307.0
+167;Weight;4657.;3693.
+238;Horsepower;170.0;130.0
+367;Horsepower;80.00;130.0
+379;Horsepower;85.00;95.00
+311;Car;Datsun 210;Toyota Corolla Mark ii
+295;Horsepower;138.0;130.0
+47;Model;71;70
+97;Weight;3777.;3693.
+345;Horsepower;72.00;95.00
+19;Horsepower;150.0;130.0
+187;Acceleration;14.5;12.0
+80;Cylinders;8;8
+95;MPG;13.0;15.0
+84;Car;Volvo 145e (sw);Plymouth Satellite
+195;Car;Chevrolet Chevelle Malibu Classic;Buick Skylark 320
+235;Horsepower;100.0;130.0
+327;Displacement;120.0;133.0
+143;Origin;US;US
+115;Model;73;70
+277;Car;Dodge Omni;Toyota Corolla Mark ii
+103;Origin;US;US
+398;Displacement;232.0;307.0
+130;Weight;2660.;3090.
+364;MPG;32.4;24.0
+124;Weight;4278.;3693.
+282;Weight;2830.;2234.
+379;Model;82;70
+181;MPG;24.0;24.0
+162;Cylinders;6;8
+124;Horsepower;230.0;130.0
+362;Cylinders;4;8
+175;Cylinders;4;4
+366;Displacement;120.0;113.0
+352;Car;Plymouth Champ;Buick Skylark 320
+255;Acceleration;18.6;15.0
+363;MPG;33.7;24.0
+199;Horsepower;100.0;130.0
+188;Displacement;121.0;133.0
+219;Origin;Europe;US
+80;Model;72;70
+217;Model;76;70
+303;Acceleration;14.4;12.0
+359;Acceleration;16.2;12.0
+298;MPG;15.5;15.0
+198;Car;Ford Gran Torino;Buick Skylark 320
+309;Car;Plymouth Horizon;Buick Skylark 320
+373;Acceleration;19.0;12.0
+357;MPG;34.1;24.0
+230;Model;77;70
+201;Acceleration;17.6;12.0
+69;Weight;2226.;2372.
+31;Acceleration;15.0;12.0
+338;Weight;1835.;3693.
+44;Acceleration;15.5;12.0
+378;Origin;US;Japan
+247;Displacement;97.00;113.0
+10;Displacement;390.0;307.0
+159;Weight;2000.;3693.
+192;Displacement;140.0;113.0
+84;Origin;Europe;US
+346;Cylinders;4;8
+332;Acceleration;19.2;15.0
+183;Acceleration;14.0;15.0
+262;Acceleration;15.8;12.0
+356;MPG;37.7;24.0
+116;MPG;20.0;24.0
+290;Cylinders;4;4
+386;Weight;1970.;2372.
+384;Displacement;105.0;133.0
+194;Car;Renault 12tl;Citroen DS-21 Pallas
+353;MPG;35.1;24.0
+270;Acceleration;13.2;12.0
+51;MPG;13.0;15.0
+167;MPG;14.0;15.0
+275;MPG;27.5;24.0
+148;Horsepower;150.0;130.0
+133;Displacement;198.0;307.0
+307;Car;Peugeot 504;Toyota Corolla Mark ii
+301;Acceleration;14.0;12.0
+364;Displacement;108.0;113.0
+259;Origin;US;US
+140;Displacement;140.0;307.0
+94;Horsepower;150.0;130.0
+131;Car;Toyota Mark II;Dodge D200
+172;Car;Buick Skyhawk;Buick Skylark 320
+52;Car;Pontiac Safari (sw);Buick Skylark 320
+394;Displacement;91.00;113.0
+373;Horsepower;105.0;130.0
+256;Origin;Japan;US
+6;MPG;15.0;15.0
+60;Acceleration;14.5;17.5
+10;Origin;US;US
+226;Displacement;79.00;133.0
+29;Horsepower;95.00;130.0
+233;MPG;17.5;15.0
+32;Acceleration;14.0;12.0
+129;MPG;15.0;15.0
+323;Model;80;70
+81;MPG;13.0;15.0
+129;Cylinders;8;8
+193;Cylinders;4;8
+221;Car;Chevrolet C10;Buick Skylark 320
+213;Origin;Japan;US
+55;Model;71;70
+136;Cylinders;6;8
+159;MPG;31.0;0
+27;Car;Peugeot 504;Citroen DS-21 Pallas
+77;Car;Oldsmobile Delta 88 Royale;Buick Skylark 320
+211;Displacement;97.00;133.0
+251;Car;Mazda RX-4;Toyota Corolla Mark ii
+393;Cylinders;4;4
+208;Weight;3574.;3693.
+40;MPG;0;0
+48;Horsepower;153.0;130.0
+351;Cylinders;4;4
+42;Weight;3439.;3693.
+223;Model;76;70
+343;Cylinders;4;8
+199;Model;76;70
+206;Horsepower;53.00;95.00
+297;Origin;US;US
+196;MPG;16.0;15.0
+12;Weight;4142.;3693.
+203;Cylinders;4;8
+346;Weight;2490.;3693.
+229;Horsepower;145.0;130.0
+396;Model;82;70
+297;MPG;16.9;14.0
+335;MPG;36.4;0
+386;Acceleration;17.6;15.0
+150;Acceleration;15.5;12.0
+334;Displacement;90.00;113.0
+180;Car;Volkswagen Dasher;Citroen DS-21 Pallas
+286;Origin;Europe;Japan
+120;Displacement;122.0;307.0
+381;MPG;27.0;15.0
+373;MPG;26.6;15.0
+185;Displacement;115.0;133.0
+406;Car;Chevy S-10;Toyota Corolla Mark ii
+162;Horsepower;72.00;130.0
+99;Car;Chevrolet Caprice Classic;Buick Skylark 320
+131;Cylinders;6;8
+337;Car;Honda Civic 1500 gl;Toyota Corolla Mark ii
+53;Model;71;70
+116;Cylinders;4;4
+314;Weight;2595.;3693.
+177;Acceleration;16.0;12.0
+312;Model;79;70
+293;Weight;3840.;3693.
+244;Cylinders;4;8
+307;Horsepower;71.00;95.00
+49;Weight;4096.;3693.
+70;Weight;4274.;3693.
+166;Model;75;70
+311;Model;79;70
+19;MPG;15.0;15.0
+6;Car;Ford Galaxie 500;Buick Skylark 320
+7;Acceleration;9.0;12.0
+248;Displacement;97.00;133.0
+91;Displacement;98.00;307.0
+125;Cylinders;4;8
+295;Model;79;70
+285;Car;Peugeot 604sl;Citroen DS-21 Pallas
+348;Model;81;70
+234;Origin;US;US
+71;Horsepower;175.0;130.0
+140;Car;Chevrolet Vega;Buick Skylark 320
+380;Origin;US;US
+380;Cylinders;4;6
+215;Acceleration;15.7;17.5
+406;Weight;2720.;2372.
+283;MPG;17.0;15.0
+266;Horsepower;105.0;130.0
+170;Car;AMC Matador;Buick Skylark 320
+148;Acceleration;15.5;12.0
+96;Car;Ford Gran Torino;Buick Skylark 320
+12;Acceleration;11.5;12.0
+140;Model;74;70
+160;Horsepower;95.00;130.0
+289;Car;Mercury Zephyr 6;Buick Skylark 320
+163;Displacement;250.0;307.0
+49;MPG;14.0;15.0
+326;Acceleration;15.5;15.0
+33;Model;70;70
+14;Car;Plymouth Satellite (sw);Buick Skylark 320
+338;Displacement;85.00;307.0
+268;Acceleration;18.7;12.0
+292;Cylinders;6;8
+26;Origin;Europe;US
+153;MPG;32.0;24.0
+237;Origin;US;US

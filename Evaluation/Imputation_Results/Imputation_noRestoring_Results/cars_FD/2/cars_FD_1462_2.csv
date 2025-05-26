@@ -1,0 +1,1463 @@
+riga;nome attributo;valore da imputare;valore imputato
+32;Weight;4615.;3436.
+248;Weight;2190.;3436.
+14;MPG;0;18.0
+264;Origin;US;US
+205;Weight;1937.;2833.
+72;Car;Plymouth Fury III;Chevrolet Chevelle Malibu
+300;Weight;3940.;3850.
+359;Cylinders;4;8
+1;Model;70;70
+315;Car;Oldsmobile Omega Brougham;Citroen DS-21 Pallas
+6;Car;Ford Galaxie 500;Chevrolet Chevelle Malibu
+262;Acceleration;15.8;12.0
+73;Acceleration;13.0;12.0
+340;Cylinders;4;4
+341;Model;80;76
+44;Origin;US;US
+181;Car;Datsun 710;Datsun 510 (sw)
+119;Weight;2124.;3436.
+317;Displacement;98.00;232.0
+335;MPG;36.4;18.0
+158;Model;74;70
+233;Horsepower;110.0;150.0
+79;Acceleration;13.5;15.0
+39;Acceleration;19.0;14.5
+370;Acceleration;12.6;13.9
+280;MPG;23.8;0
+90;Weight;2506.;3436.
+118;Origin;Japan;US
+275;Horsepower;95.00;48.00
+322;Car;Ford Fairmont;Chevrolet Vega 2300
+210;Origin;US;US
+47;Car;Pontiac Catalina Brougham;Chevrolet Chevelle Malibu
+95;Origin;US;US
+307;Displacement;141.0;120.0
+324;Model;80;70
+312;Acceleration;14.7;12.0
+316;Car;Pontiac Phoenix;Chevrolet Chevelle Malibu
+242;Acceleration;16.0;12.0
+150;Acceleration;15.5;19.5
+268;Model;78;70
+141;Cylinders;6;8
+225;MPG;30.0;25.0
+116;Horsepower;88.00;150.0
+343;MPG;35.0;18.0
+171;Horsepower;95.00;150.0
+316;Cylinders;4;8
+127;Origin;Europe;US
+75;Displacement;429.0;304.0
+376;Acceleration;19.6;12.0
+273;Acceleration;13.7;12.0
+90;Horsepower;97.00;150.0
+313;Model;79;70
+50;Cylinders;8;8
+140;Weight;2542.;2833.
+266;Horsepower;105.0;46.00
+175;MPG;29.0;18.0
+178;Weight;2592.;4732.
+81;Weight;4098.;3436.
+128;Car;Volvo 144ea;Plymouth Duster
+74;Cylinders;8;8
+301;Weight;1925.;2833.
+264;Model;78;70
+75;Horsepower;208.0;150.0
+66;Acceleration;17.0;14.5
+41;Weight;2634.;3436.
+72;Displacement;318.0;304.0
+82;Weight;4294.;3436.
+117;MPG;21.0;0
+190;Horsepower;86.00;150.0
+20;Weight;3086.;3436.
+40;Car;Volkswagen Super Beetle 117;Citroen DS-21 Pallas
+80;Weight;3892.;3436.
+331;MPG;27.9;36.1
+80;Acceleration;12.5;12.0
+33;Model;70;70
+307;Weight;3190.;2979.
+228;Cylinders;4;8
+103;Displacement;455.0;304.0
+292;MPG;20.6;16.0
+161;Car;Chevrolet Nova;Chevrolet Chevelle Malibu
+25;Cylinders;4;8
+350;Origin;US;US
+93;Displacement;350.0;304.0
+105;Weight;3121.;3436.
+109;Car;Plymouth Duster;Plymouth Duster
+402;Origin;US;US
+21;Horsepower;95.00;150.0
+91;MPG;28.0;18.0
+141;MPG;16.0;18.0
+34;Origin;US;US
+19;Origin;US;US
+387;Acceleration;14.7;12.0
+388;Origin;US;US
+376;Weight;2605.;3436.
+36;Model;71;70
+45;Weight;3288.;3436.
+364;MPG;32.4;25.0
+202;Acceleration;17.6;12.0
+313;MPG;28.4;24.0
+27;Cylinders;4;8
+79;Model;72;70
+258;Model;78;70
+82;Origin;US;US
+379;Weight;2575.;1950.
+180;Car;Volkswagen Dasher;Saab 99e
+10;Acceleration;8.5;12.0
+339;Model;80;70
+348;Weight;2620.;1835.
+232;Car;Mercury Cougar Brougham;Buick Skylark 320
+379;Origin;US;Europe
+330;MPG;46.6;34.1
+247;Displacement;97.00;96.00
+208;Weight;3574.;3436.
+315;Acceleration;12.9;12.0
+45;Model;71;70
+108;Displacement;250.0;?
+47;Model;71;70
+96;Model;73;70
+348;Displacement;156.0;97.00
+29;Origin;Europe;US
+245;Acceleration;17.0;13.2
+306;Origin;US;US
+370;MPG;25.4;15.5
+26;Cylinders;4;8
+76;Cylinders;8;8
+44;MPG;19.0;18.0
+227;Model;77;70
+262;Origin;US;US
+391;Origin;Japan;Japan
+291;Horsepower;90.00;150.0
+71;Model;72;70
+94;Acceleration;11.5;12.0
+250;Car;BMW 320i;Chevrolet Chevelle Malibu
+84;MPG;18.0;0
+42;Origin;US;US
+319;Cylinders;4;8
+169;Cylinders;6;8
+320;Car;Datsun 310;Toyota Corolla
+229;Origin;US;US
+364;Horsepower;75.00;95.00
+109;Displacement;198.0;304.0
+234;Model;77;70
+40;Acceleration;20.0;12.0
+226;Horsepower;58.00;70.00
+392;Cylinders;4;8
+56;Horsepower;88.00;150.0
+356;Cylinders;4;8
+145;Acceleration;14.5;?
+399;Car;Toyota Celica GT;Plymouth Arrow GS
+246;Displacement;98.00;97.00
+223;Car;Dodge D100;Chevrolet Chevelle Malibu
+43;Origin;US;US
+139;Horsepower;65.00;150.0
+64;Car;Plymouth Cricket;Chevrolet Chevelle Malibu
+381;Displacement;151.0;304.0
+388;Displacement;98.00;79.00
+13;Weight;4034.;3436.
+70;MPG;13.0;18.0
+151;Model;74;70
+244;Acceleration;15.8;15.5
+324;Cylinders;6;8
+113;Origin;US;US
+250;Origin;Europe;US
+301;Car;Volkswagen Rabbit Custom;Saab 99e
+54;Acceleration;19.0;12.0
+101;Origin;US;US
+389;Weight;2160.;2979.
+186;Origin;Europe;US
+117;Displacement;140.0;133.0
+351;Model;81;70
+318;Acceleration;18.8;22.1
+20;Horsepower;225.0;150.0
+401;MPG;27.0;0
+234;MPG;20.5;26.0
+44;Model;71;70
+394;Car;Datsun 310 GX;Chevrolet Chevelle Malibu
+2;Horsepower;165.0;150.0
+200;Displacement;250.0;304.0
+241;Weight;1940.;3436.
+295;Horsepower;138.0;150.0
+160;Origin;US;US
+51;Car;Ford Country Squire (sw);Chevrolet Chevelle Malibu
+204;Displacement;98.00;304.0
+294;Horsepower;129.0;110.0
+22;MPG;22.0;18.0
+164;Acceleration;11.5;12.0
+56;Model;71;70
+108;Acceleration;16.5;?
+1;Weight;3504.;3436.
+100;Model;73;70
+224;Cylinders;4;8
+18;Weight;3353.;3436.
+317;Horsepower;76.00;100.0
+43;Cylinders;6;8
+53;Origin;US;US
+213;Cylinders;4;8
+212;Horsepower;70.00;90.00
+70;Weight;4274.;3436.
+399;MPG;32.0;25.5
+149;Car;Audi Fox;Toyota Corolla 1600 (sw)
+252;Cylinders;4;8
+77;Horsepower;160.0;150.0
+255;MPG;39.4;28.0
+281;Weight;2405.;3436.
+314;Model;79;70
+406;MPG;31.0;21.5
+73;Weight;4129.;3436.
+156;Horsepower;75.00;90.00
+64;MPG;26.0;18.0
+323;Acceleration;20.1;12.0
+72;Weight;4135.;3436.
+278;Acceleration;14.8;12.0
+371;Origin;Japan;US
+183;Acceleration;14.0;15.5
+1;Horsepower;130.0;150.0
+308;Weight;3420.;3436.
+283;Horsepower;125.0;115.0
+382;Weight;2865.;3436.
+151;Horsepower;78.00;46.00
+338;Cylinders;4;8
+229;Model;77;70
+218;Acceleration;15.5;15.5
+78;Origin;US;US
+28;Weight;2430.;3436.
+183;MPG;29.0;25.0
+77;Cylinders;8;8
+318;Model;80;76
+148;Cylinders;8;8
+82;Car;Ford Gran Torino (sw);Chevrolet Chevelle Malibu
+104;Acceleration;11.0;12.0
+404;Origin;US;US
+212;MPG;32.0;28.0
+18;Acceleration;8.0;12.0
+263;Horsepower;88.00;113.0
+312;Cylinders;4;8
+4;Acceleration;12.0;12.0
+47;Cylinders;8;8
+42;Weight;3439.;3436.
+323;Car;AMC Concord;Chevrolet Chevelle Malibu
+329;Model;80;70
+390;MPG;36.0;18.0
+241;Car;Volkswagen Rabbit Custom;Chevrolet Chevelle Malibu
+131;Origin;Japan;US
+189;Weight;1795.;2833.
+31;Horsepower;90.00;95.00
+169;Weight;3897.;3436.
+264;Car;Plymouth Volare;AMC Gremlin
+47;Horsepower;175.0;150.0
+363;Cylinders;4;8
+205;Car;Volkswagen Rabbit;Fiat 128
+298;MPG;15.5;17.0
+387;Cylinders;4;8
+173;MPG;20.0;11.0
+196;Weight;4190.;3436.
+74;Model;72;70
+153;Displacement;83.00;200.0
+402;Weight;2790.;3436.
+397;Acceleration;14.5;14.5
+331;Displacement;156.0;98.00
+93;Weight;4100.;3436.
+267;Acceleration;16.7;12.0
+403;Cylinders;4;8
+229;Acceleration;12.5;12.0
+249;Cylinders;6;8
+66;Car;Dodge Colt Hardtop;Saab 99e
+289;Car;Mercury Zephyr 6;Ford Maverick
+369;MPG;30.7;18.0
+61;Horsepower;65.00;150.0
+394;Weight;1995.;3436.
+317;Model;80;70
+369;Weight;3160.;3436.
+308;Horsepower;90.00;150.0
+393;Cylinders;4;8
+38;Model;71;70
+76;Displacement;350.0;304.0
+252;Acceleration;21.5;12.0
+143;Displacement;225.0;304.0
+123;Car;Chevrolet Monte Carlo S;Buick Skylark 320
+217;Weight;3270.;2979.
+4;Origin;US;US
+147;Cylinders;8;8
+35;Horsepower;193.0;150.0
+356;Horsepower;62.00;71.00
+377;Weight;2640.;3436.
+136;Cylinders;6;8
+86;Cylinders;4;8
+170;Acceleration;19.0;12.0
+185;MPG;23.0;24.0
+404;Weight;2295.;2587.
+322;Model;80;70
+270;Acceleration;13.2;12.0
+329;MPG;32.2;25.0
+221;Weight;4055.;3436.
+298;Car;Ford Country Squire (sw);Pontiac Lemans V6
+170;Weight;3730.;3436.
+319;Weight;2120.;3436.
+303;Horsepower;80.00;90.00
+322;MPG;26.4;28.0
+102;Horsepower;215.0;150.0
+273;Origin;US;US
+160;Model;75;70
+7;MPG;14.0;18.0
+102;Origin;US;US
+66;Origin;US;US
+205;Acceleration;14.2;15.5
+152;Cylinders;4;4
+184;Car;AMC Pacer;AMC Gremlin
+280;Origin;US;Europe
+165;Horsepower;145.0;150.0
+36;Origin;Japan;US
+370;Model;81;76
+288;Horsepower;115.0;150.0
+57;MPG;23.0;18.0
+115;Weight;2789.;3436.
+345;Origin;Japan;US
+125;Car;Fiat 128;Peugeot 304
+204;MPG;24.5;18.0
+371;Cylinders;6;6
+128;Model;73;70
+18;Horsepower;140.0;150.0
+297;MPG;16.9;18.0
+62;Car;Datsun 1200;Toyota Corolla Mark ii
+346;Car;Plymouth Reliant;Datsun 510
+229;Horsepower;145.0;150.0
+316;Weight;2556.;3436.
+116;MPG;20.0;18.0
+144;Displacement;302.0;104.0
+314;Weight;2595.;3090.
+9;Car;Pontiac Catalina;Chevrolet Chevelle Malibu
+285;Car;Peugeot 604sl;Volkswagen Rabbit Custom Diesel
+262;Weight;2965.;2587.
+253;Horsepower;66.00;90.00
+205;Origin;Europe;US
+13;Origin;US;US
+278;Weight;2515.;3436.
+140;Horsepower;75.00;95.00
+341;MPG;32.7;15.5
+57;Weight;2220.;3436.
+70;Horsepower;165.0;150.0
+75;Cylinders;8;8
+402;Car;Ford Mustang GL;Chevrolet Vega 2300
+381;Cylinders;4;4
+55;Cylinders;6;8
+256;Acceleration;16.4;12.0
+16;Horsepower;170.0;150.0
+264;Cylinders;6;6
+228;Acceleration;16.8;12.0
+143;MPG;18.0;16.0
+37;Model;71;70
+350;Horsepower;84.00;90.00
+165;MPG;15.0;18.0
+306;Acceleration;17.4;12.0
+7;Displacement;454.0;304.0
+15;Model;70;70
+198;Acceleration;12.8;13.5
+47;MPG;14.0;18.0
+145;MPG;13.0;?
+30;Origin;Europe;US
+297;Weight;4360.;3436.
+68;Cylinders;4;8
+136;Weight;3336.;3436.
+194;Origin;Europe;US
+109;Acceleration;16.0;12.0
+219;MPG;16.5;?
+232;Horsepower;130.0;150.0
+306;Model;79;70
+16;Origin;US;US
+400;Weight;2370.;3436.
+336;Model;80;70
+316;Displacement;151.0;304.0
+303;MPG;35.7;36.1
+181;Weight;2545.;3436.
+6;Acceleration;10.0;12.0
+231;Origin;US;US
+159;Acceleration;16.0;12.0
+87;Cylinders;4;8
+279;Car;Plymouth Sapporo;Plymouth Satellite Custom
+310;Model;79;70
+268;Acceleration;18.7;15.5
+214;Weight;2565.;2264.
+277;Weight;2230.;3436.
+306;Horsepower;125.0;54.00
+101;Horsepower;150.0;150.0
+187;Acceleration;14.5;12.5
+395;Weight;2945.;2833.
+136;Horsepower;100.0;150.0
+266;Displacement;231.0;97.00
+8;MPG;14.0;18.0
+403;Weight;2130.;3436.
+105;Acceleration;16.5;12.0
+182;Model;75;70
+147;Acceleration;16.0;12.0
+406;Displacement;119.0;121.0
+153;Weight;2003.;2587.
+224;Acceleration;18.5;14.5
+326;Horsepower;90.00;150.0
+125;Cylinders;4;8
+130;Model;73;70
+243;MPG;26.0;18.0
+56;Cylinders;6;8
+271;Cylinders;6;8
+171;Car;Plymouth Fury;Plymouth Satellite Custom
+277;Displacement;105.0;304.0
+111;Model;73;70
+5;Horsepower;140.0;150.0
+181;Cylinders;4;4
+150;Cylinders;4;8
+84;Acceleration;14.5;12.0
+177;Origin;US;US
+195;Acceleration;13.0;12.0
+275;Acceleration;14.2;12.0
+171;MPG;18.0;16.0
+166;MPG;16.0;18.0
+403;MPG;44.0;18.0
+33;Horsepower;200.0;150.0
+130;Cylinders;4;8
+200;Weight;3353.;3436.
+120;Acceleration;18.5;14.5
+125;Horsepower;49.00;115.0
+216;Displacement;318.0;304.0
+319;Displacement;98.00;304.0
+255;Horsepower;70.00;90.00
+193;Cylinders;4;8
+158;Weight;2391.;3436.
+201;Displacement;200.0;113.0
+53;Cylinders;6;8
+201;Acceleration;17.6;12.0
+299;Displacement;267.0;113.0
+72;Origin;US;US
+336;Displacement;146.0;98.00
+157;Horsepower;97.00;150.0
+103;Model;73;70
+287;Displacement;98.00;133.0
+62;Cylinders;4;8
+168;Acceleration;21.0;10.5
+78;Cylinders;8;8
+159;Displacement;79.00;200.0
+199;Model;76;71
+198;Origin;US;US
+134;Displacement;200.0;200.0
+343;Horsepower;88.00;150.0
+152;Acceleration;16.5;15.0
+2;Displacement;350.0;304.0
+108;Model;73;?
+281;Displacement;119.0;304.0
+218;Origin;Japan;US
+238;Model;77;70
+152;Weight;1649.;2372.
+83;Origin;US;US
+190;MPG;28.0;18.0
+308;Origin;US;US
+192;MPG;25.0;28.0
+327;Acceleration;17.5;12.0
+374;Model;81;70
+68;Model;72;70
+189;MPG;33.0;25.0
+255;Acceleration;18.6;14.5
+167;Car;Ford LTD;Dodge D200
+313;Displacement;151.0;113.0
+385;Origin;Japan;US
+238;Displacement;350.0;304.0
+36;Weight;2130.;3436.
+113;Model;73;70
+377;MPG;27.0;18.0
+255;Origin;Japan;US
+191;MPG;25.0;26.0
+273;Cylinders;8;8
+114;Displacement;350.0;304.0
+155;MPG;24.0;25.0
+122;Weight;2265.;3436.
+168;Weight;3907.;3449.
+75;Acceleration;11.0;12.0
+146;Horsepower;150.0;160.0
+100;Origin;US;US
+306;Weight;3900.;3436.
+351;MPG;39.1;0
+402;Model;82;70
+88;MPG;22.0;24.0
+238;Origin;US;US
+5;Displacement;302.0;304.0
+329;Acceleration;15.2;15.5
+146;Displacement;318.0;340.0
+390;Acceleration;14.5;12.0
+2;Origin;US;US
+55;Acceleration;15.0;12.0
+399;Displacement;144.0;122.0
+363;Horsepower;75.00;150.0
+31;Origin;US;US
+85;Cylinders;4;8
+357;Car;Mazda GLC 4;Chevrolet Chevelle Malibu
+315;Weight;2700.;3090.
+173;Cylinders;8;8
+10;Car;AMC Ambassador DPL;Chevrolet Chevelle Malibu
+6;Cylinders;8;8
+81;Cylinders;8;8
+339;MPG;33.8;18.0
+153;Acceleration;19.0;12.0
+84;Car;Volvo 145e (sw);Citroen DS-21 Pallas
+216;Model;76;70
+358;Origin;US;US
+389;Acceleration;14.5;14.5
+188;MPG;25.0;0
+23;Car;AMC Hornet;Chevrolet Chevelle Malibu
+147;Displacement;302.0;340.0
+187;Model;75;70
+203;MPG;29.0;?
+142;MPG;16.0;11.0
+331;Horsepower;105.0;90.00
+344;MPG;23.6;28.0
+163;Model;75;70
+127;Horsepower;91.00;95.00
+293;Car;Chevrolet Caprice Classic;Ford Torino
+303;Displacement;98.00;98.00
+138;Weight;2451.;3436.
+321;Weight;2678.;3436.
+82;Model;72;70
+209;Car;Pontiac Ventura SJ;Chevrolet Chevelle Malibu
+62;MPG;35.0;24.0
+399;Weight;2665.;3436.
+343;Model;80;70
+181;MPG;24.0;28.0
+182;MPG;18.0;18.0
+83;Model;72;70
+112;Weight;4906.;3761.
+71;Horsepower;175.0;150.0
+177;MPG;20.0;21.0
+343;Acceleration;15.1;12.0
+283;MPG;17.0;0
+154;Displacement;90.00;304.0
+198;Car;Ford Gran Torino;Ford Galaxie 500
+33;Car;Chevy C20;Chevrolet Chevelle Malibu
+376;Cylinders;4;8
+109;Weight;2904.;3436.
+214;Car;Ford Pinto;Chevrolet Vega 2300
+275;Car;Toyota Corolla;Volkswagen Rabbit Custom Diesel
+395;Horsepower;110.0;95.00
+141;Model;74;70
+385;MPG;37.0;18.0
+53;MPG;18.0;11.0
+261;Weight;3155.;2833.
+46;Displacement;350.0;304.0
+155;Weight;2108.;2833.
+146;Weight;4457.;3609.
+214;Acceleration;13.6;14.5
+31;Acceleration;15.0;15.5
+74;Origin;US;US
+60;Cylinders;4;8
+145;Cylinders;8;8
+354;Origin;Japan;Europe
+235;MPG;19.0;16.0
+349;Model;81;70
+353;Model;81;70
+285;Weight;3410.;3090.
+71;Displacement;400.0;304.0
+244;Horsepower;89.00;95.00
+63;Origin;Europe;US
+147;Weight;4638.;3609.
+403;Acceleration;24.6;12.0
+270;Car;Chevrolet Monte Carlo Landau;Chevrolet Chevelle Malibu Classic
+237;Model;77;70
+31;Cylinders;6;6
+87;Car;Renault 12 (sw);Citroen DS-21 Pallas
+405;MPG;28.0;18.0
+163;Weight;3158.;3436.
+163;Origin;US;US
+372;MPG;22.4;17.0
+305;MPG;25.4;17.0
+303;Car;Dodge Colt Hatchback Custom;Ford Fiesta
+65;Acceleration;15.5;12.0
+5;Cylinders;8;8
+340;Displacement;89.00;97.00
+104;Origin;US;US
+321;Horsepower;90.00;90.00
+242;Displacement;151.0;113.0
+296;Acceleration;15.2;12.0
+174;Acceleration;12.0;12.0
+54;Car;Chevrolet Vega (sw);Chevrolet Chevelle Malibu
+271;Car;Buick Regal Sport Coupe (turbo);Chevrolet Chevelle Concours (sw)
+201;Origin;US;US
+258;Origin;US;US
+311;MPG;31.8;28.0
+140;Acceleration;17.0;15.5
+368;Weight;2800.;3436.
+188;Acceleration;13.5;12.0
+256;Car;Honda Civic CVCC;Chevrolet Chevelle Malibu
+121;Acceleration;14.0;?
+369;Acceleration;19.6;12.0
+236;Origin;US;US
+75;Model;72;70
+167;Weight;4657.;3436.
+63;Cylinders;4;8
+310;Weight;2150.;2074.
+33;MPG;10.0;18.0
+70;Car;Chevrolet Impala;Chevrolet Chevelle Malibu
+30;MPG;26.0;18.0
+310;Car;Plymouth Horizon TC3;Peugeot 304
+55;Car;Pontiac Firebird;Chevrolet Chevelle Malibu
+196;Origin;US;US
+196;Car;Dodge Coronet Brougham;AMC Rebel SST
+318;Origin;Japan;Europe
+70;Acceleration;12.0;12.0
+317;Car;Volkswagen Rabbit;Ford Grenada l
+206;Acceleration;17.4;12.0
+387;Weight;2125.;3090.
+160;Car;Plymouth Valiant Custom;Plymouth Duster
+132;Origin;US;US
+156;Car;Fiat 124 TC;Opel 1900
+282;Cylinders;5;8
+370;Weight;2900.;3962.
+355;Model;81;72
+19;Cylinders;8;8
+194;Weight;2202.;2100.
+61;MPG;31.0;24.0
+72;Horsepower;150.0;150.0
+64;Horsepower;70.00;150.0
+365;Acceleration;14.8;13.0
+240;Cylinders;8;8
+165;Acceleration;14.0;12.0
+91;Car;Dodge Colt (sw);Chevrolet Chevelle Malibu
+116;Origin;Japan;US
+368;Acceleration;15.4;12.0
+224;Horsepower;68.00;90.00
+267;Horsepower;85.00;150.0
+194;MPG;27.0;27.0
+155;Acceleration;15.5;15.5
+46;Cylinders;8;8
+221;Car;Chevrolet C10;Chevrolet Chevelle Malibu
+216;Origin;US;US
+362;Car;Renault 18i;Buick Century Special
+251;Displacement;80.00;304.0
+172;MPG;21.0;18.0
+178;Origin;US;US
+368;MPG;0;27.2
+79;Displacement;70.00;113.0
+245;Car;Chevrolet Chevette;Plymouth Horizon 4
+118;MPG;22.0;27.0
+20;MPG;14.0;18.0
+82;Displacement;302.0;304.0
+94;Displacement;304.0;304.0
+375;Cylinders;6;8
+309;Origin;US;Europe
+190;Car;Fiat 131;Plymouth Duster
+233;MPG;17.5;18.0
+331;Car;Dodge Colt;Ford Fiesta
+236;Acceleration;19.0;12.0
+179;Displacement;134.0;113.0
+396;Acceleration;17.0;13.5
+289;Model;79;70
+257;Cylinders;8;8
+328;Horsepower;92.00;150.0
+380;Acceleration;16.0;16.5
+312;Car;Fiat Strada Custom;Chevrolet Chevelle Malibu
+232;Acceleration;14.9;12.0
+335;Acceleration;19.9;12.0
+359;Acceleration;16.2;14.5
+16;Weight;3563.;3436.
+207;Displacement;225.0;199.0
+347;Model;81;70
+86;MPG;21.0;0
+155;Horsepower;75.00;95.00
+195;Model;76;70
+201;Horsepower;81.00;150.0
+364;Acceleration;16.8;15.5
+278;Cylinders;4;8
+342;Displacement;70.00;304.0
+19;Model;70;70
+219;Horsepower;120.0;?
+49;Origin;US;US
+305;Car;Mercedes Benz 300d;Pontiac Lemans V6
+235;Weight;3630.;3436.
+142;Weight;3632.;3436.
+290;Weight;2890.;3436.
+57;Origin;US;US
+54;Horsepower;72.00;150.0
+199;Horsepower;100.0;105.0
+335;Cylinders;5;8
+202;Car;AMC Hornet;Chevrolet Chevelle Malibu
+329;Origin;Japan;US
+285;Cylinders;6;8
+267;MPG;20.8;21.0
+246;Acceleration;15.9;20.5
+290;Acceleration;17.3;12.0
+73;Model;72;70
+95;Model;73;70
+340;Origin;Europe;Europe
+268;Origin;US;US
+226;Origin;Europe;US
+377;Model;82;70
+57;Acceleration;14.0;12.0
+75;MPG;11.0;18.0
+366;MPG;31.6;18.0
+120;Horsepower;85.00;90.00
+252;MPG;43.1;0
+124;Displacement;400.0;304.0
+368;Displacement;121.0;119.0
+381;Origin;US;US
+108;Car;Ford Maverick;?
+183;Horsepower;70.00;95.00
+95;Acceleration;13.0;12.0
+33;Displacement;307.0;304.0
+301;Acceleration;14.0;15.5
+247;Acceleration;16.4;18.0
+185;Displacement;115.0;113.0
+215;Acceleration;15.7;16.5
+63;Acceleration;19.0;12.0
+239;Car;Chrysler Cordoba;Chevrolet Chevelle Malibu
+353;Displacement;81.00;304.0
+25;Displacement;97.00;304.0
+362;Horsepower;0;46.00
+375;Car;Chrysler Lebaron Salon;Ford Fairmont (auto)
+352;Car;Plymouth Champ;Toyota Corolla
+27;Origin;Europe;US
+267;Cylinders;6;8
+203;Car;Chevrolet Chevette;?
+205;MPG;29.0;25.0
+291;Origin;US;US
+309;Cylinders;4;8
+161;Horsepower;105.0;150.0
+221;Origin;US;US
+128;Cylinders;4;8
+128;Displacement;121.0;304.0
+263;Displacement;140.0;121.0
+288;Cylinders;6;8
+244;Displacement;140.0;111.0
+114;Horsepower;180.0;150.0
+138;MPG;26.0;18.0
+291;Weight;3265.;3436.
+295;Weight;3955.;3436.
+165;Cylinders;8;8
+325;Model;80;70
+187;Displacement;121.0;121.0
+394;MPG;38.0;18.0
+4;Horsepower;150.0;150.0
+284;Horsepower;115.0;113.0
+152;Displacement;76.00;113.0
+343;Origin;Europe;US
+74;Horsepower;150.0;150.0
+96;Car;Ford Gran Torino;Chevrolet Chevelle Malibu
+386;Horsepower;68.00;115.0
+149;Origin;Europe;Europe
+80;Origin;US;US
+266;Model;78;70
+310;Acceleration;14.9;19.5
+217;Car;Peugeot 504;Peugeot 504
+169;Model;75;70
+199;Cylinders;6;8
+243;Acceleration;18.2;12.0
+298;Acceleration;14.3;12.0
+58;Cylinders;4;8
+23;Weight;2774.;3436.
+30;Car;BMW 2002;Chevrolet Chevelle Malibu
+254;Model;78;74
+241;Model;77;70
+28;Origin;Europe;US
+178;Car;Pontiac Astro;Hi 1200D
+208;Car;Ford Grenada ghia;Chevrolet Chevelle Malibu
+131;Car;Toyota Mark II;Dodge D200
+203;Acceleration;22.2;?
+283;Car;Volvo 264gl;Volkswagen Rabbit Custom Diesel
+141;Horsepower;100.0;150.0
+116;Cylinders;4;8
+383;Acceleration;20.5;12.0
+335;Model;80;70
+78;Weight;4422.;3436.
+197;Car;AMC Matador;Chevrolet Chevelle Malibu
+340;Weight;1845.;1835.
+123;Cylinders;8;8
+48;Horsepower;153.0;150.0
+286;MPG;31.5;25.0
+66;Cylinders;4;4
+116;Acceleration;19.0;12.0
+14;Horsepower;175.0;150.0
+301;Origin;Europe;US
+105;Horsepower;105.0;150.0
+145;Horsepower;150.0;?
+168;Model;75;70
+271;Origin;US;US
+76;Origin;US;US
+344;Origin;US;US
+22;Model;70;70
+16;Acceleration;10.0;12.0
+183;Car;Volkswagen Rabbit;Fiat 128
+294;Cylinders;8;8
+15;MPG;0;18.0
+121;MPG;21.0;?
+158;MPG;26.0;18.0
+116;Model;73;70
+341;Weight;2910.;3962.
+179;Horsepower;96.00;150.0
+208;Origin;US;US
+145;Car;Buick Century Luxus (sw);?
+330;Weight;2110.;1985.
+199;Origin;US;US
+203;Model;76;?
+276;Acceleration;14.7;12.0
+383;Origin;US;US
+307;Horsepower;71.00;87.00
+134;MPG;21.0;21.0
+135;Weight;2901.;3436.
+256;Model;78;70
+295;Model;79;70
+316;Origin;US;US
+54;Weight;2408.;3436.
+247;MPG;30.0;26.0
+388;Model;82;70
+26;MPG;26.0;18.0
+27;MPG;25.0;18.0
+272;Horsepower;139.0;129.0
+288;MPG;21.5;17.0
+218;Car;Toyota Mark II;AMC Gremlin
+191;Car;Opel 1900;Capri ii
+303;Cylinders;4;8
+181;Horsepower;97.00;90.00
+312;Model;79;70
+82;Horsepower;140.0;150.0
+262;MPG;20.2;21.0
+124;Model;73;70
+41;Displacement;232.0;304.0
+127;MPG;20.0;25.0
+364;Origin;Japan;US
+39;Origin;US;US
+397;MPG;26.0;28.0
+234;Car;Buick Skylark;Capri ii
+100;Horsepower;158.0;150.0
+281;Cylinders;4;8
+372;Acceleration;15.8;12.0
+219;Displacement;168.0;?
+237;MPG;16.0;18.0
+234;Horsepower;105.0;69.00
+88;Weight;2395.;2372.
+358;Acceleration;14.9;12.0
+332;MPG;40.8;28.0
+281;MPG;23.9;18.0
+334;Car;Volkswagen Dasher (diesel);Citroen DS-21 Pallas
+88;Origin;US;Japan
+235;Car;Plymouth Volare Custom;Plymouth Satellite Custom
+9;Displacement;455.0;304.0
+13;Horsepower;153.0;150.0
+154;Model;74;70
+345;MPG;32.4;28.0
+50;Acceleration;11.5;12.0
+275;Weight;2560.;1978.
+12;Weight;4142.;3436.
+261;Origin;US;US
+53;Car;AMC Hornet Sportabout (sw);Dodge D200
+74;Displacement;304.0;304.0
+122;Model;73;70
+367;Displacement;141.0;97.50
+148;Horsepower;150.0;150.0
+361;Origin;Europe;US
+121;Cylinders;6;8
+344;Horsepower;0;90.00
+309;MPG;34.2;0
+312;MPG;37.3;18.0
+100;MPG;13.0;18.0
+132;Displacement;350.0;304.0
+56;Displacement;250.0;304.0
+250;Cylinders;4;8
+260;Origin;US;US
+151;Acceleration;14.5;20.5
+332;Weight;2110.;2264.
+9;MPG;14.0;18.0
+355;Horsepower;65.00;92.00
+400;Origin;US;US
+118;Horsepower;94.00;88.00
+27;Model;70;70
+18;Displacement;302.0;304.0
+183;Model;75;70
+353;Origin;Japan;US
+173;Horsepower;110.0;210.0
+57;Model;71;70
+325;Origin;Europe;US
+203;Weight;2035.;?
+189;Origin;Japan;US
+221;Acceleration;12.0;12.0
+56;Weight;3139.;3436.
+228;Weight;1945.;3436.
+198;Cylinders;8;8
+95;Horsepower;145.0;150.0
+36;MPG;27.0;18.0
+7;Origin;US;US
+142;Cylinders;6;8
+25;Car;Datsun PL510;Chevrolet Chevelle Malibu
+44;Weight;3302.;3436.
+133;Model;74;70
+51;Horsepower;170.0;150.0
+144;MPG;16.0;25.0
+48;Cylinders;8;8
+191;Displacement;116.0;96.00
+49;Model;71;70
+399;Acceleration;13.9;12.0
+99;Horsepower;150.0;150.0
+151;Origin;Europe;US
+68;MPG;20.0;18.0
+321;Acceleration;16.5;12.0
+382;Horsepower;92.00;90.00
+13;Displacement;351.0;304.0
+285;Displacement;163.0;133.0
+376;Model;82;70
+110;Horsepower;46.00;46.00
+147;Origin;US;US
+211;Weight;1825.;3436.
+297;Car;Buick Estate Wagon (sw);Chevrolet Chevelle Malibu
+17;Acceleration;8.0;12.0
+283;Displacement;163.0;133.0
+337;Car;Honda Civic 1500 gl;Chevrolet Chevelle Malibu
+71;MPG;14.0;18.0
+391;Displacement;108.0;113.0
+180;Model;75;70
+250;Horsepower;110.0;150.0
+293;Cylinders;8;8
+284;Cylinders;4;8
+150;Model;74;70
+77;Model;72;70
+241;MPG;29.0;18.0
+269;Cylinders;6;8
+263;MPG;25.1;22.0
+129;Weight;3399.;3436.
+1;Displacement;307.0;304.0
+227;Cylinders;4;8
+155;Model;74;70
+186;Weight;2957.;2979.
+390;Horsepower;75.00;150.0
+71;Origin;US;US
+349;Horsepower;110.0;115.0
+135;MPG;19.0;18.0
+108;MPG;18.0;?
+3;Displacement;318.0;304.0
+371;Horsepower;120.0;95.00
+304;Model;79;70
+145;Model;74;?
+42;Cylinders;6;8
+404;Horsepower;84.00;61.00
+120;Model;73;70
+378;Cylinders;4;4
+203;Horsepower;52.00;?
+41;Model;71;70
+119;Displacement;70.00;304.0
+196;Horsepower;150.0;150.0
+273;Weight;4080.;3436.
+298;Displacement;351.0;304.0
+147;Car;Ford Gran Torino (sw);Plymouth 'Cuda 340
+51;Weight;4746.;3436.
+218;Horsepower;108.0;95.00
+86;Car;Peugeot 504 (sw);Citroen DS-21 Pallas
+20;Origin;US;US
+204;Cylinders;4;8
+71;Car;Pontiac Catalina;Chevrolet Chevelle Malibu
+69;Acceleration;16.5;12.0
+131;Weight;2807.;3436.
+357;MPG;34.1;18.0
+64;Acceleration;20.5;12.0
+339;Origin;Japan;US
+374;Weight;3060.;3436.
+65;Model;72;70
+374;Origin;US;US
+55;Weight;3282.;3436.
+327;Model;80;70
+317;Cylinders;4;8
+216;Car;Plymouth Volare Premier v8;Chevrolet Chevelle Malibu
+167;MPG;14.0;11.0
+203;Displacement;85.00;?
+122;MPG;26.0;18.0
+359;Displacement;98.00;98.00
+329;Weight;2265.;2833.
+338;Origin;Europe;US
+293;Displacement;305.0;304.0
+126;Car;Opel Manta;Toyota Corolla Mark ii
+338;Car;Renault Lecar Deluxe;Chevrolet Chevelle Malibu
+318;Cylinders;4;8
+229;MPG;17.5;13.0
+209;Acceleration;16.2;12.0
+194;Car;Renault 12tl;Toyota Corolla 1600 (sw)
+246;Origin;US;Europe
+48;Model;71;70
+29;Model;70;70
+6;Weight;4341.;3436.
+22;Displacement;198.0;304.0
+272;Origin;US;US
+320;Horsepower;65.00;95.00
+245;Displacement;98.00;105.0
+349;Cylinders;6;8
+278;MPG;21.1;18.0
+106;Displacement;250.0;304.0
+27;Displacement;110.0;120.0
+297;Horsepower;155.0;150.0
+295;Displacement;351.0;304.0
+226;Acceleration;18.6;19.5
+11;Cylinders;4;8
+116;Car;Toyota Camry;Chevrolet Chevelle Malibu
+104;Car;AMC Ambassador Brougham;Chevrolet Chevelle Malibu
+137;Origin;Japan;US
+385;Horsepower;68.00;150.0
+340;MPG;29.8;27.0
+351;Horsepower;58.00;115.0
+135;Horsepower;100.0;150.0
+324;Displacement;225.0;113.0
+291;MPG;20.2;18.0
+112;Car;Ford Country;Chevrolet Monte Carlo
+222;MPG;13.0;24.0
+222;Cylinders;8;8
+265;Horsepower;90.00;150.0
+234;Displacement;231.0;96.00
+252;Displacement;90.00;133.0
+139;Cylinders;4;8
+24;Acceleration;16.0;12.0
+248;Car;Volkswagen Dasher;Chevrolet Chevelle Malibu
+75;Weight;4633.;3436.
+137;Model;74;70
+151;Cylinders;4;8
+185;Origin;Europe;Japan
+34;Weight;4382.;3436.
+143;Model;74;70
+120;Cylinders;4;8
+197;Cylinders;8;8
+299;Horsepower;125.0;150.0
+355;Car;Datsun 210 MPG;Datsun 510 (sw)
+95;MPG;13.0;18.0
+20;Acceleration;10.0;12.0
+83;Car;Plymouth Satellite Custom (sw);Chevrolet Chevelle Malibu
+211;Car;Volkswagen Rabbit;Chevrolet Chevelle Malibu
+396;Weight;3015.;3221.
+141;Acceleration;17.0;12.0
+169;Horsepower;105.0;150.0
+389;Horsepower;88.00;87.00
+201;Model;76;70
+184;Horsepower;90.00;95.00
+251;Origin;Japan;US
+175;Car;Toyota Corolla;Chevrolet Chevelle Malibu
+361;Weight;2190.;2833.
+85;Horsepower;76.00;150.0
+336;Horsepower;67.00;90.00
+161;Weight;3459.;3436.
+233;Weight;3520.;3436.
+34;Displacement;318.0;304.0
+228;MPG;33.5;28.0
+45;Origin;US;US
+62;Model;71;70
+300;Horsepower;150.0;175.0
+329;Horsepower;75.00;95.00
+114;Cylinders;8;8
+12;MPG;0;18.0
+347;MPG;26.6;28.0
+311;Origin;Japan;US
+242;Car;Pontiac Sunbird Coupe;Toyota Corolla
+200;Cylinders;6;8
+8;Origin;US;US
+403;Horsepower;52.00;150.0
+401;Horsepower;90.00;115.0
+27;Weight;2672.;2979.
+117;Model;73;70
+320;Model;80;70
+102;Acceleration;11.0;12.0
+231;Acceleration;13.7;13.0
+372;Cylinders;6;8
+67;Cylinders;4;8
+25;Origin;Japan;US
+166;Acceleration;14.5;12.0
+385;Cylinders;4;8
+52;Car;Pontiac Safari (sw);Chevrolet Chevelle Malibu
+25;MPG;27.0;18.0
+402;MPG;27.0;28.0
+297;Acceleration;14.9;12.0
+245;Cylinders;4;8
+51;Acceleration;12.0;12.0
+260;Weight;3535.;2660.
+328;MPG;37.0;24.0
+279;Model;78;71
+350;Displacement;135.0;98.00
+383;MPG;23.0;21.0
+27;Acceleration;17.5;14.5
+37;Origin;US;US
+121;Model;73;?
+143;Origin;US;US
+347;Horsepower;84.00;90.00
+360;Weight;2380.;2490.
+339;Cylinders;4;8
+360;Horsepower;65.00;84.00
+384;Weight;1980.;2100.
+370;Origin;Japan;Europe
+361;Horsepower;74.00;53.00
+394;Horsepower;67.00;150.0
+112;Cylinders;8;8
+102;Car;Chrysler New Yorker Brougham;Chevrolet Chevelle Malibu
+322;Origin;US;US
+77;Car;Oldsmobile Delta 88 Royale;Chevrolet Chevelle Malibu
+134;Weight;2875.;2587.
+269;MPG;18.1;11.0
+172;Acceleration;15.0;12.0
+157;Acceleration;15.0;12.0
+143;Acceleration;16.5;12.0
+81;MPG;13.0;18.0
+169;Displacement;250.0;304.0
+61;Acceleration;19.0;12.0
+352;Model;81;70
+362;Cylinders;4;8
+32;Model;70;70
+108;Cylinders;6;?
+278;Model;78;70
+324;MPG;19.1;24.0
+10;Cylinders;8;8
+66;Model;72;70
+336;Car;Mercedes-Benz 240d;Chevrolet Chevette
+142;Origin;US;US
+181;Origin;Japan;US
+404;Car;Dodge Rampage;Datsun 710
+38;Origin;Japan;US
+381;Acceleration;18.0;12.0
+103;Horsepower;225.0;150.0
+235;Acceleration;17.7;12.0
+105;Model;73;70
+55;Displacement;250.0;304.0
+239;Cylinders;8;8
+402;Acceleration;15.6;12.0
+211;Acceleration;12.2;12.0
+286;Acceleration;14.9;17.5
+23;Displacement;199.0;304.0
+50;Displacement;383.0;304.0
+374;Cylinders;6;6
+93;MPG;13.0;18.0
+143;Cylinders;6;8
+196;Cylinders;8;8
+130;Car;Saab 99le;Chevrolet Chevelle Malibu
+273;MPG;17.5;18.0
+187;Origin;Europe;US
+312;Origin;Europe;US
+241;Displacement;97.00;304.0
+103;Car;Buick Electra 225 Custom;Chevrolet Chevelle Malibu
+311;Cylinders;4;4
+386;MPG;31.0;0
+265;MPG;19.4;18.0
+402;Horsepower;86.00;90.00
+245;MPG;30.5;?
+287;MPG;29.5;0
+292;Cylinders;6;8
+144;Weight;4141.;2833.
+295;Cylinders;8;8
+59;Model;71;70
+293;Origin;US;US
+43;MPG;17.0;18.0
+140;Car;Chevrolet Vega;Saab 99e
+341;Origin;Japan;Europe
+207;Car;Dodge Aspen SE;AMC Gremlin
+179;Origin;Japan;US
+230;Horsepower;110.0;150.0
+40;Origin;Europe;US
+326;MPG;29.8;18.0
+131;MPG;20.0;11.0
+202;Cylinders;6;8
+338;Model;80;70
+46;Car;Chevrolet Impala;Chevrolet Chevelle Malibu
+92;Model;72;70
+8;Acceleration;8.5;12.0
+356;Model;81;70
+205;Horsepower;70.00;95.00
+261;Car;Chevrolet Malibu;Plymouth Duster
+57;Car;Mercury Capri 2000;Chevrolet Chevelle Malibu
+193;Displacement;98.00;96.00
+65;Origin;Japan;US
+23;Acceleration;15.5;12.0
+206;Origin;Japan;US
+384;MPG;36.0;27.0
+170;MPG;15.0;18.0
+401;Model;82;70
+153;Origin;Japan;US
+271;MPG;17.7;18.0
+308;Acceleration;22.2;12.0
+100;Displacement;351.0;304.0
+232;Origin;US;US
+6;Model;70;70
+166;Weight;4498.;3436.
+102;Cylinders;8;8
+387;Origin;US;US
+315;Origin;US;US
+156;Acceleration;14.0;14.5
+16;Car;Dodge Challenger SE;Chevrolet Chevelle Malibu
+81;Horsepower;130.0;150.0
+69;Origin;US;US
+32;Acceleration;14.0;12.0
+369;Model;81;70
+255;Model;78;70
+389;Origin;Japan;US
+302;Model;79;77
+33;Weight;4376.;3436.
+308;MPG;23.9;17.0
+263;Origin;US;US
+363;Weight;2210.;3436.
+320;Weight;2019.;2833.
+274;Weight;2155.;3436.
+31;Model;70;70
+225;Car;Buick Opel Isuzu Deluxe;Toyota Corolla
+193;Weight;2255.;2189.
+141;Origin;US;US
+253;Weight;1800.;3436.
+319;MPG;32.1;18.0
+67;Displacement;97.00;304.0
+327;Weight;2542.;3436.
+215;Weight;3150.;3102.
+37;Acceleration;15.5;14.5
+363;Origin;Japan;US
+352;Horsepower;64.00;95.00
+179;Weight;2702.;3436.
+123;Weight;4082.;3436.
+344;Model;80;70
+65;Cylinders;4;8
+54;Origin;US;US
+250;Weight;2600.;3436.
+228;Horsepower;70.00;90.00
+372;Horsepower;110.0;150.0
+102;Displacement;440.0;304.0
+207;Model;76;70
+117;Weight;2401.;3090.
+146;Model;74;70
+281;Car;Datsun 200-SX;Chevrolet Chevelle Malibu
+219;Model;76;?
+323;Cylinders;4;8
+322;Horsepower;88.00;90.00
+363;MPG;33.7;18.0
+107;Displacement;232.0;304.0
+49;MPG;14.0;18.0
+97;Origin;US;US
+307;Cylinders;4;8
+314;Acceleration;11.3;12.0
+63;Weight;1834.;3436.
+375;Model;81;70
+152;Origin;Japan;Japan
+367;Weight;3230.;2126.
+115;Model;73;70
+132;MPG;11.0;18.0
+368;Horsepower;110.0;90.00
+123;Origin;US;US
+242;Horsepower;88.00;150.0
+207;Origin;US;US
+398;Model;82;70
+235;Horsepower;100.0;150.0
+295;Origin;US;US
+26;Car;Volkswagen 1131 Deluxe Sedan;Chevrolet Chevelle Malibu
+59;MPG;30.0;0
+401;Weight;2950.;3090.
+12;Displacement;350.0;304.0
+50;Weight;4955.;3436.
+304;Displacement;121.0;113.0
+144;Origin;US;US
+240;Displacement;351.0;304.0
+139;MPG;32.0;24.0
+338;Horsepower;0;150.0
+124;Horsepower;230.0;150.0
+314;MPG;28.8;0
+106;Cylinders;6;8
+7;Car;Chevrolet Impala;Chevrolet Chevelle Malibu
+224;Model;77;70
+371;Model;81;70
+353;Car;Honda Civic 1300;Chevrolet Woody
+291;Model;79;70
+135;Acceleration;16.0;12.0
+330;Displacement;86.00;86.00
+238;Horsepower;170.0;150.0
+378;Origin;US;US
+102;Model;73;70
+298;Weight;4054.;3436.
+260;Horsepower;105.0;110.0
+11;Acceleration;17.5;12.0
+143;Weight;3613.;3436.
+334;Weight;2335.;3090.
+44;Horsepower;88.00;150.0
+158;Displacement;108.0;304.0
+65;Displacement;113.0;304.0
+142;Car;AMC Matador;Dodge D200
+219;Acceleration;16.7;?
+342;Car;Mazda RX-7 GS;Chevrolet Chevelle Malibu
+130;MPG;24.0;18.0
+349;Acceleration;12.6;12.0
+377;Origin;US;US
+67;Weight;2254.;3436.
+160;MPG;19.0;18.0
+106;Origin;US;US
+63;Horsepower;60.00;150.0
+400;Model;82;70
+25;Horsepower;88.00;150.0
+193;Origin;US;US
+223;MPG;13.0;18.0
+210;Car;AMC Pacer d/l;Plymouth Duster
+393;Displacement;91.00;79.00
+314;Displacement;173.0;133.0
+123;Model;73;70
+3;Model;70;70
+93;Acceleration;13.0;12.0
+265;Cylinders;6;8
+8;Cylinders;8;8
+202;Weight;3085.;3436.
+366;Model;81;70
+183;Origin;Europe;US
+69;MPG;21.0;18.0
+366;Origin;Japan;US
+306;Car;Cadillac Eldorado;Volkswagen Type 3
+208;Displacement;250.0;304.0
+2;Weight;3693.;3436.
+212;Car;Datsun B-210;Datsun 510 (sw)
+405;Origin;US;US
+186;Horsepower;88.00;87.00
+104;MPG;13.0;18.0
+30;Model;70;70
+69;Cylinders;4;8
+352;Weight;1875.;2833.
+296;MPG;18.2;18.0
+394;Cylinders;4;8
+160;Displacement;225.0;304.0
+267;Model;78;70
+284;Model;78;70
+310;Origin;US;US
+80;Model;72;70
+53;Horsepower;110.0;150.0
+206;Car;Honda Civic;Chevrolet Chevelle Malibu
+177;Acceleration;16.0;12.0
+375;Displacement;225.0;200.0
+353;Acceleration;16.1;12.0
+187;Weight;2945.;2234.
+170;Origin;US;US
+386;Displacement;91.00;133.0
+146;Car;Dodge Coronet Custom (sw);Plymouth 'Cuda 340
+188;Origin;Europe;US
+76;Weight;4502.;3436.
+12;Model;70;70
+50;Horsepower;180.0;150.0
+175;Displacement;97.00;304.0
+199;Car;Plymouth Valiant;Plymouth Satellite Custom
+117;Horsepower;72.00;115.0
+328;Displacement;119.0;113.0
+63;MPG;27.0;18.0
+237;Displacement;400.0;304.0
+299;Cylinders;8;8
+389;Cylinders;4;8
+405;Horsepower;79.00;150.0
+119;Cylinders;3;8
+125;Weight;1867.;3090.
+280;Weight;2855.;3090.
+136;Model;74;70
+113;Horsepower;170.0;175.0
+405;Displacement;120.0;304.0
+288;Acceleration;15.4;12.0
+24;Horsepower;85.00;150.0
+202;Origin;US;US
+51;Model;71;70
+387;MPG;38.0;0
+172;Origin;US;US
+171;Origin;US;US
+29;Weight;2375.;2833.
+380;Car;Dodge Aries SE;Toyota Corolla 1600 (sw)
+124;Origin;US;US
+392;Model;82;70
+175;Model;75;70
+43;Model;71;70
+184;Cylinders;6;8
+114;Acceleration;12.5;12.0
+362;Weight;2320.;1835.
+239;MPG;15.5;18.0
+138;Model;74;70
+86;Acceleration;19.5;12.0
+192;Cylinders;4;8
+149;Displacement;98.00;97.00
+201;Weight;3012.;3436.
+44;Displacement;250.0;304.0
+168;Origin;US;US
+60;Model;71;70
+373;Origin;US;US
+237;Acceleration;11.1;12.0
+358;MPG;34.7;0
+281;Origin;Japan;US
+302;Weight;1975.;1985.
+302;Origin;Japan;US
+323;Weight;3003.;3436.
+107;Origin;US;US
+190;Model;76;70
+52;Cylinders;8;8
+21;Cylinders;4;8
+160;Weight;3264.;3436.
+107;Cylinders;6;8
+162;Weight;3432.;3436.
+186;Acceleration;17.0;14.5
+28;Displacement;107.0;304.0
+257;Acceleration;15.5;14.0
+159;Weight;2000.;2587.
+290;Model;79;70
+294;Displacement;302.0;231.0
+194;Cylinders;4;4
+362;Model;81;70
+67;Origin;Europe;US
+139;Acceleration;21.0;12.0
+188;Model;75;70
+118;Car;Datsun 610;Toyota Corolla 1600 (sw)
+290;Origin;US;US
+39;Weight;2046.;3436.
+327;MPG;31.3;18.0
+164;Displacement;400.0;304.0
+334;Cylinders;4;8
+170;Model;75;70
+107;Horsepower;100.0;150.0
+374;Horsepower;88.00;150.0
+122;Origin;Europe;US
+338;Displacement;85.00;304.0
+204;Origin;US;US
+9;Model;70;70
+48;Origin;US;US
+137;Horsepower;67.00;70.00
+24;Origin;US;US
+176;Cylinders;4;8
+43;Acceleration;15.5;12.0
+145;Displacement;350.0;?
+174;Weight;3169.;3436.
+270;Horsepower;145.0;150.0
+138;Car;Ford Pinto;Chevrolet Chevelle Malibu
+287;Acceleration;16.6;12.0
+330;Cylinders;4;8
+126;Weight;2158.;2372.
+159;Origin;Europe;US
+393;Weight;1965.;2074.
+358;Cylinders;4;8
+332;Car;Datsun 210;Datsun 510 (sw)
+384;Car;Volkswagen Rabbit l;Toyota Corolla 1600 (sw)
+108;Horsepower;88.00;?
+39;Horsepower;0;90.00
+382;MPG;24.0;28.0
+169;Acceleration;18.5;12.0
+63;Car;Volkswagen Model 111;Chevrolet Chevelle Malibu
+103;Origin;US;US
+96;Origin;US;US
+115;Acceleration;15.0;12.0
+90;Model;72;70
+278;Origin;Japan;US
+54;MPG;22.0;18.0
+125;MPG;29.0;0
+249;Car;Datsun 810;Chevrolet Chevelle Malibu
+405;Car;Ford Ranger;Chevrolet Cavalier Wagon
+319;Origin;US;US
+278;Car;Toyota Celica GT Liftback;Plymouth Duster
+225;Horsepower;80.00;95.00
+67;Acceleration;23.5;12.0
+96;Displacement;302.0;304.0
+245;Model;77;70
+108;Origin;US;?
+12;Origin;US;US
+395;Car;Buick Century Limited;Saab 99e
+100;Weight;4363.;3436.
+41;Cylinders;6;8
+60;Origin;Europe;US
+360;Displacement;98.00;135.0
+60;MPG;30.0;18.0
+310;Displacement;105.0;79.00
+200;Horsepower;105.0;150.0
+366;Car;Mazda 626;Peugeot 504
+237;Weight;4220.;3436.
+28;Car;Audi 100 LS;Chevrolet Chevelle Malibu
+70;Model;72;70
+106;Model;73;70
+270;Model;78;70
+275;Origin;Japan;US
+35;MPG;9.0;18.0
+158;Origin;Japan;US
+125;Displacement;68.00;133.0
+219;Car;Mercedes-Benz 280s;?
+167;Cylinders;8;8
+94;Car;AMC Matador;Chevrolet Chevelle Malibu

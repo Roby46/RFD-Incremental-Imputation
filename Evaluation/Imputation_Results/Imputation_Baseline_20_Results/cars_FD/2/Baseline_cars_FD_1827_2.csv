@@ -1,0 +1,1828 @@
+riga;nome attributo;valore da imputare;valore imputato
+245;MPG;30.5;25.0
+320;MPG;37.2;25.0
+242;Car;Pontiac Sunbird Coupe;Peugeot 504
+394;Model;82;70
+341;Car;Datsun 280-ZX;Peugeot 504
+93;Origin;US;US
+113;Acceleration;13.0;12.0
+181;MPG;24.0;25.0
+364;Car;Toyota Corolla;Peugeot 504
+73;Car;Ford Galaxie 500;Ford Torino
+109;MPG;23.0;18.0
+403;Horsepower;52.00;88.00
+140;Displacement;140.0;133.0
+360;Weight;2380.;3504.
+376;MPG;28.0;18.0
+151;Car;Opel Manta;Peugeot 504
+320;Origin;Japan;US
+395;Weight;2945.;3090.
+242;Horsepower;88.00;88.00
+205;Acceleration;14.2;20.5
+338;Displacement;85.00;133.0
+357;Model;81;70
+7;Car;Chevrolet Impala;Ford Torino
+148;Cylinders;8;4
+385;Horsepower;68.00;88.00
+189;Displacement;91.00;133.0
+206;Cylinders;4;4
+201;Car;Ford Maverick;Ford Torino
+205;MPG;29.0;25.0
+232;Origin;US;US
+242;Origin;US;US
+108;Cylinders;6;8
+207;Acceleration;17.7;12.0
+161;Model;75;70
+249;Weight;2815.;3504.
+17;MPG;14.0;18.0
+237;Acceleration;11.1;12.0
+295;Acceleration;13.2;12.0
+196;Acceleration;13.0;12.0
+374;Displacement;200.0;133.0
+402;Horsepower;86.00;130.0
+21;Displacement;113.0;307.0
+319;Displacement;98.00;307.0
+278;Model;78;?
+42;MPG;16.0;22.0
+111;Car;Chevrolet Impala;Ford Torino
+329;Model;80;70
+376;Car;Chevrolet Cavalier;Ford Torino
+265;Displacement;232.0;133.0
+7;MPG;14.0;18.0
+272;Weight;3205.;3504.
+171;Horsepower;95.00;130.0
+299;Origin;US;US
+249;Cylinders;6;8
+226;MPG;36.0;25.0
+152;Horsepower;52.00;88.00
+327;Cylinders;4;4
+191;Acceleration;16.9;20.5
+135;MPG;19.0;18.0
+171;Origin;US;US
+272;Car;Ford Futura;Ford Torino
+40;Acceleration;20.0;20.5
+309;Origin;US;Europe
+323;MPG;24.3;18.0
+97;Origin;US;US
+154;Model;74;70
+371;Acceleration;13.8;12.0
+364;Weight;2350.;3090.
+325;Cylinders;4;4
+172;MPG;21.0;18.0
+303;Weight;1915.;3090.
+278;Horsepower;95.00;?
+317;Cylinders;4;4
+107;MPG;18.0;21.0
+272;Acceleration;11.2;12.0
+243;Horsepower;75.00;88.00
+2;Cylinders;8;8
+311;Displacement;85.00;133.0
+62;Weight;1613.;3090.
+15;Displacement;360.0;307.0
+160;MPG;19.0;18.0
+284;Weight;2795.;3090.
+383;Horsepower;0;130.0
+88;Model;72;70
+58;Cylinders;4;4
+264;Weight;3430.;3504.
+255;Weight;2070.;3090.
+55;Cylinders;6;4
+392;Origin;Japan;US
+210;MPG;17.5;18.0
+383;Car;AMC Concord DL;Ford Torino
+340;Acceleration;15.3;20.5
+30;Weight;2234.;3090.
+328;Car;Datsun 510 Hatchback;Chevy C20
+388;Origin;US;Europe
+41;Origin;US;Europe
+120;Horsepower;85.00;130.0
+395;Cylinders;6;4
+246;Cylinders;4;4
+237;Displacement;400.0;307.0
+233;Car;Chevrolet Concours;Ford Torino
+137;Car;Datsun B210;Peugeot 504
+32;Cylinders;8;8
+219;Horsepower;120.0;130.0
+56;Displacement;250.0;133.0
+83;Origin;US;US
+186;Car;Peugeot 504;Peugeot 504
+230;Horsepower;110.0;130.0
+9;MPG;14.0;18.0
+368;MPG;0;25.0
+151;Cylinders;4;4
+324;Displacement;225.0;307.0
+39;Acceleration;19.0;12.0
+247;Horsepower;67.00;88.00
+301;Weight;1925.;3090.
+306;Model;79;70
+203;Weight;2035.;3090.
+157;Origin;Japan;Europe
+112;Acceleration;12.5;12.0
+353;Displacement;81.00;133.0
+284;Car;Saab 99gle;Peugeot 504
+150;Horsepower;67.00;88.00
+104;Origin;US;US
+265;Acceleration;17.2;20.5
+182;Origin;US;US
+87;Horsepower;69.00;88.00
+156;MPG;26.0;14.0
+260;Weight;3535.;3504.
+343;Car;Triumph TR7 Coupe;Peugeot 504
+269;Model;78;70
+98;Displacement;429.0;307.0
+312;Origin;Europe;US
+28;Origin;Europe;US
+159;Displacement;79.00;133.0
+252;Car;Volkswagen Rabbit Custom Diesel;Peugeot 504
+104;Acceleration;11.0;12.0
+289;Acceleration;18.2;12.0
+338;Acceleration;17.3;20.5
+17;Car;Plymouth 'Cuda 340;Ford Torino
+181;Model;75;70
+304;Displacement;121.0;133.0
+256;MPG;36.1;25.0
+357;Car;Mazda GLC 4;Peugeot 504
+62;MPG;35.0;25.0
+66;Origin;US;US
+183;Displacement;90.00;133.0
+63;Acceleration;19.0;20.5
+52;Car;Pontiac Safari (sw);Peugeot 504
+301;Cylinders;4;4
+12;MPG;0;18.0
+58;Horsepower;90.00;88.00
+267;MPG;20.8;18.0
+205;Car;Volkswagen Rabbit;Peugeot 504
+264;Acceleration;17.2;12.0
+188;Horsepower;115.0;130.0
+72;Car;Plymouth Fury III;Ford Torino
+394;Weight;1995.;3090.
+29;Model;70;70
+380;MPG;29.0;18.0
+280;Model;78;70
+90;Cylinders;4;4
+129;Origin;US;US
+64;Cylinders;4;4
+19;Displacement;400.0;307.0
+14;Car;Plymouth Satellite (sw);Ford Torino
+342;MPG;23.7;25.0
+101;Weight;4237.;3504.
+394;Origin;Japan;US
+352;Model;81;70
+313;Model;79;70
+226;Displacement;79.00;133.0
+221;Model;76;70
+190;Acceleration;15.5;20.5
+160;Cylinders;6;8
+208;Horsepower;78.00;130.0
+15;MPG;0;18.0
+21;Car;Toyota Corolla Mark ii;Ford Torino
+226;Model;77;70
+117;Origin;US;US
+252;Displacement;90.00;133.0
+188;MPG;25.0;15.0
+190;Horsepower;86.00;88.00
+187;Car;Volvo 244DL;Peugeot 504
+289;Origin;US;US
+56;Weight;3139.;3090.
+327;MPG;31.3;25.0
+127;Car;Audi 100LS;?
+9;Cylinders;8;8
+84;Cylinders;4;8
+207;Car;Dodge Aspen SE;Ford Torino
+112;Cylinders;8;8
+139;Model;74;70
+324;Horsepower;90.00;130.0
+239;Displacement;400.0;307.0
+248;Origin;Europe;Europe
+177;Acceleration;16.0;12.0
+130;Car;Saab 99le;Peugeot 504
+317;MPG;41.5;25.0
+53;Model;71;70
+38;Displacement;113.0;133.0
+328;Cylinders;4;8
+399;Horsepower;96.00;88.00
+38;Model;71;70
+202;Acceleration;17.6;12.0
+278;Displacement;134.0;?
+32;Horsepower;215.0;130.0
+340;Weight;1845.;3090.
+130;Weight;2660.;3090.
+19;Car;Chevrolet Monte Carlo;Ford Torino
+384;Weight;1980.;3090.
+100;Model;73;70
+105;Weight;3121.;3504.
+17;Model;70;70
+298;Cylinders;8;8
+180;Horsepower;71.00;88.00
+13;Cylinders;8;8
+304;Car;AMC Spirit DL;Peugeot 504
+28;MPG;24.0;25.0
+51;Displacement;400.0;307.0
+61;Car;Toyota Corolla 1200;Peugeot 504
+305;Model;79;70
+116;Car;Toyota Camry;Peugeot 504
+3;Origin;US;US
+370;Origin;Japan;US
+368;Horsepower;110.0;88.00
+363;Horsepower;75.00;88.00
+41;Displacement;232.0;133.0
+197;Model;76;70
+164;Weight;4668.;3504.
+36;Car;Datsun PL510;Peugeot 504
+250;Weight;2600.;3090.
+238;Acceleration;11.4;12.0
+6;Horsepower;198.0;130.0
+163;Cylinders;6;8
+55;Car;Pontiac Firebird;AMC Gremlin
+397;Displacement;156.0;133.0
+64;Displacement;91.00;133.0
+55;Displacement;250.0;133.0
+344;Horsepower;0;130.0
+352;Displacement;86.00;307.0
+305;Acceleration;20.1;20.5
+141;Car;Chevrolet Chevelle Malibu Classic;Ford Torino
+233;Weight;3520.;3504.
+355;MPG;37.0;25.0
+59;MPG;30.0;33.5
+12;Cylinders;8;8
+390;Weight;2205.;3090.
+256;Displacement;91.00;133.0
+224;MPG;31.5;25.0
+337;Displacement;91.00;133.0
+405;Displacement;120.0;307.0
+153;Horsepower;61.00;88.00
+343;Weight;2500.;3090.
+126;MPG;24.0;25.0
+41;Acceleration;13.0;20.5
+204;Origin;US;US
+165;Horsepower;145.0;130.0
+133;Cylinders;6;8
+212;Model;76;70
+84;Origin;Europe;US
+320;Car;Datsun 310;Peugeot 504
+307;Cylinders;4;4
+349;Horsepower;110.0;130.0
+320;Cylinders;4;4
+159;MPG;31.0;25.0
+149;MPG;29.0;15.0
+336;Horsepower;67.00;88.00
+283;Weight;3140.;3090.
+131;Cylinders;6;8
+86;Displacement;120.0;133.0
+358;MPG;34.7;18.0
+1;Model;70;70
+399;MPG;32.0;25.0
+404;Weight;2295.;3504.
+307;MPG;27.2;25.0
+254;Cylinders;4;4
+63;Cylinders;4;4
+295;Horsepower;138.0;130.0
+401;Car;Chevrolet Camaro;Peugeot 504
+113;Displacement;360.0;307.0
+238;Cylinders;8;8
+138;Cylinders;4;4
+335;MPG;36.4;26.0
+313;Weight;2670.;3504.
+142;Car;AMC Matador;Ford Torino
+291;Horsepower;90.00;130.0
+78;Origin;US;US
+105;Horsepower;105.0;130.0
+268;Horsepower;110.0;130.0
+181;Car;Datsun 710;Peugeot 504
+165;Origin;US;US
+259;Model;78;70
+26;Car;Volkswagen 1131 Deluxe Sedan;Peugeot 504
+103;Model;73;70
+330;Origin;Japan;Europe
+186;Origin;Europe;Europe
+136;Car;Chevrolet Nova;Ford Torino
+344;Car;Ford Mustang Cobra;Ford Torino
+304;Origin;US;Europe
+229;Origin;US;US
+126;Horsepower;75.00;88.00
+133;Weight;3102.;3504.
+213;Model;76;70
+356;Weight;2050.;3090.
+220;Acceleration;12.1;12.0
+247;Car;Subaru DL;Peugeot 504
+313;MPG;28.4;18.0
+372;Origin;US;US
+129;Model;73;70
+392;Model;82;70
+28;Model;70;70
+334;Origin;Europe;US
+240;Cylinders;8;8
+132;Car;Oldsmobile Omega;Ford Torino
+84;Acceleration;14.5;12.0
+225;Car;Buick Opel Isuzu Deluxe;Ford Torino
+204;MPG;24.5;25.0
+127;Origin;Europe;?
+257;Horsepower;110.0;130.0
+38;Car;Toyota Corolla;Peugeot 504
+54;Cylinders;4;8
+190;Origin;Europe;US
+269;Acceleration;15.1;12.0
+388;Car;Mercury Lynx l;Peugeot 504
+214;Acceleration;13.6;20.5
+54;Displacement;140.0;307.0
+365;Car;Datsun 200SX;Peugeot 504
+263;Origin;US;Europe
+55;Horsepower;100.0;88.00
+261;Acceleration;18.2;12.0
+314;Displacement;173.0;307.0
+404;Car;Dodge Rampage;Ford Torino
+29;Acceleration;17.5;20.5
+401;Displacement;151.0;133.0
+300;MPG;18.5;18.0
+316;Weight;2556.;3504.
+75;MPG;11.0;?
+230;Acceleration;19.0;12.0
+295;Origin;US;US
+32;Car;Ford F250;Opel 1900
+339;Cylinders;4;4
+218;Displacement;156.0;307.0
+67;Cylinders;4;?
+112;Horsepower;167.0;130.0
+21;Origin;Japan;US
+308;Displacement;260.0;307.0
+16;Cylinders;8;8
+357;Weight;1985.;3090.
+163;Displacement;250.0;307.0
+391;Weight;2245;3090.
+382;Origin;US;Europe
+332;Cylinders;4;4
+386;Origin;Japan;Europe
+167;Model;75;70
+72;Model;72;70
+218;Car;Toyota Mark II;Ford Torino
+57;Origin;US;Europe
+154;MPG;28.0;25.0
+271;Horsepower;165.0;130.0
+363;Model;81;70
+236;Cylinders;6;8
+214;MPG;26.5;25.0
+293;Acceleration;15.4;12.0
+110;Origin;Europe;US
+157;Weight;2489.;3090.
+344;Model;80;70
+184;MPG;19.0;28.0
+309;Acceleration;13.2;20.5
+11;Model;70;70
+76;Model;72;70
+110;Car;Volkswagen Super Beetle;Datsun PL510
+318;Cylinders;4;4
+194;Origin;Europe;US
+69;Displacement;122.0;307.0
+4;Cylinders;8;8
+341;Displacement;168.0;133.0
+113;Weight;4654.;3504.
+49;Displacement;318.0;307.0
+330;MPG;46.6;25.0
+285;Model;78;?
+166;Weight;4498.;3504.
+28;Acceleration;14.5;20.5
+198;Displacement;351.0;307.0
+253;Weight;1800.;3090.
+32;Model;70;70
+252;Acceleration;21.5;20.5
+370;MPG;25.4;18.0
+47;Horsepower;175.0;130.0
+4;Acceleration;12.0;12.0
+337;Model;80;70
+132;Displacement;350.0;307.0
+149;Acceleration;16.5;12.0
+180;Origin;Europe;Europe
+302;Car;Mazda GLC Deluxe;Peugeot 504
+341;Cylinders;6;4
+258;Horsepower;140.0;130.0
+70;MPG;13.0;18.0
+85;Origin;Europe;Europe
+342;Displacement;70.00;133.0
+66;Acceleration;17.0;12.0
+268;Acceleration;18.7;12.0
+215;Acceleration;15.7;20.5
+2;Horsepower;165.0;130.0
+218;Horsepower;108.0;130.0
+186;MPG;23.0;25.0
+115;Model;73;70
+16;Horsepower;170.0;130.0
+347;Weight;2635.;3504.
+159;Car;Fiat x1.9;Peugeot 504
+318;Acceleration;18.8;20.5
+51;MPG;13.0;18.0
+179;Acceleration;13.5;20.5
+138;Horsepower;80.00;88.00
+84;Displacement;121.0;307.0
+131;Horsepower;122.0;130.0
+156;Origin;Europe;US
+6;MPG;15.0;18.0
+271;MPG;17.7;18.0
+75;Displacement;429.0;?
+142;Weight;3632.;3504.
+363;Origin;Japan;US
+59;Car;Peugeot 304;Plymouth Cricket
+88;MPG;22.0;18.0
+145;Displacement;350.0;307.0
+274;Model;78;70
+114;Model;73;70
+160;Weight;3264.;3504.
+53;Car;AMC Hornet Sportabout (sw);Ford Torino
+346;Origin;US;Europe
+133;MPG;20.0;18.0
+76;Origin;US;US
+264;Displacement;225.0;307.0
+116;Horsepower;88.00;88.00
+86;Horsepower;87.00;88.00
+347;Acceleration;16.4;12.0
+147;Horsepower;140.0;130.0
+53;MPG;18.0;18.0
+125;MPG;29.0;?
+20;MPG;14.0;18.0
+257;Car;Oldsmobile Cutlass Salon Brougham;Ford Torino
+247;Model;77;70
+302;Cylinders;4;4
+68;Origin;US;US
+132;Origin;US;US
+200;Model;76;70
+380;Horsepower;84.00;130.0
+33;Horsepower;200.0;130.0
+295;Displacement;351.0;307.0
+338;Cylinders;4;4
+378;Horsepower;88.00;130.0
+139;Cylinders;4;4
+128;MPG;19.0;25.0
+302;Horsepower;65.00;88.00
+28;Car;Audi 100 LS;Peugeot 504
+138;Car;Ford Pinto;BMW 2002
+202;Displacement;232.0;307.0
+165;Car;Chevrolet Bel Air;Chevrolet Impala
+392;Acceleration;15.0;20.5
+312;Cylinders;4;8
+184;Horsepower;90.00;88.00
+135;Weight;2901.;3504.
+287;Model;78;70
+222;Horsepower;130.0;130.0
+332;Origin;Japan;Europe
+55;Origin;US;US
+61;Weight;1773.;3090.
+110;Cylinders;4;4
+167;Weight;4657.;3504.
+43;Displacement;250.0;307.0
+276;Origin;Japan;Europe
+34;Model;70;70
+354;MPG;32.3;25.0
+59;Model;71;70
+41;Weight;2634.;3090.
+394;MPG;38.0;25.0
+212;Cylinders;4;4
+202;MPG;22.5;18.0
+279;Car;Plymouth Sapporo;Mazda GLC Deluxe
+101;Horsepower;150.0;130.0
+350;Acceleration;12.9;20.5
+159;Weight;2000.;3090.
+234;Horsepower;105.0;130.0
+256;Model;78;70
+134;Origin;US;US
+64;Acceleration;20.5;20.5
+336;Cylinders;4;4
+117;Displacement;140.0;133.0
+129;Weight;3399.;3504.
+222;Cylinders;8;8
+285;Displacement;163.0;?
+67;MPG;23.0;?
+350;Model;81;70
+405;Acceleration;18.6;12.0
+3;MPG;18.0;18.0
+302;Acceleration;15.2;20.5
+96;Horsepower;137.0;130.0
+404;Acceleration;11.6;12.0
+375;Displacement;225.0;307.0
+366;Car;Mazda 626;Peugeot 504
+394;Horsepower;67.00;88.00
+203;Origin;US;US
+244;Origin;US;Europe
+67;Acceleration;23.5;?
+22;Acceleration;15.5;12.0
+31;Displacement;199.0;307.0
+105;MPG;18.0;18.0
+191;Displacement;116.0;133.0
+344;Displacement;140.0;307.0
+337;Acceleration;13.8;20.5
+201;Horsepower;81.00;130.0
+245;Origin;US;Europe
+342;Horsepower;100.0;88.00
+29;Cylinders;4;4
+358;Acceleration;14.9;12.0
+146;Cylinders;8;8
+123;MPG;15.0;18.0
+276;Weight;2300.;3090.
+381;Horsepower;90.00;130.0
+95;Cylinders;8;8
+285;Acceleration;15.8;?
+156;Car;Fiat 124 TC;Opel 1900
+365;Displacement;119.0;133.0
+148;Origin;US;Europe
+282;Weight;2830.;1985.
+167;MPG;14.0;18.0
+252;MPG;43.1;25.0
+50;Origin;US;US
+192;Cylinders;4;8
+109;Origin;US;US
+199;Origin;US;US
+45;Origin;US;US
+270;Car;Chevrolet Monte Carlo Landau;Ford Torino
+16;Model;70;70
+40;Weight;1978.;3090.
+220;Origin;US;US
+95;Model;73;70
+80;Cylinders;8;8
+362;Car;Renault 18i;Peugeot 504
+130;MPG;24.0;25.0
+228;Car;Datsun F-10 Hatchback;Peugeot 504
+386;Weight;1970.;3090.
+199;Cylinders;6;8
+305;Car;Mercedes Benz 300d;Peugeot 504
+280;Origin;US;US
+47;MPG;14.0;18.0
+140;Origin;US;US
+250;Car;BMW 320i;Peugeot 504
+34;Origin;US;US
+367;Weight;3230.;3090.
+219;Car;Mercedes-Benz 280s;Ford Torino
+35;Car;Hi 1200D;Ford Torino
+321;Origin;US;US
+170;Cylinders;6;8
+403;Car;Volkswagen Pickup;Peugeot 504
+318;Car;Toyota Corolla Tercel;Honda Civic CVCC
+400;Model;82;70
+65;Model;72;70
+85;Car;Volkswagen 411 (sw);Peugeot 504
+94;Weight;3672.;3504.
+47;Model;71;70
+3;Weight;3436.;3504.
+91;Car;Dodge Colt (sw);Peugeot 504
+197;MPG;15.5;18.0
+117;Horsepower;72.00;88.00
+306;Car;Cadillac Eldorado;Ford Torino
+295;Car;Mercury Grand Marquis;Ford Torino
+390;MPG;36.0;25.0
+375;Car;Chrysler Lebaron Salon;Ford Torino
+137;Weight;1950.;3090.
+42;Model;71;70
+104;Weight;3821.;3504.
+111;Model;73;70
+332;Horsepower;65.00;88.00
+240;Origin;US;US
+389;Displacement;120.0;133.0
+307;Horsepower;71.00;88.00
+35;Horsepower;193.0;130.0
+359;Horsepower;65.00;130.0
+91;Weight;2164.;3090.
+13;MPG;0;18.0
+163;Acceleration;19.5;12.0
+348;Weight;2620.;3504.
+17;Acceleration;8.0;12.0
+221;MPG;13.0;18.0
+311;Car;Datsun 210;Peugeot 504
+265;Weight;3210.;3090.
+96;Model;73;70
+288;Origin;US;US
+14;Weight;4166.;3504.
+399;Car;Toyota Celica GT;Peugeot 504
+48;MPG;14.0;18.0
+20;Car;Buick Estate Wagon (sw);Ford Torino
+240;Car;Ford Thunderbird;AMC Rebel SST
+321;Displacement;151.0;133.0
+281;MPG;23.9;25.0
+373;Cylinders;8;8
+64;Weight;1955.;3090.
+108;Displacement;250.0;307.0
+375;Cylinders;6;8
+204;Car;Chevrolet Woody;Peugeot 504
+134;Car;Ford Maverick;Ford Pinto
+125;Weight;1867.;?
+390;Horsepower;75.00;88.00
+78;Displacement;400.0;307.0
+39;Model;71;70
+125;Cylinders;4;?
+174;MPG;13.0;18.0
+196;Weight;4190.;3504.
+389;Model;82;70
+225;Cylinders;4;8
+152;Displacement;76.00;133.0
+316;Horsepower;90.00;130.0
+96;Acceleration;14.5;12.0
+169;Car;Chevrolete Chevelle Malibu;Ford Torino
+258;Acceleration;13.2;12.0
+290;Weight;2890.;3090.
+109;Model;73;70
+140;Horsepower;75.00;88.00
+108;Car;Ford Maverick;Ford Torino
+179;Weight;2702.;3090.
+131;Displacement;156.0;307.0
+286;Weight;1990.;3090.
+287;MPG;29.5;25.0
+7;Model;70;70
+196;Car;Dodge Coronet Brougham;Ford Torino
+205;Displacement;90.00;133.0
+222;Car;Ford F108;Ford Torino
+74;Acceleration;11.5;12.0
+250;Origin;Europe;Europe
+69;MPG;21.0;18.0
+118;Acceleration;16.5;12.0
+69;Car;Ford Pinto Runabout;Ford Torino
+195;Horsepower;140.0;130.0
+387;Car;Plymouth Horizon Miser;Honda Civic
+250;Displacement;121.0;133.0
+156;Model;74;70
+244;Car;Ford Mustang II 2+2;Peugeot 504
+246;Acceleration;15.9;20.5
+327;Horsepower;75.00;88.00
+193;Model;76;70
+210;Horsepower;95.00;130.0
+146;Weight;4457.;3504.
+393;Acceleration;15.7;20.5
+231;Car;Dodge Monaco Brougham;Ford Torino
+268;Displacement;225.0;307.0
+82;Acceleration;16.0;12.0
+42;Origin;US;US
+10;Weight;3850.;3504.
+260;MPG;19.2;18.0
+340;Model;80;70
+17;Weight;3609.;3504.
+6;Car;Ford Galaxie 500;Ford Torino
+400;Origin;US;US
+68;Cylinders;4;4
+175;MPG;29.0;27.0
+349;Weight;2725.;3504.
+43;Acceleration;15.5;12.0
+183;MPG;29.0;25.0
+145;Origin;US;US
+119;Car;Mazda RX3;Peugeot 504
+355;Weight;1975.;3090.
+370;Car;Toyota Cressida;Ford Torino
+23;Origin;US;US
+236;Horsepower;98.00;130.0
+406;Acceleration;19.4;12.0
+343;Displacement;122.0;133.0
+5;Acceleration;10.5;12.0
+261;Origin;US;US
+323;Weight;3003.;3504.
+318;Origin;Japan;Europe
+192;Weight;2572.;3504.
+14;Horsepower;175.0;130.0
+401;Horsepower;90.00;88.00
+74;Horsepower;150.0;130.0
+360;MPG;29.9;18.0
+50;MPG;12.0;18.0
+325;Acceleration;15.8;20.5
+331;Displacement;156.0;307.0
+61;Cylinders;4;4
+375;Weight;3465.;3504.
+240;Model;77;70
+115;Weight;2789.;3504.
+68;Displacement;140.0;133.0
+180;Weight;2223.;3090.
+175;Weight;2171.;3090.
+196;Cylinders;8;8
+278;Origin;Japan;?
+385;MPG;37.0;25.0
+215;MPG;20.0;25.0
+112;Car;Ford Country;Ford Torino
+39;Cylinders;4;8
+82;Horsepower;140.0;130.0
+60;Acceleration;14.5;20.5
+136;Cylinders;6;8
+292;Car;Dodge Aspen 6;Ford Torino
+100;Car;Ford LTD;Ford Torino
+176;MPG;23.0;18.0
+283;Horsepower;125.0;88.00
+291;Cylinders;6;8
+213;Acceleration;16.4;20.5
+21;Weight;2372.;3504.
+114;Acceleration;12.5;12.0
+81;Car;Chevrolet Chevelle Concours (sw);Ford Torino
+336;Displacement;146.0;133.0
+19;Model;70;70
+125;Car;Fiat 128;?
+26;MPG;26.0;25.0
+345;Weight;2290.;3090.
+37;Origin;US;Europe
+180;Car;Volkswagen Dasher;Peugeot 504
+262;Weight;2965.;3504.
+31;Model;70;70
+78;Model;72;70
+364;Acceleration;16.8;20.5
+22;Displacement;198.0;307.0
+367;Car;Peugeot 505s Turbo Diesel;Peugeot 504
+229;Displacement;305.0;307.0
+1;Origin;US;US
+390;Car;Honda Accord;Peugeot 504
+120;Weight;2310.;3504.
+227;Displacement;122.0;307.0
+304;Weight;2670.;3090.
+121;Weight;2472.;3504.
+279;Horsepower;105.0;88.00
+255;Acceleration;18.6;20.5
+198;Horsepower;152.0;130.0
+134;MPG;21.0;25.0
+285;MPG;16.2;?
+148;Displacement;304.0;133.0
+230;Cylinders;8;8
+329;Acceleration;15.2;20.5
+82;MPG;13.0;18.0
+48;Model;71;70
+261;Cylinders;6;8
+42;Acceleration;15.5;12.0
+319;Horsepower;70.00;130.0
+186;Acceleration;17.0;20.5
+380;Acceleration;16.0;12.0
+325;Horsepower;78.00;88.00
+241;Horsepower;78.00;88.00
+361;Origin;Europe;Europe
+134;Cylinders;6;4
+363;Weight;2210.;3090.
+165;Acceleration;14.0;12.0
+349;Car;Chevrolet Citation;Ford Torino
+267;Cylinders;6;8
+241;Model;77;70
+231;MPG;15.5;18.0
+65;Cylinders;4;8
+47;Origin;US;US
+161;Displacement;250.0;307.0
+282;Origin;Europe;Europe
+295;MPG;16.5;18.0
+403;Weight;2130.;3090.
+294;Cylinders;8;8
+10;Horsepower;190.0;130.0
+264;Origin;US;US
+187;Acceleration;14.5;20.5
+290;Car;Ford Fairmont 4;Peugeot 504
+26;Model;70;70
+31;Car;AMC Gremlin;Ford Torino
+274;Horsepower;68.00;130.0
+96;MPG;14.0;18.0
+157;Car;Honda Civic;Peugeot 504
+107;Displacement;232.0;307.0
+387;Model;82;70
+9;Model;70;70
+279;Weight;2745.;3090.
+314;Car;Chevrolet Citation;Ford Torino
+127;MPG;20.0;?
+21;MPG;24.0;18.0
+194;Weight;2202.;3090.
+316;Acceleration;13.2;12.0
+75;Origin;US;?
+274;Weight;2155.;3504.
+285;Cylinders;6;?
+120;Acceleration;18.5;12.0
+102;Displacement;440.0;307.0
+117;Weight;2401.;3090.
+106;Car;Chevrolet Nova Custom;Ford Torino
+116;MPG;20.0;25.0
+401;Cylinders;4;4
+247;MPG;30.0;25.0
+57;Displacement;122.0;133.0
+182;MPG;18.0;19.0
+328;Origin;Japan;US
+265;Cylinders;6;4
+144;Origin;US;US
+110;Model;73;70
+93;Car;Buick Century 350;Chevrolet Impala
+327;Weight;2542.;3090.
+143;Displacement;225.0;307.0
+279;Cylinders;4;4
+102;Horsepower;215.0;130.0
+299;Cylinders;8;8
+270;MPG;19.2;18.0
+383;Model;82;70
+266;MPG;20.6;18.0
+262;Acceleration;15.8;12.0
+39;Weight;2046.;3504.
+216;Weight;3940.;3504.
+194;Cylinders;4;4
+16;MPG;15.0;18.0
+18;Origin;US;US
+141;Displacement;250.0;307.0
+356;Model;81;70
+369;Weight;3160.;3090.
+254;Horsepower;52.00;88.00
+235;Weight;3630.;3504.
+77;MPG;12.0;18.0
+177;Displacement;232.0;307.0
+30;Model;70;70
+275;MPG;27.5;25.0
+70;Horsepower;165.0;130.0
+154;Weight;2125.;3090.
+319;Cylinders;4;8
+355;Origin;Japan;Europe
+400;Displacement;135.0;133.0
+58;Model;71;70
+194;Model;76;70
+117;Model;73;70
+222;Acceleration;15.0;12.0
+303;Horsepower;80.00;88.00
+9;Horsepower;225.0;130.0
+81;Cylinders;8;8
+148;Horsepower;150.0;88.00
+365;Origin;Japan;Europe
+113;MPG;13.0;18.0
+46;Horsepower;165.0;130.0
+64;MPG;26.0;33.5
+81;Displacement;307.0;307.0
+312;Acceleration;14.7;12.0
+54;Acceleration;19.0;12.0
+262;Car;Ford Fairmont (auto);Ford Torino
+38;MPG;25.0;25.0
+214;Horsepower;72.00;88.00
+224;Origin;Japan;Europe
+128;Origin;Europe;Europe
+189;Cylinders;4;4
+55;Weight;3282.;3090.
+249;Model;77;70
+387;Acceleration;14.7;20.5
+181;Origin;Japan;US
+47;Acceleration;11.5;12.0
+93;Model;73;70
+11;Cylinders;4;4
+253;Origin;US;US
+212;Weight;1990.;3090.
+265;Car;AMC Concord;Peugeot 504
+397;Cylinders;4;4
+299;MPG;19.2;18.0
+359;Cylinders;4;8
+279;Origin;US;Europe
+284;Cylinders;4;4
+405;Model;82;70
+241;MPG;29.0;25.0
+281;Model;78;70
+38;Origin;Japan;US
+68;Weight;2408.;3090.
+393;Displacement;91.00;133.0
+319;Weight;2120.;3504.
+383;MPG;23.0;18.0
+248;Cylinders;4;4
+275;Car;Toyota Corolla;Peugeot 504
+153;Model;74;70
+113;Horsepower;170.0;130.0
+290;Origin;US;US
+97;Car;Dodge Coronet Custom;Ford Torino
+338;Car;Renault Lecar Deluxe;Peugeot 504
+5;Horsepower;140.0;130.0
+207;Model;76;70
+14;Model;70;70
+123;Model;73;70
+170;Car;AMC Matador;Ford Torino
+216;MPG;13.0;18.0
+179;Origin;Japan;US
+399;Origin;Japan;Europe
+299;Displacement;267.0;307.0
+66;Cylinders;4;8
+100;Horsepower;158.0;130.0
+350;Origin;US;US
+68;Acceleration;19.5;20.5
+246;Car;Dodge Colt m/m;Peugeot 504
+388;Weight;2125.;3090.
+76;Weight;4502.;3504.
+383;Weight;3035.;3504.
+23;Weight;2774.;3504.
+198;Cylinders;8;8
+91;Acceleration;15.0;20.5
+366;Horsepower;74.00;88.00
+28;Displacement;107.0;133.0
+156;Weight;2246.;3504.
+309;Weight;2200.;3090.
+177;Model;75;70
+381;Acceleration;18.0;12.0
+297;Weight;4360.;3504.
+198;Origin;US;US
+398;Cylinders;6;8
+356;Origin;Japan;US
+36;Displacement;97.00;133.0
+384;Acceleration;15.3;20.5
+12;Displacement;350.0;307.0
+193;MPG;26.0;18.0
+77;Origin;US;US
+199;Horsepower;100.0;130.0
+326;Model;80;70
+134;Model;74;70
+300;Horsepower;150.0;130.0
+283;Cylinders;6;4
+274;Acceleration;16.5;12.0
+55;Acceleration;15.0;20.5
+209;Weight;3645.;3504.
+267;Acceleration;16.7;12.0
+195;Displacement;305.0;307.0
+207;MPG;20.0;18.0
+359;Car;Ford Escort 4W;Ford Torino
+387;Cylinders;4;4
+119;MPG;18.0;25.0
+60;MPG;30.0;25.0
+385;Cylinders;4;4
+322;Car;Ford Fairmont;Ford Torino
+368;Car;Saab 900s;Peugeot 504
+351;Weight;1755.;3090.
+258;Weight;3735.;3504.
+239;Cylinders;8;8
+231;Weight;4140.;3504.
+43;Weight;3329.;3504.
+368;Origin;Europe;Europe
+370;Model;81;70
+317;Displacement;98.00;133.0
+179;Car;Toyota Corolla;Peugeot 504
+180;Displacement;90.00;133.0
+19;Cylinders;8;8
+30;Horsepower;113.0;88.00
+45;Car;AMC Matador;Ford Torino
+327;Acceleration;17.5;20.5
+299;Car;Chevrolet Malibu Classic (sw);Chevy C20
+84;Weight;2933.;3504.
+193;Weight;2255.;3504.
+48;Origin;US;US
+210;Origin;US;US
+62;Model;71;70
+54;Weight;2408.;3504.
+204;Cylinders;4;4
+324;MPG;19.1;18.0
+10;MPG;15.0;18.0
+141;Model;74;70
+195;Model;76;70
+133;Displacement;198.0;307.0
+264;Cylinders;6;8
+51;Model;71;70
+373;Acceleration;19.0;12.0
+214;Displacement;140.0;133.0
+13;Origin;US;US
+182;Acceleration;14.5;20.5
+68;Model;72;70
+100;Cylinders;8;8
+165;MPG;15.0;14.0
+317;Acceleration;14.7;20.5
+355;Cylinders;4;4
+188;Origin;Europe;US
+48;Horsepower;153.0;130.0
+44;MPG;19.0;18.0
+319;MPG;32.1;18.0
+350;Displacement;135.0;133.0
+7;Cylinders;8;8
+21;Cylinders;4;8
+305;MPG;25.4;25.0
+125;Displacement;68.00;?
+125;Origin;Europe;?
+397;Model;82;70
+169;MPG;16.0;18.0
+248;Acceleration;14.1;20.5
+70;Car;Chevrolet Impala;Ford Torino
+227;Horsepower;96.00;130.0
+168;Car;Buick Century;Ford Torino
+168;Weight;3907.;3504.
+353;Acceleration;16.1;20.5
+328;MPG;37.0;18.0
+46;Model;71;70
+261;Car;Chevrolet Malibu;Ford Torino
+98;Model;73;70
+86;Acceleration;19.5;20.5
+201;Weight;3012.;3504.
+301;Displacement;89.00;133.0
+238;Displacement;350.0;307.0
+251;Acceleration;13.5;20.5
+400;Weight;2370.;3090.
+120;Model;73;70
+19;MPG;15.0;18.0
+147;Cylinders;8;8
+310;Acceleration;14.9;12.0
+208;Acceleration;21.0;12.0
+325;Weight;2188.;3090.
+334;Model;80;70
+275;Displacement;134.0;133.0
+176;Model;75;70
+286;MPG;31.5;25.0
+210;Model;76;70
+353;Horsepower;60.00;88.00
+189;Model;75;70
+378;Acceleration;18.0;12.0
+45;Displacement;232.0;307.0
+315;Cylinders;6;8
+174;Weight;3169.;3504.
+281;Cylinders;4;4
+259;MPG;20.2;18.0
+126;Acceleration;15.5;20.5
+77;Horsepower;160.0;130.0
+8;Displacement;440.0;307.0
+124;Origin;US;US
+26;Weight;1835.;3090.
+175;Acceleration;16.0;20.5
+240;Horsepower;149.0;130.0
+333;Acceleration;21.7;20.5
+96;Weight;4042.;3504.
+60;Displacement;88.00;133.0
+36;Horsepower;88.00;88.00
+122;Weight;2265.;3090.
+398;Origin;US;US
+236;MPG;18.5;18.0
+351;Displacement;79.00;133.0
+362;MPG;34.5;25.0
+183;Model;75;70
+308;Cylinders;8;8
+228;Model;77;70
+112;Model;73;70
+406;Model;82;70
+283;Model;78;70
+338;Model;80;70
+108;Weight;3021.;3504.
+192;Car;Capri ii;Ford Torino
+240;Displacement;351.0;307.0
+234;Cylinders;6;8
+232;MPG;15.0;18.0
+389;Car;Nissan Stanza XE;Peugeot 504
+219;Origin;Europe;US
+166;Acceleration;14.5;12.0
+48;Acceleration;13.5;12.0
+216;Origin;US;US
+172;Model;75;70
+95;Car;Chevrolet Malibu;Ford Torino
+382;Horsepower;92.00;88.00
+358;Model;81;70
+117;MPG;21.0;25.0
+210;Acceleration;17.8;12.0
+203;Model;76;70
+346;Car;Plymouth Reliant;Peugeot 504
+3;Model;70;70
+323;Displacement;151.0;307.0
+23;Displacement;199.0;307.0
+331;MPG;27.9;22.0
+71;Model;72;70
+306;Displacement;350.0;307.0
+289;Horsepower;85.00;130.0
+155;Origin;Europe;Europe
+57;Acceleration;14.0;20.5
+183;Car;Volkswagen Rabbit;Peugeot 504
+372;MPG;22.4;25.0
+149;Origin;Europe;US
+372;Acceleration;15.8;20.5
+187;Model;75;70
+155;Weight;2108.;3090.
+319;Model;80;70
+95;Origin;US;US
+79;Cylinders;3;8
+251;Horsepower;110.0;88.00
+403;Model;82;70
+278;Cylinders;4;?
+18;Weight;3353.;3504.
+173;Displacement;262.0;307.0
+322;Model;80;70
+96;Cylinders;8;8
+31;MPG;21.0;18.0
+16;Displacement;383.0;307.0
+56;MPG;18.0;25.0
+119;Acceleration;13.5;20.5
+208;Origin;US;US
+293;Car;Chevrolet Caprice Classic;Ford Torino
+51;Acceleration;12.0;12.0
+89;Model;72;70
+139;Weight;1836.;3090.
+166;MPG;16.0;18.0
+122;Acceleration;15.5;20.5
+321;Model;80;70
+303;Displacement;98.00;133.0
+145;Cylinders;8;8
+192;Model;76;70
+337;Horsepower;67.00;88.00
+348;Acceleration;14.4;12.0
+254;Acceleration;19.4;20.5
+23;Car;AMC Hornet;Ford Torino
+345;Origin;Japan;Europe
+334;Weight;2335.;3090.
+191;MPG;25.0;25.0
+209;Horsepower;110.0;130.0
+286;Model;78;70
+95;Displacement;350.0;307.0
+245;Displacement;98.00;133.0
+123;Displacement;350.0;307.0
+120;MPG;19.0;18.0
+283;Displacement;163.0;133.0
+172;Weight;3039.;3504.
+257;Acceleration;15.5;12.0
+156;Cylinders;4;8
+25;Weight;2130.;3090.
+225;MPG;30.0;18.0
+86;Model;72;70
+57;Car;Mercury Capri 2000;Peugeot 504
+42;Cylinders;6;8
+275;Horsepower;95.00;88.00
+335;Origin;Europe;Europe
+316;Displacement;151.0;307.0
+70;Displacement;350.0;307.0
+273;Acceleration;13.7;12.0
+75;Cylinders;8;?
+237;Model;77;70
+150;Origin;Europe;Europe
+285;Origin;Europe;?
+119;Weight;2124.;3090.
+62;Acceleration;18.0;20.5
+291;MPG;20.2;18.0
+63;Horsepower;60.00;88.00
+166;Model;75;70
+104;Model;73;70
+79;Model;72;70
+321;Horsepower;90.00;88.00
+148;MPG;14.0;28.0
+145;Horsepower;150.0;130.0
+2;MPG;15.0;18.0
+270;Weight;3425.;3504.
+346;Weight;2490.;3090.
+135;Model;74;70
+320;Model;80;70
+59;Cylinders;4;4
+15;Weight;3850.;3504.
+376;Horsepower;88.00;130.0
+366;MPG;31.6;25.0
+146;Model;74;70
+237;Horsepower;180.0;130.0
+121;MPG;21.0;18.0
+405;Car;Ford Ranger;Ford Torino
+133;Car;Plymouth Duster;Ford Torino
+348;Car;Dodge Aries Wagon (sw);Ford Torino
+158;Horsepower;93.00;88.00
+332;MPG;40.8;29.0
+90;MPG;23.0;25.0
+217;Cylinders;4;4
+241;Displacement;97.00;133.0
+361;Displacement;105.0;133.0
+247;Origin;Japan;US
+191;Horsepower;81.00;88.00
+225;Horsepower;80.00;130.0
+186;Displacement;120.0;133.0
+371;Horsepower;120.0;130.0
+374;Cylinders;6;4
+393;Model;82;70
+246;Weight;2075.;3090.
+52;Acceleration;12.0;20.5
+342;Acceleration;12.5;20.5
+171;Model;75;70
+5;Weight;3449.;3504.
+153;MPG;32.0;25.0
+206;Acceleration;17.4;20.5
+182;Cylinders;6;4
+77;Weight;4456.;3504.
+384;Car;Volkswagen Rabbit l;Peugeot 504
+229;Model;77;70
+213;Car;Toyota Corolla;Peugeot 504
+43;MPG;17.0;18.0
+158;Origin;Japan;Europe
+66;Weight;2126.;3504.
+359;Weight;2045.;3504.
+99;Model;73;70
+195;Origin;US;US
+372;Weight;3415.;3090.
+400;Car;Dodge Charger 2.2;Peugeot 504
+307;Origin;Europe;Europe
+33;MPG;10.0;18.0
+203;Horsepower;52.00;88.00
+276;Horsepower;97.00;88.00
+242;Model;77;70
+53;Horsepower;110.0;130.0
+9;Acceleration;10.0;12.0
+86;MPG;21.0;25.0
+226;Origin;Europe;US
+58;MPG;28.0;25.0
+15;Model;70;70
+146;Displacement;318.0;307.0
+277;Weight;2230.;3504.
+67;Model;72;?
+176;Displacement;140.0;307.0
+106;Origin;US;US
+195;Weight;4215.;3504.
+16;Car;Dodge Challenger SE;Ford Torino
+395;MPG;25.0;25.0
+64;Origin;US;US
+232;Acceleration;14.9;12.0
+254;Origin;Japan;Europe
+216;Cylinders;8;8
+112;Displacement;400.0;307.0
+187;Origin;Europe;US
+49;Car;Plymouth Fury iii;Ford Torino
+217;Car;Peugeot 504;Peugeot 504
+340;Displacement;89.00;133.0
+184;Car;AMC Pacer;Datsun 510 (sw)
+120;Car;Ford Pinto;Ford Torino
+191;Model;76;70
+63;Origin;Europe;Europe
+253;Acceleration;14.4;20.5
+315;MPG;26.8;18.0
+75;Weight;4633.;?
+73;Horsepower;153.0;130.0
+97;Cylinders;8;8
+3;Acceleration;11.0;12.0
+227;Car;Plymouth Arrow GS;Ford Torino
+349;Origin;US;US
+394;Acceleration;16.2;20.5
+350;Weight;2385.;3090.
+330;Displacement;86.00;133.0
+143;MPG;18.0;18.0
+312;Horsepower;69.00;130.0
+183;Cylinders;4;4
+388;Horsepower;70.00;88.00
+122;Displacement;98.00;133.0
+395;Acceleration;16.4;20.5
+115;Displacement;232.0;307.0
+325;Car;Audi 4000;Datsun PL510
+188;Acceleration;13.5;12.0
+396;Cylinders;6;8
+341;Horsepower;132.0;88.00
+18;Acceleration;8.0;12.0
+170;Displacement;258.0;307.0
+50;Acceleration;11.5;12.0
+219;Cylinders;6;8
+378;Displacement;112.0;307.0
+76;Car;Buick LeSabre Custom;Chevrolet Impala
+143;Car;Plymouth Satellite Sebring;Ford Torino
+80;MPG;15.0;18.0
+77;Model;72;70
+172;Horsepower;110.0;130.0
+269;Weight;3410.;3504.
+25;Origin;Japan;US
+167;Origin;US;US
+205;Horsepower;70.00;88.00
+346;MPG;27.2;25.0
+184;Cylinders;6;4
+260;Acceleration;19.2;12.0
+368;Weight;2800.;3090.
+114;Cylinders;8;8
+181;Displacement;119.0;133.0
+339;Model;80;70
+126;Model;73;70
+223;MPG;13.0;18.0
+178;Car;Pontiac Astro;Ford Torino
+145;Car;Buick Century Luxus (sw);Ford Torino
+58;Weight;2123.;3090.
+67;Displacement;97.00;?
+331;Origin;US;US
+148;Weight;4257.;3090.
+147;Car;Ford Gran Torino (sw);Ford Torino
+301;MPG;31.9;25.0
+211;Horsepower;71.00;88.00
+145;Weight;4699.;3504.
+196;Horsepower;150.0;130.0
+154;Origin;US;US
+6;Cylinders;8;8
+81;MPG;13.0;18.0
+20;Displacement;455.0;307.0
+62;Displacement;72.00;133.0
+366;Acceleration;18.3;20.5
+170;Acceleration;19.0;12.0
+215;Car;Volvo 245;Peugeot 504
+280;Car;Oldsmobile Starfire SX;Peugeot 504
+23;Model;70;70
+161;MPG;18.0;18.0
+297;Model;79;70
+190;Weight;2464.;3090.
+15;Horsepower;175.0;130.0
+326;Origin;Japan;US
+127;Cylinders;4;?
+379;Displacement;112.0;307.0
+350;Car;Plymouth Reliant;Peugeot 504
+40;Model;71;70
+378;Model;82;70
+43;Origin;US;US
+136;Horsepower;100.0;130.0
+169;Displacement;250.0;307.0
+37;Horsepower;90.00;88.00
+209;Model;76;70
+373;Model;81;70
+140;Acceleration;17.0;20.5
+299;Horsepower;125.0;130.0
+200;Cylinders;6;8
+159;Origin;Europe;Europe
+192;Horsepower;92.00;130.0
+353;Cylinders;4;4
+402;Displacement;140.0;307.0
+71;Cylinders;8;8
+235;MPG;19.0;18.0
+145;MPG;13.0;18.0
+257;Model;78;70
+293;Displacement;305.0;307.0
+331;Weight;2800.;3504.
+112;MPG;12.0;18.0
+125;Acceleration;19.5;?
+78;Weight;4422.;3504.
+171;Displacement;225.0;307.0
+206;Displacement;91.00;133.0
+298;Weight;4054.;3504.
+252;Weight;1985.;3090.
+271;Model;78;70
+351;MPG;39.1;25.0
+310;Car;Plymouth Horizon TC3;Ford Torino
+10;Origin;US;US
+73;Acceleration;13.0;12.0
+384;Origin;Europe;Europe
+105;Model;73;70
+23;Acceleration;15.5;12.0
+56;Origin;US;Europe
+204;Horsepower;60.00;88.00
+101;Displacement;318.0;307.0
+50;Model;71;70
+70;Acceleration;12.0;12.0
+178;Model;75;70
+150;Displacement;79.00;133.0
+205;Model;76;70
+70;Model;72;70
+10;Model;70;70
+81;Model;72;70
+243;Cylinders;4;4
+395;Origin;US;Europe
+50;Car;Dodge Monaco (sw);Ford Torino
+298;Origin;US;US
+284;MPG;21.6;25.0
+262;Cylinders;6;8
+129;Horsepower;150.0;130.0
+264;Car;Plymouth Volare;Ford Torino
+340;MPG;29.8;25.0
+401;Model;82;70
+352;Weight;1875.;3504.
+371;Car;Datsun 810 Maxima;Ford Torino
+369;Car;Volvo Diesel;Peugeot 504
+171;Cylinders;6;8
+314;Weight;2595.;3504.
+267;Weight;3070.;3504.
+312;Weight;2130.;3504.
+281;Acceleration;14.9;20.5
+185;MPG;23.0;25.0
+18;Cylinders;8;8
+157;Displacement;120.0;133.0
+383;Cylinders;4;8
+281;Weight;2405.;3090.
+88;Cylinders;4;8
+258;Origin;US;US
+64;Model;71;70
+367;Model;81;70
+142;MPG;16.0;18.0
+3;Car;Plymouth Satellite;Ford Torino
+22;Cylinders;6;8
+170;Model;75;70
+304;Acceleration;15.0;20.5
+124;Acceleration;9.50;12.0
+155;MPG;24.0;25.0
+88;Weight;2395.;3504.
+150;MPG;26.0;28.0
+401;Origin;US;US
+27;MPG;25.0;18.0
+257;Cylinders;8;8
+217;Model;76;70
+2;Displacement;350.0;307.0
+329;Horsepower;75.00;88.00
+155;Horsepower;75.00;88.00
+352;Car;Plymouth Champ;Ford Torino
+347;Horsepower;84.00;130.0
+261;Horsepower;95.00;130.0
+189;Car;Honda Civic CVCC;Peugeot 504
+301;Origin;Europe;US
+204;Model;76;70
+134;Displacement;200.0;133.0
+147;MPG;14.0;18.0
+120;Displacement;122.0;307.0
+185;Horsepower;95.00;88.00
+10;Displacement;390.0;307.0
+265;Origin;US;Europe
+345;Car;Honda Accord;Peugeot 504
+34;Horsepower;210.0;130.0
+20;Model;70;70
+161;Origin;US;US
+98;Acceleration;11.5;12.0
+48;Cylinders;8;8
+79;Origin;Japan;US
+276;Displacement;119.0;133.0
+234;Car;Buick Skylark;Ford Torino
+143;Cylinders;6;8
+18;Horsepower;140.0;130.0
+399;Weight;2665.;3090.
+25;Model;70;70
+375;Model;81;70
+215;Horsepower;102.0;88.00
+24;Displacement;200.0;307.0
+11;Horsepower;115.0;88.00
+129;MPG;15.0;18.0
+202;Cylinders;6;8
+352;Acceleration;16.4;12.0
+14;MPG;0;18.0
+223;Weight;3755.;3504.
+74;Origin;US;US
+165;Cylinders;8;8
+363;Car;Honda Prelude;Peugeot 504
+73;Displacement;351.0;307.0
+115;Car;AMC Gremlin;Ford Torino
+25;Acceleration;14.5;20.5
+262;Origin;US;US
+397;Car;Chrysler Lebaron Medallion;BMW 2002
+214;Origin;US;Europe
+333;Origin;Europe;Europe
+200;Displacement;250.0;307.0
+382;MPG;24.0;28.0
+367;Acceleration;20.4;20.5
+202;Horsepower;90.00;130.0
+86;Car;Peugeot 504 (sw);Peugeot 504
+32;Displacement;360.0;307.0
+278;Acceleration;14.8;?
+211;Car;Volkswagen Rabbit;Peugeot 504
+60;Origin;Europe;Europe
+317;Origin;Europe;Europe
+94;Acceleration;11.5;12.0
+150;Cylinders;4;4
+278;Car;Toyota Celica GT Liftback;?
+272;Cylinders;8;8
+19;Acceleration;9.5;12.0
+34;Displacement;318.0;307.0
+360;Model;81;70
+125;Model;73;?
+111;Origin;US;US
+162;Horsepower;72.00;130.0
+217;Acceleration;21.9;20.5
+342;Weight;2420.;3090.
+208;Cylinders;6;8
+310;Horsepower;70.00;130.0
+114;Displacement;350.0;307.0
+367;MPG;28.1;25.0
+29;Car;Saab 99e;Peugeot 504
+381;Displacement;151.0;307.0
+132;Model;73;70
+246;Horsepower;83.00;88.00
+23;Horsepower;97.00;130.0
+167;Car;Ford LTD;Ford Torino
+378;Cylinders;4;8
+369;Horsepower;76.00;88.00
+139;Horsepower;65.00;88.00
+153;Acceleration;19.0;20.5
+267;Car;Mercury Zephyr;Ford Torino
+18;Displacement;302.0;307.0
+174;Cylinders;8;8
+99;Acceleration;12.0;12.0
+196;Displacement;318.0;307.0
+274;Displacement;98.00;307.0
+363;Displacement;107.0;133.0
+66;MPG;25.0;14.0
+121;Car;Mercury Capri v6;Ford Torino
+255;MPG;39.4;29.0
+201;MPG;24.0;18.0
+184;Model;75;70
+1;Car;Chevrolet Chevelle Malibu;Ford Torino
+379;Weight;2575.;3504.
+223;Acceleration;14.0;12.0
+209;Displacement;250.0;307.0
+118;Cylinders;4;8
+289;Model;79;70
+137;Cylinders;4;4
+308;Model;79;70
+182;Car;Ford Pinto;Mazda RX2 Coupe
+246;MPG;33.5;25.0
+209;Car;Pontiac Ventura SJ;Ford Torino
+358;Car;Plymouth Horizon 4;Ford Torino
+63;Weight;1834.;3090.
+184;Origin;US;US
+323;Horsepower;90.00;130.0
+102;Origin;US;US
+318;Displacement;89.00;133.0
+279;Displacement;156.0;133.0
+162;Car;Mercury Monarch;Ford Torino
+294;Acceleration;13.4;12.0
+387;Displacement;105.0;133.0
+57;Horsepower;86.00;88.00
+381;Weight;2735.;3504.
+292;Weight;3360.;3504.
+113;Origin;US;US
+195;MPG;17.5;18.0
+306;MPG;23.0;18.0
+180;Acceleration;16.5;20.5
+309;Cylinders;4;4
+362;Weight;2320.;3090.
+401;MPG;27.0;25.0
+173;Horsepower;110.0;130.0
+336;MPG;30.0;25.0
+174;Origin;US;US
+346;Acceleration;15.7;20.5
+203;Cylinders;4;4
+312;Car;Fiat Strada Custom;Ford Torino
+279;Acceleration;16.7;20.5
+69;Model;72;70
+158;Car;Subaru;Peugeot 504
+251;Origin;Japan;Europe
+259;Horsepower;139.0;130.0
+381;Car;Pontiac Phoenix;Ford Torino
+359;Displacement;98.00;307.0
+96;Displacement;302.0;307.0
+371;Displacement;146.0;307.0
+251;Car;Mazda RX-4;Honda Accord CVCC
+122;Horsepower;90.00;88.00
+229;Horsepower;145.0;130.0
+197;Cylinders;8;8
+166;Displacement;318.0;307.0
+115;Horsepower;100.0;130.0
+352;Cylinders;4;8
+116;Weight;2279.;3090.
+377;Model;82;70
+86;Origin;Europe;US
+32;Origin;US;US
+149;Cylinders;4;8
+348;Cylinders;4;8
+173;Acceleration;13.5;12.0
+393;Weight;1965.;3090.
+332;Car;Datsun 210;Chevrolet Chevette
+92;Model;72;70
+181;Weight;2545.;3090.
+65;Origin;Japan;US
+364;MPG;32.4;25.0
+253;Car;Ford Fiesta;Peugeot 504
+402;Cylinders;4;8
+260;Car;Pontiac Phoenix LJ;Ford Torino
+35;Model;70;70
+178;Acceleration;18.5;12.0
+290;Model;79;70
+323;Car;AMC Concord;Ford Torino
+276;Cylinders;4;4
+307;Acceleration;24.8;20.5
+21;Acceleration;15.0;12.0
+320;Weight;2019.;3090.
+293;Horsepower;130.0;130.0
+330;Weight;2110.;3090.
+50;Horsepower;180.0;130.0
+239;Weight;4325.;3504.
+175;Origin;Japan;Europe
+151;Model;74;70
+91;Origin;US;Europe
+27;Horsepower;87.00;130.0
+365;Acceleration;14.8;20.5
+168;Horsepower;110.0;130.0
+154;Horsepower;75.00;88.00
+298;MPG;15.5;18.0
+325;Origin;Europe;Europe
+164;Displacement;400.0;307.0
+343;MPG;35.0;25.0
+241;Acceleration;14.5;20.5
+109;Displacement;198.0;307.0
+39;Displacement;98.00;307.0
+163;Model;75;70
+202;Weight;3085.;3504.
+55;Model;71;70
+105;Cylinders;6;8
+31;Acceleration;15.0;12.0
+389;Cylinders;4;4
+166;Horsepower;150.0;130.0
+223;Displacement;318.0;307.0
+223;Cylinders;8;8
+128;Displacement;121.0;133.0
+108;MPG;18.0;18.0
+364;Origin;Japan;Europe
+120;Cylinders;4;8
+133;Model;74;70
+12;Acceleration;11.5;12.0
+377;Car;Chevrolet Cavalier Wagon;Ford Torino
+197;Car;AMC Matador;Ford Torino
+203;Acceleration;22.2;20.5
+11;Car;Citroen DS-21 Pallas;Peugeot 504
+258;Car;Dodge Diplomat;Ford Torino
+340;Horsepower;62.00;88.00
+314;Acceleration;11.3;12.0
+141;Horsepower;100.0;130.0
+100;Origin;US;US
+17;Displacement;340.0;307.0
+360;Car;Ford Escort 2H;Ford Torino
+398;MPG;22.0;18.0
+386;Acceleration;17.6;20.5
+164;Car;Pontiac Catalina;Ford Torino
+127;Acceleration;14.0;?
+251;Cylinders;3;4
+380;Cylinders;4;8
+189;Origin;Japan;US
+93;Cylinders;8;8
+74;Cylinders;8;8
+309;Car;Plymouth Horizon;Plymouth Cricket
+267;Model;78;70
+276;Acceleration;14.7;20.5
+315;Weight;2700.;3504.
+87;Acceleration;18.0;20.5
+204;Weight;2164.;3090.
+36;MPG;27.0;25.0
+61;MPG;31.0;25.0
+24;Car;Ford Maverick;Ford Torino
+205;Cylinders;4;4
+264;Model;78;70
+306;Horsepower;125.0;130.0
+249;Horsepower;97.00;130.0
+16;Weight;3563.;3504.
+324;Car;Dodge Aspen;Ford Torino
+300;Displacement;360.0;307.0
+234;Origin;US;US
+162;Cylinders;6;8
+303;Origin;US;Europe
+335;Cylinders;5;4
+67;Origin;Europe;?
+265;MPG;19.4;25.0
+170;Origin;US;US
+399;Displacement;144.0;133.0
+379;Acceleration;16.2;12.0
+174;Horsepower;129.0;130.0
+187;Weight;2945.;3090.
+240;Weight;4335.;3504.
+188;Cylinders;4;8
+75;Model;72;?
+206;Horsepower;53.00;88.00
+52;Cylinders;8;4
+149;Weight;2219.;3504.
+225;Acceleration;14.8;12.0
+243;Model;77;70
+255;Cylinders;4;4
+37;Car;Chevrolet Vega 2300;Peugeot 504
+107;Origin;US;US
+162;Acceleration;21.0;12.0
+183;Weight;1937.;3090.
+373;MPG;26.6;18.0
+211;Displacement;97.00;133.0
+27;Weight;2672.;3504.
+190;MPG;28.0;25.0
+76;MPG;13.0;14.0
+141;Cylinders;6;8
+339;Displacement;97.00;133.0
+372;Model;81;70
+142;Displacement;258.0;307.0
+57;MPG;23.0;25.0
+160;Model;75;70
+80;Weight;3892.;3504.
+171;Car;Plymouth Fury;Ford Torino
+221;Acceleration;12.0;12.0
+59;Origin;Europe;US
+387;Origin;US;US
+71;Acceleration;12.0;12.0
+248;Horsepower;78.00;88.00
+218;Weight;2930.;3504.
+321;Cylinders;4;4
+248;Weight;2190.;3090.
+24;Weight;2587.;3504.
+34;MPG;11.0;18.0
+175;Horsepower;75.00;88.00
+101;MPG;14.0;18.0
+292;MPG;20.6;18.0
+133;Origin;US;US
+344;Cylinders;4;8
+295;Model;79;70
+288;Car;Pontiac Lemans V6;Ford Torino
+124;Car;Pontiac Grand Prix;Pontiac Catalina Brougham
+79;Displacement;70.00;307.0
+118;Car;Datsun 610;Plymouth Duster
+235;Cylinders;6;8
+378;Car;Chevrolet Cavalier 2-door;Ford Torino
+267;Displacement;200.0;307.0
+41;Cylinders;6;4
+15;Acceleration;11.0;12.0
+343;Acceleration;15.1;20.5
+145;Acceleration;14.5;12.0
+118;Displacement;108.0;307.0
+26;Horsepower;46.00;88.00
+198;MPG;14.5;18.0
+252;Model;78;70
+32;MPG;10.0;14.0
+211;Weight;1825.;3090.
+75;Acceleration;11.0;?
+207;Cylinders;6;8
+374;Origin;US;Europe
+227;Weight;2300.;3504.
+220;Cylinders;8;8
+234;Model;77;70
+124;Cylinders;8;8
+268;Weight;3620.;3504.
+12;Model;70;70
+106;MPG;16.0;18.0
+392;Weight;1965.;3090.
+74;Weight;3672.;3504.
+46;Acceleration;12.0;12.0
+359;Model;81;70
+177;Cylinders;6;8
+286;Origin;Europe;US
+82;Cylinders;8;8
+313;Acceleration;16.0;12.0
+307;Weight;3190.;3090.
+168;Acceleration;21.0;12.0
+138;Origin;US;Europe
+51;Car;Ford Country Squire (sw);Ford Torino
+135;Car;AMC Hornet;Ford Torino
+287;Car;Honda Accord LX;Peugeot 504
+109;Cylinders;6;8
+301;Model;79;70
+52;Origin;US;Europe
+206;Car;Honda Civic;Peugeot 504
+85;MPG;22.0;25.0
+397;Origin;US;US
+26;Cylinders;4;4
+63;MPG;27.0;27.0
+76;Cylinders;8;8
+255;Horsepower;70.00;88.00
+188;Displacement;121.0;307.0
+295;Weight;3955.;3504.
+101;Car;Plymouth Fury Gran Sedan;Ford Torino
+93;Acceleration;13.0;12.0
+322;Horsepower;88.00;130.0
+260;Cylinders;6;8
+175;Cylinders;4;4
+321;Weight;2678.;3090.
+391;Acceleration;16.9;20.5
+267;Horsepower;85.00;130.0
+255;Origin;Japan;Europe
+227;Acceleration;15.5;12.0
+98;Car;Mercury Marquis Brougham;Ford Torino
+220;Horsepower;180.0;130.0
+59;Displacement;79.00;133.0
+176;Car;Ford Pinto;Ford Torino
+280;Weight;2855.;3090.
+198;Model;76;70
+217;Horsepower;88.00;88.00
+301;Acceleration;14.0;20.5
+245;Car;Chevrolet Chevette;Peugeot 504
+326;MPG;29.8;25.0
+385;Acceleration;18.2;20.5
+107;Cylinders;6;6
+122;MPG;26.0;25.0
+103;Origin;US;US
+251;MPG;21.5;25.0
+7;Acceleration;9.0;12.0
+257;Displacement;260.0;307.0
+179;Model;75;70
+92;Weight;2100.;3090.
+140;Model;74;70
+226;Acceleration;18.6;20.5
+134;Weight;2875.;3090.
+235;Car;Plymouth Volare Custom;Ford Torino
+199;MPG;22.0;22.0
+76;Acceleration;13.5;12.0
+357;Origin;Japan;US
+165;Model;75;70
+277;Cylinders;4;8
+259;Origin;US;US
+5;MPG;17.0;18.0
+182;Model;75;70
+402;Acceleration;15.6;12.0
+107;Horsepower;100.0;130.0
+90;Origin;Japan;Europe
+137;Model;74;70
+213;Origin;Japan;US
+241;Origin;Europe;US
+243;Acceleration;18.2;20.5
+22;Horsepower;95.00;130.0
+337;MPG;44.6;25.0
+212;MPG;32.0;25.0
+256;Cylinders;4;4
+44;Horsepower;88.00;130.0
+103;Car;Buick Electra 225 Custom;Ford Torino
+324;Cylinders;6;8
+92;Acceleration;16.5;20.5
+185;Origin;Europe;Europe
+239;Acceleration;12.2;12.0
+87;Displacement;96.00;133.0
+54;Model;71;70
+124;MPG;16.0;18.0
+230;Model;77;70
+141;MPG;16.0;18.0
+354;Car;Subaru;Peugeot 504
+178;Weight;2592.;3504.
+180;Cylinders;4;4
+339;Weight;2145.;3090.
+40;Car;Volkswagen Super Beetle 117;Peugeot 504
+89;Weight;2288.;3090.
+253;Model;78;70
+115;MPG;18.0;18.0
+160;Car;Plymouth Valiant Custom;Ford Torino
+331;Cylinders;4;8
+339;Car;Subaru DL;Peugeot 504
+127;Model;73;?
+372;Cylinders;6;4
+382;Cylinders;4;4
+29;Horsepower;95.00;88.00
+190;Model;76;70
+28;Weight;2430.;3090.
+266;Weight;3380.;3504.
+387;Horsepower;63.00;88.00
+377;Weight;2640.;3504.
+66;Horsepower;80.00;130.0
+286;Displacement;89.00;133.0
+191;Weight;2220.;3090.
+15;Origin;US;US
+260;Horsepower;105.0;130.0
+11;MPG;0;25.0
+330;Car;Mazda GLC;Peugeot 504
+311;Acceleration;19.2;20.5
+264;Horsepower;100.0;130.0
+149;Displacement;98.00;307.0
+303;MPG;35.7;25.0
+132;Horsepower;180.0;130.0
+77;Displacement;350.0;307.0
+251;Displacement;80.00;133.0
+248;Car;Volkswagen Dasher;Datsun PL510
+13;Car;Ford Torino (sw);Ford Torino
+89;Displacement;97.00;133.0
+44;Weight;3302.;3504.
+115;Cylinders;6;8
+11;Acceleration;17.5;20.5
+246;Origin;US;Europe
+333;MPG;44.3;25.0
+184;Displacement;232.0;133.0
+334;Horsepower;48.00;88.00
+272;Horsepower;139.0;130.0
+113;Model;73;70
+24;Model;70;70

@@ -1,0 +1,4491 @@
+riga;nome attributo;valore da imputare;valore imputato
+432;Order_Total;3;2
+353;Customer_Name;Busy Bee;ATA Airlines Inc.
+724;Delivery_Total;2;2
+61;Region;Europe;North America
+675;Engine;PW;PW
+164;Delivery_Total;3;3
+889;Country;Italy;USA
+153;Region;Africa;North America
+451;Delivery_Year_;1968;2000
+265;Delivery_Total;1;2
+402;Order_Total;1;2
+459;Model_Series;727;747-400ERF
+619;Region;Europe;North America
+728;Delivery_Year_;2014;1983
+401;Order_Month;Jan;May
+143;Order_Year;1988;1966
+8;Country;China;Ireland
+526;Order_Total;2;2
+611;Delivery_Year_;1972;1978
+697;Order_Total;2;2
+887;Region;North America;North America
+561;Order_Total;1;2
+259;Engine;CF;GE
+452;Order_Month;Feb;May
+539;Model_Series;737-700;747-400ERF
+323;Order_Total;1;2
+629;Delivery_Year_;2008;1978
+838;Customer_Name;Syrianair;Volga-Dnepr UK Ltd
+261;Order_Month;Mar;May
+638;Order_Month;Feb;May
+745;Delivery_Year_;1991;2000
+671;Delivery_Year_;1995;1978
+16;Country;Germany;USA
+574;Engine;CF;PW
+522;Country;Canada;USA
+459;Order_Month;Aug;Apr
+850;Delivery_Year_;1978;2000
+139;Model_Series;MD-11;757-200
+829;Order_Month;Dec;May
+549;Order_Year;2004;1966
+530;Customer_Name;Korean Air;Pegasus Airlines
+462;Engine;CF;PW
+502;Delivery_Total;1;2
+8;Delivery_Total;1;3
+528;Delivery_Year_;2013;1983
+176;Delivery_Year_;2012;2000
+600;Order_Year;2001;1966
+746;Order_Month;Mar;Jan
+649;Model_Series;707/720;757-200
+724;Customer_Name;Tigerair;ATA Airlines Inc.
+818;Delivery_Year_;2013;2000
+322;Delivery_Total;14;2
+672;Order_Total;2;2
+258;Customer_Name;Boeing Capital Corporation;Pegasus Airlines
+140;Delivery_Year_;2007;1978
+618;Order_Total;5;2
+435;Delivery_Year_;2018;1983
+754;Order_Year;1983;1982
+800;Model_Series;MD-90;757-200
+239;Order_Month;Feb;May
+308;Delivery_Total;3;3
+618;Delivery_Total;5;2
+769;Model_Series;737-800;757-200
+348;Country;Luxembourg;Ireland
+281;Order_Year;1972;1966
+413;Delivery_Total;3;2
+256;Delivery_Total;2;2
+479;Delivery_Total;1;3
+423;Order_Year;1988;1966
+48;Order_Total;2;2
+194;Order_Month;Feb;May
+787;Model_Series;737-700;757-200
+525;Region;North America;North America
+731;Region;Middle East;North America
+181;Region;North America;North America
+352;Country;Ireland;Ireland
+244;Engine;PW;PW
+476;Model_Series;737-800;737-800
+588;Region;East Asia;North America
+700;Country;Tanzania United Republic of;USA
+333;Country;Canada;USA
+88;Customer_Name;Fiji Airways;ATA Airlines Inc.
+139;Delivery_Year_;1998;2000
+46;Region;East Asia;North America
+386;Model_Series;737-200;757-200
+691;Order_Month;Feb;May
+267;Order_Year;1966;1966
+386;Region;South America;North America
+838;Region;Middle East;Europe
+561;Customer_Name;Samoa Airways;ATA Airlines Inc.
+118;Customer_Name;Kenya Airways;Turkish Air Force Peace Eagle
+147;Region;North America;North America
+71;Customer_Name;MarkAir;ATA Airlines Inc.
+516;Engine;CF;PW
+388;Region;Europe;North America
+443;Order_Month;Apr;May
+330;Delivery_Total;1;3
+223;Delivery_Year_;1979;1983
+678;Region;Europe;North America
+178;Country;Israel;USA
+282;Delivery_Total;1;2
+396;Engine;PW;PW
+752;Delivery_Year_;2013;2000
+872;Model_Series;737-700;757-200
+73;Country;USA;USA
+716;Country;USA;USA
+832;Order_Total;3;2
+656;Delivery_Year_;1980;1978
+241;Engine;GE;PW
+665;Customer_Name;Korean Air Force Peace Eye;ATA Airlines Inc.
+731;Order_Total;1;2
+239;Delivery_Year_;1966;2000
+578;Delivery_Year_;1981;2000
+255;Delivery_Year_;1999;2000
+674;Region;Europe;North America
+65;Order_Year;2016;1966
+558;Order_Total;1;2
+202;Model_Series;DC-8;747-400ERF
+440;Order_Total;1;2
+558;Model_Series;727;757-200
+676;Region;East Asia;North America
+862;Region;East Asia;Europe
+738;Customer_Name;Finnair;Pegasus Airlines
+403;Order_Year;2013;1995
+355;Delivery_Year_;1993;2002
+518;Order_Month;Apr;Jan
+356;Order_Year;1969;1966
+610;Order_Month;Feb;Jan
+453;Country;China;USA
+357;Model_Series;737-700;737-800
+639;Model_Series;747-200;757-200
+5;Delivery_Year_;2012;1983
+847;Model_Series;737-300;757-200
+591;Customer_Name;Government of Egypt;ATA Airlines Inc.
+416;Delivery_Total;1;3
+109;Order_Month;Feb;Apr
+681;Customer_Name;CP Air;ATA Airlines Inc.
+47;Region;North America;Europe
+779;Model_Series;737-800;757-200
+34;Model_Series;737-300;757-200
+382;Engine;GE;PW
+497;Model_Series;DC-9;757-200
+613;Delivery_Total;4;2
+681;Delivery_Total;1;2
+761;Country;USA;Netherlands
+586;Order_Year;1966;1966
+299;Order_Month;Sep;May
+654;Engine;PW;RR
+845;Delivery_Year_;1989;1983
+562;Order_Year;1988;1966
+505;Order_Month;Feb;May
+95;Region;North America;North America
+778;Region;Africa;North America
+509;Delivery_Year_;1999;2000
+203;Region;Europe;North America
+581;Order_Month;Mar;Apr
+4;Country;USA;USA
+263;Delivery_Year_;1964;2000
+380;Region;Europe;North America
+286;Country;United Kingdom;Ireland
+378;Delivery_Total;1;2
+262;Order_Month;Jan;Jan
+507;Customer_Name;Copa Airlines;ATA Airlines Inc.
+896;Delivery_Total;1;3
+825;Customer_Name;United Airlines;ATA Airlines Inc.
+732;Order_Total;1;2
+178;Order_Month;Jul;May
+2;Region;Europe;North America
+891;Engine;RR;GE
+123;Order_Month;Nov;May
+87;Engine;CF;PW
+130;Order_Month;Nov;May
+669;Customer_Name;Australian Wedgetail;Pegasus Airlines
+565;Delivery_Total;1;2
+670;Country;USA;USA
+634;Delivery_Total;1;2
+612;Customer_Name;Ariana Afghan Airlines;ATA Airlines Inc.
+615;Engine;PW;PW
+601;Delivery_Total;1;2
+732;Order_Month;Aug;May
+137;Order_Month;Jan;Jan
+110;Country;Japan;USA
+131;Order_Month;Apr;Apr
+831;Order_Year;2013;1966
+873;Order_Total;1;2
+70;Country;Ireland;Ireland
+624;Model_Series;707/720;757-200
+211;Order_Month;Aug;Apr
+51;Engine;PW;GE
+503;Delivery_Year_;1992;2000
+95;Delivery_Year_;1968;2000
+738;Delivery_Year_;1981;1978
+633;Order_Total;2;2
+73;Engine;PW;PW
+462;Region;Europe;North America
+578;Region;Europe;North America
+375;Engine;PW;RR
+331;Order_Month;Feb;May
+660;Model_Series;737-300;757-200
+59;Delivery_Year_;2015;1983
+806;Region;East Asia;North America
+480;Delivery_Year_;2013;2000
+489;Order_Year;1978;1966
+619;Customer_Name;Belavia Belarusian Airlines;ATA Airlines Inc.
+818;Country;Russian Federation;USA
+136;Country;USA;USA
+813;Engine;CF;PW
+304;Region;Africa;North America
+257;Customer_Name;Linjeflyg;ATA Airlines Inc.
+815;Order_Year;1967;1966
+475;Engine;CF;GE
+572;Order_Month;Mar;May
+459;Customer_Name;Republic of Senegal;KLM Royal Dutch Airlines
+761;Order_Month;Jan;Apr
+28;Order_Year;2005;1982
+744;Order_Year;1979;1966
+152;Engine;PW;PW
+647;Region;East Asia;Europe
+536;Order_Total;2;2
+2;Delivery_Year_;2002;1978
+26;Model_Series;DC-9;737-200
+719;Model_Series;707/720;757-200
+518;Customer_Name;AOF Leasing;Pegasus Airlines
+255;Region;Middle East;North America
+408;Delivery_Year_;1980;2000
+178;Delivery_Year_;2016;2000
+103;Customer_Name;Royal Brunei Airlines;KLM Royal Dutch Airlines
+588;Customer_Name;ITOCHU Corporation;Pegasus Airlines
+849;Customer_Name;buzz;Pegasus Airlines
+243;Region;Europe;Europe
+511;Order_Month;Feb;May
+75;Engine;CF;PW
+519;Delivery_Year_;1998;1978
+387;Delivery_Total;3;2
+673;Order_Month;Apr;May
+778;Model_Series;737-800;757-200
+338;Order_Month;Jan;May
+714;Order_Total;2;2
+896;Engine;GE;GE
+87;Region;Europe;North America
+445;Customer_Name;Enter Air Sp. z o.o.;ATA Airlines Inc.
+461;Region;South Asia;North America
+330;Region;North America;Europe
+524;Engine;GE;PW
+874;Region;North America;North America
+161;Model_Series;777-200ER;757-200
+223;Customer_Name;Trans European Airways;KLM Royal Dutch Airlines
+514;Customer_Name;Aloha Airlines;ATA Airlines Inc.
+526;Delivery_Year_;1969;2000
+134;Order_Month;Jun;Jan
+614;Order_Year;2017;1982
+275;Engine;PW;PW
+116;Order_Total;2;2
+47;Engine;GE;GE
+95;Order_Total;2;2
+122;Delivery_Year_;1978;2000
+334;Delivery_Total;1;2
+867;Model_Series;707/720;757-200
+301;Customer_Name;Aviation Service & Support;ATA Airlines Inc.
+151;Delivery_Year_;1969;2000
+309;Order_Month;Feb;May
+823;Order_Year;1986;1982
+552;Order_Total;1;2
+446;Order_Total;4;2
+767;Country;Spain;USA
+609;Customer_Name;Dome Petroleum;ATA Airlines Inc.
+194;Model_Series;737-800;757-200
+221;Customer_Name;Nok Air;KLM Royal Dutch Airlines
+794;Engine;GE;GE
+405;Order_Total;1;2
+873;Delivery_Total;1;3
+871;Order_Month;Aug;May
+404;Region;North America;North America
+565;Order_Total;1;2
+277;Model_Series;727;757-200
+793;Delivery_Total;1;2
+402;Country;Ethiopia;USA
+450;Delivery_Year_;1970;2000
+572;Order_Total;2;2
+299;Model_Series;737-800;757-200
+543;Order_Month;Jan;May
+384;Model_Series;717-200;757-200
+102;Country;USA;USA
+619;Engine;CF;PW
+307;Model_Series;737-200;757-200
+119;Order_Year;2002;1966
+832;Customer_Name;Southwest Airlines;ATA Airlines Inc.
+702;Order_Total;12;2
+145;Order_Total;1;2
+192;Customer_Name;Air China Cargo;KLM Royal Dutch Airlines
+270;Model_Series;777F;757-200
+864;Order_Total;1;2
+352;Order_Year;2016;1966
+280;Order_Total;1;2
+749;Customer_Name;BDS Australia P-8;Pegasus Airlines
+785;Customer_Name;PLUNA;Volga-Dnepr UK Ltd
+269;Order_Total;1;2
+812;Order_Year;1990;1995
+807;Delivery_Total;3;2
+722;Order_Month;Feb;May
+889;Delivery_Year_;1970;2000
+1;Order_Total;3;2
+26;Order_Month;Jan;Jan
+476;Engine;CF;CF
+65;Engine;CF;PW
+852;Country;Canada;USA
+67;Order_Total;9;2
+282;Order_Month;Mar;May
+47;Order_Month;Jun;Apr
+294;Engine;CF;PW
+315;Order_Month;Mar;May
+46;Delivery_Total;6;2
+748;Country;Ukraine;Ireland
+348;Delivery_Year_;2004;1978
+198;Country;USA;Netherlands
+78;Country;Japan;Russian Federation
+261;Delivery_Total;1;2
+510;Engine;PW;GE
+493;Customer_Name;Frontier Airlines;ATA Airlines Inc.
+230;Country;Yemen;USA
+807;Order_Total;3;2
+17;Order_Month;Aug;Jan
+582;Delivery_Year_;1994;1978
+887;Order_Month;Mar;May
+472;Order_Month;May;May
+709;Order_Total;4;2
+745;Order_Total;1;2
+559;Model_Series;727;757-200
+172;Country;Jamaica;USA
+548;Model_Series;767-200ER;757-200
+537;Customer_Name;UTA;ATA Airlines Inc.
+470;Order_Total;1;2
+105;Customer_Name;SAS Norway;KLM Royal Dutch Airlines
+637;Customer_Name;Quebecair;ATA Airlines Inc.
+298;Engine;PW;PW
+139;Delivery_Total;1;2
+245;Engine;CF;PW
+307;Delivery_Total;1;2
+14;Delivery_Total;1;2
+549;Engine;GE;PW
+189;Country;USA;USA
+500;Model_Series;737-200;747-400ERF
+205;Customer_Name;Avianca El Salvador;KLM Royal Dutch Airlines
+669;Model_Series;737-700W;737-800
+657;Order_Year;2000;1966
+59;Delivery_Total;6;3
+564;Engine;PW;PW
+327;Customer_Name;Orion Airways;KLM Royal Dutch Airlines
+527;Order_Total;6;2
+869;Delivery_Year_;2018;1978
+731;Customer_Name;ALAFCO;Pegasus Airlines
+588;Delivery_Year_;1996;1978
+828;Engine;PW;GE
+821;Order_Year;1993;1966
+744;Delivery_Total;1;2
+540;Order_Total;2;2
+69;Order_Total;1;2
+711;Order_Year;1979;1966
+390;Delivery_Year_;2000;2000
+2;Order_Year;2002;1995
+374;Engine;PW;RR
+211;Model_Series;737 MAX;747-400ERF
+361;Country;Taiwan;Russian Federation
+523;Region;East Asia;North America
+288;Engine;CF;RR
+354;Country;Portugal;Netherlands
+145;Model_Series;707/720;757-200
+812;Delivery_Year_;1997;2002
+190;Order_Year;1977;1966
+808;Order_Month;Dec;May
+389;Delivery_Year_;1968;2000
+890;Country;Egypt;Ireland
+696;Region;Southeast Asia;North America
+736;Order_Month;Oct;Mar
+161;Order_Month;Jan;May
+180;Model_Series;DC-9;757-200
+342;Order_Total;1;2
+817;Order_Month;Jul;May
+714;Customer_Name;ARAMCO Associated Company;ATA Airlines Inc.
+79;Delivery_Year_;2016;2000
+165;Country;China;China
+589;Model_Series;DC-9;757-200
+12;Region;Europe;North America
+103;Delivery_Year_;1996;1983
+373;Customer_Name;Ariana Afghan Airlines;KLM Royal Dutch Airlines
+188;Model_Series;737-100;757-200
+270;Order_Total;1;2
+763;Engine;GE;RR
+14;Order_Year;1986;1966
+182;Delivery_Total;1;3
+782;Customer_Name;Sojitz;KLM Royal Dutch Airlines
+831;Country;China;Ireland
+146;Order_Month;Jan;May
+146;Engine;PW;PW
+516;Order_Total;6;2
+690;Order_Total;2;2
+177;Delivery_Total;1;2
+770;Order_Month;Jan;Apr
+12;Delivery_Year_;2007;1978
+43;Delivery_Year_;2006;1983
+339;Delivery_Total;2;2
+83;Order_Year;1969;1966
+408;Customer_Name;VASP Airlines;ATA Airlines Inc.
+554;Order_Month;Jan;May
+802;Order_Month;Jan;Jan
+653;Region;Europe;Europe
+817;Model_Series;757-300;757-200
+549;Delivery_Year_;2006;1993
+547;Delivery_Year_;2014;1983
+659;Order_Year;2021;1966
+894;Delivery_Year_;1987;?
+375;Model_Series;MD-80;737-800
+466;Delivery_Year_;2018;1983
+423;Delivery_Year_;1989;2000
+190;Region;Africa;North America
+169;Order_Total;2;2
+460;Region;North America;Europe
+529;Order_Total;1;2
+4;Region;North America;Europe
+16;Delivery_Year_;1982;2000
+718;Order_Total;1;2
+240;Order_Year;1968;1966
+172;Order_Year;1973;1966
+198;Region;North America;Europe
+835;Customer_Name;PACE Airlines;ATA Airlines Inc.
+149;Engine;CF;PW
+356;Model_Series;737-200;757-200
+828;Customer_Name;Germanwings GmbH;KLM Royal Dutch Airlines
+838;Country;Syrian Arab Republic;Russian Federation
+844;Order_Year;1956;1966
+47;Order_Year;2005;1982
+153;Delivery_Total;1;2
+776;Model_Series;737-300;757-200
+186;Order_Total;6;2
+621;Region;Europe;North America
+810;Delivery_Year_;1973;2000
+68;Engine;PW;PW
+693;Delivery_Year_;1999;2000
+629;Customer_Name;Hainan Airlines Holding;Pegasus Airlines
+55;Delivery_Year_;2009;1983
+306;Model_Series;DC-9;757-200
+781;Delivery_Total;1;2
+825;Order_Total;2;2
+351;Engine;RR;RR
+520;Delivery_Year_;1994;1983
+433;Customer_Name;All Nippon Airways Co. Ltd.;ATA Airlines Inc.
+229;Order_Month;Apr;May
+448;Country;New Zealand;Ireland
+309;Engine;CF;PW
+543;Model_Series;DC-10;757-200
+580;Customer_Name;Deucalion Capital VII Limited;KLM Royal Dutch Airlines
+94;Order_Month;Nov;May
+11;Order_Year;1988;1966
+603;Engine;CF;PW
+414;Country;Mexico;USA
+278;Delivery_Total;2;2
+515;Order_Year;1968;1966
+417;Delivery_Year_;1991;2002
+220;Delivery_Total;3;2
+301;Order_Year;1975;1966
+879;Delivery_Total;2;2
+767;Customer_Name;L.T.E. International Airways;ATA Airlines Inc.
+240;Delivery_Year_;1971;2000
+291;Delivery_Year_;1995;1983
+863;Delivery_Year_;1990;2000
+106;Model_Series;MD-80;747-400ERF
+741;Country;Germany;USA
+256;Order_Year;1993;1995
+86;Order_Year;1988;1966
+733;Engine;PW;PW
+695;Delivery_Year_;1976;?
+478;Order_Total;1;2
+194;Customer_Name;Air Europa;ATA Airlines Inc.
+743;Delivery_Year_;2012;1978
+557;Order_Month;Apr;May
+199;Delivery_Total;3;3
+675;Customer_Name;Pacific Air Lines;ATA Airlines Inc.
+114;Delivery_Year_;2007;2000
+6;Engine;PW;PW
+208;Delivery_Year_;2018;1978
+345;Country;USA;USA
+21;Delivery_Total;4;2
+802;Delivery_Total;1;2
+879;Country;Lebanon;USA
+119;Region;Europe;North America
+610;Country;Turkmenistan;Ireland
+198;Model_Series;737-700;747-400ERF
+761;Delivery_Year_;2018;1983
+156;Customer_Name;TAP Portugal;KLM Royal Dutch Airlines
+64;Customer_Name;Air France-KLM Group;KLM Royal Dutch Airlines
+655;Model_Series;747-200;747-400ERF
+553;Country;USA;USA
+877;Engine;CF;PW
+4;Delivery_Total;2;2
+671;Engine;GE;PW
+691;Customer_Name;Hawaiian Airlines;ATA Airlines Inc.
+694;Delivery_Total;1;3
+394;Model_Series;DC-9;757-200
+343;Order_Year;2007;1982
+517;Delivery_Total;1;2
+26;Country;USA;USA
+864;Engine;PW;GE
+560;Region;Europe;North America
+477;Delivery_Total;1;3
+669;Order_Total;1;2
+520;Country;Kuwait;Netherlands
+360;Customer_Name;American Airlines;ATA Airlines Inc.
+466;Customer_Name;Standard Chartered Aviation Fi;KLM Royal Dutch Airlines
+749;Model_Series;737-800A;737-800
+70;Delivery_Total;4;2
+754;Engine;GE;GE
+212;Delivery_Year_;2002;2000
+277;Order_Year;1974;1966
+72;Delivery_Year_;1968;2000
+201;Country;Equatorial Guinea;Ireland
+690;Country;United Kingdom;Netherlands
+311;Country;China;Ireland
+7;Model_Series;DC-9;747-400ERF
+534;Order_Year;1975;1982
+165;Region;East Asia;Europe
+217;Delivery_Total;1;2
+125;Delivery_Year_;2012;1983
+324;Customer_Name;Air France-KLM Group;ATA Airlines Inc.
+531;Order_Total;4;2
+857;Country;Germany;USA
+549;Order_Total;1;2
+30;Customer_Name;Lufthansa Cargo;KLM Royal Dutch Airlines
+698;Model_Series;737-800;747-400ERF
+622;Country;Kuwait;USA
+468;Customer_Name;Braniff Airlines;ATA Airlines Inc.
+584;Engine;PW;RR
+881;Order_Total;2;2
+762;Order_Year;2007;1982
+215;Engine;PW;GE
+112;Model_Series;737 MAX;747-400ERF
+308;Order_Total;3;2
+378;Region;East Asia;North America
+334;Delivery_Year_;1987;2000
+255;Country;United Arab Emirates;USA
+137;Customer_Name;Copa Airlines;Pegasus Airlines
+80;Region;Middle East;Europe
+842;Order_Month;Sep;Jan
+32;Order_Year;1997;1966
+685;Delivery_Total;1;2
+169;Engine;GE;PW
+765;Order_Total;2;2
+166;Region;North America;North America
+410;Order_Total;2;2
+786;Order_Month;Nov;May
+213;Country;Japan;USA
+562;Region;North America;North America
+613;Model_Series;MD-80;757-200
+748;Region;Europe;North America
+110;Delivery_Year_;1985;2000
+607;Delivery_Year_;1987;2000
+156;Order_Year;1981;1982
+146;Delivery_Year_;1974;2000
+33;Delivery_Total;3;3
+650;Engine;GE;PW
+676;Engine;PW;PW
+796;Country;China;USA
+626;Order_Year;1973;1966
+604;Order_Total;5;2
+407;Region;Middle East;Europe
+262;Order_Year;1993;1995
+655;Region;South Asia;Europe
+102;Region;North America;North America
+730;Delivery_Year_;1991;1983
+318;Region;North America;North America
+660;Order_Total;2;2
+550;Model_Series;DC-9;757-200
+122;Customer_Name;Frontier Airlines;ATA Airlines Inc.
+724;Country;USA;USA
+644;Customer_Name;Capitol Air;ATA Airlines Inc.
+718;Delivery_Total;1;2
+750;Delivery_Total;4;2
+699;Order_Total;3;2
+215;Delivery_Year_;1975;1983
+554;Engine;PW;PW
+18;Region;Europe;North America
+385;Model_Series;767-300;757-200
+775;Customer_Name;Swiss International Air Lines;ATA Airlines Inc.
+68;Country;Algeria;Ireland
+363;Region;Africa;North America
+359;Delivery_Year_;2012;2000
+499;Delivery_Total;3;2
+155;Delivery_Total;1;2
+359;Model_Series;787-8;757-200
+455;Delivery_Total;4;3
+731;Delivery_Total;1;2
+381;Customer_Name;TWA;ATA Airlines Inc.
+768;Model_Series;DC-9;757-200
+5;Model_Series;747-8F;747-400ERF
+887;Order_Total;1;2
+771;Engine;PW;PW
+43;Country;China;Netherlands
+629;Order_Total;3;2
+114;Order_Total;2;2
+42;Order_Total;3;2
+893;Model_Series;737-800;757-200
+175;Order_Total;1;2
+44;Customer_Name;Royal Brunei Airlines;ATA Airlines Inc.
+270;Country;USA;USA
+132;Delivery_Total;3;2
+154;Country;Bermuda;Ireland
+58;Region;Europe;North America
+387;Engine;CF;PW
+79;Customer_Name;Air Austral;ATA Airlines Inc.
+797;Model_Series;757-200;757-200
+75;Model_Series;737-400;757-200
+165;Order_Month;Dec;Apr
+188;Order_Year;1973;1966
+86;Country;Netherlands;USA
+155;Region;North America;North America
+848;Delivery_Total;1;2
+385;Order_Year;1993;1966
+799;Model_Series;737-200;757-200
+700;Model_Series;737-200;757-200
+342;Country;China;Ireland
+799;Order_Year;1979;1966
+506;Order_Month;Jan;May
+207;Order_Month;Feb;May
+758;Order_Month;Jun;May
+377;Model_Series;747-200;757-200
+26;Customer_Name;Republic Airlines;PrivatAir
+508;Order_Year;1969;1966
+888;Delivery_Year_;1987;1983
+395;Region;South America;North America
+551;Customer_Name;Air Holland Leasing;ATA Airlines Inc.
+553;Model_Series;DC-8;757-200
+499;Customer_Name;Air Serbia;ATA Airlines Inc.
+271;Order_Year;1974;1966
+754;Order_Total;1;2
+856;Delivery_Total;2;2
+505;Delivery_Total;1;2
+404;Model_Series;777-300ER;757-200
+162;Region;North America;North America
+315;Region;Europe;North America
+143;Order_Total;1;2
+730;Customer_Name;Germania;KLM Royal Dutch Airlines
+412;Delivery_Year_;1969;2000
+372;Order_Total;4;2
+500;Order_Year;1981;1982
+244;Region;South America;North America
+356;Order_Month;Dec;May
+328;Delivery_Total;1;3
+488;Order_Year;1956;1966
+198;Order_Year;1996;1982
+272;Delivery_Year_;2001;2000
+18;Order_Month;Aug;May
+15;Order_Total;1;2
+14;Engine;PW;PW
+336;Model_Series;737-200;757-200
+677;Customer_Name;International Lease Finance Co;ATA Airlines Inc.
+550;Country;Netherlands;USA
+731;Delivery_Year_;2011;1978
+715;Order_Total;1;2
+599;Customer_Name;Far Eastern Air Transport;ATA Airlines Inc.
+386;Delivery_Year_;1981;2000
+68;Order_Total;1;2
+132;Country;Canada;USA
+803;Model_Series;787-9;757-200
+780;Order_Month;Apr;Apr
+658;Order_Month;Jan;May
+171;Delivery_Year_;2009;1978
+895;Country;Uzbekistan;USA
+271;Model_Series;DC-10;757-200
+187;Order_Month;Apr;May
+288;Order_Month;Aug;Jan
+556;Region;Europe;Europe
+546;Country;France;Netherlands
+719;Engine;PW;PW
+791;Country;China;France
+315;Delivery_Year_;1992;2000
+269;Delivery_Year_;1999;1967
+628;Delivery_Year_;1978;2002
+216;Delivery_Total;4;2
+788;Delivery_Year_;1967;1983
+696;Delivery_Total;1;2
+706;Region;Southeast Asia;North America
+7;Engine;PW;GE
+256;Customer_Name;Air China Southwest Branch;Pegasus Airlines
+721;Order_Month;Feb;May
+392;Order_Year;1955;1966
+630;Delivery_Total;5;2
+607;Country;China;USA
+170;Delivery_Total;1;3
+482;Order_Total;1;2
+620;Engine;PW;GE
+850;Region;South America;North America
+63;Delivery_Year_;1987;2000
+750;Order_Month;Sep;May
+27;Delivery_Total;4;2
+61;Order_Total;2;2
+215;Country;Dominican Republic;Netherlands
+437;Model_Series;707/720;757-200
+779;Customer_Name;Shanghai Airlines;ATA Airlines Inc.
+245;Order_Total;1;2
+833;Delivery_Total;1;2
+338;Region;South America;North America
+565;Order_Year;2018;1966
+680;Delivery_Total;1;2
+393;Order_Year;1989;1995
+26;Engine;PW;PW
+350;Order_Total;1;2
+317;Order_Total;1;2
+796;Model_Series;737-700;757-200
+363;Customer_Name;TAAG Angola Airlines;Pegasus Airlines
+667;Country;United Kingdom;USA
+568;Region;East Asia;North America
+621;Order_Month;Apr;May
+287;Customer_Name;Maersk Air;Turkish Air Force Peace Eagle
+45;Delivery_Year_;1985;2002
+21;Customer_Name;Jackson Square Aviation;ATA Airlines Inc.
+315;Engine;CF;PW
+721;Order_Total;2;2
+175;Delivery_Year_;1990;2000
+689;Order_Year;1988;1966
+498;Model_Series;DC-9;757-200
+483;Region;South America;Europe
+690;Engine;PW;GE
+426;Order_Total;7;2
+671;Country;Taiwan;Ireland
+665;Model_Series;737-700W;757-200
+440;Engine;CF;PW
+725;Delivery_Year_;2016;1978
+407;Order_Total;3;2
+211;Engine;CF;GE
+579;Region;Central America and Mexico;North America
+618;Country;USA;USA
+804;Engine;PW;PW
+316;Customer_Name;Turkmenhowayollary Agency;Pegasus Airlines
+166;Country;USA;USA
+536;Order_Month;Mar;Apr
+883;Customer_Name;Pacific Southwest Airlines;ATA Airlines Inc.
+454;Engine;CF;PW
+429;Engine;PW;GE
+286;Customer_Name;easyJet;Pegasus Airlines
+834;Order_Total;4;2
+814;Engine;PW;PW
+232;Order_Total;5;2
+13;Order_Total;1;2
+759;Region;Africa;North America
+380;Order_Year;2012;1995
+83;Customer_Name;Royal Air Maroc;Pegasus Airlines
+867;Order_Year;1960;1966
+773;Engine;GE;RR
+422;Region;Oceania;North America
+377;Engine;PW;PW
+469;Engine;CF;RR
+123;Customer_Name;S7 Group;ATA Airlines Inc.
+782;Delivery_Year_;1991;1983
+482;Order_Month;Feb;May
+84;Delivery_Year_;1967;2000
+205;Delivery_Total;1;3
+481;Region;Europe;North America
+732;Delivery_Total;1;2
+481;Model_Series;707/720;757-200
+300;Country;USA;Ireland
+13;Delivery_Total;1;2
+415;Country;France;Ireland
+584;Order_Total;1;1
+718;Customer_Name;Lignes Aeriennes de Congolaise;ATA Airlines Inc.
+110;Customer_Name;Japan Airlines Co. Ltd.;ATA Airlines Inc.
+827;Region;Central America and Mexico;North America
+667;Order_Total;6;2
+333;Region;North America;North America
+331;Order_Year;2010;1966
+172;Region;Caribbean;North America
+286;Order_Total;7;2
+571;Region;Africa;North America
+152;Country;United Kingdom;USA
+669;Delivery_Total;1;2
+156;Delivery_Year_;1981;1983
+703;Customer_Name;AVIACO;Pegasus Airlines
+545;Order_Total;1;2
+487;Order_Total;1;2
+420;Order_Total;1;2
+247;Country;Japan;Ireland
+174;Model_Series;757-200;757-200
+224;Customer_Name;Air Belgium;KLM Royal Dutch Airlines
+866;Order_Year;2013;1966
+91;Customer_Name;ATA Airlines Inc.;ATA Airlines Inc.
+365;Order_Year;1986;1966
+390;Order_Total;3;2
+842;Customer_Name;Jet2.com Ltd;Pegasus Airlines
+183;Order_Total;1;2
+723;Order_Total;3;2
+321;Delivery_Total;2;2
+305;Order_Total;2;2
+60;Order_Year;2012;1982
+454;Order_Month;Jan;May
+889;Customer_Name;Aero Trasporti Italiani;ATA Airlines Inc.
+801;Country;Argentina;Netherlands
+1;Customer_Name;Southern Airways - USA (Inacti;ATA Airlines Inc.
+699;Delivery_Year_;2000;2000
+342;Customer_Name;Everbright Financial Leasing;Pegasus Airlines
+650;Model_Series;787-9;757-200
+439;Engine;PW;PW
+682;Region;Europe;North America
+426;Model_Series;707/720;737-800
+156;Delivery_Total;1;3
+558;Country;USA;USA
+32;Model_Series;747-400M;757-200
+337;Region;Europe;North America
+631;Order_Month;Mar;Mar
+589;Order_Total;1;2
+135;Order_Year;2008;1966
+804;Customer_Name;Alaska Airlines;ATA Airlines Inc.
+279;Country;USA;USA
+95;Model_Series;DC-9;757-200
+719;Order_Year;1965;1966
+320;Delivery_Year_;1993;1983
+507;Order_Total;4;2
+81;Order_Month;Jan;Jan
+83;Model_Series;727;757-200
+72;Order_Month;Jan;May
+134;Country;Belgium;Ireland
+53;Delivery_Total;2;2
+718;Country;Congo the Democratic Republic;USA
+73;Customer_Name;US Airways Inc.;ATA Airlines Inc.
+159;Engine;GE;PW
+457;Country;USA;Switzerland
+177;Order_Year;1969;1966
+432;Delivery_Year_;1975;2000
+545;Customer_Name;Scandinavian Airlines;ATA Airlines Inc.
+835;Region;North America;North America
+127;Customer_Name;Government of Japan;ATA Airlines Inc.
+543;Customer_Name;Transamerica Airlines;ATA Airlines Inc.
+181;Customer_Name;Aviation Capital Group;ATA Airlines Inc.
+105;Model_Series;737-700;747-400ERF
+142;Order_Month;Sep;Jan
+720;Order_Total;2;2
+16;Order_Year;1980;1966
+861;Order_Total;3;2
+551;Order_Year;1987;1966
+859;Delivery_Year_;1997;2002
+179;Engine;PW;PW
+341;Region;Africa;Europe
+130;Delivery_Total;1;2
+838;Engine;PW;GE
+521;Order_Year;1982;1966
+611;Order_Year;1971;1966
+575;Model_Series;737-800;737-800
+627;Order_Year;2020;1966
+204;Country;Australia;Ireland
+297;Order_Month;May;May
+173;Delivery_Total;2;2
+405;Order_Month;Apr;Apr
+154;Engine;CF;PW
+234;Region;South America;North America
+820;Model_Series;737-800;747-400ERF
+557;Country;Cte dIvoire;USA
+61;Order_Year;2000;1966
+498;Delivery_Year_;1974;2000
+676;Order_Total;5;2
+193;Order_Month;Jan;May
+122;Order_Month;Mar;May
+18;Customer_Name;Aero Lloyd;ATA Airlines Inc.
+214;Delivery_Year_;1975;2000
+345;Order_Total;1;2
+726;Country;Bangladesh;USA
+285;Customer_Name;Turkish Air Force Peace Eagle;ATA Airlines Inc.
+505;Customer_Name;Southern Air Transport;ATA Airlines Inc.
+39;Delivery_Total;1;3
+884;Customer_Name;Timaero Ireland Limited;Pegasus Airlines
+635;Delivery_Total;2;2
+400;Order_Total;3;2
+583;Region;Europe;North America
+482;Region;North America;North America
+291;Order_Month;Mar;Apr
+56;Customer_Name;Azerbaijan Airlines;ATA Airlines Inc.
+435;Country;Uzbekistan;Netherlands
+146;Region;East Asia;North America
+385;Region;East Asia;North America
+855;Delivery_Year_;1992;1983
+810;Order_Total;1;2
+13;Country;Netherlands;Hungary
+598;Delivery_Total;2;2
+496;Country;Bahrain;Ireland
+786;Customer_Name;Purdue Airlines;ATA Airlines Inc.
+703;Delivery_Total;4;2
+16;Region;Europe;North America
+664;Order_Month;Aug;May
+577;Order_Total;3;2
+435;Order_Total;1;2
+271;Engine;GE;PW
+544;Order_Total;1;2
+38;Country;China;USA
+361;Engine;RR;GE
+305;Region;North America;North America
+722;Region;Central America and Mexico;North America
+467;Order_Total;4;2
+703;Order_Total;4;2
+352;Customer_Name;Standard Chartered Aviation Fi;Pegasus Airlines
+666;Country;China;Netherlands
+840;Customer_Name;Avolon - Ireland;Pegasus Airlines
+646;Order_Year;1980;1966
+348;Region;Europe;North America
+470;Customer_Name;Air Madagascar;ATA Airlines Inc.
+886;Order_Total;1;2
+108;Engine;GE;GE
+384;Order_Year;2002;1966
+253;Delivery_Year_;1979;1978
+36;Order_Total;2;2
+317;Engine;PW;PW
+106;Delivery_Total;3;3
+237;Order_Month;Dec;Apr
+581;Model_Series;747-8F;747-400ERF
+433;Delivery_Year_;1965;2000
+29;Model_Series;737-800;757-200
+824;Region;East Asia;North America
+882;Delivery_Year_;2007;1978
+266;Country;USA;USA
+436;Delivery_Year_;1978;1978
+872;Order_Year;2005;1966
+458;Delivery_Total;3;2
+527;Country;USA;Ireland
+816;Order_Month;Jan;May
+639;Delivery_Year_;1979;2000
+415;Delivery_Total;8;2
+81;Order_Total;1;2
+722;Order_Total;3;2
+609;Order_Month;Aug;May
+793;Order_Month;Oct;May
+307;Country;Yemen;USA
+140;Customer_Name;AirTran Airways (Merged with S;Pegasus Airlines
+453;Model_Series;737-700;757-200
+312;Customer_Name;Atlas Air Inc.;ATA Airlines Inc.
+69;Region;Middle East;Europe
+737;Engine;CF;GE
+653;Model_Series;737-300;747-400ERF
+132;Region;North America;North America
+129;Region;Europe;Europe
+648;Engine;RR;PW
+8;Order_Year;2000;2006
+607;Engine;RR;PW
+475;Model_Series;707/720;747-400ERF
+380;Customer_Name;Norwegian Air Shuttle;Pegasus Airlines
+340;Country;United Kingdom;Netherlands
+888;Country;Mexico;Russian Federation
+422;Order_Month;Jan;May
+74;Engine;PW;GE
+501;Order_Year;1973;1966
+278;Engine;CF;PW
+249;Order_Total;2;2
+303;Order_Total;2;2
+409;Engine;PW;GE
+565;Order_Month;Dec;May
+421;Order_Month;Mar;Jan
+487;Country;Taiwan;Ireland
+595;Delivery_Total;2;2
+253;Order_Year;1978;1966
+132;Delivery_Year_;1991;2000
+674;Engine;PW;PW
+333;Customer_Name;Air Canada;ATA Airlines Inc.
+769;Order_Total;4;2
+646;Delivery_Total;2;2
+149;Model_Series;737-800;757-200
+420;Country;Namibia;Netherlands
+264;Order_Total;1;2
+623;Model_Series;737-300;757-200
+619;Delivery_Total;3;2
+55;Order_Total;1;2
+430;Region;Europe;North America
+213;Order_Total;1;2
+717;Model_Series;737-400;757-200
+109;Engine;GE;GE
+881;Delivery_Total;2;3
+361;Order_Year;1996;1982
+353;Order_Year;1979;1966
+253;Engine;PW;PW
+890;Engine;RR;PW
+615;Order_Year;1979;1966
+533;Delivery_Year_;2014;1983
+318;Delivery_Year_;1966;2000
+395;Delivery_Total;1;2
+485;Engine;GE;PW
+122;Country;USA;USA
+58;Order_Year;1972;1966
+395;Engine;PW;PW
+17;Order_Year;2003;1995
+279;Order_Month;Jun;May
+560;Order_Year;1997;1995
+447;Order_Year;1966;1966
+810;Engine;PW;PW
+808;Region;Europe;North America
+41;Country;USA;Ireland
+651;Engine;PW;GE
+37;Customer_Name;CAAC-Civil Aviation of China;ATA Airlines Inc.
+644;Order_Year;1968;1966
+739;Customer_Name;Western Pacific Airlines;ATA Airlines Inc.
+895;Order_Total;1;2
+209;Customer_Name;Qantas Airways;ATA Airlines Inc.
+656;Order_Month;Sep;May
+248;Order_Year;1966;1966
+730;Engine;CF;GE
+54;Region;Central America and Mexico;North America
+145;Region;Europe;North America
+734;Engine;PW;GE
+475;Country;United Kingdom;Netherlands
+226;Region;North America;North America
+377;Delivery_Total;1;2
+846;Order_Total;1;2
+783;Engine;GE;RR
+880;Order_Year;1997;1995
+825;Model_Series;747-400;757-200
+756;Delivery_Total;1;2
+138;Order_Month;Jan;May
+788;Region;Middle East;Europe
+787;Order_Total;2;2
+421;Delivery_Total;5;2
+321;Delivery_Year_;1991;2000
+820;Country;India;Russian Federation
+874;Delivery_Total;2;2
+330;Order_Year;2020;1982
+782;Model_Series;757-200;747-400ERF
+533;Customer_Name;Royal Jordanian;KLM Royal Dutch Airlines
+743;Region;Africa;North America
+84;Delivery_Total;9;2
+59;Model_Series;787-9;747-400ERF
+659;Region;North America;North America
+2;Order_Total;2;2
+708;Country;Venezuela;Ireland
+484;Order_Total;3;2
+168;Customer_Name;Polaris Aircraft Leasing;ATA Airlines Inc.
+51;Customer_Name;Air Malta;KLM Royal Dutch Airlines
+296;Engine;PW;RR
+605;Region;East Asia;North America
+503;Order_Month;Feb;May
+834;Order_Month;Jan;May
+887;Engine;PW;PW
+534;Engine;PW;GE
+85;Delivery_Total;4;2
+466;Model_Series;737-800;747-400ERF
+260;Order_Month;Oct;May
+681;Order_Total;1;2
+498;Engine;PW;PW
+223;Model_Series;737-200;747-400ERF
+474;Order_Total;2;2
+648;Region;Middle East;North America
+290;Engine;PW;PW
+705;Order_Year;1983;1966
+637;Region;North America;North America
+647;Order_Month;Aug;Apr
+858;Region;North America;Europe
+455;Engine;CF;GE
+652;Region;North America;North America
+736;Engine;CF;RR
+476;Order_Year;2008;1995
+233;Order_Total;2;2
+414;Region;Central America and Mexico;North America
+188;Customer_Name;NASA;ATA Airlines Inc.
+347;Order_Month;Jan;Jan
+810;Model_Series;747-100;757-200
+476;Delivery_Year_;2010;2010
+78;Region;East Asia;Europe
+244;Country;Colombia;USA
+98;Delivery_Year_;1995;1978
+805;Customer_Name;Air China Cargo;Pegasus Airlines
+340;Engine;RR;GE
+731;Engine;CF;PW
+775;Model_Series;777-300ER;757-200
+816;Order_Total;2;2
+871;Delivery_Total;1;2
+858;Model_Series;707/720;747-400ERF
+354;Customer_Name;TAP Portugal;KLM Royal Dutch Airlines
+75;Customer_Name;Novair International Airways;ATA Airlines Inc.
+164;Country;USA;Brunei Darussalam
+735;Delivery_Year_;2016;1983
+273;Order_Total;1;2
+444;Order_Year;1978;1982
+708;Order_Month;Mar;May
+226;Model_Series;747-400F;757-200
+365;Delivery_Total;1;2
+88;Engine;CF;PW
+848;Order_Year;2018;1995
+238;Country;USA;USA
+750;Region;Europe;North America
+805;Country;China;Ireland
+892;Order_Total;2;2
+163;Order_Year;1980;1966
+660;Region;Europe;North America
+275;Country;Serbia;Ireland
+663;Country;Ireland;Ireland
+376;Model_Series;DC-9;757-200
+328;Delivery_Year_;2014;1976
+437;Engine;PW;PW
+467;Delivery_Year_;2021;2000
+219;Model_Series;737-700;737-800
+751;Delivery_Year_;1988;2000
+721;Delivery_Total;2;2
+635;Order_Year;2008;1966
+713;Customer_Name;CALC Aircraft Assets Limited;KLM Royal Dutch Airlines
+834;Model_Series;737-800A;757-200
+651;Delivery_Year_;1982;1983
+194;Delivery_Total;2;2
+701;Delivery_Year_;2006;1978
+571;Customer_Name;Air Algerie;ATA Airlines Inc.
+813;Model_Series;737-900ER;757-200
+796;Delivery_Year_;2017;2000
+408;Order_Month;Jan;May
+77;Order_Month;Mar;May
+385;Country;China;USA
+683;Customer_Name;Japan Asia Airways;ATA Airlines Inc.
+505;Model_Series;727;757-200
+362;Engine;PW;GE
+71;Model_Series;737-200;757-200
+630;Order_Month;Mar;May
+701;Delivery_Total;4;2
+465;Engine;GE;GE
+633;Region;Caribbean;North America
+245;Delivery_Year_;1991;2000
+439;Delivery_Total;1;2
+154;Model_Series;737-300;757-200
+103;Model_Series;767-300ER;747-400ERF
+669;Order_Year;2001;1995
+791;Order_Year;1985;1966
+387;Order_Total;3;2
+598;Order_Year;1996;1966
+810;Country;USA;USA
+344;Customer_Name;United States Navy;ATA Airlines Inc.
+610;Customer_Name;Turkmenhowayollary Agency;Pegasus Airlines
+338;Order_Year;2007;1966
+111;Delivery_Year_;1969;2000
+860;Model_Series;737-200;757-200
+296;Order_Year;1980;2006
+229;Order_Total;2;2
+347;Region;Europe;North America
+894;Order_Year;1986;?
+556;Order_Year;2011;1982
+816;Region;Europe;North America
+644;Model_Series;DC-8;757-200
+268;Order_Total;2;2
+157;Engine;CF;PW
+11;Order_Total;2;2
+507;Order_Year;1999;1966
+202;Order_Month;Apr;Apr
+241;Order_Total;2;2
+454;Order_Year;1992;1966
+419;Delivery_Total;1;2
+349;Country;Italy;USA
+429;Country;Tunisia;Netherlands
+783;Delivery_Year_;1974;2002
+763;Order_Month;Nov;Mar
+621;Order_Year;1980;1966
+416;Order_Total;1;2
+577;Order_Year;2006;1966
+518;Country;Bermuda;Ireland
+810;Delivery_Total;1;2
+591;Order_Total;1;2
+659;Order_Total;9;2
+159;Order_Month;Feb;May
+233;Delivery_Year_;1996;1978
+718;Order_Month;Feb;May
+37;Delivery_Total;1;2
+769;Engine;CF;PW
+880;Order_Month;Jan;Jan
+512;Region;Europe;North America
+849;Order_Year;1987;1966
+233;Country;USA;Ireland
+656;Engine;PW;PW
+397;Customer_Name;BOC Aviation Limited;KLM Royal Dutch Airlines
+393;Model_Series;757-200;737-800
+898;Delivery_Total;1;2
+339;Country;USA;USA
+165;Order_Year;2013;1982
+205;Model_Series;767-200;747-400ERF
+469;Order_Total;1;2
+250;Order_Month;Mar;Jan
+627;Country;China;USA
+653;Delivery_Total;1;3
+300;Region;North America;North America
+313;Engine;CF;PW
+639;Customer_Name;Braniff Airlines;ATA Airlines Inc.
+382;Order_Month;Feb;May
+147;Model_Series;MD-80;757-200
+162;Delivery_Total;5;2
+326;Delivery_Total;2;2
+629;Order_Year;2006;1966
+67;Engine;CF;GE
+379;Country;USA;USA
+645;Order_Total;4;2
+284;Country;Equatorial Guinea;Russian Federation
+344;Order_Month;Jan;May
+109;Order_Total;3;2
+388;Order_Year;1988;1966
+267;Customer_Name;Executive Jet Aviation;ATA Airlines Inc.
+522;Engine;PW;PW
+105;Order_Month;Feb;Apr
+226;Order_Year;1999;1966
+644;Order_Month;Jan;May
+597;Delivery_Total;1;2
+37;Delivery_Year_;1985;2000
+292;Customer_Name;Timaero Ireland Limited;Pegasus Airlines
+462;Country;Turkey;USA
+226;Customer_Name;Atlas Air Inc.;ATA Airlines Inc.
+689;Region;Southeast Asia;North America
+898;Order_Month;Jan;May
+638;Order_Year;1978;1966
+879;Delivery_Year_;1968;2000
+449;Customer_Name;Kunming Airlines;ATA Airlines Inc.
+335;Delivery_Year_;1969;2000
+83;Order_Month;Jan;May
+396;Delivery_Year_;1963;2000
+408;Region;South America;North America
+488;Delivery_Total;3;2
+716;Region;North America;North America
+847;Region;North America;North America
+256;Country;China;Ireland
+527;Delivery_Total;6;2
+156;Engine;PW;GE
+269;Delivery_Total;1;2
+536;Customer_Name;TUI Group;KLM Royal Dutch Airlines
+389;Customer_Name;American Flyers Airlines;ATA Airlines Inc.
+236;Engine;PW;PW
+625;Country;Romania;USA
+400;Model_Series;737-200;757-200
+327;Delivery_Total;1;3
+696;Order_Month;Feb;May
+420;Order_Year;1999;1982
+337;Delivery_Total;1;2
+13;Engine;CF;PW
+412;Order_Total;1;2
+845;Order_Month;Jan;Apr
+830;Delivery_Year_;2016;1978
+434;Order_Year;1963;1966
+467;Country;United Kingdom;USA
+151;Customer_Name;Lufthansa;ATA Airlines Inc.
+362;Region;Europe;Europe
+298;Delivery_Year_;1960;2000
+34;Order_Year;1989;1966
+694;Region;Europe;Europe
+301;Delivery_Total;1;2
+329;Order_Total;8;2
+10;Delivery_Year_;1996;2000
+727;Engine;PW;PW
+47;Customer_Name;Altavair LLC;Volga-Dnepr UK Ltd
+495;Delivery_Total;2;2
+49;Customer_Name;Japan Transocean Air;ATA Airlines Inc.
+275;Region;Europe;North America
+837;Order_Year;1988;1966
+82;Country;USA;USA
+316;Order_Year;2008;1966
+176;Order_Total;2;2
+287;Delivery_Total;1;2
+97;Model_Series;737-400;737-800
+139;Customer_Name;City Bird;ATA Airlines Inc.
+131;Region;North America;Europe
+297;Delivery_Year_;1997;2000
+292;Delivery_Total;2;2
+191;Model_Series;737-800;737-800
+764;Country;USA;Ireland
+162;Model_Series;737-200;757-200
+294;Delivery_Total;4;2
+813;Customer_Name;Turkish Airlines;ATA Airlines Inc.
+637;Delivery_Year_;1981;2000
+480;Order_Total;2;2
+8;Region;East Asia;Europe
+870;Order_Month;May;Apr
+540;Engine;PW;PW
+399;Engine;PW;PW
+626;Model_Series;737-200;757-200
+418;Region;South Asia;Europe
+309;Region;Southeast Asia;North America
+757;Order_Month;Apr;May
+766;Country;USA;Netherlands
+435;Order_Month;Apr;Apr
+515;Order_Total;3;2
+610;Order_Year;1990;1995
+825;Engine;PW;PW
+492;Model_Series;707/720;757-200
+210;Order_Month;May;May
+527;Order_Year;2007;1995
+262;Model_Series;757-200;737-800
+402;Model_Series;737-200;757-200
+620;Country;France;Russian Federation
+801;Model_Series;MD-80;747-400ERF
+664;Customer_Name;Air Malta;ATA Airlines Inc.
+547;Country;United Kingdom;Netherlands
+683;Country;Japan;USA
+269;Engine;GE;PW
+129;Engine;GE;GE
+215;Customer_Name;Dominicana Airlines;KLM Royal Dutch Airlines
+758;Order_Year;1976;1966
+44;Model_Series;737-200;757-200
+442;Delivery_Total;1;2
+621;Delivery_Total;2;2
+483;Customer_Name;Republic of Venezuela;China Xinjiang Airlines
+417;Model_Series;737-300;737-800
+234;Delivery_Total;3;2
+844;Region;Europe;North America
+470;Delivery_Total;1;2
+723;Delivery_Total;3;3
+309;Order_Total;2;2
+372;Region;Unidentified;Europe
+548;Customer_Name;GATX Financial Corporation;ATA Airlines Inc.
+368;Delivery_Year_;1969;2000
+717;Delivery_Year_;1997;2000
+541;Delivery_Year_;1997;1983
+703;Region;Europe;North America
+632;Delivery_Year_;1965;2000
+216;Model_Series;767-300ER;757-200
+865;Delivery_Total;3;3
+796;Engine;CF;PW
+304;Order_Total;1;2
+545;Order_Year;1965;1966
+111;Engine;PW;PW
+110;Order_Year;1984;1966
+115;Country;India;Ireland
+797;Order_Month;Jan;May
+473;Order_Year;1983;1966
+823;Region;South Asia;Europe
+190;Delivery_Total;1;2
+792;Country;Spain;USA
+349;Region;Europe;North America
+396;Order_Total;1;2
+160;Delivery_Total;2;2
+120;Engine;PW;GE
+552;Region;Southeast Asia;North America
+56;Region;Central Asia;North America
+684;Delivery_Year_;1999;2000
+359;Customer_Name;LOT Polish Airlines;ATA Airlines Inc.
+235;Order_Total;3;2
+441;Delivery_Year_;1968;2000
+746;Engine;CF;RR
+252;Model_Series;737-800;747-400ERF
+802;Country;Morocco;Ireland
+840;Country;Ireland;Ireland
+323;Engine;PW;PW
+360;Model_Series;727;757-200
+235;Customer_Name;Southern Airways - USA (Inacti;KLM Royal Dutch Airlines
+152;Region;Europe;North America
+434;Delivery_Total;1;2
+465;Order_Month;Jul;Apr
+235;Order_Year;1965;1982
+152;Customer_Name;Paramount Airways - (Inactive);ATA Airlines Inc.
+827;Order_Month;Aug;May
+402;Order_Month;Jan;May
+239;Delivery_Total;3;2
+253;Country;Tanzania United Republic of;Ireland
+3;Order_Total;1;2
+217;Customer_Name;Lufthansa;ATA Airlines Inc.
+492;Delivery_Total;1;2
+750;Order_Year;1994;1966
+110;Order_Month;Jan;May
+101;Region;Africa;Europe
+488;Order_Total;3;2
+764;Delivery_Total;2;2
+307;Order_Month;Jun;May
+294;Order_Year;2013;1966
+42;Engine;GE;GE
+625;Model_Series;707/720;757-200
+588;Engine;GE;PW
+500;Delivery_Total;1;3
+736;Delivery_Total;1;3
+273;Customer_Name;Cameroon Airlines;ATA Airlines Inc.
+116;Order_Year;2018;1966
+18;Country;Germany;USA
+510;Model_Series;707/720;747-400ERF
+705;Customer_Name;Kingdom of Saudi Arabia;ATA Airlines Inc.
+137;Order_Total;4;2
+650;Region;East Asia;North America
+271;Delivery_Year_;1974;1978
+306;Delivery_Year_;1967;2000
+89;Delivery_Year_;2008;1983
+124;Region;North America;North America
+554;Region;Africa;North America
+440;Country;Japan;USA
+166;Delivery_Year_;2000;2000
+894;Order_Total;1;?
+148;Order_Year;2000;1966
+329;Model_Series;737-800;747-400ERF
+413;Customer_Name;Republic Airlines;ATA Airlines Inc.
+661;Order_Total;1;2
+517;Region;Europe;North America
+151;Order_Total;2;2
+617;Delivery_Total;2;2
+49;Model_Series;737-800;757-200
+675;Order_Month;Sep;May
+616;Customer_Name;Mexicana;Pegasus Airlines
+350;Customer_Name;Aero Trasporti Italiani;Garuda Indonesia
+463;Model_Series;DC-8;757-200
+185;Region;Europe;North America
+407;Country;Lebanon;Netherlands
+678;Model_Series;747-100;757-200
+276;Model_Series;737-900ER;757-200
+729;Delivery_Total;2;2
+693;Engine;CF;PW
+602;Model_Series;707/720;757-200
+652;Order_Year;1970;1966
+849;Region;Europe;North America
+7;Country;Indonesia;Netherlands
+509;Delivery_Total;2;2
+838;Delivery_Year_;1976;1983
+14;Order_Month;May;May
+781;Delivery_Year_;1980;2000
+852;Order_Total;1;2
+681;Country;Canada;USA
+531;Country;China;Ireland
+695;Customer_Name;Balair/CTA;?
+894;Country;United Kingdom;?
+512;Order_Month;Feb;Jan
+40;Customer_Name;Mitsui & Co.;ATA Airlines Inc.
+144;Customer_Name;Air Florida;ATA Airlines Inc.
+872;Engine;CF;PW
+82;Order_Month;Apr;May
+164;Region;North America;Europe
+52;Country;Brazil;USA
+696;Order_Total;1;2
+99;Model_Series;757-200;757-200
+117;Delivery_Year_;1986;2000
+734;Customer_Name;Monarch Airlines;KLM Royal Dutch Airlines
+711;Country;USA;USA
+263;Order_Year;1963;1966
+732;Country;Canada;USA
+773;Model_Series;777-300ER;737-800
+140;Order_Total;1;2
+234;Delivery_Year_;1971;2000
+333;Order_Month;Jan;May
+76;Order_Year;1993;1966
+341;Country;Mauritania;Russian Federation
+172;Delivery_Total;1;2
+58;Delivery_Year_;1972;2000
+240;Model_Series;747-200;757-200
+31;Delivery_Total;1;2
+871;Customer_Name;Transair Sweden;ATA Airlines Inc.
+698;Country;Russian Federation;Netherlands
+567;Model_Series;777-200ER;757-200
+228;Customer_Name;Air Jamaica-See CBL;ATA Airlines Inc.
+728;Region;North America;Europe
+52;Region;South America;North America
+298;Delivery_Total;3;2
+629;Model_Series;737-800;757-200
+264;Customer_Name;Air Austral;ATA Airlines Inc.
+246;Model_Series;727;757-200
+163;Order_Month;May;May
+869;Region;Europe;North America
+179;Country;United Kingdom;USA
+685;Order_Year;1966;1966
+674;Delivery_Year_;1977;1978
+301;Order_Month;Jun;May
+161;Country;Vietnam;USA
+876;Country;Serbia;USA
+309;Order_Year;2017;1966
+45;Order_Month;Jan;Mar
+816;Country;Switzerland;USA
+28;Order_Total;2;2
+184;Order_Month;Jan;May
+89;Delivery_Total;1;3
+858;Delivery_Total;3;3
+603;Country;China;Ireland
+122;Order_Year;1978;1966
+695;Engine;PW;?
+411;Engine;GE;PW
+35;Delivery_Year_;1965;2000
+257;Country;Sweden;USA
+735;Model_Series;747-8F;747-400ERF
+499;Order_Month;Feb;May
+313;Country;Japan;France
+537;Model_Series;DC-8;757-200
+529;Engine;CF;PW
+670;Delivery_Total;1;2
+640;Customer_Name;Reno Air;ATA Airlines Inc.
+80;Customer_Name;Mid East Jet;KLM Royal Dutch Airlines
+436;Engine;PW;PW
+225;Order_Month;Apr;May
+424;Order_Total;1;2
+243;Country;Netherlands;Netherlands
+676;Delivery_Year_;1985;2000
+801;Order_Year;1978;1982
+226;Engine;GE;PW
+465;Region;Middle East;Europe
+604;Region;Europe;North America
+39;Order_Year;1997;1982
+113;Customer_Name;Adria Airways d.d.;ATA Airlines Inc.
+767;Delivery_Total;1;2
+873;Country;Norway;Netherlands
+393;Region;Europe;North America
+675;Order_Total;2;2
+404;Country;USA;USA
+796;Delivery_Total;2;2
+532;Country;Belgium;Ireland
+62;Country;USA;USA
+623;Order_Total;2;2
+111;Delivery_Total;1;2
+473;Model_Series;737-200;757-200
+463;Order_Year;1966;1966
+199;Order_Year;1981;1982
+95;Delivery_Total;2;2
+614;Region;East Asia;Europe
+759;Engine;GE;PW
+215;Delivery_Total;1;3
+96;Region;North America;North America
+729;Model_Series;DC-9;757-200
+886;Engine;CF;PW
+686;Delivery_Year_;2015;2000
+617;Order_Month;Apr;May
+362;Order_Total;3;2
+489;Country;Argentina;Ireland
+721;Country;Kazakhstan;USA
+193;Order_Total;1;2
+597;Model_Series;MD-80;757-200
+152;Order_Month;Dec;May
+708;Engine;PW;PW
+678;Delivery_Year_;1970;2000
+319;Delivery_Total;1;2
+687;Country;USA;Ireland
+473;Delivery_Year_;1984;2000
+758;Engine;GE;PW
+898;Model_Series;707/720;757-200
+862;Delivery_Total;1;3
+697;Delivery_Year_;2002;2000
+553;Customer_Name;Transamerica Airlines;ATA Airlines Inc.
+579;Engine;PW;PW
+867;Country;USA;USA
+177;Model_Series;DC-9;757-200
+12;Delivery_Total;1;2
+36;Order_Month;Feb;Apr
+173;Order_Month;Sep;May
+715;Region;Southeast Asia;North America
+35;Customer_Name;World Airways Inc.;ATA Airlines Inc.
+421;Region;Middle East;North America
+332;Delivery_Year_;2005;2000
+734;Delivery_Total;2;3
+127;Region;East Asia;North America
+54;Order_Month;Jan;Jan
+889;Region;Europe;North America
+92;Delivery_Total;1;2
+820;Customer_Name;Jet Lite;Volga-Dnepr UK Ltd
+221;Order_Month;May;Apr
+471;Delivery_Total;2;2
+457;Delivery_Total;4;2
+300;Customer_Name;UPS;Pegasus Airlines
+422;Order_Total;2;2
+744;Model_Series;747-200;757-200
+359;Region;Europe;North America
+115;Delivery_Total;1;2
+806;Model_Series;737-800;757-200
+556;Delivery_Total;3;3
+329;Delivery_Year_;2014;1983
+370;Engine;GE;PW
+124;Engine;PW;PW
+481;Order_Total;4;2
+95;Customer_Name;Hughes Airwest Inc.;ATA Airlines Inc.
+791;Order_Month;Jun;May
+290;Country;USA;Ireland
+11;Delivery_Year_;1989;2000
+107;Model_Series;DC-8;757-200
+768;Order_Month;Apr;May
+535;Customer_Name;Ansett Worldwide Av. Equipment;China Xinjiang Airlines
+17;Country;Turkey;Ireland
+74;Customer_Name;Maritime Investment & Shipping;KLM Royal Dutch Airlines
+607;Delivery_Total;3;2
+737;Country;Ireland;Netherlands
+97;Region;Caribbean;North America
+466;Country;Ireland;Netherlands
+410;Customer_Name;VivaAerobus;China Eastern Yunnan Airlines
+228;Delivery_Year_;1969;2000
+589;Engine;PW;PW
+201;Engine;GE;PW
+105;Order_Total;2;2
+416;Delivery_Year_;1981;1983
+477;Order_Total;1;2
+679;Engine;PW;PW
+760;Region;North America;Europe
+401;Region;Southeast Asia;North America
+283;Order_Month;Jan;May
+327;Delivery_Year_;1982;1983
+349;Engine;PW;PW
+475;Delivery_Total;5;3
+501;Region;Central America and Mexico;North America
+359;Order_Month;Feb;May
+4;Customer_Name;Oak Hill;ATA Airlines Inc.
+882;Engine;CF;PW
+72;Model_Series;DC-8;757-200
+391;Customer_Name;ITOCHU AirLease B.V.;KLM Royal Dutch Airlines
+691;Delivery_Year_;1975;2000
+415;Model_Series;737-800;737-800
+346;Order_Total;3;2
+168;Country;USA;USA
+859;Delivery_Total;1;2
+48;Delivery_Year_;2015;2000
+877;Country;Germany;USA
+182;Delivery_Year_;1987;1983
+595;Order_Year;1973;1966
+400;Country;USA;USA
+858;Country;USA;Russian Federation
+760;Country;USA;Netherlands
+854;Region;North America;North America
+655;Order_Total;1;2
+17;Model_Series;737-700W;737-800
+22;Order_Year;2018;1995
+274;Model_Series;DC-8;757-200
+84;Customer_Name;United Airlines;ATA Airlines Inc.
+504;Order_Month;May;May
+531;Model_Series;737-800;737-800
+617;Model_Series;DC-9;757-200
+506;Engine;CF;PW
+203;Model_Series;737-700;737-800
+12;Engine;CF;GE
+446;Order_Month;May;Jan
+181;Delivery_Year_;2012;2000
+410;Delivery_Total;2;3
+125;Delivery_Total;4;3
+554;Country;Zimbabwe;USA
+830;Order_Year;2016;1995
+101;Customer_Name;TAAG Angola Airlines;KLM Royal Dutch Airlines
+530;Region;East Asia;North America
+357;Region;Africa;North America
+85;Order_Total;4;2
+116;Country;United Arab Emirates;USA
+771;Order_Year;1974;1966
+565;Region;East Asia;North America
+150;Customer_Name;Jet America Airlines;ATA Airlines Inc.
+660;Customer_Name;Brussels Airlines SA/NV;ATA Airlines Inc.
+662;Order_Year;1977;1966
+763;Order_Year;2019;2006
+142;Delivery_Year_;2010;1978
+525;Delivery_Year_;1973;2000
+540;Delivery_Year_;1967;2000
+579;Customer_Name;Avianca Costa Rica;Pegasus Airlines
+325;Engine;CF;GE
+857;Customer_Name;Germanwings GmbH;ATA Airlines Inc.
+518;Model_Series;737-400;737-800
+774;Order_Month;Jun;May
+427;Order_Total;4;2
+282;Delivery_Year_;1981;2000
+143;Customer_Name;Linjeflyg;U.S. Air Force
+458;Engine;CF;PW
+635;Customer_Name;SMBC Aviation Capital;ATA Airlines Inc.
+223;Engine;PW;GE
+406;Model_Series;767-300ER;757-200
+19;Order_Month;Feb;May
+577;Model_Series;737-800;757-200
+202;Delivery_Year_;1970;1983
+449;Model_Series;737-800;757-200
+626;Customer_Name;Transair (Inactive);ATA Airlines Inc.
+28;Delivery_Total;2;3
+41;Model_Series;787-9;737-800
+747;Delivery_Total;3;2
+357;Delivery_Year_;2008;2002
+773;Customer_Name;Swiss International Air Lines;China Xinjiang Airlines
+702;Delivery_Year_;2012;1983
+107;Delivery_Total;1;2
+632;Order_Month;Jan;May
+474;Delivery_Year_;2014;1978
+297;Region;Europe;North America
+98;Country;Peru;Ireland
+844;Engine;PW;PW
+316;Order_Total;1;2
+861;Customer_Name;CDB Aviation;Pegasus Airlines
+265;Engine;PW;PW
+67;Order_Month;Jan;Apr
+148;Engine;CF;PW
+506;Region;Europe;North America
+554;Delivery_Year_;1987;2000
+257;Order_Month;Aug;May
+657;Delivery_Total;1;2
+105;Delivery_Year_;1998;1983
+235;Engine;PW;GE
+227;Engine;CF;RR
+20;Order_Month;May;May
+249;Customer_Name;Laker Airways (Bahamas);ATA Airlines Inc.
+225;Customer_Name;GATX Financial Corporation;ATA Airlines Inc.
+750;Delivery_Year_;1994;2000
+195;Order_Total;1;2
+194;Delivery_Year_;2005;2000
+422;Delivery_Total;2;2
+55;Country;Brazil;Russian Federation
+294;Order_Month;Dec;May
+115;Delivery_Year_;1961;1978
+612;Order_Total;1;2
+846;Order_Month;Feb;Apr
+525;Order_Year;1973;1966
+474;Region;Europe;North America
+336;Country;Serbia;USA
+203;Order_Total;2;2
+672;Delivery_Total;2;2
+885;Order_Year;1966;1966
+422;Engine;CF;PW
+656;Delivery_Total;1;2
+347;Customer_Name;SMBC Aviation Capital;Pegasus Airlines
+52;Delivery_Year_;1973;2000
+554;Order_Year;1987;1966
+192;Order_Month;Mar;Apr
+652;Customer_Name;Business Aerotech;ATA Airlines Inc.
+449;Delivery_Total;2;2
+536;Delivery_Total;2;3
+107;Order_Year;1967;1966
+116;Order_Month;Nov;May
+204;Region;Oceania;North America
+27;Engine;GE;CF
+412;Customer_Name;Purdue Airlines;ATA Airlines Inc.
+675;Order_Year;1965;1966
+550;Order_Total;2;2
+528;Region;Middle East;Europe
+115;Order_Month;Jan;Jan
+200;Delivery_Total;6;2
+310;Country;Taiwan;Turkey
+269;Order_Month;Nov;May
+187;Engine;PW;PW
+316;Region;Central Asia;North America
+838;Delivery_Total;3;3
+46;Order_Total;6;2
+869;Order_Month;Jun;Jan
+91;Model_Series;737-800;757-200
+330;Order_Month;Dec;Apr
+415;Customer_Name;Transavia Company SAS;Pegasus Airlines
+893;Order_Month;Feb;May
+705;Country;Saudi Arabia;France
+155;Country;USA;Ireland
+150;Order_Year;1980;1966
+94;Engine;PW;PW
+120;Order_Year;1973;1982
+580;Order_Year;2005;1982
+753;Engine;PW;PW
+868;Order_Total;1;2
+390;Region;North America;North America
+398;Delivery_Total;2;2
+167;Engine;RR;PW
+556;Order_Month;Feb;Apr
+323;Delivery_Year_;1969;1978
+145;Order_Month;Mar;May
+332;Model_Series;737-800;757-200
+448;Model_Series;737-200;757-200
+141;Model_Series;737-500;737-800
+365;Country;Sweden;USA
+844;Order_Total;1;2
+321;Customer_Name;Air-Lib;ATA Airlines Inc.
+29;Customer_Name;CIT Aerospace LLC;ATA Airlines Inc.
+64;Delivery_Year_;2016;1983
+705;Region;Middle East;North America
+113;Order_Month;Mar;May
+850;Country;Bolivia;USA
+751;Engine;PW;PW
+372;Order_Month;Jan;Apr
+289;Country;Australia;USA
+129;Customer_Name;Finnair;KLM Royal Dutch Airlines
+322;Country;United Kingdom;Ireland
+459;Engine;PW;GE
+107;Order_Total;1;2
+602;Engine;CF;PW
+385;Delivery_Year_;1994;2000
+126;Order_Year;1971;1966
+695;Model_Series;DC-9;?
+188;Order_Month;Mar;May
+441;Model_Series;DC-8;757-200
+790;Order_Total;1;2
+113;Region;Europe;North America
+481;Country;Belgium;USA
+35;Country;USA;USA
+478;Engine;RR;PW
+670;Delivery_Year_;1979;2000
+137;Country;Panama;Ireland
+607;Customer_Name;China Southern Airlines;ATA Airlines Inc.
+149;Country;Thailand;USA
+541;Country;Germany;Netherlands
+779;Engine;CF;PW
+529;Model_Series;737-700;757-200
+496;Order_Year;2008;1966
+157;Model_Series;737-700W;757-200
+692;Engine;PW;PW
+43;Engine;GE;GE
+415;Delivery_Year_;2017;1978
+236;Order_Year;1966;1966
+819;Model_Series;BBJ;757-200
+82;Customer_Name;Trans Carib Air;ATA Airlines Inc.
+395;Country;Ecuador;USA
+174;Order_Month;Jan;May
+555;Order_Total;2;2
+605;Customer_Name;Juneyao Air Co. LTD.;ATA Airlines Inc.
+131;Delivery_Year_;1988;1983
+284;Engine;CF;GE
+579;Country;Costa Rica;Ireland
+825;Region;North America;North America
+80;Delivery_Year_;1996;1983
+326;Delivery_Year_;1981;2000
+733;Country;Taiwan;Ireland
+808;Model_Series;737-300;757-200
+214;Country;USA;USA
+135;Model_Series;777-300ER;757-200
+133;Order_Year;1996;1966
+581;Customer_Name;AirBridgeCargo Airlines;KLM Royal Dutch Airlines
+345;Engine;PW;PW
+312;Order_Year;1997;1966
+189;Customer_Name;BDS USAF Tanker Program;ATA Airlines Inc.
+853;Model_Series;777F;757-200
+422;Country;Nauru;Hungary
+476;Delivery_Total;4;2
+36;Delivery_Year_;2014;1983
+477;Engine;PW;GE
+346;Model_Series;737-800A;747-400ERF
+250;Model_Series;737 MAX;737-800
+632;Model_Series;DC-8;757-200
+752;Order_Year;2008;1966
+655;Order_Month;Jan;Apr
+390;Delivery_Total;3;2
+612;Delivery_Year_;1968;2000
+158;Engine;GE;PW
+365;Order_Total;1;2
+429;Delivery_Total;1;3
+710;Model_Series;737-800;747-400ERF
+464;Delivery_Year_;2018;1983
+203;Order_Year;1999;1995
+281;Customer_Name;Air Madagascar;ATA Airlines Inc.
+140;Model_Series;737-700;757-200
+100;Order_Month;Jan;May
+146;Country;Japan;USA
+173;Region;East Asia;North America
+196;Region;Africa;North America
+37;Order_Month;May;May
+584;Customer_Name;Kuwait Air Force;China Xinjiang Airlines
+257;Model_Series;737-500;757-200
+659;Country;USA;USA
+33;Customer_Name;Libyan Airlines;KLM Royal Dutch Airlines
+737;Order_Total;1;2
+784;Model_Series;DC-10;747-400ERF
+303;Order_Year;1988;1995
+67;Model_Series;737-800;747-400ERF
+106;Order_Month;Jun;Apr
+292;Order_Total;2;2
+29;Order_Total;0;2
+693;Order_Year;1998;1966
+513;Customer_Name;Republic of Iraq;Pegasus Airlines
+606;Customer_Name;Bain Capital Griffin Internati;Pegasus Airlines
+884;Order_Total;4;2
+314;Delivery_Total;3;2
+71;Order_Total;2;2
+793;Delivery_Year_;1967;2000
+897;Customer_Name;Singapore Airlines;ATA Airlines Inc.
+631;Region;South Asia;Europe
+717;Delivery_Total;2;2
+415;Region;Europe;North America
+499;Delivery_Year_;1975;2000
+383;Region;Southeast Asia;North America
+571;Delivery_Total;1;2
+602;Order_Month;Aug;May
+759;Order_Month;Apr;May
+21;Delivery_Year_;2021;2000
+816;Model_Series;DC-8;757-200
+429;Delivery_Year_;1974;1983
+433;Order_Year;1964;1966
+461;Order_Month;Apr;May
+156;Order_Month;Jan;Apr
+500;Order_Total;1;2
+411;Order_Year;1966;1966
+497;Delivery_Total;1;2
+33;Order_Year;1974;1982
+185;Engine;PW;PW
+125;Customer_Name;LATAM Airlines Brasil;KLM Royal Dutch Airlines
+3;Delivery_Total;1;3
+553;Delivery_Year_;1967;2000
+215;Order_Year;1975;1982
+86;Order_Total;1;2
+714;Region;North America;North America
+377;Region;Europe;North America
+399;Customer_Name;World Airways Inc.;ATA Airlines Inc.
+696;Engine;PW;PW
+39;Model_Series;737-300;747-400ERF
+91;Order_Year;2000;1966
+429;Customer_Name;TunisAir;KLM Royal Dutch Airlines
+556;Customer_Name;Aeroflot - Russian Airlines;KLM Royal Dutch Airlines
+703;Engine;PW;PW
+753;Order_Total;2;2
+498;Country;Italy;USA
+744;Delivery_Year_;1979;1978
+836;Region;Africa;North America
+516;Region;East Asia;North America
+66;Model_Series;727;757-200
+796;Order_Month;Nov;May
+862;Order_Total;1;2
+688;Customer_Name;Virgin Australia;Volga-Dnepr UK Ltd
+377;Order_Month;Apr;May
+514;Delivery_Year_;1970;2000
+624;Order_Year;1977;1966
+570;Delivery_Year_;2021;2000
+170;Country;Philippines;Netherlands
+613;Customer_Name;Transtar Airlines Corporation;ATA Airlines Inc.
+315;Delivery_Total;5;2
+894;Model_Series;737-300;?
+788;Model_Series;727;747-400ERF
+90;Delivery_Total;3;3
+199;Customer_Name;Transbrasil;KLM Royal Dutch Airlines
+546;Region;Europe;Europe
+137;Delivery_Total;4;2
+47;Delivery_Year_;2007;1983
+225;Engine;PW;PW
+206;Country;Gibraltar;USA
+393;Order_Month;Jan;Jan
+79;Region;Africa;North America
+108;Region;Middle East;Europe
+128;Delivery_Total;1;2
+138;Delivery_Year_;1988;2000
+735;Order_Year;2015;1982
+669;Order_Month;Oct;Jan
+534;Customer_Name;Government of Egypt;KLM Royal Dutch Airlines
+218;Customer_Name;Miami Air;ATA Airlines Inc.
+182;Engine;RR;GE
+714;Model_Series;737-700C;757-200
+714;Delivery_Year_;2001;2000
+732;Order_Year;1979;1966
+388;Order_Total;1;2
+821;Engine;PW;PW
+40;Delivery_Total;2;2
+540;Country;South Africa;USA
+322;Customer_Name;Jet2.com Ltd;Pegasus Airlines
+407;Engine;PW;GE
+205;Order_Total;1;2
+526;Order_Month;Jan;May
+820;Order_Month;Jan;Apr
+193;Engine;PW;PW
+399;Delivery_Total;1;2
+404;Delivery_Year_;2017;2000
+641;Delivery_Total;1;2
+681;Model_Series;737-200;757-200
+48;Customer_Name;Comair Limited;ATA Airlines Inc.
+203;Order_Month;Jun;Jan
+261;Order_Year;1982;1966
+207;Delivery_Total;3;2
+148;Customer_Name;Kenya Airways;Pegasus Airlines
+296;Delivery_Year_;1981;2002
+406;Engine;GE;PW
+745;Country;France;USA
+332;Order_Year;2004;1966
+747;Region;North America;North America
+195;Region;Middle East;North America
+491;Delivery_Year_;2021;1976
+7;Region;Southeast Asia;Europe
+686;Order_Year;2015;1966
+582;Engine;PW;PW
+674;Order_Year;1977;1966
+244;Model_Series;727;757-200
+821;Delivery_Year_;1993;2000
+549;Order_Month;Jun;May
+521;Engine;PW;PW
+716;Order_Year;1976;1966
+805;Order_Total;4;2
+536;Engine;PW;GE
+245;Delivery_Total;1;2
+210;Country;Belgium;Ireland
+441;Order_Total;2;2
+303;Delivery_Total;2;2
+729;Engine;PW;PW
+198;Customer_Name;M&T Aviation USA Inc;KLM Royal Dutch Airlines
+327;Order_Year;1981;1982
+426;Order_Month;Jun;Jan
+409;Order_Year;1978;1982
+842;Region;Europe;North America
+738;Country;Finland;Ireland
+428;Delivery_Total;1;2
+79;Order_Month;Feb;May
+231;Engine;PW;PW
+550;Engine;PW;PW
+65;Customer_Name;Jeju Air;Pegasus Airlines
+630;Order_Year;1970;1966
+376;Delivery_Total;4;2
+77;Engine;CF;PW
+768;Country;USA;USA
+148;Delivery_Year_;2002;1978
+443;Order_Total;1;2
+648;Delivery_Year_;2016;2000
+529;Delivery_Total;1;2
+686;Order_Total;2;2
+661;Order_Month;Jun;May
+576;Country;China;USA
+460;Delivery_Total;3;3
+459;Country;Senegal;Netherlands
+765;Region;Europe;North America
+326;Model_Series;747-100;757-200
+557;Region;Africa;North America
+230;Model_Series;737-200;757-200
+862;Delivery_Year_;2006;1983
+311;Order_Month;May;May
+213;Order_Month;May;May
+659;Engine;CF;PW
+224;Country;Belgium;Netherlands
+54;Delivery_Total;6;2
+406;Delivery_Total;2;2
+371;Order_Month;Jan;Jan
+318;Model_Series;707/720;757-200
+193;Country;USA;USA
+176;Delivery_Total;2;2
+798;Delivery_Year_;1967;2000
+144;Region;North America;North America
+80;Country;Saudi Arabia;Netherlands
+179;Delivery_Year_;1995;2000
+235;Region;North America;Europe
+696;Model_Series;727;757-200
+250;Order_Year;2021;1995
+98;Engine;CF;PW
+273;Country;Cameroon;USA
+258;Delivery_Year_;2019;1978
+612;Order_Month;Mar;May
+558;Order_Year;1966;1966
+2;Delivery_Total;2;2
+519;Delivery_Total;12;2
+612;Model_Series;727;757-200
+633;Engine;PW;PW
+454;Customer_Name;Ansett Worldwide Av. Equipment;U.S. Air Force
+166;Order_Total;4;2
+3;Order_Month;Jan;Apr
+837;Model_Series;MD-80;757-200
+870;Region;Europe;Europe
+437;Delivery_Total;1;2
+715;Model_Series;747-400;757-200
+253;Order_Month;Mar;May
+201;Order_Month;Mar;May
+271;Order_Month;Jan;May
+311;Delivery_Total;1;2
+620;Order_Year;1956;1982
+743;Country;South Africa;Ireland
+661;Delivery_Total;1;2
+278;Region;Europe;North America
+288;Order_Year;1992;1995
+729;Order_Year;1963;1966
+755;Order_Total;1;2
+800;Region;Southeast Asia;North America
+423;Order_Month;Jan;May
+860;Delivery_Year_;1981;2000
+843;Engine;CF;PW
+410;Delivery_Year_;1991;2002
+851;Engine;RR;GE
+701;Order_Total;4;2
+334;Customer_Name;Aero Lloyd;ATA Airlines Inc.
+741;Region;Europe;North America
+251;Region;Africa;North America
+96;Delivery_Year_;1982;1978
+713;Country;Malaysia;Netherlands
+511;Order_Year;1981;1966
+264;Delivery_Year_;2011;2000
+747;Order_Total;3;2
+895;Customer_Name;Uzbekistan Airways;ATA Airlines Inc.
+169;Country;India;Ireland
+831;Model_Series;737-800;757-200
+235;Order_Month;Jun;Apr
+425;Order_Year;1965;1966
+840;Region;Europe;North America
+702;Region;Middle East;Europe
+120;Order_Month;Jan;Apr
+93;Delivery_Year_;1975;1978
+101;Country;Angola;Netherlands
+43;Order_Month;Jul;Apr
+827;Order_Year;1978;1966
+197;Customer_Name;Transtar Airlines Corporation;ATA Airlines Inc.
+580;Delivery_Total;4;3
+421;Model_Series;737-800;737-800
+586;Order_Total;2;2
+513;Order_Year;2008;1995
+712;Delivery_Total;4;2
+377;Country;Germany;Ireland
+220;Order_Month;Oct;Jan
+113;Delivery_Year_;1969;2000
+524;Delivery_Year_;1977;2000
+206;Order_Month;Mar;May
+613;Region;North America;North America
+320;Customer_Name;Air China Southwest Branch;KLM Royal Dutch Airlines
+734;Country;United Kingdom;Netherlands
+387;Model_Series;737-800A;757-200
+612;Country;Afghanistan;USA
+605;Model_Series;787-9;757-200
+587;Order_Month;Jun;May
+555;Engine;CF;PW
+229;Order_Year;2017;1966
+896;Customer_Name;Lignes Aeriennes de Congolaise;Garuda Indonesia
+591;Country;Egypt;USA
+11;Engine;RR;PW
+37;Model_Series;747-200;757-200
+333;Engine;PW;PW
+420;Delivery_Total;1;3
+24;Model_Series;MD-80;757-200
+26;Region;North America;North America
+535;Order_Month;Mar;Mar
+62;Delivery_Year_;1969;2000
+616;Model_Series;DC-10;757-200
+96;Engine;PW;PW
+232;Customer_Name;SunExpress Airlines;Pegasus Airlines
+158;Delivery_Year_;1995;2000
+619;Country;Belarus;France
+193;Model_Series;DC-8;757-200
+72;Region;Europe;North America
+174;Order_Total;2;2
+330;Delivery_Year_;2022;1983
+613;Engine;PW;PW
+304;Country;Niger;USA
+262;Country;United Kingdom;Ireland
+551;Engine;RR;PW
+382;Customer_Name;Air New Zealand;ATA Airlines Inc.
+71;Delivery_Year_;1982;2000
+492;Customer_Name;British Eagle International;Air Europe
+24;Order_Total;5;2
+818;Order_Total;2;2
+284;Model_Series;737-800;747-400ERF
+830;Region;East Asia;North America
+897;Order_Total;2;2
+776;Delivery_Total;1;2
+484;Engine;PW;GE
+71;Delivery_Total;2;2
+629;Country;China;Ireland
+644;Delivery_Total;1;2
+369;Order_Month;Jan;May
+216;Customer_Name;Flightlease;ATA Airlines Inc.
+297;Delivery_Total;1;2
+328;Order_Year;2012;1982
+274;Delivery_Year_;1966;2000
+583;Model_Series;737-800;737-800
+545;Delivery_Total;1;2
+317;Order_Year;1967;1966
+69;Customer_Name;Dubai Air Wing;KLM Royal Dutch Airlines
+117;Delivery_Total;2;2
+189;Model_Series;767-2C;757-200
+550;Region;Europe;North America
+577;Engine;CF;PW
+205;Country;El Salvador;Netherlands
+172;Model_Series;DC-9;757-200
+140;Region;North America;North America
+142;Customer_Name;Arik Air;Pegasus Airlines
+583;Order_Total;1;2
+375;Order_Month;Mar;Jan
+894;Engine;CF;?
+220;Order_Total;3;2
+848;Engine;GE;RR
+569;Delivery_Year_;1967;2000
+303;Customer_Name;GPA Group;Pegasus Airlines
+239;Region;Europe;North America
+398;Order_Year;1976;1966
+85;Region;Africa;North America
+858;Engine;PW;GE
+775;Order_Total;2;2
+620;Delivery_Total;1;3
+21;Order_Total;4;2
+467;Delivery_Total;4;2
+274;Delivery_Total;1;2
+579;Model_Series;727;757-200
+316;Engine;GE;PW
+566;Order_Total;1;2
+126;Order_Month;Mar;May
+388;Model_Series;MD-80;757-200
+712;Engine;CF;PW
+292;Model_Series;737 MAX;757-200
+437;Order_Year;1975;1966
+711;Engine;PW;PW
+337;Order_Year;1988;1966
+266;Customer_Name;Starflite Corporation;ATA Airlines Inc.
+306;Customer_Name;ATAircraft One;ATA Airlines Inc.
+385;Customer_Name;Shanghai Airlines;ATA Airlines Inc.
+465;Delivery_Total;2;3
+690;Delivery_Year_;1997;1983
+456;Model_Series;737-800;757-200
+275;Customer_Name;AVIOGENEX;Pegasus Airlines
+239;Country;United Kingdom;USA
+317;Customer_Name;Air India;Pegasus Airlines
+229;Model_Series;787-9;757-200
+457;Order_Month;Jan;May
+64;Order_Total;1;2
+427;Country;Germany;USA
+73;Region;North America;North America
+81;Delivery_Total;1;2
+708;Delivery_Year_;1968;1978
+765;Engine;PW;PW
+321;Order_Month;Jun;May
+360;Delivery_Year_;1975;2000
+390;Customer_Name;ARAMCO Associated Company;ATA Airlines Inc.
+287;Region;Europe;North America
+740;Order_Total;1;2
+401;Country;Taiwan;Ireland
+292;Engine;CF;PW
+841;Delivery_Year_;2013;2000
+341;Model_Series;737 MAX;747-400ERF
+106;Customer_Name;Air Trading 92;KLM Royal Dutch Airlines
+639;Order_Year;1978;1966
+4;Delivery_Year_;2010;2000
+681;Engine;PW;PW
+34;Delivery_Year_;1992;2000
+865;Country;Belgium;Netherlands
+657;Country;Kazakhstan;Ireland
+728;Model_Series;737-800;747-400ERF
+99;Engine;RR;PW
+744;Customer_Name;EL AL Israel Airlines;Pegasus Airlines
+747;Order_Year;1975;1966
+38;Model_Series;MD-80;757-200
+514;Country;USA;USA
+818;Region;Europe;North America
+700;Order_Total;1;2
+466;Order_Month;Apr;Apr
+118;Order_Month;Mar;Jan
+756;Order_Year;1978;1966
+618;Engine;PW;PW
+788;Engine;PW;GE
+765;Order_Month;Sep;May
+247;Region;East Asia;North America
+884;Delivery_Year_;2015;1978
+200;Order_Year;1969;1966
+587;Delivery_Year_;1978;2000
+18;Model_Series;MD-80;757-200
+559;Order_Year;1963;1966
+653;Engine;CF;GE
+111;Model_Series;707/720;757-200
+522;Customer_Name;Wardair;ATA Airlines Inc.
+228;Order_Total;2;2
+500;Region;Africa;Europe
+688;Country;Australia;Russian Federation
+878;Country;Russian Federation;USA
+182;Region;South Asia;Europe
+312;Order_Month;Jun;May
+697;Engine;PW;PW
+486;Model_Series;727;757-200
+189;Delivery_Year_;2018;2000
+235;Model_Series;DC-9;747-400ERF
+167;Country;Germany;Ireland
+434;Engine;PW;PW
+319;Model_Series;DC-8;757-200
+79;Country;Reunion;USA
+713;Order_Month;Nov;Apr
+452;Region;North America;North America
+315;Order_Total;5;2
+441;Region;Europe;North America
+342;Model_Series;737-800;737-800
+535;Engine;CF;RR
+658;Customer_Name;BDS USAF Tanker Program;ATA Airlines Inc.
+657;Model_Series;767-200ER;757-200
+310;Order_Total;4;2
+302;Country;Indonesia;Ireland
+539;Engine;CF;GE
+387;Customer_Name;BDS U.S. Navy (P-8A Poseidon);ATA Airlines Inc.
+475;Order_Month;Feb;Apr
+410;Engine;CF;RR
+324;Engine;GE;PW
+687;Order_Total;1;2
+585;Model_Series;747-400F;747-400ERF
+781;Customer_Name;Midland Montagu Leasing;ATA Airlines Inc.
+152;Order_Total;2;2
+521;Region;Europe;North America
+650;Order_Year;2017;1966
+486;Delivery_Total;1;2
+32;Region;East Asia;North America
+337;Delivery_Year_;1988;2000
+268;Customer_Name;Sky Airlines;ATA Airlines Inc.
+246;Delivery_Total;1;2
+830;Country;China;Ireland
+501;Country;Mexico;USA
+414;Customer_Name;Lineas Aereas Azteca;ATA Airlines Inc.
+804;Delivery_Total;1;2
+290;Customer_Name;McDonnell Douglas;Pegasus Airlines
+322;Region;Europe;North America
+719;Delivery_Year_;1965;2000
+446;Delivery_Year_;2017;1978
+162;Delivery_Year_;1968;2000
+486;Region;Africa;North America
+436;Order_Total;1;2
+88;Order_Month;Mar;May
+472;Engine;PW;PW
+546;Order_Year;1987;1982
+350;Order_Year;1969;1982
+386;Order_Year;1980;1966
+103;Order_Month;Mar;Apr
+795;Customer_Name;German Air Force;ATA Airlines Inc.
+85;Model_Series;737-800;737-800
+262;Delivery_Year_;1994;1978
+550;Order_Month;Jan;May
+420;Region;Africa;Europe
+182;Order_Year;1986;1982
+864;Delivery_Total;1;3
+581;Delivery_Total;2;3
+14;Customer_Name;Aeropostal;ATA Airlines Inc.
+587;Region;Africa;North America
+500;Delivery_Year_;1981;2006
+674;Order_Total;1;2
+7;Order_Year;1976;1982
+598;Delivery_Year_;1997;2000
+376;Order_Month;Feb;May
+357;Order_Year;2006;1995
+74;Delivery_Total;1;3
+305;Model_Series;737-200;757-200
+158;Customer_Name;UPS;ATA Airlines Inc.
+191;Customer_Name;Hainan Airlines Holding;Pegasus Airlines
+522;Order_Total;1;2
+309;Country;Singapore;USA
+633;Country;Trinidad and Tobago;USA
+231;Model_Series;707/720;757-200
+339;Engine;PW;PW
+6;Model_Series;727;757-200
+227;Order_Month;Jan;Jan
+502;Order_Total;1;2
+464;Order_Month;Mar;Apr
+648;Order_Year;2006;1966
+450;Delivery_Total;1;2
+753;Delivery_Total;2;2
+855;Model_Series;707/720;747-400ERF
+408;Delivery_Total;4;2
+127;Order_Year;1987;1966
+858;Delivery_Year_;1963;1983
+716;Order_Total;2;2
+298;Order_Year;1955;1966
+78;Engine;PW;GE
+14;Order_Total;1;2
+641;Delivery_Year_;1976;2000
+680;Model_Series;737-500;757-200
+361;Delivery_Total;3;3
+747;Country;USA;Ireland
+876;Model_Series;DC-9;757-200
+288;Region;East Asia;North America
+196;Order_Total;1;2
+367;Customer_Name;Fiji Airways;KLM Royal Dutch Airlines
+816;Delivery_Year_;1960;2000
+848;Order_Month;Mar;Jan
+506;Delivery_Year_;2021;1968
+889;Delivery_Total;1;2
+331;Country;Tajikistan;USA
+51;Delivery_Year_;1983;1983
+479;Model_Series;777-300ER;747-400ERF
+298;Order_Total;3;2
+134;Delivery_Total;1;2
+169;Region;South Asia;North America
+50;Country;Saudi Arabia;USA
+100;Delivery_Year_;1984;2000
+777;Model_Series;737-200;757-200
+250;Delivery_Total;2;2
+868;Customer_Name;Japan ASDF Tanker;KLM Royal Dutch Airlines
+500;Engine;PW;GE
+883;Order_Year;1965;1966
+177;Customer_Name;Adria Airways d.d.;ATA Airlines Inc.
+665;Country;USA;USA
+656;Country;Ecuador;Ireland
+760;Delivery_Total;11;3
+196;Order_Month;Mar;May
+842;Delivery_Year_;2016;1978
+802;Customer_Name;Royal Air Maroc;Pegasus Airlines
+596;Order_Total;3;2
+145;Country;Romania;USA
+855;Order_Year;1987;1982
+142;Delivery_Total;1;2
+815;Order_Month;Jun;May
+449;Order_Year;2010;1966
+288;Customer_Name;China Xinhua Airlines;China Xinjiang Airlines
+307;Order_Year;1976;1966
+288;Model_Series;737-300;737-800
+865;Customer_Name;DHL International;KLM Royal Dutch Airlines
+262;Region;Europe;North America
+879;Order_Year;1968;1966
+126;Engine;PW;PW
+767;Order_Total;1;2
+431;Region;Europe;North America
+27;Customer_Name;Deucalion Capital VII Limited;China Cargo
+515;Customer_Name;NEA Holdings Inc.;ATA Airlines Inc.
+276;Delivery_Total;4;2
+569;Order_Month;Dec;May
+680;Order_Year;1987;1966
+190;Model_Series;737-200;757-200
+753;Model_Series;707/720;757-200
+96;Country;USA;Ireland
+153;Order_Total;1;2
+471;Delivery_Year_;1983;2000
+531;Order_Year;2013;1995
+209;Delivery_Year_;1980;2000
+77;Region;East Asia;North America
+519;Country;Germany;Ireland
+843;Delivery_Year_;2011;2000
+258;Model_Series;777F;757-200
+276;Order_Total;4;2
+558;Engine;PW;PW
+73;Delivery_Year_;1970;2000
+210;Engine;GE;PW
+277;Delivery_Total;1;2
+165;Order_Total;1;2
+702;Country;United Arab Emirates;Netherlands
+33;Engine;PW;GE
+392;Model_Series;DC-8;757-200
+184;Customer_Name;Alaska Airlines;ATA Airlines Inc.
+795;Region;Europe;North America
+407;Customer_Name;Middle East Airlines;KLM Royal Dutch Airlines
+76;Delivery_Total;1;2
+765;Country;Norway;USA
+177;Country;Slovenia;USA
+764;Customer_Name;American Flyers Airlines;Pegasus Airlines
+279;Engine;GE;PW
+202;Country;Portugal;Netherlands
+581;Delivery_Year_;2017;1983
+312;Order_Total;5;2
+66;Order_Total;8;2
+299;Order_Year;2006;1966
+892;Engine;PW;PW
+368;Customer_Name;Ansett Australia;ATA Airlines Inc.
+336;Customer_Name;AVIOGENEX;ATA Airlines Inc.
+695;Order_Month;Feb;?
+473;Order_Total;1;2
+645;Region;Europe;North America
+247;Order_Total;1;2
+594;Country;Japan;Ireland
+801;Order_Total;3;2
+184;Country;USA;USA
+892;Country;USA;USA
+336;Order_Month;Oct;May
+157;Region;North America;North America
+696;Delivery_Year_;1966;2000
+368;Model_Series;727;757-200
+240;Region;Middle East;North America
+290;Region;North America;North America
+460;Country;USA;Russian Federation
+778;Delivery_Year_;2006;2000
+236;Region;South America;North America
+841;Customer_Name;Aeroflot - Russian Airlines;ATA Airlines Inc.
+815;Delivery_Year_;1969;2000
+503;Customer_Name;McDonnell Douglas;ATA Airlines Inc.
+723;Delivery_Year_;1985;1983
+383;Order_Total;1;2
+209;Order_Month;Jan;May
+345;Delivery_Year_;1980;2000
+764;Engine;GE;PW
+630;Delivery_Year_;1971;1968
+840;Delivery_Year_;2015;1978
+711;Delivery_Total;1;2
+141;Order_Year;1996;1995
+648;Delivery_Total;2;2
+755;Order_Year;1965;1966
+244;Order_Month;Jan;May
+457;Order_Year;1967;1966
+671;Model_Series;747-400M;757-200
+332;Region;Oceania;North America
+641;Order_Total;1;2
+748;Order_Total;1;2
+413;Delivery_Year_;1981;2000
+558;Customer_Name;Pacific Southwest Airlines;ATA Airlines Inc.
+170;Engine;PW;GE
+290;Order_Year;1980;1966
+296;Order_Month;Feb;Mar
+496;Delivery_Year_;2018;1978
+561;Order_Year;1979;1966
+686;Delivery_Total;2;2
+54;Delivery_Year_;1980;2015
+851;Model_Series;787-8;747-400ERF
+877;Order_Year;2001;1966
+494;Customer_Name;Royal Jordanian;ATA Airlines Inc.
+323;Delivery_Total;1;2
+418;Order_Year;1975;1982
+255;Customer_Name;Presidential Flight;ATA Airlines Inc.
+778;Order_Year;2005;1966
+717;Customer_Name;Brussels Airlines SA/NV;ATA Airlines Inc.
+749;Delivery_Total;3;2
+432;Model_Series;DC-9;757-200
+489;Region;South America;North America
+287;Order_Month;Jan;Jan
+222;Customer_Name;United States Navy;ATA Airlines Inc.
+395;Order_Total;1;2
+728;Country;USA;Netherlands
+487;Order_Year;1998;1995
+707;Region;South Asia;Europe
+239;Order_Year;1965;1966
+482;Customer_Name;Boullioun Aviation Services;ATA Airlines Inc.
+107;Region;South America;North America
+766;Order_Month;Feb;Apr
+520;Order_Total;1;2
+288;Delivery_Year_;1993;2002
+856;Order_Year;1978;1966
+569;Model_Series;DC-9;757-200
+277;Customer_Name;Air Serbia;ATA Airlines Inc.
+140;Country;USA;Ireland
+161;Order_Total;2;2
+314;Order_Total;3;2
+254;Engine;PW;PW
+785;Engine;PW;GE
+684;Delivery_Total;1;2
+136;Order_Month;Jun;May
+766;Delivery_Year_;1979;1983
+136;Order_Year;1967;1966
+598;Order_Month;Jun;May
+45;Region;East Asia;Europe
+872;Delivery_Year_;2006;2000
+861;Engine;CF;PW
+425;Delivery_Year_;1967;2000
+195;Delivery_Total;1;2
+480;Country;Germany;USA
+251;Customer_Name;SonAir;Pegasus Airlines
+320;Model_Series;737-300;747-400ERF
+120;Region;Southeast Asia;Europe
+509;Customer_Name;Sumitomo Corporation;ATA Airlines Inc.
+621;Model_Series;737-200;757-200
+856;Customer_Name;Sobelair;ATA Airlines Inc.
+165;Delivery_Year_;2015;2006
+260;Engine;CF;PW
+483;Order_Month;Jan;Mar
+118;Order_Year;1997;1995
+455;Order_Year;2014;1982
+642;Model_Series;737-200;757-200
+339;Delivery_Year_;1962;2000
+613;Order_Month;Apr;May
+712;Order_Month;Nov;May
+503;Order_Year;1989;1966
+398;Order_Month;Jan;May
+682;Country;United Kingdom;USA
+507;Region;Central America and Mexico;North America
+317;Delivery_Year_;1968;1978
+829;Order_Total;2;2
+158;Region;North America;North America
+836;Engine;CF;PW
+139;Order_Month;Mar;May
+530;Order_Total;3;2
+846;Engine;GE;GE
+204;Customer_Name;Jetstar - Duplicated (See JSA);Pegasus Airlines
+435;Delivery_Total;1;3
+856;Model_Series;737-200;757-200
+6;Order_Year;1978;1966
+126;Country;Mozambique;Ireland
+479;Customer_Name;Virgin Australia;KLM Royal Dutch Airlines
+126;Delivery_Year_;1971;1978
+784;Order_Total;1;2
+776;Customer_Name;International Lease Finance Co;ATA Airlines Inc.
+730;Order_Month;May;Apr
+790;Engine;RR;PW
+605;Order_Month;Feb;May
+791;Order_Total;2;2
+604;Country;Russian Federation;Ireland
+159;Order_Total;1;2
+809;Model_Series;DC-10;757-200
+767;Order_Month;Apr;May
+154;Customer_Name;Novel Leasing;Pegasus Airlines
+803;Order_Year;2015;1966
+266;Order_Total;1;2
+480;Customer_Name;Lufthansa Cargo;ATA Airlines Inc.
+655;Country;Pakistan;Netherlands
+107;Customer_Name;VIASA;ATA Airlines Inc.
+124;Order_Month;Jan;May
+791;Delivery_Total;2;2
+583;Delivery_Total;1;2
+330;Order_Total;1;2
+735;Country;Azerbaijan;Netherlands
+6;Customer_Name;Aerolineas Argentinas;ATA Airlines Inc.
+349;Order_Total;2;2
+898;Order_Year;1967;1966
+146;Order_Total;8;2
+89;Model_Series;737-700;747-400ERF
+889;Model_Series;DC-9;757-200
+715;Engine;GE;PW
+762;Order_Total;1;2
+151;Country;Germany;USA
+252;Order_Month;Jul;Apr
+746;Delivery_Year_;2003;2002
+111;Customer_Name;Wardair;ATA Airlines Inc.
+464;Order_Total;1;2
+259;Order_Total;4;2
+461;Engine;GE;PW
+668;Country;Japan;Netherlands
+232;Order_Month;Feb;Jan
+546;Engine;CF;GE
+458;Model_Series;737-700;757-200
+83;Country;Morocco;Ireland
+784;Order_Month;Apr;Apr
+13;Customer_Name;ITOCHU AirLease B.V.;Malev Hungarian Airlines Ltd.
+762;Order_Month;Jan;Apr
+167;Customer_Name;LTU;Pegasus Airlines
+362;Customer_Name;Continent Air Paris;KLM Royal Dutch Airlines
+643;Order_Month;Jun;Apr
+498;Customer_Name;Italian Air Force;ATA Airlines Inc.
+528;Country;Qatar;Russian Federation
+231;Country;Canada;USA
+280;Customer_Name;Italian Air Force Tanker;KLM Royal Dutch Airlines
+877;Order_Total;2;2
+578;Model_Series;737-200;757-200
+653;Order_Total;1;2
+538;Order_Total;1;2
+800;Country;Taiwan;USA
+710;Engine;CF;GE
+830;Customer_Name;Silk Road Leasing;Pegasus Airlines
+24;Order_Year;1995;1966
+1;Model_Series;DC-9;757-200
+331;Engine;CF;PW
+102;Delivery_Year_;1981;2000
+313;Order_Total;2;2
+843;Region;Europe;North America
+490;Order_Total;2;2
+476;Order_Month;Jul;Jan
+55;Model_Series;737-800;747-400ERF
+31;Delivery_Year_;2019;2000
+77;Country;South Korea;USA
+129;Delivery_Total;2;3
+369;Delivery_Total;2;2
+594;Region;East Asia;North America
+711;Customer_Name;Polaris Aircraft Leasing;ATA Airlines Inc.
+771;Customer_Name;Syrianair;ATA Airlines Inc.
+795;Model_Series;707/720;757-200
+750;Customer_Name;AOM French Airlines;ATA Airlines Inc.
+847;Order_Month;Jan;May
+707;Delivery_Year_;2019;2002
+796;Order_Year;2014;1966
+496;Engine;RR;PW
+200;Order_Month;Jan;May
+272;Delivery_Total;2;2
+710;Order_Total;2;2
+25;Region;Africa;North America
+53;Customer_Name;USAF PAR Program;ATA Airlines Inc.
+359;Order_Total;1;2
+58;Order_Month;Jan;May
+838;Order_Year;1974;1982
+438;Model_Series;727;757-200
+372;Order_Year;2014;1982
+832;Region;North America;North America
+596;Delivery_Total;3;2
+677;Order_Total;1;2
+882;Country;India;Ireland
+92;Region;Southeast Asia;North America
+520;Order_Month;Apr;Apr
+794;Delivery_Total;4;3
+352;Engine;CF;PW
+317;Country;India;Ireland
+228;Country;Jamaica;USA
+868;Region;East Asia;Europe
+479;Order_Month;Mar;Apr
+585;Customer_Name;Cargolux Airlines Internationa;KLM Royal Dutch Airlines
+793;Order_Total;1;2
+532;Order_Total;1;2
+607;Order_Year;1987;1966
+284;Delivery_Year_;2014;1983
+849;Delivery_Year_;1990;1978
+38;Order_Total;2;2
+567;Order_Year;2002;1966
+537;Order_Month;Jan;May
+483;Delivery_Year_;1976;2002
+805;Engine;GE;PW
+711;Model_Series;MD-80;757-200
+587;Customer_Name;Ghana Airways;ATA Airlines Inc.
+86;Order_Month;Mar;May
+33;Order_Total;3;2
+665;Order_Total;1;2
+734;Model_Series;737-200;747-400ERF
+168;Delivery_Year_;1991;2000
+336;Region;Europe;North America
+817;Engine;RR;PW
+291;Delivery_Total;1;3
+897;Engine;PW;PW
+853;Country;USA;Ireland
+602;Delivery_Total;1;2
+481;Customer_Name;NATO;ATA Airlines Inc.
+773;Delivery_Total;1;2
+199;Delivery_Year_;1983;1983
+13;Model_Series;737-300;757-200
+325;Delivery_Year_;1989;1983
+814;Country;Iraq;Ireland
+135;Customer_Name;Etihad Airways;ATA Airlines Inc.
+708;Model_Series;DC-9;757-200
+1;Delivery_Total;3;2
+200;Model_Series;747-100;757-200
+292;Order_Year;2014;1966
+73;Order_Total;2;2
+522;Order_Month;Jan;May
+574;Region;North America;North America
+799;Delivery_Year_;1979;2000
+454;Model_Series;737-300;757-200
+632;Order_Total;1;2
+285;Region;Europe;North America
+704;Country;Italy;USA
+69;Model_Series;727;747-400ERF
+847;Order_Total;5;2
+250;Order_Total;2;2
+624;Engine;PW;PW
+132;Customer_Name;Air Canada;ATA Airlines Inc.
+436;Order_Month;Oct;May
+766;Model_Series;DC-9;747-400ERF
+401;Model_Series;747-400M;757-200
+738;Order_Year;1981;1995
+39;Order_Month;Mar;Apr
+712;Delivery_Year_;2011;2000
+17;Delivery_Year_;2005;1978
+569;Region;Europe;North America
+298;Model_Series;DC-8;757-200
+225;Region;North America;North America
+207;Model_Series;DC-9;757-200
+819;Delivery_Year_;1998;1978
+38;Region;East Asia;North America
+258;Engine;GE;PW
+446;Order_Year;2014;1995
+591;Region;Africa;North America
+534;Order_Total;1;2
+313;Delivery_Total;2;2
+197;Model_Series;MD-80;757-200
+193;Delivery_Total;1;2
+64;Delivery_Total;1;3
+323;Region;North America;North America
+720;Order_Month;Mar;May
+627;Region;East Asia;North America
+48;Model_Series;737-800;757-200
+611;Model_Series;727;757-200
+875;Model_Series;737-300;737-800
+347;Country;Ireland;Ireland
+346;Order_Month;Jan;Apr
+456;Engine;CF;PW
+833;Engine;RR;PW
+656;Order_Year;1980;1966
+229;Customer_Name;Bank of Communications Leasing;ATA Airlines Inc.
+563;Delivery_Year_;1973;1978
+173;Delivery_Year_;2021;2000
+138;Delivery_Total;5;2
+698;Order_Year;2017;1982
+705;Order_Total;4;2
+684;Region;Europe;North America
+799;Engine;PW;PW
+739;Model_Series;737-300;757-200
+122;Model_Series;737-200;757-200
+525;Model_Series;737-200;757-200
+518;Order_Year;1988;1995
+693;Order_Month;Jan;May
+90;Model_Series;737-800;747-400ERF
+735;Customer_Name;Silk Way Airlines;KLM Royal Dutch Airlines
+630;Engine;PW;PW
+389;Model_Series;727;757-200
+399;Order_Year;1963;1966
+171;Order_Total;6;2
+99;Order_Year;2000;1966
+695;Country;Switzerland;?
+28;Customer_Name;Jade Cargo International;KLM Royal Dutch Airlines
+691;Country;USA;USA
+214;Order_Month;Feb;May
+809;Order_Month;Feb;May
+428;Order_Total;1;2
+168;Model_Series;MD-80;757-200
+560;Customer_Name;Pembroke Capital Limited;Pegasus Airlines
+128;Region;Africa;North America
+75;Order_Total;2;2
+667;Customer_Name;British Airtours;ATA Airlines Inc.
+384;Customer_Name;Midwest Airlines Inc.;ATA Airlines Inc.
+397;Order_Year;2015;1982
+574;Customer_Name;Canadian Airlines;ATA Airlines Inc.
+339;Order_Year;1961;1966
+501;Order_Month;Jan;May
+602;Country;France;Ireland
+144;Order_Total;1;2
+279;Customer_Name;DHL;ATA Airlines Inc.
+628;Order_Year;1978;1995
+2;Engine;CF;PW
+231;Delivery_Year_;1970;2000
+606;Order_Year;2021;1995
+69;Engine;PW;GE
+710;Delivery_Total;2;3
+518;Delivery_Total;2;2
+853;Region;North America;North America
+268;Model_Series;737-900ER;757-200
+180;Delivery_Year_;1968;2000
+381;Region;North America;North America
+474;Order_Month;Sep;Jan
+159;Region;Central Asia;North America
+239;Customer_Name;West Coast Airlines - UK (Inac;ATA Airlines Inc.
+284;Customer_Name;Ceiba Intercontinental;Volga-Dnepr UK Ltd
+495;Order_Year;1966;1966
+451;Customer_Name;Nordair;ATA Airlines Inc.
+434;Customer_Name;Airlift International;ATA Airlines Inc.
+492;Engine;RR;PW
+180;Region;Europe;North America
+437;Order_Month;Jun;May
+70;Order_Year;1988;1995
+181;Model_Series;737-800;757-200
+785;Country;Uruguay;Russian Federation
+342;Delivery_Total;1;2
+598;Model_Series;737-300;757-200
+823;Engine;RR;GE
+302;Delivery_Total;16;2
+134;Region;Europe;North America
+470;Country;Madagascar;France
+54;Customer_Name;Aeromexico;Scoot PTE LTD
+205;Order_Month;May;Apr
+754;Delivery_Year_;1984;1983
+597;Country;Sweden;USA
+815;Model_Series;DC-9;757-200
+678;Customer_Name;SABENA Aerospace;ATA Airlines Inc.
+425;Region;South America;North America
+773;Region;Europe;North America
+197;Engine;PW;PW
+664;Delivery_Total;2;2
+430;Order_Year;2010;1995
+617;Order_Year;1965;1966
+771;Model_Series;747-100;757-200
+359;Engine;RR;PW
+149;Order_Total;2;2
+752;Customer_Name;Aviation Capital Group;ATA Airlines Inc.
+800;Order_Year;1996;1966
+404;Delivery_Total;2;2
+535;Region;Oceania;Europe
+536;Model_Series;737-200;747-400ERF
+539;Customer_Name;SkyEurope;KLM Royal Dutch Airlines
+641;Region;Middle East;North America
+401;Engine;GE;PW
+593;Country;Denmark;USA
+270;Delivery_Total;1;2
+874;Model_Series;737 MAX;757-200
+139;Order_Year;1998;1966
+748;Order_Month;Jul;Jan
+402;Engine;PW;PW
+847;Delivery_Total;5;2
+343;Delivery_Total;7;3
+75;Delivery_Year_;1989;2000
+269;Customer_Name;Dream Aviation Ltd.;Saudi Arabian Airlines
+177;Region;Europe;North America
+763;Region;Southeast Asia;Europe
+176;Region;North America;North America
+226;Country;USA;USA
+890;Delivery_Year_;1997;1978
+490;Delivery_Year_;2016;2000
+399;Model_Series;707/720;757-200
+764;Order_Total;2;2
+518;Order_Total;2;2
+610;Delivery_Year_;1992;1978
+468;Model_Series;747-100;757-200
+418;Order_Month;Mar;Apr
+299;Delivery_Total;2;2
+60;Delivery_Total;6;3
+814;Customer_Name;Iraqi Airways;Pegasus Airlines
+726;Engine;GE;PW
+792;Order_Month;Sep;May
+649;Region;Europe;North America
+328;Engine;PW;GE
+793;Region;North America;North America
+685;Customer_Name;Wien Air Alaska;ATA Airlines Inc.
+550;Customer_Name;KLM Royal Dutch Airlines;ATA Airlines Inc.
+236;Order_Month;Jan;May
+636;Model_Series;737-300;757-200
+100;Country;Egypt;USA
+604;Delivery_Year_;2014;1978
+534;Region;Africa;Europe
+632;Region;North America;North America
+458;Region;North America;North America
+360;Order_Year;1974;1966
+741;Order_Year;1995;1966
+561;Delivery_Total;1;2
+356;Region;South America;North America
+679;Order_Month;Apr;May
+593;Model_Series;727;757-200
+561;Order_Month;Jun;May
+597;Customer_Name;Malmo Aviation;ATA Airlines Inc.
+719;Order_Total;2;2
+212;Order_Month;Feb;May
+423;Delivery_Total;1;2
+20;Order_Total;1;2
+112;Customer_Name;Dubai Aerospace Enterprise;KLM Royal Dutch Airlines
+537;Delivery_Total;2;2
+543;Delivery_Total;1;2
+420;Customer_Name;Air Namibia;KLM Royal Dutch Airlines
+118;Region;Africa;North America
+615;Customer_Name;Qatar Airways;Pegasus Airlines
+173;Engine;GE;PW
+817;Customer_Name;Arkia Israeli Airlines;ATA Airlines Inc.
+819;Engine;CF;PW
+724;Order_Month;Sep;May
+766;Engine;PW;GE
+873;Engine;PW;GE
+569;Customer_Name;West Coast Airlines - UK (Inac;ATA Airlines Inc.
+479;Delivery_Year_;2010;1983
+164;Engine;CF;GE
+340;Order_Year;1998;1982
+529;Delivery_Year_;2005;2000
+597;Order_Month;May;May
+656;Model_Series;727;757-200
+401;Delivery_Year_;1995;1978
+495;Region;North America;North America
+698;Customer_Name;Sberbank Leasing;KLM Royal Dutch Airlines
+838;Model_Series;727;747-400ERF
+242;Order_Total;2;2
+304;Delivery_Year_;1978;2000
+609;Engine;PW;PW
+13;Region;Europe;North America
+528;Delivery_Total;3;3
+279;Order_Year;2018;1966
+882;Order_Year;2005;1966
+376;Customer_Name;AVIACO;ATA Airlines Inc.
+324;Delivery_Year_;2016;2000
+385;Order_Month;May;May
+501;Delivery_Total;6;2
+806;Order_Month;May;May
+392;Delivery_Year_;1961;1978
+666;Order_Total;1;2
+761;Order_Total;1;2
+195;Customer_Name;Rafic B. Hariri;ATA Airlines Inc.
+426;Country;Saudi Arabia;Ireland
+750;Model_Series;MD-80;757-200
+601;Engine;PW;PW
+689;Order_Total;1;2
+285;Delivery_Total;1;2
+700;Customer_Name;Air Tanzania;ATA Airlines Inc.
+794;Region;South America;Europe
+227;Customer_Name;BDS Australia P-8;China Xinjiang Airlines
+147;Order_Total;2;2
+4;Model_Series;777F;757-200
+93;Order_Year;1973;1966
+684;Customer_Name;Lauda Air;ATA Airlines Inc.
+289;Region;Oceania;North America
+470;Order_Year;1977;1966
+650;Order_Total;3;2
+485;Delivery_Year_;2022;2000
+363;Country;Angola;Ireland
+857;Region;Europe;North America
+572;Region;Europe;North America
+693;Delivery_Total;10;2
+544;Delivery_Total;1;2
+895;Delivery_Total;1;2
+647;Customer_Name;Jade Cargo International;KLM Royal Dutch Airlines
+25;Country;Nigeria;Ireland
+521;Delivery_Year_;1982;2000
+268;Order_Year;2006;1966
+692;Order_Month;Jan;May
+794;Model_Series;777-300ER;747-400ERF
+706;Model_Series;747-400;757-200
+771;Delivery_Year_;1976;2000
+516;Customer_Name;ICBC Leasing;Pegasus Airlines
+724;Delivery_Year_;1973;2000
+628;Customer_Name;Avianca El Salvador;China Xinjiang Airlines
+706;Engine;PW;PW
+246;Delivery_Year_;1979;2000
+335;Country;USA;USA
+135;Country;United Arab Emirates;USA
+213;Region;East Asia;North America
+255;Order_Year;1999;1966
+661;Country;USA;USA
+42;Delivery_Year_;2011;1983
+643;Country;Ireland;Netherlands
+283;Model_Series;777-200ER;757-200
+27;Country;Germany;Iceland
+564;Customer_Name;Olympic Airlines;Pegasus Airlines
+631;Delivery_Total;1;3
+739;Order_Month;Oct;May
+534;Order_Month;Jun;Apr
+166;Delivery_Total;4;2
+761;Region;North America;Europe
+699;Country;Spain;USA
+811;Engine;PW;PW
+128;Order_Year;2016;1966
+417;Region;Europe;North America
+673;Customer_Name;AirCal;ATA Airlines Inc.
+471;Order_Year;1981;1966
+673;Country;USA;USA
+88;Delivery_Year_;2018;2000
+623;Order_Year;1997;1966
+274;Region;North America;North America
+345;Region;North America;North America
+65;Country;South Korea;Ireland
+540;Model_Series;727;757-200
+3;Region;Europe;Europe
+832;Model_Series;737-300;757-200
+594;Order_Year;1960;1966
+606;Model_Series;737 MAX;737-800
+210;Order_Year;1997;1966
+368;Order_Total;1;2
+369;Delivery_Year_;1975;2000
+565;Country;Japan;USA
+186;Order_Month;May;May
+770;Order_Year;1987;1982
+664;Model_Series;737-200;757-200
+766;Order_Total;3;2
+687;Order_Year;1975;1966
+625;Order_Year;1979;1966
+602;Order_Year;1987;1966
+195;Order_Month;Jan;May
+400;Delivery_Year_;1969;2000
+715;Customer_Name;Malaysia Airlines;Pegasus Airlines
+66;Order_Month;Jan;May
+405;Customer_Name;buzz;KLM Royal Dutch Airlines
+301;Order_Total;1;2
+696;Customer_Name;Air Asia Company;ATA Airlines Inc.
+739;Order_Total;4;2
+725;Engine;CF;PW
+47;Country;USA;Russian Federation
+566;Model_Series;DC-9;757-200
+416;Order_Year;1980;1982
+766;Region;North America;Europe
+251;Order_Month;Dec;Jan
+868;Delivery_Year_;2005;1983
+782;Delivery_Total;1;3
+658;Model_Series;767-2C;757-200
+143;Region;Europe;North America
+530;Order_Year;1974;1995
+199;Order_Month;Jul;Apr
+123;Order_Year;2006;1966
+808;Delivery_Year_;1999;2000
+27;Order_Month;Dec;Jan
+534;Country;Egypt;Netherlands
+715;Delivery_Year_;1991;1978
+834;Engine;CF;PW
+83;Engine;PW;PW
+861;Delivery_Total;3;2
+82;Order_Total;1;2
+616;Engine;GE;PW
+385;Engine;PW;PW
+253;Region;Africa;North America
+695;Delivery_Total;1;?
+863;Customer_Name;Aeromaritime;ATA Airlines Inc.
+812;Engine;RR;RR
+710;Order_Month;Apr;Apr
+138;Order_Total;5;2
+519;Customer_Name;Germania;Pegasus Airlines
+658;Delivery_Year_;2019;2000
+164;Model_Series;737-700;747-400ERF
+595;Region;North America;North America
+718;Order_Year;1973;1966
+10;Region;Europe;North America
+3;Model_Series;747-300;747-400ERF
+218;Engine;CF;PW
+401;Delivery_Total;1;2
+778;Order_Total;2;2
+394;Order_Month;Jan;May
+892;Order_Month;Feb;May
+367;Order_Month;Mar;Apr
+619;Model_Series;737-800;757-200
+873;Model_Series;737-200;747-400ERF
+851;Customer_Name;Scoot PTE LTD;Volga-Dnepr UK Ltd
+688;Model_Series;777-300ER;747-400ERF
+632;Order_Year;1965;1966
+774;Order_Total;2;2
+861;Country;Hong Kong;Ireland
+735;Order_Month;Feb;Apr
+472;Customer_Name;MSA-Malaysia/Singapore A/L;Swissair
+818;Engine;GE;PW
+797;Country;China;Ireland
+722;Delivery_Total;3;2
+572;Country;France;USA
+53;Model_Series;747-8;757-200
+286;Delivery_Total;7;2
+581;Order_Total;2;2
+127;Model_Series;747-400;757-200
+43;Region;East Asia;Europe
+401;Customer_Name;EVA Air;Pegasus Airlines
+635;Region;Europe;North America
+166;Model_Series;737-800;757-200
+348;Customer_Name;Cargolux Airlines Internationa;Pegasus Airlines
+727;Model_Series;737-200;757-200
+433;Delivery_Total;3;2
+699;Engine;RR;PW
+332;Engine;CF;PW
+282;Order_Total;1;2
+868;Order_Year;2003;1982
+102;Order_Month;Sep;May
+822;Model_Series;737-200;757-200
+540;Region;Africa;North America
+117;Order_Month;Aug;May
+79;Order_Total;2;2
+511;Model_Series;757-200;757-200
+33;Model_Series;727;747-400ERF
+118;Order_Total;1;2
+141;Customer_Name;Chilean Air Force Mission;Pegasus Airlines
+397;Model_Series;737-800;747-400ERF
+661;Engine;CF;PW
+266;Region;North America;North America
+118;Delivery_Total;1;2
+233;Delivery_Total;2;2
+273;Delivery_Total;1;2
+723;Customer_Name;Orion Airways;KLM Royal Dutch Airlines
+418;Customer_Name;Pakistan International Airline;KLM Royal Dutch Airlines
+822;Delivery_Total;2;2
+328;Model_Series;767-300ER;747-400ERF
+1;Delivery_Year_;1968;2000
+58;Country;Spain;USA
+505;Engine;PW;PW
+867;Delivery_Total;1;2
+491;Region;Unidentified;Europe
+4;Order_Year;2007;1966
+21;Country;USA;USA
+214;Customer_Name;Handlingair Establishment;ATA Airlines Inc.
+853;Order_Total;2;2
+889;Order_Total;1;2
+334;Engine;PW;PW
+84;Order_Month;Jan;May
+272;Model_Series;737-700;757-200
+704;Order_Total;2;2
+748;Model_Series;737-800;737-800
+817;Order_Total;2;2
+26;Order_Total;4;2
+322;Order_Year;2015;1995
+108;Customer_Name;Etihad Airways;KLM Royal Dutch Airlines
+615;Order_Month;Jan;May
+161;Order_Year;2002;1966
+780;Customer_Name;Zhongyuan Airlines;KLM Royal Dutch Airlines
+438;Engine;PW;PW
+267;Order_Month;Nov;May
+767;Delivery_Year_;1992;2000
+894;Delivery_Total;1;?
+225;Order_Total;2;2
+827;Delivery_Year_;1980;2000
+618;Customer_Name;Eastern Air Lines;ATA Airlines Inc.
+862;Country;South Korea;Netherlands
+20;Engine;PW;PW
+648;Model_Series;787-9;757-200
+624;Region;Middle East;North America
+608;Region;South America;North America
+233;Model_Series;MD-90;737-800
+673;Delivery_Total;1;2
+620;Region;Europe;Europe
+169;Delivery_Total;2;2
+238;Order_Month;Feb;May
+617;Region;Oceania;North America
+344;Model_Series;737-700C;757-200
+422;Order_Year;1991;1966
+876;Engine;PW;PW
+550;Delivery_Year_;1980;2000
+301;Engine;PW;PW
+611;Country;Tunisia;Ireland
+159;Order_Year;2015;1966
+430;Model_Series;737-800;737-800
+491;Engine;GE;GE
+637;Model_Series;737-200;757-200
+788;Delivery_Total;3;3
+291;Region;Southeast Asia;Europe
+465;Order_Total;2;2
+30;Order_Total;5;2
+844;Order_Month;Dec;May
+195;Model_Series;727;757-200
+363;Engine;PW;PW
+208;Country;Russian Federation;Ireland
+497;Order_Month;Jun;May
+137;Order_Year;1999;1995
+103;Order_Total;1;2
+188;Region;North America;North America
+784;Delivery_Year_;1989;1983
+819;Region;North America;North America
+92;Order_Total;1;2
+334;Region;Europe;North America
+80;Order_Year;1996;1982
+861;Order_Year;2014;1966
+883;Model_Series;727;757-200
+811;Customer_Name;Dominicana Airlines;Pegasus Airlines
+617;Country;Australia;USA
+717;Engine;CF;PW
+589;Country;Switzerland;USA
+196;Delivery_Total;1;2
+413;Model_Series;727;757-200
+180;Country;Sweden;USA
+570;Order_Month;Apr;May
+765;Delivery_Year_;1971;2000
+201;Customer_Name;Ceiba Intercontinental;Pegasus Airlines
+725;Customer_Name;Norwegian Air Shuttle;Pegasus Airlines
+235;Country;USA;Netherlands
+237;Engine;PW;GE
+333;Delivery_Total;1;2
+496;Delivery_Total;5;2
+615;Country;Qatar;Ireland
+441;Engine;PW;PW
+708;Delivery_Total;1;2
+62;Region;North America;North America
+274;Order_Month;Nov;May
+247;Delivery_Total;1;2
+519;Engine;CF;PW
+367;Order_Year;2017;1982
+497;Delivery_Year_;1970;2000
+185;Delivery_Total;2;2
+335;Delivery_Total;1;2
+435;Order_Year;2018;1982
+625;Order_Month;Mar;May
+77;Order_Total;1;2
+395;Order_Month;Oct;May
+260;Region;Oceania;North America
+618;Model_Series;DC-9;757-200
+529;Order_Month;May;May
+134;Order_Total;1;2
+308;Order_Month;Dec;Mar
+651;Country;Nigeria;Netherlands
+683;Model_Series;747-300;757-200
+603;Delivery_Total;5;2
+704;Delivery_Total;2;2
+777;Delivery_Year_;1976;2000
+406;Order_Year;1993;1966
+320;Engine;CF;GE
+228;Order_Year;1969;1966
+857;Order_Month;Dec;May
+190;Order_Month;Apr;May
+98;Customer_Name;FUERZA AEREA DEL PERU;Pegasus Airlines
+785;Delivery_Total;3;3
+486;Customer_Name;Republic of Cameroon;ATA Airlines Inc.
+534;Delivery_Total;1;3
+273;Order_Month;Jan;May
+105;Delivery_Total;2;3
+325;Order_Total;2;2
+726;Order_Year;2008;1966
+492;Region;Europe;North America
+433;Model_Series;727;757-200
+210;Delivery_Year_;1998;1978
+50;Region;Middle East;North America
+138;Model_Series;737-300;757-200
+328;Order_Total;1;2
+516;Delivery_Year_;2017;1978
+552;Delivery_Total;1;2
+288;Delivery_Total;1;2
+54;Engine;PW;CF
+465;Country;Kuwait;Netherlands
+780;Model_Series;737-300;747-400ERF
+85;Delivery_Year_;2011;1978
+296;Delivery_Total;1;3
+581;Country;Russian Federation;Netherlands
+746;Region;South Asia;North America
+646;Order_Month;Mar;May
+485;Country;China;USA
+285;Model_Series;737-700W;757-200
+599;Order_Month;Apr;May
+260;Country;Australia;Ireland
+40;Model_Series;MD-11;757-200
+533;Model_Series;787-8;747-400ERF
+496;Order_Total;5;2
+460;Engine;GE;GE
+706;Order_Total;2;2
+473;Order_Month;May;May
+134;Delivery_Year_;1992;1978
+36;Region;Central Asia;Europe
+392;Country;Brazil;Turkey
+546;Order_Total;3;2
+603;Customer_Name;Shenzhen Airlines;Pegasus Airlines
+599;Order_Total;2;2
+398;Country;Denmark;USA
+466;Region;Europe;Europe
+504;Region;Southeast Asia;North America
+57;Order_Year;2007;1966
+81;Model_Series;707/720;737-800
+888;Model_Series;757-200;747-400ERF
+598;Engine;CF;PW
+450;Order_Year;1967;1966
+392;Customer_Name;Panair do Brasil;Pegasus Airlines
+464;Region;East Asia;Europe
+121;Order_Month;Jul;May
+122;Engine;PW;PW
+92;Model_Series;727;757-200
+668;Order_Year;1994;1982
+620;Customer_Name;Union Aeromaritime Transport;Volga-Dnepr UK Ltd
+835;Delivery_Year_;1968;2000
+894;Region;Europe;?
+149;Delivery_Total;2;2
+119;Model_Series;767-200ER;757-200
+452;Engine;GE;PW
+668;Customer_Name;ITOCHU Corporation;KLM Royal Dutch Airlines
+568;Order_Month;May;Jan
+167;Order_Year;1986;1966
+442;Order_Month;Jan;May
+404;Engine;GE;PW
+65;Order_Month;Dec;May
+621;Order_Total;2;2
+671;Order_Year;1995;1966
+6;Region;South America;North America
+111;Order_Year;1969;1966
+527;Region;North America;North America
+32;Delivery_Total;1;2
+135;Engine;GE;PW
+689;Order_Month;Jul;May
+523;Order_Year;1964;1966
+192;Region;East Asia;Europe
+434;Order_Month;Feb;May
+828;Country;Germany;Netherlands
+144;Order_Year;1979;1966
+604;Order_Month;Sep;Jan
+866;Engine;CF;PW
+437;Order_Total;1;2
+544;Customer_Name;Midway Airlines;ATA Airlines Inc.
+548;Order_Year;1989;1966
+787;Order_Year;2008;1966
+558;Order_Month;Jan;May
+564;Model_Series;727;757-200
+776;Engine;CF;PW
+425;Delivery_Total;2;2
+547;Delivery_Total;1;3
+455;Model_Series;737-800;747-400ERF
+859;Model_Series;737-300;737-800
+722;Delivery_Year_;1974;2000
+574;Country;Canada;USA
+624;Country;Saudi Arabia;USA
+752;Model_Series;737-800;757-200
+864;Order_Month;Jun;Apr
+157;Delivery_Year_;2009;2000
+133;Engine;GE;PW
+894;Order_Month;Sep;?
+734;Region;Europe;Europe
+65;Region;East Asia;North America
+752;Delivery_Total;4;2
+24;Delivery_Year_;1997;2000
+705;Model_Series;707/720;757-200
+214;Region;North America;North America
+191;Order_Year;2006;1995
+348;Order_Year;2003;1995
+424;Region;Europe;North America
+533;Country;Jordan;Netherlands
+345;Order_Month;Jan;May
+264;Model_Series;777-200LR;757-200
+870;Model_Series;707/720;747-400ERF
+184;Delivery_Total;2;2
+443;Country;USA;USA
+55;Order_Month;Feb;Apr
+44;Order_Month;Jan;May
+666;Order_Year;1993;1982
+449;Region;East Asia;North America
+893;Engine;CF;PW
+488;Delivery_Year_;1960;2000
+219;Order_Month;Dec;Jan
+878;Order_Total;2;2
+635;Engine;CF;PW
+700;Delivery_Total;1;2
+46;Order_Month;Mar;Jan
+50;Order_Year;1997;1966
+807;Country;Nigeria;USA
+651;Delivery_Total;1;3
+325;Order_Year;1988;1982
+677;Model_Series;737-400;757-200
+138;Order_Year;1986;1966
+499;Country;Serbia;USA
+82;Delivery_Year_;1964;2000
+280;Engine;GE;GE
+255;Engine;GE;PW
+686;Model_Series;737-900ER;757-200
+8;Model_Series;757-200;737-800
+483;Engine;PW;RR
+183;Order_Month;Jan;Apr
+755;Order_Month;Jan;May
+792;Customer_Name;Vingreiser AS;ATA Airlines Inc.
+399;Region;North America;North America
+371;Order_Year;2005;1995
+762;Model_Series;767-300ER;747-400ERF
+187;Delivery_Year_;1971;2000
+314;Order_Month;Jan;May
+578;Delivery_Total;3;2
+559;Country;Australia;USA
+30;Model_Series;MD-11;747-400ERF
+259;Delivery_Year_;2002;1983
+150;Region;North America;North America
+891;Delivery_Year_;2015;1983
+814;Order_Year;1975;1966
+893;Delivery_Year_;2016;1978
+387;Order_Month;Jan;May
+163;Country;Chile;USA
+414;Delivery_Total;2;2
+618;Order_Month;Jan;May
+341;Order_Year;2016;1982
+603;Region;East Asia;North America
+120;Customer_Name;Garuda Indonesia;KLM Royal Dutch Airlines
+592;Country;Mozambique;USA
+631;Customer_Name;BDS Indian Navy P-8I;China Xinjiang Airlines
+332;Customer_Name;Virgin Australia Airlines;ATA Airlines Inc.
+38;Order_Year;1990;1966
+117;Engine;PW;PW
+626;Delivery_Total;1;2
+414;Order_Year;2001;1966
+581;Order_Year;2016;1982
+308;Region;East Asia;Europe
+433;Region;East Asia;North America
+299;Engine;CF;PW
+779;Order_Month;Apr;May
+797;Delivery_Total;1;2
+160;Model_Series;787-9;757-200
+233;Region;North America;North America
+268;Delivery_Total;2;2
+451;Order_Month;Jan;May
+161;Delivery_Year_;2004;2000
+56;Model_Series;767-300F;757-200
+185;Model_Series;707/720;757-200
+160;Region;Middle East;North America
+255;Order_Month;Nov;May
+896;Model_Series;DC-10;747-400ERF
+446;Delivery_Total;4;2
+160;Delivery_Year_;2019;2000
+237;Region;Africa;Europe
+15;Order_Month;Jan;May
+849;Engine;CF;PW
+119;Country;Italy;Ireland
+120;Order_Total;3;2
+340;Model_Series;757-200;747-400ERF
+831;Customer_Name;Dragon Aviation Leasing;Pegasus Airlines
+669;Region;Oceania;North America
+530;Country;South Korea;Ireland
+175;Model_Series;747-200;757-200
+9;Engine;RR;PW
+475;Customer_Name;British Royal Air Force;KLM Royal Dutch Airlines
+730;Country;Germany;Netherlands
+874;Order_Month;Mar;May
+237;Delivery_Total;2;3
+448;Engine;PW;PW
+259;Country;United Kingdom;Netherlands
+285;Order_Month;Aug;May
+41;Customer_Name;Air Lease Corporation;Pegasus Airlines
+285;Order_Total;1;2
+891;Region;Europe;Europe
+671;Order_Month;Feb;May
+461;Order_Total;2;2
+354;Order_Year;1968;1982
+397;Delivery_Year_;2016;1983
+347;Delivery_Total;1;2
+5;Engine;GE;GE
+639;Order_Total;1;2
+839;Engine;CF;PW
+214;Model_Series;727;757-200
+77;Customer_Name;Government of Korea;ATA Airlines Inc.
+347;Order_Total;1;2
+691;Order_Total;4;2
+805;Region;East Asia;North America
+880;Delivery_Year_;1999;2002
+210;Model_Series;MD-11;757-200
+162;Customer_Name;CP Air;ATA Airlines Inc.
+562;Order_Month;Apr;May
+313;Model_Series;737-800;757-200
+593;Customer_Name;Sterling Air A/S;ATA Airlines Inc.
+465;Order_Year;2006;1982
+357;Delivery_Total;1;2
+538;Order_Year;1994;1966
+819;Order_Month;Jan;May
+694;Order_Month;Apr;Apr
+719;Order_Month;Jan;May
+577;Customer_Name;Shandong Airlines;Pegasus Airlines
+149;Delivery_Year_;2015;2000
+402;Order_Year;1987;1966
+457;Region;North America;North America
+657;Order_Month;Dec;May
+660;Engine;CF;PW
+446;Model_Series;737-800;737-800
+574;Order_Month;Apr;May
+592;Region;Africa;North America
+751;Delivery_Total;2;2
+882;Order_Month;Feb;May
+325;Delivery_Total;2;3
+477;Country;Trinidad and Tobago;Netherlands
+221;Model_Series;737-800;747-400ERF
+887;Order_Year;1971;1966
+313;Region;East Asia;North America
+339;Customer_Name;Pacific Northern;ATA Airlines Inc.
+805;Model_Series;777F;757-200
+172;Order_Total;1;2
+846;Delivery_Total;1;3
+703;Model_Series;DC-9;757-200
+277;Order_Total;1;2
+413;Order_Total;3;2
+811;Order_Month;May;May
+99;Order_Month;Mar;May
+320;Delivery_Total;1;3
+339;Order_Total;2;2
+836;Country;Rwanda;USA
+860;Customer_Name;Noga Export Import;ATA Airlines Inc.
+470;Region;Africa;North America
+323;Customer_Name;Wien Air Alaska;Pegasus Airlines
+563;Country;Spain;Ireland
+655;Delivery_Total;1;3
+182;Country;Nepal;Netherlands
+659;Order_Month;Mar;May
+344;Delivery_Total;1;2
+761;Order_Year;2017;1982
+596;Delivery_Year_;2018;2000
+58;Customer_Name;Iberia Airlines;ATA Airlines Inc.
+347;Order_Year;2018;1995
+723;Engine;CF;GE
+279;Order_Total;4;2
+679;Model_Series;737-200;757-200
+98;Delivery_Total;1;2
+597;Order_Year;1989;1966
+560;Country;Ireland;Ireland
+417;Customer_Name;Security Pacific EuroFinance;China Xinjiang Airlines
+545;Region;Europe;North America
+885;Engine;PW;PW
+456;Delivery_Year_;2016;2000
+658;Delivery_Total;7;2
+879;Model_Series;707/720;757-200
+351;Delivery_Year_;2018;2002
+187;Order_Year;1970;1966
+462;Delivery_Total;2;2
+241;Delivery_Year_;2005;2000
+263;Delivery_Total;2;2
+781;Country;United Kingdom;USA
+780;Region;East Asia;Europe
+221;Order_Year;2014;1982
+694;Order_Total;1;2
+740;Customer_Name;Pacific Western Airlines;ATA Airlines Inc.
+615;Model_Series;727;757-200
+219;Delivery_Year_;2014;2002
+278;Customer_Name;BLF Ltd.;Pegasus Airlines
+480;Order_Year;2011;1966
+183;Order_Year;1996;1982
+187;Customer_Name;East African Airways;ATA Airlines Inc.
+835;Engine;PW;PW
+373;Engine;PW;GE
+506;Customer_Name;BDS Norway P-8;Swissair
+860;Country;Switzerland;USA
+82;Model_Series;DC-8;757-200
+682;Order_Year;1970;1966
+46;Customer_Name;CDB Aviation;Turkish Air Force Peace Eagle
+352;Delivery_Year_;2017;1978
+84;Model_Series;727;757-200
+822;Order_Month;Feb;May
+570;Engine;CF;PW
+371;Model_Series;737-800;737-800
+507;Model_Series;737-700;757-200
+805;Order_Year;2013;1966
+97;Delivery_Total;1;2
+164;Order_Total;3;2
+844;Customer_Name;Union Aeromaritime Transport;ATA Airlines Inc.
+687;Engine;PW;PW
+351;Region;Africa;Europe
+16;Delivery_Total;2;2
+424;Customer_Name;AIR ITALY S.p.A.;ATA Airlines Inc.
+400;Region;North America;North America
+97;Order_Total;1;2
+158;Delivery_Total;5;2
+541;Delivery_Total;6;3
+401;Order_Year;1995;1966
+97;Order_Month;Apr;Jan
+672;Delivery_Year_;1965;2000
+62;Customer_Name;Capitol Air;ATA Airlines Inc.
+885;Delivery_Year_;1966;2000
+881;Region;Southeast Asia;Europe
+434;Country;USA;USA
+42;Order_Year;2010;1982
+800;Delivery_Year_;1996;2000
+777;Order_Total;1;2
+854;Order_Year;2005;1966
+167;Model_Series;757-200;757-200
+261;Model_Series;707/720;757-200
+788;Order_Year;1966;1982
+880;Region;East Asia;North America
+270;Order_Month;Dec;May
+183;Country;Ireland;Netherlands
+633;Order_Month;Jul;May
+739;Engine;CF;PW
+60;Model_Series;737-800;747-400ERF
+303;Delivery_Year_;1990;1978
+896;Region;Africa;Europe
+780;Country;China;Netherlands
+877;Region;Europe;North America
+575;Country;Ireland;Ireland
+194;Order_Year;2004;1966
+497;Region;Europe;North America
+236;Delivery_Total;1;2
+235;Delivery_Year_;1967;1983
+284;Delivery_Total;3;3
+276;Engine;CF;PW
+564;Order_Year;1968;1966
+830;Order_Month;Aug;Jan
+141;Region;South America;North America
+221;Delivery_Year_;2016;1983
+739;Order_Year;1996;1966
+167;Delivery_Year_;1986;1978
+634;Order_Total;1;2
+676;Country;China;USA
+129;Model_Series;DC-10;747-400ERF
+245;Customer_Name;Euralair;ATA Airlines Inc.
+292;Delivery_Year_;2018;1978
+824;Order_Month;Apr;May
+155;Order_Total;1;2
+808;Customer_Name;Ukraine International Airlines;ATA Airlines Inc.
+31;Country;Tanzania United Republic of;USA
+446;Country;China;Ireland
+217;Order_Year;1968;1966
+442;Delivery_Year_;1978;2000
+839;Delivery_Total;4;2
+267;Order_Total;2;2
+34;Country;Mexico;USA
+567;Customer_Name;Vietnam Airlines;ATA Airlines Inc.
+873;Region;Europe;Europe
+866;Order_Total;3;2
+664;Country;Malta;USA
+653;Country;United Kingdom;Turkey
+473;Customer_Name;Japan Transocean Air;ATA Airlines Inc.
+826;Order_Month;Apr;May
+855;Engine;CF;GE
+639;Country;USA;USA
+59;Region;Southeast Asia;Europe
+368;Order_Month;Feb;May
+49;Delivery_Total;2;2
+374;Customer_Name;Pelita Air Service;China Xinjiang Airlines
+278;Delivery_Year_;2011;1978
+46;Model_Series;737-800;737-800
+54;Model_Series;DC-9;737-800
+600;Region;North America;North America
+165;Engine;CF;GE
+438;Order_Year;1976;1966
+370;Customer_Name;VIASA;Pegasus Airlines
+799;Order_Total;1;2
+484;Customer_Name;Ozark Air Lines;KLM Royal Dutch Airlines
+634;Region;Europe;North America
+32;Order_Total;1;2
+315;Model_Series;737-500;757-200
+473;Delivery_Total;1;2
+516;Order_Month;May;May
+806;Order_Total;1;2
+857;Model_Series;MD-80;757-200
+797;Engine;RR;PW
+256;Order_Month;Apr;Jan
+761;Customer_Name;FedEx Express;KLM Royal Dutch Airlines
+728;Engine;CF;GE
+807;Customer_Name;Midway Airlines;ATA Airlines Inc.
+575;Delivery_Year_;2003;1978
+354;Engine;PW;GE
+719;Region;Europe;North America
+508;Order_Month;Feb;May
+155;Delivery_Year_;1980;1978
+186;Model_Series;737-200;757-200
+185;Country;Portugal;USA
+259;Customer_Name;easyJet;KLM Royal Dutch Airlines
+419;Order_Total;1;2
+189;Order_Year;2017;1966
+241;Region;East Asia;North America
+857;Order_Year;1988;1966
+876;Region;Europe;North America
+375;Region;East Asia;North America
+685;Order_Month;Jan;May
+864;Order_Year;1975;1982
+116;Engine;GE;PW
+356;Delivery_Year_;1969;1978
+243;Model_Series;DC-10;747-400ERF
+172;Customer_Name;Air Jamaica-See CBL;ATA Airlines Inc.
+312;Delivery_Total;5;2
+839;Order_Month;May;May
+210;Customer_Name;City Bird;Pegasus Airlines
+168;Order_Total;2;2
+320;Country;China;Netherlands
+541;Customer_Name;dba;KLM Royal Dutch Airlines
+839;Region;North America;North America
+454;Order_Total;1;2
+130;Country;United Arab Emirates;Ireland
+424;Country;Italy;USA
+344;Order_Total;1;2
+709;Delivery_Year_;2005;2000
+224;Engine;CF;GE
+394;Delivery_Total;2;2
+586;Delivery_Total;2;2
+869;Delivery_Total;5;2
+548;Order_Total;1;2
+391;Model_Series;767-300ER;747-400ERF
+224;Order_Month;Jun;Apr
+760;Customer_Name;Midwest Airlines Inc.;KLM Royal Dutch Airlines
+692;Customer_Name;Seaboard World Airlines;ATA Airlines Inc.
+53;Order_Year;2017;1966
+246;Order_Year;1979;1966
+770;Country;Mauritius;Netherlands
+689;Customer_Name;Royal Thai Air Force;U.S. Air Force
+51;Order_Year;1982;1982
+780;Order_Total;3;2
+332;Order_Month;Jan;May
+34;Region;Central America and Mexico;North America
+414;Order_Month;Feb;May
+421;Order_Year;2007;1995
+875;Region;East Asia;North America
+113;Model_Series;DC-9;757-200
+812;Order_Month;Nov;Jan
+388;Delivery_Total;1;2
+685;Country;USA;USA
+736;Customer_Name;China Eastern Airlines Wuhan;China Xinjiang Airlines
+267;Delivery_Total;2;2
+31;Order_Total;1;2
+770;Model_Series;767-200ER;747-400ERF
+2;Customer_Name;Ryanair;Pegasus Airlines
+592;Delivery_Year_;1993;2000
+791;Engine;PW;PW
+595;Delivery_Year_;1974;2000
+403;Country;China;Ireland
+193;Customer_Name;Delta Air Lines;ATA Airlines Inc.
+82;Order_Year;1964;1966
+896;Order_Total;1;2
+563;Region;Europe;North America
+459;Order_Total;1;2
+158;Model_Series;767-300F;757-200
+189;Order_Month;Jan;May
+438;Delivery_Total;2;2
+123;Country;Russian Federation;USA
+76;Order_Month;Jan;May
+224;Delivery_Year_;1991;1983
+549;Delivery_Total;1;2
+579;Delivery_Total;1;2
+484;Region;North America;Europe
+536;Order_Year;1980;1982
+794;Order_Year;2007;1982
+12;Order_Total;1;2
+514;Engine;PW;PW
+766;Order_Year;1978;1982
+418;Delivery_Total;1;3
+791;Delivery_Year_;1985;2000
+631;Delivery_Year_;2020;2002
+228;Delivery_Total;2;2
+756;Customer_Name;Republic of Liberia;ATA Airlines Inc.
+155;Engine;PW;PW
+258;Region;North America;North America
+378;Order_Total;1;2
+62;Order_Month;Feb;May
+767;Region;Europe;North America
+88;Order_Year;2017;1966
+413;Order_Month;May;May
+342;Order_Month;Jul;Jan
+282;Order_Year;1981;1966
+523;Engine;PW;PW
+802;Order_Total;1;2
+155;Order_Year;1980;1966
+763;Delivery_Total;1;3
+289;Order_Month;Mar;May
+725;Country;Norway;Ireland
+295;Customer_Name;AirBridgeCargo Airlines;ATA Airlines Inc.
+203;Delivery_Total;2;2
+869;Model_Series;737 MAX;737-800
+437;Delivery_Year_;1975;1978
+448;Customer_Name;Air New Zealand;Pegasus Airlines
+378;Delivery_Year_;1986;1978
+797;Customer_Name;Xiamen Airlines;Pegasus Airlines
+494;Order_Year;1974;1966
+589;Order_Month;Jan;May
+89;Customer_Name;SkyEurope;KLM Royal Dutch Airlines
+697;Country;USA;USA
+594;Engine;PW;PW
+395;Order_Year;1981;1966
+375;Customer_Name;CATIC;China Xinjiang Airlines
+695;Order_Total;1;?
+769;Order_Year;2012;1966
+879;Engine;PW;PW
+840;Order_Month;Sep;Jan
+603;Order_Total;5;2
+403;Order_Month;Jun;Jan
+730;Model_Series;737-300;747-400ERF
+784;Region;Africa;Europe
+201;Model_Series;777-200LR;757-200
+801;Engine;PW;GE
+264;Engine;GE;PW
+868;Delivery_Total;1;3
+119;Order_Month;Apr;May
+492;Order_Month;May;May
+9;Order_Month;Jan;May
+188;Delivery_Total;1;2
+593;Order_Year;1978;1966
+202;Order_Total;1;2
+538;Customer_Name;Condor Flugdienst;ATA Airlines Inc.
+32;Country;China;USA
+708;Customer_Name;Aeropostal;Pegasus Airlines
+629;Engine;CF;PW
+800;Customer_Name;UNI Airways;ATA Airlines Inc.
+601;Order_Month;Jun;May
+334;Order_Total;1;2
+174;Region;North America;North America
+66;Region;North America;North America
+324;Country;Netherlands;USA
+894;Customer_Name;Flightpath;?
+417;Delivery_Total;1;2
+335;Model_Series;737-200;757-200
+460;Delivery_Year_;2014;1983
+541;Order_Total;6;2
+91;Region;North America;North America
+421;Country;Kuwait;Ireland
+399;Delivery_Year_;1963;2000
+162;Order_Month;Feb;May
+462;Delivery_Year_;2008;2000
+350;Delivery_Year_;1971;1976
+634;Order_Year;2006;1995
+575;Customer_Name;Ryanair;Pegasus Airlines
+713;Model_Series;787-9;747-400ERF
+737;Model_Series;737 MAX;747-400ERF
+256;Order_Total;2;2
+94;Region;Europe;North America
+740;Delivery_Total;1;2
+442;Order_Year;1977;1966
+16;Order_Total;2;2
+773;Order_Month;Apr;Jan
+484;Country;USA;Netherlands
+442;Order_Total;1;2
+141;Country;Chile;Ireland
+745;Order_Month;Jan;May
+547;Customer_Name;Virgin Atlantic Airways;KLM Royal Dutch Airlines
+523;Country;Japan;Ireland
+61;Order_Month;May;May
+218;Order_Total;1;2
+542;Order_Total;2;2
+754;Region;Africa;Europe
+124;Delivery_Year_;1969;1978
+506;Country;Norway;Switzerland
+462;Order_Year;2006;1966
+799;Delivery_Total;1;2
+864;Model_Series;737-200;747-400ERF
+701;Order_Year;2005;1995
+7;Order_Total;3;2
+569;Order_Year;1965;1966
+202;Delivery_Total;1;3
+88;Order_Total;2;2
+611;Engine;PW;PW
+496;Region;Middle East;North America
+394;Delivery_Year_;1968;2000
+608;Delivery_Total;1;2
+106;Delivery_Year_;1991;1983
+86;Customer_Name;Martinair Cargo;ATA Airlines Inc.
+878;Order_Month;Nov;May
+430;Country;Cyprus;Ireland
+71;Region;North America;North America
+311;Customer_Name;Okay Airways Company Limited;Pegasus Airlines
+787;Delivery_Year_;2012;2000
+440;Customer_Name;Air Nippon;ATA Airlines Inc.
+272;Engine;CF;PW
+36;Delivery_Total;2;3
+150;Delivery_Total;1;2
+217;Delivery_Year_;1968;2000
+285;Country;Turkey;USA
+30;Order_Month;Feb;Apr
+563;Model_Series;DC-10;737-800
+758;Country;United Kingdom;USA
+875;Order_Total;1;2
+271;Country;Brazil;Ireland
+731;Order_Month;Mar;May
+521;Model_Series;MD-80;757-200
+431;Delivery_Total;3;2
+100;Region;Africa;North America
+346;Customer_Name;BDS UK P-8;KLM Royal Dutch Airlines
+259;Model_Series;737-700;747-400ERF
+742;Order_Total;1;2
+457;Order_Total;4;2
+710;Country;Iraq;United Arab Emirates
+589;Region;Europe;North America
+188;Country;USA;USA
+851;Order_Total;4;2
+231;Customer_Name;Canadian Air Force;ATA Airlines Inc.
+412;Region;North America;North America
+469;Model_Series;737-800;737-800
+50;Model_Series;757-200;757-200
+744;Engine;PW;PW
+727;Region;South America;North America
+602;Region;Europe;North America
+690;Delivery_Total;2;3
+444;Country;China;Netherlands
+223;Country;Belgium;Netherlands
+743;Customer_Name;Comair Limited;Pegasus Airlines
+242;Region;Europe;North America
+888;Region;Central America and Mexico;Europe
+172;Order_Month;Jun;May
+56;Delivery_Year_;2012;2000
+493;Order_Month;Mar;May
+63;Country;Germany;USA
+515;Order_Month;May;May
+372;Country;Unidentified;Netherlands
+582;Order_Year;1994;1966
+892;Order_Year;1966;1966
+892;Delivery_Year_;1968;2000
+184;Model_Series;737-200;757-200
+712;Order_Total;4;2
+721;Customer_Name;Air Astana;ATA Airlines Inc.
+439;Delivery_Year_;1985;2000
+753;Country;Sudan;USA
+80;Model_Series;767-200ER;747-400ERF
+808;Country;Ukraine;USA
+75;Country;United Kingdom;USA
+533;Order_Month;Mar;Apr
+22;Customer_Name;DAE 4 Ireland Limited;Pegasus Airlines
+168;Order_Month;May;May
+595;Customer_Name;Tigerair;ATA Airlines Inc.
+306;Order_Month;Jan;May
+188;Engine;PW;PW
+817;Order_Year;1998;1966
+456;Order_Year;2013;1966
+626;Engine;PW;PW
+495;Engine;PW;PW
+120;Delivery_Year_;1974;1983
+392;Engine;PW;PW
+176;Customer_Name;Oak Hill;ATA Airlines Inc.
+57;Model_Series;737-800;757-200
+198;Engine;CF;GE
+660;Country;Belgium;USA
+207;Region;Middle East;North America
+567;Engine;PW;PW
+133;Order_Month;Jan;May
+158;Order_Total;5;2
+474;Delivery_Total;2;2
+863;Engine;PW;PW
+720;Delivery_Year_;1998;2000
+745;Order_Year;1989;1966
+71;Order_Year;1982;1966
+653;Order_Year;1988;1982
+93;Customer_Name;National Airlines;Pegasus Airlines
+582;Model_Series;767-300ER;757-200
+483;Delivery_Total;1;3
+402;Customer_Name;Ethiopian Airlines Group;ATA Airlines Inc.
+425;Engine;PW;PW
+510;Country;South Africa;Netherlands
+771;Order_Total;2;2
+468;Order_Month;Jan;May
+34;Engine;CF;PW
+356;Country;Uruguay;Ireland
+54;Country;Mexico;Singapore
+751;Model_Series;MD-80;757-200
+140;Engine;CF;PW
+281;Order_Total;1;2
+490;Engine;CF;PW
+654;Delivery_Total;1;3
+153;Country;Nigeria;Ireland
+175;Engine;RR;PW
+561;Delivery_Year_;1981;2000
+242;Order_Month;Jun;May
+507;Engine;CF;PW
+702;Model_Series;777-300ER;747-400ERF
+346;Delivery_Total;3;3
+878;Model_Series;737-800;757-200
+287;Order_Total;1;2
+291;Customer_Name;Thai Airways International;KLM Royal Dutch Airlines
+358;Engine;CF;PW
+567;Country;Vietnam;USA
+848;Model_Series;777F;737-800
+863;Country;France;USA
+751;Customer_Name;Irish Aerospace;ATA Airlines Inc.
+34;Order_Month;Sep;May
+716;Model_Series;DC-10;757-200
+280;Order_Year;2002;1982
+545;Order_Month;Jan;May
+478;Delivery_Total;1;2
+335;Region;North America;North America
+853;Order_Year;2019;1966
+734;Order_Total;2;2
+244;Customer_Name;Avianca;ATA Airlines Inc.
+809;Region;North America;North America
+559;Delivery_Total;2;2
+327;Engine;PW;GE
+616;Region;Central America and Mexico;North America
+698;Delivery_Total;6;3
+236;Country;Colombia;Ireland
+727;Customer_Name;Federative Republic of Brazil;ATA Airlines Inc.
+844;Model_Series;DC-8;757-200
+768;Order_Year;1966;1966
+136;Engine;PW;PW
+589;Delivery_Total;1;2
+54;Order_Year;1979;1995
+879;Order_Month;Aug;May
+870;Engine;PW;GE
+532;Order_Year;1989;1966
+396;Region;North America;North America
+854;Customer_Name;Altavair LLC;ATA Airlines Inc.
+25;Delivery_Year_;2009;1978
+687;Region;North America;North America
+811;Country;Dominican Republic;Ireland
+593;Delivery_Year_;1978;2000
+50;Customer_Name;Mid East Jet;ATA Airlines Inc.
+10;Delivery_Total;2;2
+722;Country;Mexico;USA
+522;Delivery_Total;1;2
+219;Region;East Asia;North America
+635;Delivery_Year_;2011;2000
+493;Country;USA;USA
+642;Country;Honduras;USA
+358;Customer_Name;Ruili Airlines;ATA Airlines Inc.
+891;Delivery_Total;1;3
+824;Order_Year;1965;1966
+428;Delivery_Year_;2013;2000
+22;Model_Series;777F;747-400ERF
+197;Order_Month;Jan;May
+723;Model_Series;737-300;747-400ERF
+423;Model_Series;MD-80;757-200
+614;Delivery_Year_;2018;1983
+170;Model_Series;DC-8;747-400ERF
+19;Region;Europe;North America
+631;Engine;CF;RR
+898;Order_Total;1;2
+803;Engine;GE;PW
+889;Order_Year;1969;1966
+849;Country;United Kingdom;Ireland
+546;Order_Month;Feb;Apr
+728;Order_Month;Jan;Apr
+876;Order_Total;1;2
+775;Order_Year;2015;1966
+587;Delivery_Total;1;2
+520;Model_Series;747-400M;747-400ERF
+128;Engine;CF;PW
+14;Delivery_Year_;1987;2000
+511;Delivery_Total;2;2
+812;Model_Series;MD-90;737-800
+470;Engine;PW;PW
+211;Order_Year;2013;1982
+323;Country;USA;Ireland
+880;Customer_Name;Air China;China Xinjiang Airlines
+165;Model_Series;737-800;747-400ERF
+732;Customer_Name;Eldorado Aviation;ATA Airlines Inc.
+589;Delivery_Year_;1970;2000
+771;Order_Month;Dec;May
+423;Order_Total;1;2
+410;Order_Month;Sep;Mar
+311;Model_Series;737-800;757-200
+698;Order_Month;Feb;Apr
+310;Engine;RR;GE
+738;Model_Series;DC-10;737-800
+263;Region;Oceania;North America
+820;Delivery_Total;1;3
+257;Order_Year;1988;1966
+484;Model_Series;DC-9;747-400ERF
+106;Country;Italy;Netherlands
+826;Order_Year;1970;1966
+124;Country;Canada;Ireland
+528;Engine;GE;GE
+880;Engine;PW;RR
+628;Engine;PW;RR
+122;Order_Total;2;2
+393;Delivery_Total;1;2
+672;Customer_Name;Flying Tiger;ATA Airlines Inc.
+695;Order_Year;1976;?
+591;Order_Year;1973;1966
+608;Order_Year;1969;1966
+197;Region;North America;North America
+199;Model_Series;767-200;747-400ERF
+861;Delivery_Year_;2016;1978
+683;Delivery_Year_;1988;2000
+490;Country;China;USA
+730;Order_Year;1991;1982
+666;Customer_Name;China Xinhua Airlines;KLM Royal Dutch Airlines
+47;Model_Series;747-400ERF;747-400ERF
+304;Order_Year;1977;1966
+609;Delivery_Total;1;2
+541;Engine;CF;GE
+797;Order_Year;2001;1966
+881;Order_Month;Feb;Apr
+293;Order_Month;Sep;Jan
+884;Engine;CF;PW
+154;Order_Month;Dec;May
+204;Order_Month;Feb;Jan
+480;Order_Month;May;May
+737;Order_Year;2018;1982
+315;Country;Czech Republic;Czech Republic
+816;Engine;PW;PW
+799;Country;USA;USA
+443;Customer_Name;AirCal;ATA Airlines Inc.
+267;Model_Series;707/720;757-200
+164;Order_Month;Dec;Apr
+413;Engine;PW;PW
+70;Region;Europe;North America
+558;Delivery_Total;1;2
+874;Order_Year;2021;1966
+195;Country;Saudi Arabia;USA
+100;Order_Total;3;2
+382;Delivery_Year_;1975;2000
+585;Order_Month;Feb;Apr
+704;Region;Europe;North America
+755;Delivery_Total;1;2
+474;Customer_Name;Avolon - Ireland;Pegasus Airlines
+814;Order_Total;3;2
+388;Customer_Name;KB Flygplanet;ATA Airlines Inc.
+348;Delivery_Total;1;2
+516;Order_Year;2013;1966
+570;Delivery_Total;4;2
+716;Engine;GE;PW
+26;Delivery_Total;4;2
+775;Region;Europe;North America
+742;Delivery_Year_;1968;2000
+55;Region;South America;Europe
+893;Country;Egypt;Ireland
+657;Engine;GE;PW
+44;Country;Brunei Darussalam;USA
+808;Engine;CF;PW
+246;Customer_Name;Yemenia;ATA Airlines Inc.
+109;Delivery_Total;3;3
+204;Order_Total;1;2
+251;Delivery_Total;1;2
+157;Order_Year;2006;1966
+682;Customer_Name;British Airways;ATA Airlines Inc.
+524;Customer_Name;Laker Airways (Bahamas);ATA Airlines Inc.
+691;Delivery_Total;4;2
+266;Delivery_Year_;1999;2000
+747;Engine;PW;PW
+148;Model_Series;737-700;757-200
+821;Delivery_Total;2;2
+189;Engine;PW;PW
+411;Region;North America;North America
+100;Order_Year;1984;1966
+359;Country;Poland;USA
+35;Order_Total;1;2
+513;Order_Month;Apr;Jan
+635;Order_Month;Mar;May
+269;Region;Middle East;North America
+880;Model_Series;747-400M;737-800
+792;Model_Series;MD-80;757-200
+72;Country;Italy;USA
+116;Model_Series;777-300ER;757-200
+647;Order_Year;2005;1982
+614;Model_Series;737-800;747-400ERF
+385;Order_Total;1;2
+237;Model_Series;737-200;747-400ERF
+237;Order_Total;2;2
+411;Customer_Name;Universal Airlines;ATA Airlines Inc.
+586;Customer_Name;Transair Sweden;ATA Airlines Inc.
+350;Engine;PW;GE
+427;Customer_Name;TUI Group;ATA Airlines Inc.
+845;Country;Malaysia;Netherlands
+59;Engine;RR;GE
+685;Delivery_Year_;1968;2000
+336;Delivery_Total;1;2
+35;Model_Series;707/720;757-200
+847;Customer_Name;America West Airlines;ATA Airlines Inc.
+542;Engine;PW;PW
+499;Model_Series;727;757-200
+416;Region;Europe;Europe
+855;Order_Total;1;2
+320;Region;East Asia;Europe
+327;Order_Total;1;2
+644;Engine;GE;PW
+764;Order_Year;1969;1966
+91;Country;USA;France
+419;Region;North America;North America
+672;Order_Month;Jan;May
+444;Model_Series;747-200;747-400ERF
+516;Country;China;Ireland
+254;Order_Total;1;2
+96;Delivery_Total;1;2
+431;Model_Series;727;757-200
+803;Order_Month;Apr;May
+175;Country;China;USA
+770;Delivery_Total;2;3
+148;Country;Kenya;Ireland
+751;Order_Year;1986;1966
+17;Region;Europe;North America
+311;Engine;CF;PW
+655;Delivery_Year_;1980;1983
+748;Customer_Name;Goiania;Pegasus Airlines
+20;Region;Africa;North America
+682;Model_Series;707/720;757-200
+196;Customer_Name;Air Zimbabwe;ATA Airlines Inc.
+619;Order_Total;3;2
+451;Country;Canada;USA
+333;Order_Total;1;2
+441;Order_Month;Feb;May
+650;Delivery_Total;3;2
+41;Delivery_Year_;2017;1978
+686;Region;Southeast Asia;North America
+83;Delivery_Total;1;2
+48;Order_Month;Jun;May
+170;Order_Year;1966;1982
+573;Country;Kazakhstan;Ireland
+668;Order_Total;1;2
+354;Model_Series;707/720;747-400ERF
+752;Order_Total;4;2
+495;Country;USA;USA
+379;Customer_Name;Business Jet / VIP Customer(s);ATA Airlines Inc.
+537;Engine;PW;PW
+576;Delivery_Total;2;2
+697;Customer_Name;Northwest-Merged w Delta;ATA Airlines Inc.
+258;Order_Month;Aug;May
+75;Order_Year;1987;1966
+255;Order_Total;1;2
+808;Order_Total;1;2
+386;Customer_Name;LADECO;ATA Airlines Inc.
+834;Region;North America;North America
+595;Country;USA;USA
+817;Delivery_Year_;2000;2000
+622;Engine;PW;PW
+827;Customer_Name;Avianca Costa Rica;ATA Airlines Inc.
+427;Order_Year;1980;1966
+129;Country;Finland;State of Libya
+273;Model_Series;737-200;757-200
+502;Order_Month;Dec;May
+729;Delivery_Year_;1966;2000
+723;Country;United Kingdom;Netherlands
+138;Region;North America;North America
+576;Engine;CF;PW
+345;Model_Series;737-200;757-200
+81;Order_Year;1963;1995
+622;Order_Year;1976;1966
+110;Model_Series;MD-80;757-200
+806;Customer_Name;Okay Airways Company Limited;U.S. Air Force
+689;Model_Series;737-300;707/720
+538;Model_Series;757-200;757-200
+360;Order_Month;Jan;May
+41;Region;North America;North America
+69;Delivery_Year_;1982;1983
+243;Order_Year;1972;1982
+697;Model_Series;747-400;757-200
+502;Region;Europe;North America
+92;Order_Month;Jan;May
+173;Order_Total;2;2
+153;Delivery_Year_;1977;1978
+413;Country;USA;USA
+350;Region;Europe;Europe
+600;Engine;CF;PW
+806;Engine;CF;PW
+557;Order_Total;1;2
+48;Order_Year;2010;1966
+725;Order_Month;Jan;May
+407;Order_Month;Jun;Apr
+216;Country;Switzerland;USA
+565;Model_Series;767-2C;757-200
+297;Country;United Kingdom;USA
+813;Order_Total;2;2
+303;Model_Series;737-500;737-800
+171;Country;United Arab Emirates;Ireland
+551;Region;Europe;North America
+709;Order_Month;Jan;May
+494;Order_Month;Jan;May
+467;Region;Europe;North America
+503;Order_Total;1;2
+803;Customer_Name;Air Tahiti Nui;ATA Airlines Inc.
+802;Model_Series;737-400;737-800
+803;Region;Oceania;North America
+830;Model_Series;737-800;737-800
+121;Region;North America;North America
+248;Delivery_Year_;1968;2000
+744;Region;Middle East;North America
+764;Region;North America;North America
+418;Model_Series;DC-10;747-400ERF
+799;Customer_Name;Itel Air;ATA Airlines Inc.
+177;Order_Month;Mar;May
+133;Country;Philippines;Ireland
+238;Engine;PW;PW
+414;Model_Series;737-700;757-200
+198;Order_Month;Dec;Apr
+472;Model_Series;737-100;757-200
+463;Delivery_Year_;1967;2000
+133;Model_Series;747-400M;757-200
+247;Customer_Name;Nippon Cargo Airlines;Pegasus Airlines
+669;Delivery_Year_;2002;1978
+325;Customer_Name;Transavia Airlines;KLM Royal Dutch Airlines
+557;Delivery_Year_;1980;2000
+540;Delivery_Total;2;2
+706;Order_Month;Jan;May
+175;Order_Month;Feb;May
+27;Region;Europe;North America
+688;Delivery_Total;3;3
+856;Country;Belgium;USA
+162;Country;Canada;USA
+685;Engine;PW;PW
+667;Region;Europe;North America
+47;Delivery_Total;3;3
+440;Order_Month;Jul;May
+795;Delivery_Year_;1968;2000
+521;Customer_Name;Dutch Caribbean Airlines;ATA Airlines Inc.
+860;Region;Europe;North America
+234;Customer_Name;Cruzeiro;ATA Airlines Inc.
+703;Order_Year;1975;1966
+718;Engine;PW;PW
+261;Region;Africa;North America
+601;Country;Cte dIvoire;Ireland
+528;Order_Month;Mar;Apr
+221;Order_Total;3;2
+110;Region;East Asia;North America
+877;Customer_Name;Air Berlin;ATA Airlines Inc.
+227;Model_Series;737-800A;737-800
+147;Order_Month;Jan;May
+570;Order_Year;2021;1966
+548;Order_Month;May;May
+201;Order_Year;2009;1966
+188;Order_Total;1;2
+114;Order_Year;2006;1966
+718;Region;Africa;North America
+471;Order_Total;2;2
+329;Region;Southeast Asia;Europe
+502;Model_Series;MD-80;757-200
+292;Country;Ireland;Ireland
+115;Model_Series;707/720;737-800
+746;Model_Series;737-900;737-800
+719;Delivery_Total;2;2
+426;Region;Middle East;North America
+358;Country;China;USA
+803;Delivery_Year_;2019;2000
+14;Region;South America;North America
+895;Delivery_Year_;2007;2000
+651;Model_Series;727;747-400ERF
+441;Country;France;USA
+538;Order_Month;Mar;May
+650;Country;China;Ireland
+592;Customer_Name;LAM;ATA Airlines Inc.
+463;Region;North America;North America
+339;Model_Series;707/720;757-200
+258;Delivery_Total;1;2
+588;Country;Japan;Ireland
+39;Order_Total;1;2
+306;Country;USA;USA
+34;Order_Total;2;2
+758;Customer_Name;British Caledonian Airways;ATA Airlines Inc.
+215;Order_Total;1;2
+438;Order_Month;May;May
+171;Order_Month;Jul;Jan
+364;Order_Total;1;2
+468;Order_Total;1;2
+275;Order_Month;Aug;May
+467;Order_Month;Jan;May
+251;Country;Angola;Ireland
+554;Customer_Name;Air Zimbabwe;ATA Airlines Inc.
+369;Order_Year;1975;1966
+630;Region;Europe;North America
+770;Order_Total;2;2
+610;Delivery_Total;1;2
+392;Order_Total;2;2
+867;Delivery_Year_;1960;2000
+487;Order_Month;Nov;Jan
+345;Delivery_Total;1;2
+810;Order_Year;1969;1966
+835;Delivery_Total;6;2
+319;Delivery_Year_;1968;2000
+272;Order_Year;1999;1966
+754;Delivery_Total;1;3
+804;Region;North America;North America
+172;Delivery_Year_;1974;2000
+652;Country;USA;USA
+748;Delivery_Total;1;2
+722;Order_Year;1974;1966
+538;Delivery_Total;1;2
+124;Order_Year;1967;1966
+831;Engine;CF;PW
+573;Customer_Name;SCAT Airlines;Pegasus Airlines
+447;Customer_Name;Executive Jet Aviation;ATA Airlines Inc.
+862;Order_Year;1998;1982
+526;Delivery_Total;2;2
+489;Engine;PW;PW
+566;Region;North America;North America
+276;Order_Year;2008;1966
+142;Order_Year;2007;1995
+381;Order_Month;Jan;May
+230;Delivery_Year_;1984;2000
+286;Region;Europe;North America
+210;Region;Europe;North America
+819;Country;USA;Ireland
+93;Engine;GE;PW
+895;Order_Month;Feb;May
+534;Model_Series;737-200;747-400ERF
+39;Engine;CF;GE
+85;Order_Month;Oct;Jan
+318;Delivery_Total;12;2
+343;Model_Series;787-9;747-400ERF
+286;Delivery_Year_;2003;1978
+532;Engine;GE;PW
+297;Order_Total;1;2
+116;Customer_Name;Novus Aviation Capital;ATA Airlines Inc.
+499;Order_Total;3;2
+206;Region;Europe;North America
+668;Delivery_Year_;1997;1983
+182;Model_Series;757-200;747-400ERF
+574;Delivery_Total;2;2
+56;Order_Total;2;2
+624;Order_Month;Feb;May
+380;Model_Series;737 MAX;737-800
+564;Delivery_Year_;1968;1978
+396;Order_Month;Feb;May
+740;Region;North America;North America
+887;Delivery_Total;1;2
+828;Order_Total;4;2
+562;Customer_Name;KE Aircraft Leasing;ATA Airlines Inc.
+129;Order_Total;2;2
+552;Delivery_Year_;1977;2000
+32;Order_Month;Jan;May
+783;Delivery_Total;1;3
+742;Order_Month;Jan;May
+825;Delivery_Year_;1997;2000
+340;Delivery_Year_;1999;1983
+67;Customer_Name;Icelandair;KLM Royal Dutch Airlines
+246;Region;Middle East;North America
+606;Country;Cayman Islands;Ireland
+276;Order_Month;Feb;May
+358;Region;East Asia;North America
+308;Order_Year;1992;2006
+524;Order_Month;Feb;May
+667;Order_Year;1978;1966
+249;Region;North America;North America
+805;Delivery_Year_;2014;1978
+713;Order_Year;2019;1982
+786;Order_Total;1;2
+593;Order_Total;1;2
+61;Delivery_Year_;2001;2000
+373;Region;Central Asia;Europe
+583;Order_Year;2005;1995
+666;Region;East Asia;Europe
+202;Engine;PW;GE
+91;Delivery_Year_;2001;2000
+118;Model_Series;737-300;737-800
+88;Country;Fiji;USA
+193;Region;North America;North America
+841;Delivery_Total;2;2
+578;Customer_Name;British Airtours;ATA Airlines Inc.
+895;Region;Central Asia;North America
+171;Model_Series;737-800;737-800
+853;Engine;GE;PW
+58;Model_Series;727;757-200
+363;Delivery_Year_;1985;1978
+839;Order_Total;4;2
+709;Order_Year;2004;1966
+109;Delivery_Year_;2012;1983
+94;Country;Switzerland;Ireland
+853;Delivery_Total;2;2
+625;Delivery_Year_;1979;2000
+733;Region;Southeast Asia;North America
+381;Engine;PW;PW
+112;Order_Year;2021;1982
+242;Engine;RR;PW
+215;Region;Caribbean;Europe
+858;Order_Month;Jan;Apr
+119;Engine;GE;PW
+891;Order_Month;Nov;Apr
+348;Order_Month;Jan;Jan
+516;Delivery_Total;6;2
+752;Order_Month;Jan;May
+695;Region;Europe;?
+129;Order_Month;Jan;Apr
+742;Order_Year;1968;1966
+282;Model_Series;737-200;757-200
+760;Model_Series;717-200;747-400ERF
+545;Model_Series;DC-8;757-200
+125;Order_Month;Aug;Apr
+386;Delivery_Total;1;2
+383;Order_Year;1994;1966
+467;Engine;CF;PW
+291;Order_Year;1992;1982
+875;Delivery_Total;1;2
+889;Order_Month;Feb;May
+633;Model_Series;DC-9;757-200
+356;Engine;PW;PW
+523;Delivery_Total;1;2
+682;Delivery_Total;2;2
+380;Country;Norway;Ireland
+784;Customer_Name;Nigeria Airways;KLM Royal Dutch Airlines
+228;Order_Month;Jan;May
+606;Delivery_Year_;2022;1978
+679;Order_Total;1;2
+646;Order_Total;2;2
+371;Customer_Name;GOL Linhas Aereas;Turkish Air Force Peace Eagle
+428;Country;Mongolia;USA
+324;Model_Series;777-300ER;757-200
+367;Order_Total;3;2
+251;Delivery_Year_;2007;1978
+709;Country;Canada;USA
+257;Order_Total;2;2
+330;Country;USA;Netherlands
+392;Delivery_Total;2;2
+717;Region;Europe;North America
+835;Model_Series;737-200;757-200
+274;Engine;PW;PW
+872;Order_Month;Jan;May
+755;Customer_Name;Ethiopian Airlines Group;ATA Airlines Inc.
+669;Country;Australia;Ireland
+187;Delivery_Total;2;2
+728;Order_Year;2014;1982
+86;Delivery_Total;1;2
+457;Engine;PW;PW
+9;Country;USA;USA
+351;Delivery_Total;1;3
+183;Model_Series;737-300;747-400ERF
+737;Delivery_Year_;2019;1983
+308;Customer_Name;China Northern Airlines;China Xinjiang Airlines
+258;Country;USA;Ireland
+469;Delivery_Total;1;2
+416;Order_Month;Feb;Apr
+725;Order_Year;2012;1966
+470;Delivery_Year_;1979;2000
+531;Customer_Name;Dragon Aviation Leasing;Pegasus Airlines
+277;Order_Month;Feb;May
+36;Model_Series;787-8;747-400ERF
+745;Model_Series;767-300ER;757-200
+310;Model_Series;MD-90;747-400ERF
+644;Country;USA;USA
+449;Delivery_Year_;2014;2000
+548;Region;North America;North America
+646;Region;Europe;North America
+628;Model_Series;737-200;737-800
+691;Order_Year;1974;1966
+360;Order_Total;6;2
+373;Order_Year;1969;1982
+650;Order_Month;Feb;May
+688;Engine;GE;GE
+693;Order_Total;10;2
+582;Country;Ireland;Ireland
+405;Delivery_Total;1;3
+614;Country;China;Netherlands
+102;Order_Total;1;2
+10;Customer_Name;AOM French Airlines;ATA Airlines Inc.
+165;Delivery_Total;1;3
+74;Model_Series;737-200;747-400ERF
+746;Order_Year;2003;1995
+120;Country;Indonesia;Netherlands
+592;Order_Year;1990;1966
+632;Country;USA;USA
+761;Model_Series;777F;747-400ERF
+707;Delivery_Total;1;3
+636;Country;USA;USA
+741;Delivery_Total;2;2
+265;Order_Year;1973;1966
+869;Order_Year;2015;1995
+525;Delivery_Total;1;2
+846;Country;Ghana;Netherlands
+86;Region;Europe;North America
+278;Order_Total;2;2
+503;Engine;PW;PW
+652;Model_Series;727;757-200
+148;Region;Africa;North America
+354;Region;Europe;Europe
+130;Engine;GE;PW
+388;Country;Sweden;USA
+346;Delivery_Year_;2020;1983
+757;Region;South America;North America
+478;Order_Year;1988;1966
+599;Delivery_Year_;1991;2000
+175;Region;East Asia;North America
+314;Engine;CF;PW
+414;Delivery_Year_;2001;2000
+648;Customer_Name;MG Aviation Limited;ATA Airlines Inc.
+845;Delivery_Total;1;3
+285;Engine;CF;PW
+163;Delivery_Year_;1980;2000
+406;Country;United Kingdom;USA
+795;Order_Total;4;2
+363;Order_Total;1;2
+106;Engine;PW;GE
+318;Country;USA;USA
+310;Order_Year;1998;1982
+492;Order_Total;1;2
+768;Customer_Name;NEA Holdings Inc.;ATA Airlines Inc.
+614;Customer_Name;Everbright Financial Leasing;KLM Royal Dutch Airlines
+57;Region;Europe;North America
+467;Order_Year;2019;1966
+782;Order_Month;Apr;Apr
+794;Customer_Name;LATAM Airlines Brasil;Garuda Indonesia
+560;Order_Total;1;2
+143;Order_Month;Aug;May
+663;Customer_Name;Avia Capital Leasing;Pegasus Airlines
+427;Delivery_Year_;1981;2000
+87;Order_Total;2;2
+408;Model_Series;727;757-200
+16;Customer_Name;Bavaria;ATA Airlines Inc.
+780;Order_Year;1993;1982
+135;Delivery_Total;2;2
+780;Engine;CF;GE

@@ -50,18 +50,17 @@ def load_rmse_data(filepath, selected_datasets, dataset_name_map):
     return datasets
 
 
-def plot_rmse_results(datasets, ncols=2):
+def plot_rmse_results(datasets, ncols=2, output_file="output.pdf", x=15, y=7, anchor=1.0,  markers=[5,10,10,8], xticksize=8, yticksize=11, titlesize=10 , hspaces=0.20, wspaces=0.04, legendfont=10):
     num_datasets = len(datasets)
     r1 = np.arange(10)
 
     # Calcolo righe necessarie
     nrows = (num_datasets + ncols - 1) // ncols  # Formula per arrotondare verso l'alto
 
-    fig, axs = plt.subplots(nrows, ncols, figsize=(13, 6), sharey=True, sharex=True)
-    #fig, axs = plt.subplots(nrows, ncols, figsize=(13, 4), sharey=True, sharex=True)
-    #fig, axs = plt.subplots(nrows, ncols, figsize=(22, 12), sharey=True, sharex=True)
+    fig, axs = plt.subplots(nrows, ncols, figsize=(x, y), sharey=True, sharex=True) #FIG 1
+
     # Modifica degli spazi orizzontali e verticali
-    fig.subplots_adjust(hspace=0.20, wspace=0.04)  # Riduci hspace e wspace
+    fig.subplots_adjust(hspace=hspaces, wspace=wspaces)  # Riduci hspace e wspace
 
     # Appiattimento gli assi se nrows > 1
     axs = axs.flatten() if nrows > 1 else axs
@@ -70,19 +69,19 @@ def plot_rmse_results(datasets, ncols=2):
         for algorithm, rmse_means in results.items():
             print(algorithm, rmse_means)
             if 'Pipeline_noRev' in algorithm:
-                axs[i].plot(r1, rmse_means, marker="o", markersize=5, color="#FFA600", zorder=2, label='PipelineNoRev')
+                axs[i].plot(r1, rmse_means, marker="o", markersize=markers[0], color="#FFA600", zorder=2, label='PipelineNoRev')
             elif 'Baseline20' in algorithm:
-                axs[i].plot(r1, rmse_means, marker="2", markersize=10, color="#00748f", zorder=2, label='Baseline20')
+                axs[i].plot(r1, rmse_means, marker="2", markersize=markers[1], color="#00748f", zorder=2, label='Baseline20')
             elif 'Hybrid' in algorithm:
-                axs[i].plot(r1, rmse_means, marker="2", markersize=10, color="#61a44f", zorder=3, linestyle='dashdot', label='Hybrid')
+                axs[i].plot(r1, rmse_means, marker="2", markersize=markers[2], color="#61a44f", zorder=3, linestyle='dashdot', label='Hybrid')
             elif 'Pipeline' in algorithm:  # Altri algoritmi, se ce ne sono
-                axs[i].plot(r1, rmse_means, marker="x", markersize=8, color="#ff0000", zorder=3, label='Pipeline')
+                axs[i].plot(r1, rmse_means, marker="x", markersize=markers[3], color="#ff0000", zorder=3, label='Pipeline')
 
         axs[i].set_xticks(r1)
         axs[i].set_xticklabels(["1", "2", "3", "4", "5", "10", "20", "30", "40", "50"])
-        axs[i].set_title(f'{dataset_name}', fontsize=10)
-        axs[i].tick_params(axis='x', which='major', labelsize=8)
-        axs[i].tick_params(axis='y', which='major', labelsize=11)
+        axs[i].set_title(f'{dataset_name}', fontsize=titlesize)
+        axs[i].tick_params(axis='x', which='major', labelsize=xticksize)
+        axs[i].tick_params(axis='y', which='major', labelsize=yticksize)
         axs[i].minorticks_on()
         axs[i].grid(which='major', linestyle='-', linewidth='0.5', color='gray', alpha=0.52)
         axs[i].grid(which='minor', linewidth='0.5', linestyle='dotted', color='gray', alpha=0.4)
@@ -107,19 +106,16 @@ def plot_rmse_results(datasets, ncols=2):
         plt.Line2D([0], [0], color='#00748f', linestyle='-', label='Baseline20', marker="2", markersize=12)
     ]
 
-    fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 1), shadow=True)
+    fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, anchor), shadow=True, fontsize=legendfont)
 
-    plt.savefig("rmse_results.pdf", bbox_inches='tight')
+    plt.savefig(output_file, bbox_inches='tight')
     plt.show()
 
 
 filepath = '../ALL_Results_v3.csv'
-#selected_datasets = ['actorfilms_4000', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', "superstore_4500", "police", "IoT_Telemetry3000",
-#                    "F1_REBUILT_5000", "MotoGP_REBUILT_3000", "Med_Ch_2500", "Air_9000", "cars_MNAR" , "cars_MBUV", 'cars', "Boeing_898_MNAR", "Boeing_898_MBUV", 'Boeing_898', "restaurant_MNAR", "restaurant_MBUV", 'restaurant', 'police_MBUV', 'Cats_1071']  # Aggiungi altri dataset qui
 
-selected_datasets = ['cars', 'restaurant', 'Boeing_898', 'Cats_1071', 'police', 'IoT_Telemetry3000', 'actorfilms_4000', "Med_Ch_2500",  "F1_REBUILT_5000", "MotoGP_REBUILT_3000", 'US_Presidents_3754', 'NBA_3200', 'EV_Vehicles_4000', "superstore_4500","Air_9000"]
-
-#selected_datasets = ['cars_MNAR', 'cars_MBUV', 'restaurant_MNAR', 'restaurant_MBUV', 'Boeing_898_MNAR', 'Boeing_898_MBUV', 'police_MNAR', 'police_MBUV']
+selected_datasets = ['cars', 'restaurant', 'Boeing_898', 'Cats_1071', 'police', 'IoT_Telemetry3000', 'actorfilms_4000', "Med_Ch_2500",  "F1_REBUILT_5000", "MotoGP_REBUILT_3000", 'US_Presidents_3754', 'NBA_3200', 'EV_Vehicles_4000', "superstore_4500","Air_9000"] #FIG1
+#selected_datasets = ['cars_FD', 'restaurant_FD', 'Boeing_898_FD', 'police_FD']
 
 dataset_name_map = {
     'cars': 'Cars',
@@ -139,15 +135,32 @@ dataset_name_map = {
     'Air_9000': 'Air Quality',
     'cars_MNAR': 'Cars_MNAR',
     'cars_MBUV': 'Cars_MBUV',
-    'restaurant_MNAR': 'restaurant_MNAR',
+    'restaurant_MNAR': 'Restaurant_MNAR',
     'restaurant_MBUV': 'restaurant_MBUV',
     'Boeing_898_MNAR': 'Boeing_MNAR',
     'Boeing_898_MBUV': 'Boeing_MBUV',
-    'police_MNAR': 'police_MNAR',
-    'police_MBUV': 'police_MBUV'
+    'police_MNAR': 'Police_MNAR',
+    'police_MBUV': 'Police_MBUV',
+    'cars_FD': 'Cars (FD)',
+    'restaurant_FD' : 'Restaurant (FD)',
+    'Boeing_898_FD': 'Boeing (FD)',
+    'police_FD' : 'Police (FD)'
 }
 
 datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)
 print(datasets)
+plot_rmse_results(datasets, ncols=5, output_file="rmse_results.pdf", x=13, y=6, anchor=0.98, markers=[5,10,10,8],
+                  xticksize=8, yticksize=11, titlesize=10, hspaces=0.20, wspaces=0.04, legendfont=10) #FIG1
 
-plot_rmse_results(datasets, ncols=5)
+
+
+selected_datasets = ['cars_MNAR', 'cars_MBUV', 'restaurant_MNAR', 'restaurant_MBUV', 'Boeing_898_MNAR', 'Boeing_898_MBUV', 'police_MNAR', 'police_MBUV']
+datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)
+plot_rmse_results(datasets, ncols=4, output_file="rmse_mnar_mbuv.pdf", x=7,y=3, anchor=1.06,  markers=[2.5,5,5,4],
+                  xticksize=6, yticksize=8, titlesize=7, hspaces=0.25, wspaces=0.04, legendfont=7) #FIG2
+
+
+selected_datasets = ['cars_FD', 'restaurant_FD', 'Boeing_898_FD', 'police_FD']
+datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)
+plot_rmse_results(datasets, ncols=4, output_file="rmse_fd.pdf", x=7,y=1.4, anchor=1.21,  markers=[2.5,5,5,4],
+                  xticksize=6, yticksize=8, titlesize=7, hspaces=0.20, wspaces=0.04, legendfont=7) #FIG3

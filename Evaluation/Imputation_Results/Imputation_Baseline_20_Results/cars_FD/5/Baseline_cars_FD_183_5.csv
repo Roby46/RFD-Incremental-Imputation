@@ -1,0 +1,184 @@
+riga;nome attributo;valore da imputare;valore imputato
+236;MPG;18.5;?
+161;Acceleration;16.0;17.0
+167;MPG;14.0;13.0
+182;Acceleration;14.5;17.0
+330;Cylinders;4;4
+300;Origin;US;US
+230;Horsepower;110.0;?
+17;Model;70;?
+388;Acceleration;17.3;?
+275;Cylinders;4;4
+36;Horsepower;88.00;88.00
+34;Weight;4382.;?
+222;Acceleration;15.0;?
+381;MPG;27.0;33.5
+51;Horsepower;170.0;175.0
+42;Acceleration;15.5;?
+296;Model;79;?
+40;Horsepower;48.00;?
+342;Acceleration;12.5;?
+291;Origin;US;US
+403;Weight;2130.;?
+398;Model;82;?
+127;Weight;2582.;?
+64;Horsepower;70.00;?
+12;Cylinders;8;8
+141;Model;74;?
+153;MPG;32.0;?
+240;Displacement;351.0;?
+234;Origin;US;US
+82;Horsepower;140.0;140.0
+125;Horsepower;49.00;?
+384;Weight;1980.;?
+139;Weight;1836.;?
+225;Displacement;111.0;98.00
+369;Model;81;?
+284;Model;78;?
+29;Acceleration;17.5;?
+268;Acceleration;18.7;?
+134;Weight;2875.;2587.
+109;Horsepower;95.00;95.00
+170;Origin;US;US
+392;Weight;1965.;2489.
+118;Acceleration;16.5;?
+68;Displacement;140.0;140.0
+307;Displacement;141.0;?
+40;Displacement;97.00;?
+73;Horsepower;153.0;153.0
+299;Cylinders;8;8
+215;Car;Volvo 245;?
+280;Model;78;?
+153;Horsepower;61.00;?
+267;Car;Mercury Zephyr;?
+252;Acceleration;21.5;?
+179;Car;Toyota Corolla;?
+61;Cylinders;4;4
+80;Horsepower;150.0;?
+204;Car;Chevrolet Woody;Dodge Colt (sw)
+115;Weight;2789.;2634.
+260;Car;Pontiac Phoenix LJ;?
+131;Displacement;156.0;?
+370;Weight;2900.;?
+352;Car;Plymouth Champ;?
+28;Cylinders;4;6
+181;Cylinders;4;3
+205;Model;76;75
+143;Car;Plymouth Satellite Sebring;?
+193;Car;Dodge Colt;?
+193;MPG;26.0;?
+292;Weight;3360.;?
+282;Car;Audi 5000;?
+46;Displacement;350.0;350.0
+85;Origin;Europe;?
+327;Acceleration;17.5;17.0
+250;Displacement;121.0;?
+80;Acceleration;12.5;?
+357;Car;Mazda GLC 4;?
+347;Horsepower;84.00;?
+256;Model;78;75
+116;Horsepower;88.00;?
+89;Origin;Japan;?
+1;Displacement;307.0;?
+322;Origin;US;US
+173;Model;75;?
+301;Cylinders;4;4
+19;Acceleration;9.5;?
+21;Car;Toyota Corolla Mark ii;?
+268;Car;Dodge Aspen;?
+138;Car;Ford Pinto;?
+367;Horsepower;80.00;?
+153;Displacement;83.00;?
+405;Origin;US;?
+346;Car;Plymouth Reliant;?
+303;MPG;35.7;?
+379;Horsepower;85.00;?
+115;Horsepower;100.0;90.00
+231;Horsepower;145.0;?
+109;Model;73;70
+247;Weight;1985.;2145.
+61;Car;Toyota Corolla 1200;?
+134;Origin;US;US
+195;Horsepower;140.0;?
+79;Displacement;70.00;?
+106;Weight;3278.;?
+164;MPG;16.0;14.0
+387;MPG;38.0;?
+48;Origin;US;US
+325;Cylinders;4;4
+385;Displacement;91.00;?
+88;Car;Ford Pinto (sw);?
+129;Horsepower;150.0;?
+6;Model;70;?
+64;Weight;1955.;?
+256;MPG;36.1;33.0
+218;Cylinders;6;6
+244;Model;77;?
+67;Origin;Europe;?
+121;Displacement;155.0;?
+406;Model;82;77
+229;Origin;US;US
+237;Car;Pontiac Grand Prix LJ;?
+267;Weight;3070.;?
+394;MPG;38.0;?
+225;Car;Buick Opel Isuzu Deluxe;Chevrolet Chevette
+230;Model;77;?
+156;Displacement;116.0;?
+375;Model;81;?
+326;Acceleration;15.5;?
+249;Horsepower;97.00;?
+351;Cylinders;4;4
+143;MPG;18.0;?
+121;Cylinders;6;?
+393;Origin;Japan;Japan
+309;Car;Plymouth Horizon;?
+317;Displacement;98.00;89.00
+57;Horsepower;86.00;?
+222;Horsepower;130.0;?
+292;Displacement;225.0;?
+353;Model;81;?
+337;Horsepower;67.00;?
+130;Horsepower;110.0;?
+137;Acceleration;19.0;16.0
+149;Weight;2219.;?
+259;Horsepower;139.0;?
+400;MPG;36.0;?
+324;MPG;19.1;?
+278;Displacement;134.0;?
+59;Car;Peugeot 304;?
+80;Model;72;?
+66;Model;72;?
+325;Displacement;97.00;?
+258;Origin;US;US
+80;Car;AMC Matador (sw);?
+326;Displacement;134.0;?
+142;Model;74;75
+372;Displacement;231.0;231.0
+269;Origin;US;Europe
+333;Cylinders;4;4
+259;MPG;20.2;?
+208;Origin;US;US
+285;Car;Peugeot 604sl;?
+355;Acceleration;19.4;15.2
+91;MPG;28.0;24.5
+42;Displacement;225.0;?
+87;Origin;Europe;Japan
+360;Car;Ford Escort 2H;?
+31;Weight;2648.;2634.
+404;Horsepower;84.00;?
+248;Displacement;97.00;?
+320;MPG;37.2;?
+395;Horsepower;110.0;?
+124;Model;73;?
+31;MPG;21.0;18.0
+1;Origin;US;?
+171;Origin;US;US
+358;Weight;2215.;?
+198;Origin;US;US
+151;Cylinders;4;4
+1;Car;Chevrolet Chevelle Malibu;?
+218;MPG;19.0;?
+61;Origin;Japan;Japan
+36;Acceleration;14.5;14.5
+268;Model;78;?
+218;Displacement;156.0;?

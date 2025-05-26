@@ -279,23 +279,23 @@ def are_similar(attribute, value1, value2):
 
 
 def analyze_imputation_quality(version, approach, MV, xml_file):
-    dataset_name = f"police_MBUV_{MV}_{version}"
+    dataset_name = f"police_MNAR_{MV}_{version}"
 
     # Esempio di utilizzo
-    missing_dataset_path = f'../../Datasets/Missing_Datasets/police_MBUV/{dataset_name}.csv'
-    full_dataset_path = f'../../Datasets/Preprocessed_Datasets/police_MBUV.csv'
+    missing_dataset_path = f'../../Datasets/Missing_Datasets/police_MNAR/{dataset_name}.csv'
+    full_dataset_path = f'../../Datasets/Preprocessed_Datasets/police_MNAR.csv'
 
     results_path = ""
     if (approach == "Baseline"):
-        results_path = f'../Imputation_Results/Imputation_Baseline_Results/police_MBUV/{version}/Baseline_{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Baseline_Results/police_MNAR/{version}/Baseline_{dataset_name}.csv'
     elif (approach == "Pipeline_noRev"):
-        results_path = f'../Imputation_Results/Imputation_noRestoring_Results/police_MBUV/{version}/{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_noRestoring_Results/police_MNAR/{version}/{dataset_name}.csv'
     elif (approach == "Baseline20"):
-        results_path = f'../Imputation_Results/Imputation_Baseline_20_Results/police_MBUV/{version}/Baseline_{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Baseline_20_Results/police_MNAR/{version}/Baseline_{dataset_name}.csv'
     elif (approach == "Pipeline"):
-        results_path = f'../Imputation_Results/Imputation_Pipeline_Results/police_MBUV/{version}/{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Pipeline_Results/police_MNAR/{version}/{dataset_name}.csv'
     elif (approach == "Hybrid"):
-        results_path = f'../Imputation_Results/Imputation_Hybrid_Results/police_MBUV/{version}/{dataset_name}.csv'
+        results_path = f'../Imputation_Results/Imputation_Hybrid_Results/police_MNAR/{version}/{dataset_name}.csv'
 
     header_file = f'../../Preprocessing/Headers/Headers.csv'
     rmse=process_dataset(missing_dataset_path, results_path, header_file, dataset_name, full_dataset_path, xml_file)
@@ -305,23 +305,23 @@ def checkResults(version, approach, MV,xml_file):
     df = ""
     if (approach == "Baseline"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_Baseline_Results/police_MBUV/{version}/Baseline_police_MBUV_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_Baseline_Results/police_MNAR/{version}/Baseline_police_MNAR_{MV}_{version}.csv",
             sep=';')
     elif (approach == "Pipeline_noRev"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_noRestoring_Results/police_MBUV/{version}/police_MBUV_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_noRestoring_Results/police_MNAR/{version}/police_MNAR_{MV}_{version}.csv",
             sep=';')
     elif (approach == "Baseline20"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_Baseline_20_Results/police_MBUV/{version}/Baseline_police_MBUV_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_Baseline_20_Results/police_MNAR/{version}/Baseline_police_MNAR_{MV}_{version}.csv",
             sep=';')
     elif (approach == "Pipeline"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_Pipeline_Results/police_MBUV/{version}/police_MBUV_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_Pipeline_Results/police_MNAR/{version}/police_MNAR_{MV}_{version}.csv",
             sep=';')
     elif (approach == "Hybrid"):
         df = pd.read_csv(
-            f"../Imputation_Results/Imputation_Hybrid_Results/police_MBUV/{version}/police_MBUV_{MV}_{version}.csv",
+            f"../Imputation_Results/Imputation_Hybrid_Results/police_MNAR/{version}/police_MNAR_{MV}_{version}.csv",
             sep=';')
 
     df = df.drop(['riga'], axis=1)
@@ -359,7 +359,7 @@ def checkResults(version, approach, MV,xml_file):
 
     rmse=analyze_imputation_quality(version,approach,mv,xml_file)
     all_results_path = f"../ALL_Results_v3.csv"
-    row_data = ["police_MBUV"] + [approach] + [MV] + [str(recall)] + [str(precision)] + [str(version)] + [
+    row_data = ["police_MNAR"] + [approach] + [MV] + [str(recall)] + [str(precision)] + [str(version)] + [
         str(exact)] + [str(similar)] + [str(wrong)] + [rmse]
     print(row_data)
     write_unique_row_to_csv(all_results_path, row_data)
