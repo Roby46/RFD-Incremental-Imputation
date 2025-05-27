@@ -19,7 +19,8 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?",10,75,1, 1, 1, 1, 2, 2, 1, 250, 250, 1] #US_Presidents
     #fixed_params = [";", "?", 6, 18, 2.0,8.5,8.5,1.0,1.0,3.5]  # Restaurant
     #fixed_params = [";", "?", 6, 18, 0,0,0,0,0,0]  # Restaurant FD ONLY
-    fixed_params = [";", "?", 9, 44,3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]  # Police
+    #fixed_params = [";", "?", 9, 44,3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]  # Police
+    fixed_params = [";", "?", 9, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0] #Police FD
     #fixed_params = [";", "?", 9,8,5.0,4.18,0.82,16,10.0,11.3,1.37,1.84,1.0]  # cars
     #fixed_params = [";", "?", 9, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0]  # cars FD
     #fixed_params = [";", "?", 12, 89, 2, 0, 1, 3, 2, 5, 6, 4, 2, 5, 0, 0]  # MotoGP
@@ -63,17 +64,17 @@ def generate_launch_file(dataset_name, command_string, template, output_dir, ree
     with open(filename, "w") as f:
         f.write(launch_content)
 
-dataset = "police_MNAR"
+dataset = "police_FD"
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
 heap_size_gb=64
 
 #Scelta delle pipeline
-algoritmo="Pipeline"
-#algoritmo="RFD_Generator"
+#algoritmo="Pipeline"
+algoritmo="RFD_Generator"
 #algoritmo="Baseline"
 #algoritmo="baseline2"
-reevaluation=True #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
+reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
 
 # Number of missing values
 
