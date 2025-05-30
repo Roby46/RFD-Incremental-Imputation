@@ -51,10 +51,23 @@ def analizza_risultati(file_input, selected_datasets):
     print("\nGuadagno percentuale della Pipeline per ogni missing rate:")
     print(guadagni_missing_rate)
 
+    # Salvataggio dei risultati per i plot
+    dataset_rmse.to_csv('output/dataset_rmse.csv')
+    global_rmse.to_csv('output/global_rmse.csv')
+    rate_rmse.to_csv('output/rate_rmse.csv')
+    guadagni_dataset.to_csv('output/guadagni_dataset.csv')
+    guadagni_globali.to_csv('output/guadagni_globali.csv')
+    guadagni_missing_rate.to_csv('output/guadagni_missing_rate.csv')
+
+
 
 # Esempio di utilizzo
-selected_datasets = ['actorfilms_4000', 'NBA_3200', 'EV_Vehicles_4000', 'US_Presidents_3754', "superstore_4500", "police", "IoT_Telemetry3000",
-                     "F1_REBUILT_5000", "MotoGP_REBUILT_3000", "Med_Ch_2500", "Air_9000", "cars_MNAR" , "cars_MBUV", 'cars', "Boeing_898_MNAR", "Boeing_898_MBUV", 'Boeing_898', "restaurant_MNAR", "restaurant_MBUV", 'restaurant', 'police_MBUV', 'Cats_1071']  # Aggiungi altri dataset qui
+selected_datasets = ['cars', 'restaurant', 'Boeing_898', 'Cats_1071', 'police', 'IoT_Telemetry3000', 'actorfilms_4000', "Med_Ch_2500",  "F1_REBUILT_5000", "MotoGP_REBUILT_3000", 'US_Presidents_3754', 'NBA_3200', 'EV_Vehicles_4000', "superstore_4500","Air_9000", 'cars_MNAR', 'cars_MBUV', 'restaurant_MNAR', 'restaurant_MBUV', 'Boeing_898_MNAR', 'Boeing_898_MBUV', 'police_MNAR', 'police_MBUV', 'cars_FD', 'restaurant_FD', 'Boeing_898_FD', 'police_FD']
+
+#selected_datasets = ['cars', 'restaurant', 'Boeing_898', 'Cats_1071', 'police', 'IoT_Telemetry3000', 'actorfilms_4000', "Med_Ch_2500",  "F1_REBUILT_5000", "MotoGP_REBUILT_3000", 'US_Presidents_3754', 'NBA_3200', 'EV_Vehicles_4000', "superstore_4500","Air_9000"] #FIG1
+#selected_datasets = ['cars_MNAR', 'cars_MBUV', 'restaurant_MNAR', 'restaurant_MBUV', 'Boeing_898_MNAR', 'Boeing_898_MBUV', 'police_MNAR', 'police_MBUV']
+#selected_datasets = ['cars_FD', 'restaurant_FD', 'Boeing_898_FD', 'police_FD']
+
 
 
 analizza_risultati('ALL_Results_v3.csv', selected_datasets)
