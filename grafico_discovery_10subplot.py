@@ -10,10 +10,11 @@ with open(f"./risultati_test_discovery/ris_{versione_plot}/medie_{versione_plot}
     data = json.load(outfile)
 
 # Definizione dei gruppi
-groups = ['actor','boeing','vehicles','f1','med','motogp','nba','superstore','president','cars','police','restaurant','IoT_Telemetry']
+groups = ['actor','boeing','vehicles','f1','med','motogp','nba','superstore','president','cars','police','restaurant','IoT_Telemetry','Air_9000','Cats_1071']
 
 # Percentuali di missing values (le chiavi del JSON)
-missing_values_rates = list(data.keys())
+missing_values_rates = missing_values_rates = [str(r) for r in [1, 2, 3, 4, 5, 10, 20, 30, 40, 50] if str(r) in data]
+
 
 # Colori e etichette per i segmenti delle barre
 colors = ['#003049', '#d62828', '#f77f00', '#fcbf49']
@@ -47,8 +48,12 @@ for ax, rate in zip(axes, missing_values_rates):
             label='New RFDs', edgecolor='black', linewidth=1, zorder=2)
 
     # Impostazioni degli assi
-    ax.set_yticks(indices)
-    ax.set_yticklabels(groups, fontsize=8)
+    if ax in [axes[0], axes[5]]:  # Solo il primo subplot di ogni riga
+        ax.set_yticks(indices)
+        ax.set_yticklabels(groups, fontsize=8)
+    else:
+        ax.set_yticks(indices)
+        ax.set_yticklabels([])  # Rimuove le etichette
     ax.set_xlim(0, 100)
     ax.set_xticks(np.arange(0, 101, 10))
     ax.grid(True, which='both', axis='x', linestyle='--', linewidth=0.5, zorder=-1)
@@ -64,7 +69,6 @@ legend_elements = [
 ]
 
 # Posizionamento della legenda globale al di fuori dei subplot
-#fig.legend(handles=legend_elements, loc='upper right', fontsize=8, title="Legenda")
-plt.savefig(f'./results_discovery_{versione_plot}.pdf')
+fig.legend(handles=legend_elements, loc='upper center',bbox_to_anchor=(0.5,1.05), fontsize=8, ncol=5,shadow=True)
+plt.savefig(f'./results_discovery_{versione_plot}.pdf', bbox_inches='tight')
 plt.show()
-

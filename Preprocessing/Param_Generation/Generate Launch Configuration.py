@@ -18,9 +18,9 @@ def generate_command_strings(versions, missing_values, dataset, use_true):
     #fixed_params = [";", "?", 11, 50, 2.5, 2.5, 2, 3, 1, 3, 1, 1, 1.5, 1, 1] #Weather
     #fixed_params = [";", "?",10,75,1, 1, 1, 1, 2, 2, 1, 250, 250, 1] #US_Presidents
     #fixed_params = [";", "?", 6, 18, 2.0,8.5,8.5,1.0,1.0,3.5]  # Restaurant
-    #fixed_params = [";", "?", 6, 18, 0,0,0,0,0,0]  # Restaurant FD ONLY
+    fixed_params = [";", "?", 6, 18, 0,0,0,0,0,0]  # Restaurant FD ONLY
     #fixed_params = [";", "?", 9, 44,3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]  # Police
-    fixed_params = [";", "?", 9, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0] #Police FD
+    #fixed_params = [";", "?", 9, 44, 0, 0, 0, 0, 0, 0, 0, 0, 0] #Police FD
     #fixed_params = [";", "?", 9,8,5.0,4.18,0.82,16,10.0,11.3,1.37,1.84,1.0]  # cars
     #fixed_params = [";", "?", 9, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0]  # cars FD
     #fixed_params = [";", "?", 12, 89, 2, 0, 1, 3, 2, 5, 6, 4, 2, 5, 0, 0]  # MotoGP
@@ -64,14 +64,14 @@ def generate_launch_file(dataset_name, command_string, template, output_dir, ree
     with open(filename, "w") as f:
         f.write(launch_content)
 
-dataset = "police_FD"
+dataset = "restaurant_FD"
 # Dataset versions
 versions = [1, 2, 3, 4, 5]
-heap_size_gb=64
+heap_size_gb=120
 
 #Scelta delle pipeline
 #algoritmo="Pipeline"
-algoritmo="RFD_Generator"
+algoritmo="pipeline2"
 #algoritmo="Baseline"
 #algoritmo="baseline2"
 reevaluation=False #solo per la pipeline. Per i baseline ed il generator non importa il valore settato
@@ -79,10 +79,10 @@ reevaluation=False #solo per la pipeline. Per i baseline ed il generator non imp
 # Number of missing values
 
 #missing_values = [37, 73, 110, 146, 183, 365, 731, 1096, 1462, 1827] # cars
-#missing_values = [52, 104, 156, 207, 259, 518, 1037, 1555, 2074, 2592] # restaurant
+missing_values = [52, 104, 156, 207, 259, 518, 1037, 1555, 2074, 2592] # restaurant
 #missing_values = [90, 180, 269, 359, 449, 898, 1796, 2694, 3592, 4490] #Boeing 898
 #missing_values = [107, 214 ,321 ,428 ,536 ,1071,2142,3213,4284,5355] #Cats
-missing_values = [198, 397, 595, 793, 992, 1984, 3967, 5951, 7934, 9918] # police
+#missing_values = [198, 397, 595, 793, 992, 1984, 3967, 5951, 7934, 9918] # police
 #missing_values = [240, 480, 720, 960,1200, 2400, 4800, 7200, 9600, 12000] # IoT_Telemetry_3000
 #missing_values = [280,560,840,1120,1400,2800,5600,8400,11200,14000] #Actors
 #missing_values = [300,600,900,1200,1500,3000,6000,9000,12000,15000] #Med_Ch
@@ -93,7 +93,6 @@ missing_values = [198, 397, 595, 793, 992, 1984, 3967, 5951, 7934, 9918] # polic
 #missing_values = [400, 800, 1200, 1600, 2000, 4000, 8000, 12000, 16000, 20000] #EV_Vehicles
 #missing_values=  [495,990,1485,1980,2475,4950,9900,14850,19800,24750] #Superstore
 #missing_values = [1170,2340,3510,4680,5850,11700,23400,35100,46800,58500] #Air
-
 #missing_values = [100 ,200 ,300 ,400 ,499 ,999,1998,2996,3995,4994] #Student_908
 #missing_values = [480, 960, 1440, 1920, 2400, 4800, 9600, 14400, 19200, 24000] # Hospital Staff
 #missing_values = [900, 1800, 2700, 3600, 4500, 9000, 18000, 27000, 36000, 45000] #Olympics_7500

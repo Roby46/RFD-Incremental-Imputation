@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MultipleLocator
 
-def load_rmse_data(filepath, selected_datasets, dataset_name_map):
+def load_rmse_data(filepath, selected_datasets, dataset_name_map,metrica):
     df = pd.read_csv(filepath, sep=';')
     df['dataset'] = df['dataset'].replace(dataset_name_map)
 
@@ -20,7 +20,7 @@ def load_rmse_data(filepath, selected_datasets, dataset_name_map):
 
             for algorithm in algorithms:
                 df_algorithm = df_dataset[df_dataset['algoritmo'] == algorithm].sort_values(by='MV')
-                rmse_values = df_algorithm['metric1'].tolist()
+                rmse_values = df_algorithm[metrica].tolist()
                 rmse_results[algorithm] = rmse_values
 
             datasets[mapped_name] = rmse_results
@@ -30,7 +30,7 @@ def load_rmse_data(filepath, selected_datasets, dataset_name_map):
     return datasets
 
 
-def plot_rmse_results(datasets, ncols=2):
+def plot_rmse_results(datasets,metrica,thr,ncols=2):
     num_datasets = len(datasets)
     r1 = np.arange(10)  # Indici per le percentuali di valori mancanti
 
@@ -68,7 +68,7 @@ def plot_rmse_results(datasets, ncols=2):
 
         # Imposta l'etichetta RMSE solo per il primo subplot di ogni riga
         if i % ncols == 0:
-            axs[i].set_ylabel('metric1', rotation='vertical')
+            axs[i].set_ylabel(metrica, rotation='vertical')
 
         # Imposta l'etichetta "Missing Rate" solo per l'ultima riga
         if i >= (nrows - 1) * ncols:
@@ -85,12 +85,13 @@ def plot_rmse_results(datasets, ncols=2):
 
     fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 1), shadow=True)
 
-    plt.savefig("metric1_results.pdf", bbox_inches='tight')
+    plt.savefig(f"{metrica}_results_{thr}.pdf", bbox_inches='tight')
     plt.show()
 
-
+metrica = "metric2"
+thr = "0.5"
 # Esempio di utilizzo
-filepath = '../ALL_Results_metric1.csv'  # Modifica con il percorso del tuo CSV
+filepath = f'../ALL_Results_{metrica}_{thr}.csv'  # Modifica con il percorso del tuo CSV
 selected_datasets = ['cars', 'restaurant', 'Boeing_898', 'Cats_1071', 'police', 'IoT_Telemetry3000', 'actorfilms_4000', "Med_Ch_2500",  "F1_REBUILT_5000", "MotoGP_REBUILT_3000", 'US_Presidents_3754', 'NBA_3200', 'EV_Vehicles_4000', "superstore_4500","Air_9000"]
 
 
@@ -121,6 +122,6 @@ dataset_name_map = {
 }
 
 
-datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)  # Carica i dati RMSE
+datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map,metrica)  # Carica i dati RMSE
 print(datasets)
-plot_rmse_results(datasets, ncols=4)  # Mostra i risultati, specificando il numero di colonne
+plot_rmse_results(datasets,metrica,thr, ncols=5)  # Mostra i risultati, specificando il numero di colonne
