@@ -19,6 +19,8 @@ def load_rmse_data(filepath, selected_datasets, dataset_name_map):
 
     df = pd.read_csv(filepath, sep=';')
 
+    print(df)
+
     # Applichiamo la mappatura dei nomi nel DataFrame
     df['dataset'] = df['dataset'].replace(dataset_name_map)
 
@@ -148,7 +150,9 @@ dataset_name_map = {
 }
 
 datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)
-print(datasets)
+print("dataset",  datasets)
+print(type(datasets))
+
 plot_rmse_results(datasets, ncols=5, output_file="rmse_results.pdf", x=13, y=6, anchor=0.98, markers=[5,10,10,8],
                   xticksize=8, yticksize=11, titlesize=10, hspaces=0.20, wspaces=0.04, legendfont=10) #FIG1
 
