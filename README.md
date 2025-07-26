@@ -6,25 +6,13 @@ This repository contains a python project that provides all the necessary tools 
 
 ## Project overview
 
-The repository is divided into two main folders (i.e. RFD-Incremental Imputation and RFD-Incremental Imputation Utils).
+The repository is divided into two main folders (i.e.,  RFD-Incremental Imputation Utils and RFD-Incremental Imputation Exe).
 
-### 1 - RFD-Incremental Imputation
-This folder contain the java executables necessary for running the experiments. This section describes the main files stored in this folder, for instructions about how to run the experiments refer to the section "How to Use". 
-
-### 1.1 - Project Files
-
-To run the experiments, the following files are required:
-- Dataset
-- Initial_tuples
-- Headers
-- Column_Types
-
-### 1.2 - Project Executables
 
 The folder contains the following Java Executables:
 
 
-### 2 - RFD-Incremental Imputation Utils
+### 1 - RFD-Incremental Imputation Utils
 
 This folder contains a python project which provides all the necessary tool to perform data preprocessing and evaluate the results of imputation. This project is divided into 3 main subfolders (i.e., Datasets, Preprocessing, Evaluation).
 
@@ -35,50 +23,25 @@ This folder is divided into 3 subfolders: ‘Original Datasets’ contains the o
 
 | Dataset Name                                               | Rows  | Columns | WindowSize (2% - 15% - 20%) | Thresholds                                                   | Source                                                                                                                  |
 |------------------------------------------------------------|-------|---------|-----------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| ActorFilms_4000   (OK-Confermato e Completato)             | 4000  | 7       | 80-600-800                  | [1, 0, 3, 2, 100, 1.5,0]                                     | https://www.kaggle.com/datasets/darinhawley/imdb-films-by-actor-for-10k-actors                                          |
-| EV_Vehicles_4000 (OK-Confermato e Completato)              | 4000  | 10      | 80-600-800                  | [2.5,2.5,1,2,2,3,3,3,20,10]                                  |                                                                                                                         |
-| NBA 3200       (OK-Confermato e Completato)                | 3200  | 12      | 64--640                     | [2,2,2,2,2,5,2,3,10,2,2,2]                                   | https://www.kaggle.com/datasets/jacobbaruch/basketball-players-stats-per-season-49-leagues                              |
-| Boeing 898 (OK-Confermato e Completato)                    | 898   | 10      | 17--170                     | [1, 3, 3, 1, 2, 1, 3, 2, 2, 2]                               | https://www.kaggle.com/datasets/nurielreuven/boeing-historical-airplane-orders-deliveries                               |
-| Boeing 898 (pronto)                                        | 898   | 10      | 17--170                     | [1, 3, 3, 1, 2, 1, 3, 2, 2, 2]                               | https://www.kaggle.com/datasets/nurielreuven/boeing-historical-airplane-orders-deliveries                               |
-| Restaurant (OK-Confermato e Completato)                    | 864   | 6       | 18--180                     | [2.0,8.5,8.5,1.0,1.0,3.5]                                    |                                                                                                                         |
+| ActorFilms_4000              | 4000  | 7       | 80-600-800                  | [1, 0, 3, 2, 100, 1.5,0]                                     | https://www.kaggle.com/datasets/darinhawley/imdb-films-by-actor-for-10k-actors                                          |
+| EV_Vehicles_4000              | 4000  | 10      | 80-600-800                  | [2.5,2.5,1,2,2,3,3,3,20,10]                                  |                                                                                                                         |
+| NBA 3200                      | 3200  | 12      | 64--640                     | [2,2,2,2,2,5,2,3,10,2,2,2]                                   | https://www.kaggle.com/datasets/jacobbaruch/basketball-players-stats-per-season-49-leagues                              |
+| Boeing 898                   | 898   | 10      | 17--170                     | [1, 3, 3, 1, 2, 1, 3, 2, 2, 2]                               | https://www.kaggle.com/datasets/nurielreuven/boeing-historical-airplane-orders-deliveries                               |
+| Boeing 898                                        | 898   | 10      | 17--170                     | [1, 3, 3, 1, 2, 1, 3, 2, 2, 2]                               | https://www.kaggle.com/datasets/nurielreuven/boeing-historical-airplane-orders-deliveries                               |
+| Restaurant                   | 864   | 6       | 18--180                     | [2.0,8.5,8.5,1.0,1.0,3.5]                                    |                                                                                                                         |
 | Restaurant MNAR (OK)                                       | 864   | 6       | 18--180                     | [2.0,8.5,8.5,1.0,1.0,3.5]                                    |                                                                                                                         |
-| Superstore (OK-Confermato e Completato)                    | 4500  | 11      | 90--900                     | [1, 0, 2, 1,1, 1, 3, 0, 3, 10]                               | https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting                                                            |
-| US_Presidents (ok - Confermato e Completato)               | 3754  | 10      | 75--750                     | [1,1,1,1,2,2,1,250,250,1]                                    | https://www.kaggle.com/datasets/tunguz/us-elections-dataset                                                             |
-| Cars (OK-Confermato e Completato)                          | 406   | 9       | 8--80                       | [5.0,4.18,0.82,16,10.0,11.3,1.37,1.84,1.0]                   |                                                                                                                         |
-| Cars MNAR (in corso)                                       | 406   | 9       | 8--80                       | [5.0,4.18,0.82,16,10.0,11.3,1.37,1.84,1.0]                   |                                                                                                                         |
-| Police   (OK-Confermato e Completato)                      | 2204  | 9       | 44--440                     | [3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]                          | https://data.world/stevenburnett/police-shootings-2015-2016                                                             |
-| Police  MNAR (pronto)                                      | 2204  | 9       | 44--440                     | [3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]                          | https://data.world/stevenburnett/police-shootings-2015-2016                                                             |
-| F1_REBUILT_5000 (Ok-Confermato e Completato)               | 5000  | 7       | 100-750-1000                | [0.5,2,0.5,0.5,0.5,0.5,0.5]                                  | https://www.kaggle.com/datasets/lakshayjain611/f1-races-results-dataset-1950-to-2024                                    |
+| Superstore                   | 4500  | 11      | 90--900                     | [1, 0, 2, 1,1, 1, 3, 0, 3, 10]                               | https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting                                                            |
+| US_Presidents               | 3754  | 10      | 75--750                     | [1,1,1,1,2,2,1,250,250,1]                                    | https://www.kaggle.com/datasets/tunguz/us-elections-dataset                                                             |
+| Cars                         | 406   | 9       | 8--80                       | [5.0,4.18,0.82,16,10.0,11.3,1.37,1.84,1.0]                   |                                                                                                                         |
+| Cars MNAR                                    | 406   | 9       | 8--80                       | [5.0,4.18,0.82,16,10.0,11.3,1.37,1.84,1.0]                   |                                                                                                                         |
+| Police                        | 2204  | 9       | 44--440                     | [3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]                          | https://data.world/stevenburnett/police-shootings-2015-2016                                                             |
+| Police  MNAR                                      | 2204  | 9       | 44--440                     | [3.5,3.5,3.5,3.5,1,3.5,3.5,3.5,3.5]                          | https://data.world/stevenburnett/police-shootings-2015-2016                                                             |
+| F1_REBUILT_5000             | 5000  | 7       | 100-750-1000                | [0.5,2,0.5,0.5,0.5,0.5,0.5]                                  | https://www.kaggle.com/datasets/lakshayjain611/f1-races-results-dataset-1950-to-2024                                    |
 | IoT_Telemetry3000 (ok - Confermato e Completato)           | 3000  | 8       | 60--600                     | [1.5,0.001,2.5,0.5,0.001,0.5,0.003,2]                        | https://www.kaggle.com/datasets/garystafford/environmental-sensor-data-132k                                             |
-| Med_Ch  (OK- Confermato e Completato)                      | 2500  | 12      | 50--500                     | [0.5,1,2,1,0.5,1,3,500,500,500,0.5,2]                        | https://www.openml.org/search?type=data&status=active&qualities.NumberOfInstances=between_1000_10000&id=42130&sort=runs |
-| Air  (OK- Confermato e completato)                         | 9000  | 13      | 180-1800                    | [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5] | https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set                                                        |
+| Med_Ch                      | 2500  | 12      | 50--500                     | [0.5,1,2,1,0.5,1,3,500,500,500,0.5,2]                        | https://www.openml.org/search?type=data&status=active&qualities.NumberOfInstances=between_1000_10000&id=42130&sort=runs |
+| Air                         | 9000  | 13      | 180-1800                    | [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5] | https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set                                                        |
 | MotoGP_REBUILT_3000   (OK- Confermato e Completato)        | 3000  | 12      | 60--600                     | [2,0,1,3,2,5,6,4,2,5,0,0]                                    | Kaggle                                                                                                                  |
 | Cats                                                       | 1071  | 10      | 21-210                      | [ 0.5,0.5,2,0,3,0.5,0,0,0,0]                                 | https://www.kaggle.com/datasets/joannanplkrk/its-raining-cats                                                           |
-| DA QUI IN POI TUTTI SCARTATI-----------------------------  | ----  | ----    | --------------------------- | ------------------------------------------------------------ |                                                                                                                         |
-| S4-ADL5 (imputa pochissimo)                                | 2400  | 15      | 48--480                     | [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]                              | Io                                                                                                                      |
-| iTunes (scartato - troppo facile)                          | 3000  | 8       | 60--600                     | [2,2,2,2,0.05,1,5,1]                                         | https://github.com/anhaidgroup/deepmatcher/blob/master/Datasets.md                                                      |
-| Bikes  (fatto - scartato)                                  | 4100  | 9       | 82--820                     | [6, 5000, 6, 6, 5, 8, 10000, 12, 6]                          | https://www.kaggle.com/datasets/ropali/used-bike-price-in-india                                                         |
-| Callout (scartato - troppo facile)                         | 6000  | 9       | 120-900-1200                | [2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5]                        |                                                                                                                         | 
-| MotoGP_REBUILT_4435  (Bene ma 50% troppo pesante)          | 4435  | 12      | 89--887                     | [2,0,1,3,2,5,6,4,2,5,0,0]                                    | Kaggle                                                                                                                  |
-| Olympics_10000 (no)                                        | 10000 | 12      | 200-1500-2000               | [3,0,5,2,8,2,1,4,1,2,2,2]                                    | Bernardo                                                                                                                | 
-| Olympics_7500  (no)                                        | 7500  | 12      | 150-1125-1500               | [3,0,5,2,8,2,1,4,1,2,2,2]                                    | Bernardo                                                                                                                |
-| Books  (promettente)                                       |       |         |                             | []                                                           | Kaggle                                                                                                                  |
-| Laptops                                                    |       |         |                             | []                                                           | Kaggle                                                                                                                  |
-| ActorFilms  (fatta versione ridotta)                       | 12000 | 7       | 240-1800-2400               | [7, 240, 5, 0, 5, 2,60, 1.5, 0]                              | https://www.kaggle.com/datasets/darinhawley/imdb-films-by-actor-for-10k-actors                                          |
-| Smartphones  (no)                                          | 823   | 10      | 16--160                     | [1, 5, 10000, 10,2, 2, 0.5, 4, 32, 3]                        | Kaggle                                                                                                                  |
-| NBA (scartato - troppo pesante)                            | 7836  | 12      | 157-1175-1567               | [2,2,2,2,2,5,2,3,10,2,2,2]                                   | https://www.kaggle.com/datasets/jacobbaruch/basketball-players-stats-per-season-49-leagues                              |
-| Chicago crimes  (Solo 2 RFD - provare con altre threshold) | 5000  | 10      | 100-750-1000                | [6,0,5,10,3,0,0,1,2,3]                                       | https://www.kaggle.com/datasets/currie32/crimes-in-chicago                                                              |
-| Weather                                                    | 2500  | 11      | 50--500                     | [2.5, 2.5, 2, 3, 1, 3, 1, 1,1.5,1,1]                         | https://www.kaggle.com/datasets/nikhil7280/weather-type-classification                                                  |
-| Boeing 1485 (scartato - troppo pesante)                    | 1485  | 10      | 29--290                     | [1, 3, 3, 1, 2, 1, 3, 2, 2, 2]                               | https://www.kaggle.com/datasets/nurielreuven/boeing-historical-airplane-orders-deliveries                               |
-| Cleveland (Non va)                                         | 297   | 14      | 6--59                       | [3,0.5,1,4,5,0.5,0.5,5,0.5,1,1,1,1.5,1]                      | Paper EDBT 2025                                                                                                         |
-| Statlog (Non va)                                           | 270   | 14      | 5--54                       | [3,0.5,1,3,3,0.5,0.5,3,0.5,0.5,1,1,1,0.5]                    | Paper EDBT 2025                                                                                                         |
-| Pollution (da provare)                                     | 1500  | 15      | 30-300                      | [1,1,2,1,0.5,0.5,1,0.5,15,2,5,1,50,2,1]                      |                                                                                                                         |
-| Student (fatto, non imputa con basso missing rate)         | 908   | 15      | 19-180                      | [2,0.5,1,1,0.5,0.5,4,0.5,0.5,0.5,0.5,0.5,1,0.5,5]            | https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance                                    |
-| Cancer   (non provato)                                     | 3500  | 11      | 70-700                      | [5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,500,1]                    | https://www.kaggle.com/datasets/zahidmughal2343/global-cancer-patients-2015-2024                                        |
-
-
--dati = più variabilità delle RFD. Per questo aumentando gli MV la differenza è più netta. Questo spiega anche perché va meglio con dataset piccoli
-In scenari reali con più variabilità (anche perché ci sono aggiornamenti e cancellazioni) la differenza è ancora più grande
 
 ### 2.2 Preprocessing
 
@@ -135,3 +98,19 @@ where 10 is the number of attributes, 80 the size of the sliding window and the 
 
 #### 3.1 Evaluate Imputation
 #### 3.2 Generate Plots
+
+
+
+### 2 - RFD-Incremental Imputation (Exe)
+This folder contain the java executables necessary for running the experiments. This section describes the main files stored in this folder, for instructions about how to run the experiments refer to the section "How to Use". 
+
+### 1.1 - Project Files
+
+To run the experiments, the following files are required:
+- Dataset
+- Initial_tuples
+- Headers
+- Column_Types
+
+### 1.2 - Project Executables
+
