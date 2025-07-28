@@ -3,14 +3,15 @@ import matplotlib.pyplot as plt
 import json
 from matplotlib.patches import Patch
 
-versione_plot = "baseline"
+versione_plot = "incremental"
 
 with open(f"./risultati_test_discovery/ris_{versione_plot}/medie_{versione_plot}.json", "r") as outfile:
     data = json.load(outfile)
 
+
 # Dataset (gruppi)
-groups = ['actor', 'boeing', 'vehicles', 'f1', 'med', 'motogp', 'nba', 'superstore', 'president', 'cars',
-          'police', 'restaurant', 'IoT_Telemetry', 'Air_9000', 'Cats_1071']
+groups = ['Cars ($ID$ $1$)','Restaurant ($ID$ $2$)','Boeing ($ID$ $3$)','Cats ($ID$ $4$)','Police ($ID$ $5$)','IoT_Telemetry ($ID$ $6$)','Actors ($ID$ $7$)',
+          'Medical Charges ($ID$ $8$)','F1 ($ID$ $9$)','MotoGP ($ID$ $10$)','US Presidents ($ID$ $11$)','NBA ($ID$ $12$)','EV Vehicles ($ID$ $13$)','Superstore ($ID$ $14$)','Air Quality ($ID$ $15$)']
 
 # Percentuali (asse y)
 missing_values_rates = [str(r) for r in [1, 2, 3, 4, 5, 10, 20, 30, 40, 50] if str(r) in data]
@@ -68,16 +69,16 @@ for idx, (ax, group) in enumerate(zip(axes, groups)):
     ax.set_yticks(y_indices)
     # Mostra le etichette solo nella prima colonna (idx % 5 == 0)
     if idx % 5 == 0:
-        ax.set_yticklabels([f'{r}%' for r in missing_values_rates], fontsize=8)
+        ax.set_yticklabels([f'{r}%' for r in missing_values_rates], fontsize=12)
     else:
         ax.set_yticklabels([])
 
     ax.invert_yaxis()  # Scala Y: 1% in alto, 50% in basso
     ax.set_xlim(0, 100)
     ax.set_xticks(np.arange(0, 101, 20))
-    ax.set_title(group, fontsize=9)
+    ax.set_title(group, fontsize=12)
     ax.grid(True, which='both', axis='x', linestyle='--', linewidth=0.5, zorder=0)
-    ax.tick_params(axis='x', labelsize=7)
+    ax.tick_params(axis='x', labelsize=12)
 
 # Legenda globale
 legend_elements = [
@@ -88,7 +89,7 @@ legend_elements = [
     Patch(facecolor='#ffd3b3', edgecolor='black', label="New RFDs")
 ]
 
-fig.legend(handles=legend_elements, loc='upper center',bbox_to_anchor=(0.5, 1.03), fontsize=8, ncol=5,shadow=True)
+fig.legend(handles=legend_elements, loc='upper center',bbox_to_anchor=(0.5, 1.05), fontsize=12, ncol=5,shadow=True)
 
-#plt.savefig(f'./results_discovery_per_dataset_{versione_plot}_sfumato.pdf', bbox_inches='tight')
+#plt.savefig(f'./results_discovery_per_dataset_{versione_plot}_sfumato_ordinato.pdf', bbox_inches='tight')
 plt.show()

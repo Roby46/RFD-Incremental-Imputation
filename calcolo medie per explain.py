@@ -259,20 +259,20 @@ def barplot_missing_rate(dizionario_perc):
     values = list(dizionario_perc.values())
 
     # Plot
-    plt.figure(figsize=(8, 5))
-    bars = plt.bar([f"{k}%" for k in labels], values, color='lightgreen', edgecolor='green',zorder=2)
-
-    # Aggiungi valori sopra le barre
-    for bar in bars:
-        height = bar.get_height()
-        plt.text(bar.get_x() + bar.get_width() / 2, height + 1, f"{height:.1f}", ha='center', va='bottom', fontsize=9)
+    plt.figure(figsize=(7, 2.2))
+    bars = plt.bar([f"{k}%" for k in labels], values, color='#94E668', edgecolor='black', zorder=2)
 
     # Stile asse y
-    plt.ylim(0, 100)
-    #plt.ylabel("Media (%)", fontsize=12)
-    #plt.xlabel("Percentuale di Missing", fontsize=12)
-    #plt.title("Media per Percentuale di Missing", fontsize=14)
-    plt.grid(axis='y', linestyle='--', linewidth=0.5,zorder=1)
+    plt.ylim(0, 80)
+    plt.ylabel("Not Found Reduction (%)", fontsize=9.5)
+    plt.xlabel("Missing Rate", fontsize=9.5)
+
+    # Griglia principale
+    plt.grid(axis='y', which='major', linestyle='--', linewidth=0.5, zorder=1)
+
+    # Griglia secondaria (subgrid)
+    plt.minorticks_on()
+    plt.grid(axis='y', which='minor', linestyle=':', linewidth=0.4, zorder=1)
 
     plt.tight_layout()
     plt.savefig(f'./notfound_reduction.pdf', bbox_inches='tight')
