@@ -354,7 +354,7 @@ def checkResults(version, approach, MV,xml_file):
 
 
 #approaches=["BaselineD","Derand"]
-approaches=["BaselineD"]
+approaches=["Derand"]
 versions=[1]
 MVs = [90,180,269,359,449]
 

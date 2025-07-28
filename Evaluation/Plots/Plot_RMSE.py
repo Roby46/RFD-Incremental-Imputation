@@ -105,7 +105,7 @@ def plot_rmse_results(datasets, ncols=2, output_file="output.pdf", x=15, y=7, an
         plt.Line2D([0], [0], color='#ff0000', linestyle='-', label='Pipeline', marker="x", markersize=10),
         plt.Line2D([0], [0], color='#FFA600', linestyle='-', label='PipelineNoRev', marker="o"),
         plt.Line2D([0], [0], color='#61a44f', linestyle='dashdot', label='Hybrid', marker="2", markersize=10),
-        plt.Line2D([0], [0], color='#00748f', linestyle='-', label='Baseline20', marker="2", markersize=12)
+        plt.Line2D([0], [0], color='#00748f', linestyle='-', label='Baseline', marker="2", markersize=12)
     ]
 
     fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, anchor), shadow=True, fontsize=legendfont)
@@ -153,8 +153,8 @@ datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)
 print("dataset",  datasets)
 print(type(datasets))
 
-plot_rmse_results(datasets, ncols=5, output_file="rmse_results.pdf", x=13, y=6, anchor=0.98, markers=[5,10,10,8],
-                  xticksize=8, yticksize=11, titlesize=10, hspaces=0.20, wspaces=0.04, legendfont=10) #FIG1
+plot_rmse_results(datasets, ncols=5, output_file="rmse_results.pdf", x=13, y=5, anchor=1, markers=[5,10,10,8],
+                  xticksize=8, yticksize=11, titlesize=10, hspaces=0.27, wspaces=0.04, legendfont=10) #FIG1
 
 
 

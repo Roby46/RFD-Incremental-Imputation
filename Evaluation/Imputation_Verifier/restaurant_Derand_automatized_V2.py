@@ -353,10 +353,10 @@ def checkResults(version, approach, MV,xml_file):
     write_unique_row_to_csv(all_results_path, row_data)
 
 
+#approaches=["Derand", "BaselineD"]
 approaches=["Derand"]
-#approaches=["BaselineD"]
 versions=[1]
-MVs = [52,104,156,207.259]
+MVs = [52,104,156,207,259]
 
 
 for version in versions:

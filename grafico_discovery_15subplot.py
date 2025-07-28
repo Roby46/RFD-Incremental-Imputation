@@ -91,4 +91,4 @@ legend_elements = [
 fig.legend(handles=legend_elements, loc='upper center',bbox_to_anchor=(0.5, 1.03), fontsize=8, ncol=5,shadow=True)
 
 #plt.savefig(f'./results_discovery_per_dataset_{versione_plot}_sfumato.pdf', bbox_inches='tight')
-#plt.show()
+plt.show()
