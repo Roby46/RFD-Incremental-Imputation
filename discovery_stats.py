@@ -260,7 +260,7 @@ def barplot_missing_rate(dizionario_perc):
 
     # Plot
     plt.figure(figsize=(7, 2.2))
-    bars = plt.bar([f"{k}%" for k in labels], values, color='#94E668', edgecolor='black', zorder=2)
+    bars = plt.bar([f"{k}%" for k in labels], values, color='#5ea4ae', edgecolor='black', zorder=2)
 
     # Stile asse y
     plt.ylim(0, 80)

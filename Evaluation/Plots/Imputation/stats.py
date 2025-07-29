@@ -52,12 +52,12 @@ def analizza_risultati(file_input, selected_datasets):
     print(guadagni_missing_rate)
 
     # Salvataggio dei risultati per i plot
-    dataset_rmse.to_csv('output/dataset_rmse.csv')
-    global_rmse.to_csv('output/global_rmse.csv')
-    rate_rmse.to_csv('output/rate_rmse.csv')
-    guadagni_dataset.to_csv('output/guadagni_dataset.csv')
-    guadagni_globali.to_csv('output/guadagni_globali.csv')
-    guadagni_missing_rate.to_csv('output/guadagni_missing_rate.csv')
+    dataset_rmse.to_csv('dataset_rmse.csv')
+    global_rmse.to_csv('global_rmse.csv')
+    rate_rmse.to_csv('rate_rmse.csv')
+    guadagni_dataset.to_csv('guadagni_dataset.csv')
+    guadagni_globali.to_csv('guadagni_globali.csv')
+    guadagni_missing_rate.to_csv('guadagni_missing_rate.csv')
 
 
 

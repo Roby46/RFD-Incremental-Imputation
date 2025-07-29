@@ -114,7 +114,7 @@ def plot_rmse_results(datasets, ncols=2, output_file="output.pdf", x=15, y=7, an
     plt.show()
 
 
-filepath = '../ALL_Results_v3.csv'
+filepath = 'ALL_Results_v3.csv'
 
 selected_datasets = ['cars', 'restaurant', 'Boeing_898', 'Cats_1071', 'police', 'IoT_Telemetry3000', 'actorfilms_4000', "Med_Ch_2500",  "F1_REBUILT_5000", "MotoGP_REBUILT_3000", 'US_Presidents_3754', 'NBA_3200', 'EV_Vehicles_4000', "superstore_4500","Air_9000"] #FIG1
 #selected_datasets = ['cars_FD', 'restaurant_FD', 'Boeing_898_FD', 'police_FD']

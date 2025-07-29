@@ -18,7 +18,7 @@ missing_values_rates = [str(r) for r in [1, 2, 3, 4, 5, 10, 20, 30, 40, 50] if s
 
 # Colori
 labels_segmenti = ["RFDs Found", "Specialization", "Generalizations", "RFDs not found"]
-colors = ['#003049', '#2c5980', '#6c88a6', '#acc2d9']
+colors = [  '#018490','#5ea4ae', '#97c5cc','#cde7eb']
 
 # Layout subplot
 fig, axes = plt.subplots(3, 5, figsize=(18, 10), constrained_layout=True)
@@ -60,7 +60,7 @@ for idx, (ax, group) in enumerate(zip(axes, groups)):
     ax.barh(y_indices + bar_width1 / 2,
             values2,
             height=bar_width2,
-            color='#ffd3b3',
+            color='#f4a67e',
             edgecolor='black',
             label='New RFDs' if idx == 0 else "",
             zorder=2)
@@ -82,14 +82,15 @@ for idx, (ax, group) in enumerate(zip(axes, groups)):
 
 # Legenda globale
 legend_elements = [
-    Patch(facecolor='#003049', edgecolor='black', label="RFDs Found"),
-    Patch(facecolor='#2c5980', edgecolor='black', label="Specialization"),
-    Patch(facecolor='#6c88a6', edgecolor='black', label="Generalizations"),
-    Patch(facecolor='#acc2d9', edgecolor='black', label="RFDs not found"),
-    Patch(facecolor='#ffd3b3', edgecolor='black', label="New RFDs")
+    Patch(facecolor='#018490', edgecolor='black', label="RFDs Found"),
+    Patch(facecolor='#5ea4ae', edgecolor='black', label="Specialization"),
+    Patch(facecolor='#97c5cc', edgecolor='black', label="Generalizations"),
+    Patch(facecolor='#cde7eb', edgecolor='black', label="RFDs not found"),
+    Patch(facecolor='#f4a67e', edgecolor='black', label="New RFDs")
 ]
 
 fig.legend(handles=legend_elements, loc='upper center',bbox_to_anchor=(0.5, 1.05), fontsize=12, ncol=5,shadow=True)
 
-#plt.savefig(f'./results_discovery_per_dataset_{versione_plot}_sfumato_ordinato.pdf', bbox_inches='tight')
+plt.savefig(f'./discovery_results_{versione_plot}.pdf', bbox_inches='tight')
+
 plt.show()

@@ -118,10 +118,9 @@ def plot_rmse_results(datasets, ncols=2, output_file="output.pdf", x=15, y=7, an
 
 
 
-filepath = '../ALL_Results_Derand.csv'
+filepath = 'ALL_Results_Derand.csv'
 
-selected_datasets = ['cars', 'restaurant', 'Boeing_898'] #FIG1
-#selected_datasets = ['cars_FD', 'restaurant_FD', 'Boeing_898_FD', 'police_FD']
+selected_datasets = ['cars', 'restaurant', 'Boeing_898']
 
 dataset_name_map = {
     'cars': 'Cars ($ID$ $1$)',

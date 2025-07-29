@@ -75,7 +75,7 @@ def barplot_guadagni_composito(dataset_csv, mr_csv, dataset_labels):
     label_map = {
         'Pipeline_noRev': 'PipelineNoRev',
         'Hybrid': 'Hybrid',
-        'Baseline20': 'Baseline'  # 👈 Etichetta modificata
+        'Baseline20': 'Baseline'  #
     }
 
     handles = [
@@ -94,7 +94,7 @@ def barplot_guadagni_composito(dataset_csv, mr_csv, dataset_labels):
     )
 
     plt.tight_layout(rect=[0, 0, 1, 0.97])
-    plt.savefig("../output/guadagni_barplot_composito.pdf", bbox_inches='tight')
+    plt.savefig("guadagni_barplot_composito.pdf", bbox_inches='tight')
     plt.show()
 
 # === Dataset usati ===
@@ -105,7 +105,7 @@ selected_datasets = ['cars', 'restaurant', 'Boeing_898', 'Cats_1071', 'police',
 
 # === Esegui ===
 barplot_guadagni_composito(
-    '../output/guadagni_dataset.csv',
-    '../output/guadagni_missing_rate.csv',
+    'guadagni_dataset.csv',
+    'guadagni_missing_rate.csv',
     selected_datasets
 )
