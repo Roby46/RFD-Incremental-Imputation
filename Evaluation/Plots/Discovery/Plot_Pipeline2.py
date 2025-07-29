@@ -38,9 +38,9 @@ def plot_rmse_results(datasets,metrica,thr,ncols=2):
     nrows = (num_datasets + ncols - 1) // ncols  # Formula per arrotondare verso l'alto
 
     #fig, axs = plt.subplots(nrows, ncols, figsize=(13, 6), sharey=True, sharex=True)
-    fig, axs = plt.subplots(nrows, ncols, figsize=(13,6), sharey=True, sharex=True)
+    fig, axs = plt.subplots(nrows, ncols, figsize=(13,5), sharey=True, sharex=True)
     # Modifica degli spazi orizzontali e verticali
-    fig.subplots_adjust(hspace=0.20, wspace=0.04)  # Riduci hspace e wspace
+    fig.subplots_adjust(hspace=0.25, wspace=0.04)  # Riduci hspace e wspace
 
     # Appiattire gli assi se nrows > 1
     axs = axs.flatten() if nrows > 1 else axs
@@ -83,7 +83,7 @@ def plot_rmse_results(datasets,metrica,thr,ncols=2):
         plt.Line2D([0], [0], color='#00748f', linestyle='-', label='Baseline', marker="x", markersize=12)
     ]
 
-    fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 0.98), shadow=True,fontsize=10)
+    fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 1.0), shadow=True,fontsize=10)
 
     plt.savefig(f"{metrica}_results_{thr}.pdf", bbox_inches='tight')
     plt.show()
@@ -91,7 +91,7 @@ def plot_rmse_results(datasets,metrica,thr,ncols=2):
 metrica = "metric1"
 thr = "0.25"
 # Esempio di utilizzo
-filepath = f'../ALL_Results_{metrica}_{thr}.csv'  # Modifica con il percorso del tuo CSV
+filepath = f'ALL_Results_{metrica}_{thr}.csv'  # Modifica con il percorso del tuo CSV
 selected_datasets = ['cars', 'restaurant', 'Boeing_898', 'Cats_1071', 'police', 'IoT_Telemetry3000', 'actorfilms_4000', "Med_Ch_2500",  "F1_REBUILT_5000", "MotoGP_REBUILT_3000", 'US_Presidents_3754', 'NBA_3200', 'EV_Vehicles_4000', "superstore_4500","Air_9000"]
 
 

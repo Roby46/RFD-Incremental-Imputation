@@ -37,7 +37,7 @@ def plot_rmse_results(datasets,metrica,tipologia,ncols=2):
     nrows = (num_datasets + ncols - 1) // ncols  # Formula per arrotondare verso l'alto
 
     #fig, axs = plt.subplots(nrows, ncols, figsize=(13, 6), sharey=True, sharex=True)
-    fig, axs = plt.subplots(nrows, ncols, figsize=(7, 1.4), sharey=True, sharex=True)
+    fig, axs = plt.subplots(nrows, ncols, figsize=(7, 1.2), sharey=True, sharex=True)
     # Modifica degli spazi orizzontali e verticali
     fig.subplots_adjust(hspace=0.20, wspace=0.04)  # Riduci hspace e wspace
 
@@ -82,7 +82,7 @@ def plot_rmse_results(datasets,metrica,tipologia,ncols=2):
         plt.Line2D([0], [0], color='#00748f', linestyle='-', label='Baseline', marker="x", markersize=9)
     ]
 
-    fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 1.23), shadow=True, fontsize=7)
+    fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 1.27), shadow=True, fontsize=7)
 
     plt.savefig(f"{metrica}_results_{tipologia}_{thr}.pdf", bbox_inches='tight')
     plt.show()
@@ -95,9 +95,9 @@ def plot_rmse_results_mnar(datasets,metrica,tipologia,ncols=2):
     nrows = (num_datasets + ncols - 1) // ncols  # Formula per arrotondare verso l'alto
 
     #fig, axs = plt.subplots(nrows, ncols, figsize=(13, 6), sharey=True, sharex=True)
-    fig, axs = plt.subplots(nrows, ncols, figsize=(7, 3), sharey=True, sharex=True)
+    fig, axs = plt.subplots(nrows, ncols, figsize=(7, 2.5), sharey=True, sharex=True)
     # Modifica degli spazi orizzontali e verticali
-    fig.subplots_adjust(hspace=0.25, wspace=0.04)  # Riduci hspace e wspace
+    fig.subplots_adjust(hspace=0.35, wspace=0.04)  # Riduci hspace e wspace
 
     # Appiattire gli assi se nrows > 1
     axs = axs.flatten() if nrows > 1 else axs
@@ -140,7 +140,7 @@ def plot_rmse_results_mnar(datasets,metrica,tipologia,ncols=2):
         plt.Line2D([0], [0], color='#00748f', linestyle='-', label='Baseline', marker="x", markersize=9)
     ]
 
-    fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 1.06), shadow=True, fontsize=7)
+    fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 1.08), shadow=True, fontsize=7)
 
     plt.savefig(f"{metrica}_results_{tipologia}_{thr}.pdf", bbox_inches='tight')
     plt.show()
@@ -148,10 +148,10 @@ def plot_rmse_results_mnar(datasets,metrica,tipologia,ncols=2):
 # Esempio di utilizzo
 metrica = "metric1"
 thr = "0.25"
-tipologia = "fd"
-filepath = f'../All_Results_{metrica}_{tipologia}_{thr}.csv'  # Modifica con il percorso del tuo CSV
-#selected_datasets = ["cars_MNAR","cars_MBUV","restaurant_MNAR","restaurant_MBUV","Boeing_898_MNAR","Boeing_898_MBUV","police_MNAR","police_MBUV"]
-selected_datasets = ["cars_FD","restaurant_FD","Boeing_898_FD","police_FD"]
+tipologia = "mnar_mbuv"
+filepath = f'All_Results_{metrica}_{tipologia}_{thr}.csv'  # Modifica con il percorso del tuo CSV
+selected_datasets = ["cars_MNAR","cars_MBUV","restaurant_MNAR","restaurant_MBUV","Boeing_898_MNAR","Boeing_898_MBUV","police_MNAR","police_MBUV"]
+#selected_datasets = ["cars_FD","restaurant_FD","Boeing_898_FD","police_FD"]
 
 
 dataset_name_map = {
@@ -187,4 +187,5 @@ dataset_name_map = {
 
 datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map,metrica)  # Carica i dati RMSE
 print(datasets)
-plot_rmse_results(datasets,metrica,tipologia,ncols=4)  # Mostra i risultati, specificando il numero di colonne
+#plot_rmse_results(datasets,metrica,tipologia,ncols=4)  # Mostra i risultati, specificando il numero di colonne
+plot_rmse_results_mnar(datasets,metrica,tipologia,ncols=4)

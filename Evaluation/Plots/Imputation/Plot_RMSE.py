@@ -160,11 +160,11 @@ plot_rmse_results(datasets, ncols=5, output_file="rmse_results.pdf", x=13, y=5, 
 
 selected_datasets = ['cars_MNAR', 'cars_MBUV', 'restaurant_MNAR', 'restaurant_MBUV', 'Boeing_898_MNAR', 'Boeing_898_MBUV', 'police_MNAR', 'police_MBUV']
 datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)
-plot_rmse_results(datasets, ncols=4, output_file="rmse_mnar_mbuv.pdf", x=7,y=3, anchor=1.06,  markers=[2.5,5,5,4],
-                  xticksize=6, yticksize=8, titlesize=7, hspaces=0.25, wspaces=0.04, legendfont=7) #FIG2
+plot_rmse_results(datasets, ncols=4, output_file="rmse_mnar_mbuv.pdf", x=7,y=2.5, anchor=1.08,  markers=[2.5,5,5,4],
+                  xticksize=6, yticksize=8, titlesize=7, hspaces=0.35, wspaces=0.04, legendfont=7) #FIG2
 
 
 selected_datasets = ['cars_FD', 'restaurant_FD', 'Boeing_898_FD', 'police_FD']
 datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)
-plot_rmse_results(datasets, ncols=4, output_file="rmse_fd.pdf", x=7,y=1.4, anchor=1.21,  markers=[2.5,5,5,4],
+plot_rmse_results(datasets, ncols=4, output_file="rmse_fd.pdf", x=7,y=1.2, anchor=1.27,  markers=[2.5,5,5,4],
                   xticksize=6, yticksize=8, titlesize=7, hspaces=0.20, wspaces=0.04, legendfont=7) #FIG3
