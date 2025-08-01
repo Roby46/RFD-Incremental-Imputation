@@ -52,29 +52,35 @@ def load_rmse_data(filepath, selected_datasets, dataset_name_map):
     return datasets
 
 
-def plot_rmse_results(datasets, ncols=2, output_file="output.pdf", x=15, y=7, anchor=1.0,
-                      markers=[5,10,10,8], xticksize=8, yticksize=11, titlesize=10,
-                      hspaces=0.20, wspaces=0.04, legendfont=10,
-                      custom_yranges=None):
+def plot_rmse_results(datasets, ncols=2, output_file="output.pdf", x=15, y=7, anchor=1.0,  markers=[5,10,10,8], xticksize=8, yticksize=11, titlesize=10 , hspaces=0.20, wspaces=0.04, legendfont=10):
     num_datasets = len(datasets)
-    r1 = np.arange(5)
+    r1 = np.arange(10)
 
-    nrows = (num_datasets + ncols - 1) // ncols
+    # Calcolo righe necessarie
+    nrows = (num_datasets + ncols - 1) // ncols  # Formula per arrotondare verso l'alto
 
-    fig, axs = plt.subplots(nrows, ncols, figsize=(x, y), sharex=True)  # <-- sharey rimosso
-    fig.subplots_adjust(hspace=hspaces, wspace=wspaces)
-    axs = np.atleast_1d(axs).flatten()
+    fig, axs = plt.subplots(nrows, ncols, figsize=(x, y), sharey=True, sharex=True) #FIG 1
+
+    # Modifica degli spazi orizzontali e verticali
+    fig.subplots_adjust(hspace=hspaces, wspace=wspaces)  # Riduci hspace e wspace
+
+    # Appiattimento gli assi se nrows > 1
+    axs = axs.flatten() if nrows > 1 else axs
 
     for i, (dataset_name, results) in enumerate(datasets.items()):
         for algorithm, rmse_means in results.items():
             print(algorithm, rmse_means)
-            if 'Derand' in algorithm:
+            if 'Pipeline_noRev' in algorithm:
                 axs[i].plot(r1, rmse_means, marker="o", markersize=markers[0], color="#FFA600", zorder=2, label='PipelineNoRev')
-            elif 'BaselineD' in algorithm:
+            elif 'Baseline20' in algorithm:
                 axs[i].plot(r1, rmse_means, marker="2", markersize=markers[1], color="#00748f", zorder=2, label='Baseline20')
+            elif 'Hybrid' in algorithm:
+                axs[i].plot(r1, rmse_means, marker="2", markersize=markers[2], color="#61a44f", zorder=3, linestyle='dashdot', label='Hybrid')
+            elif 'Pipeline' in algorithm:  # Altri algoritmi, se ce ne sono
+                axs[i].plot(r1, rmse_means, marker="x", markersize=markers[3], color="#ff0000", zorder=3, label='Pipeline')
 
         axs[i].set_xticks(r1)
-        axs[i].set_xticklabels(["1", "2", "3", "4", "5"])
+        axs[i].set_xticklabels(["1", "2", "3", "4", "5", "10", "20", "30", "40", "50"])
         axs[i].set_title(f'{dataset_name}', fontsize=titlesize)
         axs[i].tick_params(axis='x', which='major', labelsize=xticksize)
         axs[i].tick_params(axis='y', which='major', labelsize=yticksize)
@@ -82,45 +88,28 @@ def plot_rmse_results(datasets, ncols=2, output_file="output.pdf", x=15, y=7, an
         axs[i].grid(which='major', linestyle='-', linewidth='0.5', color='gray', alpha=0.52)
         axs[i].grid(which='minor', linewidth='0.5', linestyle='dotted', color='gray', alpha=0.4)
         axs[i].xaxis.set_minor_locator(MultipleLocator(1))
-        axs[i].yaxis.set_minor_locator(MultipleLocator(0.01))
+        axs[i].yaxis.set_minor_locator(MultipleLocator(0.05))
+        axs[i].set_yticks([0, 0.2, 0.4, 0.6, 0.8, 1])
 
-        # 🔽 Formatter per massimo due decimali sull'asse y
-        from matplotlib.ticker import FuncFormatter
-        formatter = FuncFormatter(lambda y, _: f'{y:.2f}')
-        axs[i].yaxis.set_major_formatter(formatter)
-
-        # Custom y-range se fornito
-        if custom_yranges and dataset_name in custom_yranges:
-            axs[i].set_ylim(custom_yranges[dataset_name])
-        else:
-            axs[i].set_ylim(0, 1)  # Default se non specificato
-
-        # RMSE solo per il primo plot di ogni riga
         if i % ncols == 0:
             axs[i].set_ylabel('RMSE', rotation='vertical')
 
         if i >= (nrows - 1) * ncols:
-            axs[i].set_xlabel('Missing Rate')
+            axs[i].set_xlabel('Missing Rate (%)')
 
-    # Grafici vuoti
+    # Gestione grafici vuoti se non ci sono abbastanza dataset
     for j in range(i + 1, nrows * ncols):
-        axs[j].axis('off')
+        axs[j].axis('off')  # Nascondere gli assi vuoti
 
-    handles = [
-        plt.Line2D([0], [0], color='#FFA600', linestyle='-', label='PipelineNoRev', marker="o",  markersize=5),
-        plt.Line2D([0], [0], color='#00748f', linestyle='-', label='Baseline', marker="2", markersize=12)
-    ]
-
-    fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, anchor), shadow=True, fontsize=legendfont)
 
     plt.savefig(output_file, bbox_inches='tight')
     plt.show()
 
 
+filepath = 'ALL_Results_v3.csv'
 
-filepath = 'ALL_Results_Derand.csv'
-
-selected_datasets = ['cars', 'restaurant', 'Boeing_898']
+selected_datasets = ['cars', 'restaurant', 'Boeing_898', 'Cats_1071', 'police', 'IoT_Telemetry3000', 'actorfilms_4000', "Med_Ch_2500",  "F1_REBUILT_5000", "MotoGP_REBUILT_3000", 'US_Presidents_3754', 'NBA_3200', 'EV_Vehicles_4000', "superstore_4500","Air_9000"] #FIG1
+#selected_datasets = ['cars_FD', 'restaurant_FD', 'Boeing_898_FD', 'police_FD']
 
 dataset_name_map = {
     'cars': 'Cars ($ID$ $1$)',
@@ -156,13 +145,18 @@ datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)
 print("dataset",  datasets)
 print(type(datasets))
 
-custom_yranges = {
-    'Cars ($ID$ $1$)': (0.1, 0.22),
-    'Restaurant ($ID$ $2$)': (0.65, 0.75),
-    'Boeing ($ID$ $3$)' : (0.45, 0.55)
-}
-
-plot_rmse_results(datasets, ncols=3, output_file="rmse_results_Derand.pdf", x=7,y=1.0, anchor=1.36,  markers=[2.5,5,5,4],
-                  xticksize=8, yticksize=9, titlesize=9, hspaces=0.20, wspaces=0.3, legendfont=7, custom_yranges=custom_yranges)
+plot_rmse_results(datasets, ncols=3, output_file="rmse_results.pdf", x=7, y=9, anchor=1, markers=[5,10,10,8],
+                  xticksize=8, yticksize=11, titlesize=10, hspaces=0.27, wspaces=0.04, legendfont=10) #FIG1
 
 
+
+selected_datasets = ['cars_MNAR', 'cars_MBUV', 'restaurant_MNAR', 'restaurant_MBUV', 'Boeing_898_MNAR', 'Boeing_898_MBUV', 'police_MNAR', 'police_MBUV']
+datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)
+plot_rmse_results(datasets, ncols=4, output_file="rmse_mnar_mbuv.pdf", x=7,y=2.5, anchor=1.08,  markers=[2.5,5,5,4],
+                  xticksize=6, yticksize=8, titlesize=7, hspaces=0.35, wspaces=0.04, legendfont=7) #FIG2
+
+
+selected_datasets = ['cars_FD', 'restaurant_FD', 'Boeing_898_FD', 'police_FD']
+datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map)
+plot_rmse_results(datasets, ncols=4, output_file="rmse_fd.pdf", x=7,y=1.2, anchor=1.27,  markers=[2.5,5,5,4],
+                  xticksize=6, yticksize=8, titlesize=7, hspaces=0.20, wspaces=0.04, legendfont=7) #FIG3

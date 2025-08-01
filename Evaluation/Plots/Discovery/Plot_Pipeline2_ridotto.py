@@ -71,7 +71,7 @@ def plot_rmse_results(datasets,metrica,tipologia,ncols=2):
 
         # Imposta l'etichetta "Missing Rate" solo per l'ultima riga
         if i >= (nrows - 1) * ncols:
-            axs[i].set_xlabel('Missing Rate')
+            axs[i].set_xlabel('Missing Rate (%)')
 
     # Gestire grafici vuoti se non ci sono abbastanza dataset
     for j in range(i + 1, nrows * ncols):
@@ -82,7 +82,7 @@ def plot_rmse_results(datasets,metrica,tipologia,ncols=2):
         plt.Line2D([0], [0], color='#00748f', linestyle='-', label='Baseline', marker="x", markersize=9)
     ]
 
-    fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 1.27), shadow=True, fontsize=7)
+    #fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 1.27), shadow=True, fontsize=7)
 
     plt.savefig(f"{metrica}_results_{tipologia}_{thr}.pdf", bbox_inches='tight')
     plt.show()
@@ -113,7 +113,7 @@ def plot_rmse_results_mnar(datasets,metrica,tipologia,ncols=2):
 
         axs[i].set_xticks(r1)
         axs[i].set_xticklabels(["1", "2", "3", "4", "5", "10", "20", "30", "40", "50"])
-        axs[i].set_title(f'{dataset_name}', fontsize=10)
+        axs[i].set_title(f'{dataset_name}', fontsize=9)
         axs[i].tick_params(axis='x', which='major', labelsize=6)
         axs[i].tick_params(axis='y', which='major', labelsize=8)
         axs[i].minorticks_on()
@@ -129,7 +129,7 @@ def plot_rmse_results_mnar(datasets,metrica,tipologia,ncols=2):
 
         # Imposta l'etichetta "Missing Rate" solo per l'ultima riga
         if i >= (nrows - 1) * ncols:
-            axs[i].set_xlabel('Missing Rate')
+            axs[i].set_xlabel('Missing Rate (%)')
 
     # Gestire grafici vuoti se non ci sono abbastanza dataset
     for j in range(i + 1, nrows * ncols):
@@ -140,7 +140,7 @@ def plot_rmse_results_mnar(datasets,metrica,tipologia,ncols=2):
         plt.Line2D([0], [0], color='#00748f', linestyle='-', label='Baseline', marker="x", markersize=9)
     ]
 
-    fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 1.08), shadow=True, fontsize=7)
+    #fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 1.08), shadow=True, fontsize=7)
 
     plt.savefig(f"{metrica}_results_{tipologia}_{thr}.pdf", bbox_inches='tight')
     plt.show()

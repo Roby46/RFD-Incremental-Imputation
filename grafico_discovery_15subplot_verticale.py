@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import json
 from matplotlib.patches import Patch
 
-versione_plot = "incremental"
+versione_plot = "baseline"
 
 with open(f"./risultati_test_discovery/ris_{versione_plot}/medie_{versione_plot}.json", "r") as outfile:
     data = json.load(outfile)
@@ -22,7 +22,7 @@ labels_segmenti = ["RFDs Found", "Specialization", "Generalizations", "RFDs not 
 colors = ["#566285", "#47BBFF", "#9BDAFF", "#E6EFF4"]
 # Layout subplot
 #fig, axes = plt.subplots(3, 5, figsize=(18, 9), constrained_layout=True, sharex=True)
-fig, axes = plt.subplots(3, 5, figsize=(18, 9), constrained_layout=True, sharex=True)
+fig, axes = plt.subplots(5, 3, figsize=(8, 11), constrained_layout=True, sharex=True)
 axes = axes.flatten()
 
 # Dimensioni barre
@@ -54,6 +54,7 @@ for idx, (ax, group) in enumerate(zip(axes, groups)):
                 left=left,
                 color=colors[i],
                 edgecolor='black',
+                linewidth = 0.5,
                 label=labels_segmenti[i] if idx == 0 else "",
                 zorder=2)
 
@@ -64,13 +65,14 @@ for idx, (ax, group) in enumerate(zip(axes, groups)):
             #color='#f4a67e',
             color = '#f4a67e',
             edgecolor='black',
+            linewidth=0.5,
             label='New RFDs' if idx == 0 else "",
             zorder=2)
 
     # Asse Y (percentuali)
     ax.set_yticks(y_indices)
     # Mostra le etichette solo nella prima colonna (idx % 5 == 0)
-    if idx % 5 == 0:
+    if idx % 3 == 0:
         ax.set_yticklabels([f'{r}' for r in missing_values_rates], fontsize=12)
     else:
         ax.set_yticklabels([])
@@ -95,9 +97,9 @@ legend_elements = [
 fig.text(0.5, -0.02, 'Percentage of RFDs (%)', ha='center', fontsize=14)
 
 # Etichetta asse Y comune (verticale, al centro sinistra)
-fig.text(-0.01, 0.5, 'Missing Rate (%)', va='center', rotation='vertical', fontsize=14)
+fig.text(-0.03, 0.5, 'Missing Rate (%)', va='center', rotation='vertical', fontsize=14)
 
-fig.legend(handles=legend_elements, loc='upper center',bbox_to_anchor=(0.5, 1.05), fontsize=12, ncol=5,shadow=True)
+#fig.legend(handles=legend_elements, loc='upper center',bbox_to_anchor=(0.5, 1.05), fontsize=12, ncol=3,shadow=True)
 
 plt.savefig(f'./discovery_results_{versione_plot}.pdf', bbox_inches='tight')
 #plt.savefig(f'ALT2.pdf', bbox_inches='tight')

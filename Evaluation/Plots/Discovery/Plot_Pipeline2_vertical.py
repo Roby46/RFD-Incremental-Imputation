@@ -38,7 +38,7 @@ def plot_rmse_results(datasets,metrica,thr,ncols=2):
     nrows = (num_datasets + ncols - 1) // ncols  # Formula per arrotondare verso l'alto
 
     #fig, axs = plt.subplots(nrows, ncols, figsize=(13, 6), sharey=True, sharex=True)
-    fig, axs = plt.subplots(nrows, ncols, figsize=(13,5), sharey=True, sharex=True)
+    fig, axs = plt.subplots(nrows, ncols, figsize=(7,8), sharey=True, sharex=True)
     # Modifica degli spazi orizzontali e verticali
     fig.subplots_adjust(hspace=0.25, wspace=0.04)  # Riduci hspace e wspace
 
@@ -72,7 +72,7 @@ def plot_rmse_results(datasets,metrica,thr,ncols=2):
 
         # Imposta l'etichetta "Missing Rate" solo per l'ultima riga
         if i >= (nrows - 1) * ncols:
-            axs[i].set_xlabel('Missing Rate',fontsize=12)
+            axs[i].set_xlabel('Missing Rate (%)',fontsize=12)
 
     # Gestire grafici vuoti se non ci sono abbastanza dataset
     for j in range(i + 1, nrows * ncols):
@@ -82,8 +82,6 @@ def plot_rmse_results(datasets,metrica,thr,ncols=2):
         plt.Line2D([0], [0], color='#ff0000', linestyle='-', label='Discovery Pipeline', marker="o", markersize=7),
         plt.Line2D([0], [0], color='#00748f', linestyle='-', label='Baseline', marker="x", markersize=12)
     ]
-
-    fig.legend(handles=handles, loc='upper center', ncol=4, bbox_to_anchor=(0.5, 1.0), shadow=True,fontsize=10)
 
     plt.savefig(f"{metrica}_results_{thr}.pdf", bbox_inches='tight')
     plt.show()
@@ -128,4 +126,4 @@ dataset_name_map = {
 
 datasets = load_rmse_data(filepath, selected_datasets, dataset_name_map,metrica)  # Carica i dati RMSE
 print(datasets)
-plot_rmse_results(datasets,metrica,thr, ncols=5)  # Mostra i risultati, specificando il numero di colonne
+plot_rmse_results(datasets,metrica,thr, ncols=3)  # Mostra i risultati, specificando il numero di colonne

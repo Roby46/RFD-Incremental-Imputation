@@ -95,7 +95,7 @@ def plot_rmse_results(datasets, ncols=2, output_file="output.pdf", x=15, y=7, an
             axs[i].set_ylabel('RMSE', rotation='vertical')
 
         if i >= (nrows - 1) * ncols:
-            axs[i].set_xlabel('Missing Rate')
+            axs[i].set_xlabel('Missing Rate (%)')
 
     # Gestione grafici vuoti se non ci sono abbastanza dataset
     for j in range(i + 1, nrows * ncols):
